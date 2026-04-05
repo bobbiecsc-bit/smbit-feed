@@ -1,0 +1,34 @@
+name: Scrape SMB IT Feed
+
+on:
+  schedule:
+    # Every 12 hours — SMB IT news moves slower
+    - cron: '0 6,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit updated feed files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive.json feed.json feed-2.json feed-3.json feed-4.json feed-5.json
+          git diff --staged --quiet || git commit -m "chore: update smbit feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
