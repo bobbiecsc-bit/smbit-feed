@@ -1,0 +1,63 @@
+{
+  "updated": "2026-04-06T05:25:05.373221+00:00",
+  "page": 1,
+  "total_pages": 1,
+  "total_articles": 6,
+  "page_size": 50,
+  "articles": [
+    {
+      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
+      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
+      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
+      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-04T19:49:00+00:00"
+    },
+    {
+      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
+      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
+      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
+      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-04-02T14:36:51+00:00"
+    },
+    {
+      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
+      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
+      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-03-12T21:18:55+00:00"
+    },
+    {
+      "id": "b23c9d102b4b775d0165580774270be257172f5feba51c11daa320ae86316218",
+      "title": "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
+      "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-03-09T16:15:35+00:00"
+    },
+    {
+      "id": "6e76d5f134c3155192ec3a906acde7a7f0a6e617f265856aac167e8e7c55dd1b",
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "category": "infrastructure",
+      "date": "2026-02-26T15:45:18+00:00"
+    },
+    {
+      "id": "cd8203d5460433e165e85f209dbda60cddec0fe529449526df6135ae1e989e45",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "summary": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-02-16T23:12:37+00:00"
+    }
+  ]
+}
