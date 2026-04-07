@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-07T07:45:06.946609+00:00",
-  "total": 8,
+  "updated": "2026-04-07T19:17:18.297355+00:00",
+  "total": 10,
   "articles": [
+    {
+      "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
+      "title": "What does a “right-size” incident response plan look like?",
+      "url": "https://smartermsp.com/what-does-a-right-size-incident-response-plan-look-like/",
+      "summary": "Often, when a cyber incident occurs, the response is ad hoc—a reactive, seat‑of‑the‑pants scramble. After all, every incident is different, so how can you plan for what you don’t know? But just as every building fire is different, there are [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-04-07T18:57:56+00:00"
+    },
+    {
+      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
+      "title": "I tested the AirPods Max 2, Sony XM6, and Bose Ultra 2: Why Bose is my top pick",
+      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+      "summary": "I've worn the latest over-ear headphones from Apple, Sony, and Bose in real-world settings. Here's how they compare.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-07T13:02:00+00:00"
+    },
     {
       "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
       "title": "Weaver acquires SaaS provider",
