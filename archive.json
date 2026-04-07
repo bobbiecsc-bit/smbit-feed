@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-06T19:13:10.074365+00:00",
-  "total": 7,
+  "updated": "2026-04-07T07:45:06.946609+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
+      "title": "Weaver acquires SaaS provider",
+      "url": "https://www.accountingtoday.com/news/weaver-acquires-mass-ingenuity",
+      "summary": "The Top 50 Firm acquired Mass Ingenuity, a Portland, Oregon-based software-as-a-service company, effective April 1.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-04-06T21:11:48+00:00"
+    },
     {
       "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
       "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
