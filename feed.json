@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-07T19:17:18.297355+00:00",
+  "updated": "2026-04-08T07:48:32.555844+00:00",
   "page": 1,
   "total_pages": 1,
-  "total_articles": 10,
+  "total_articles": 11,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
+      "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
+      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+      "summary": "Between the Apple AirPods Max 2, Bose QuietComfort Ultra 2, and Sony WH-1000XM6, here's how they compare after real-world testing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-08T02:00:57+00:00"
+    },
+    {
+      "id": "a322ecfd7c1050ec61f3c6cc217be3fd74275854756f09e1ab485466ac2eeadb",
+      "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",
+      "url": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+      "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-07T20:07:20+00:00"
+    },
     {
       "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
       "title": "What does a “right-size” incident response plan look like?",
@@ -13,15 +31,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-04-07T18:57:56+00:00"
-    },
-    {
-      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
-      "title": "I tested the AirPods Max 2, Sony XM6, and Bose Ultra 2: Why Bose is my top pick",
-      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
-      "summary": "I've worn the latest over-ear headphones from Apple, Sony, and Bose in real-world settings. Here's how they compare.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-04-07T13:02:00+00:00"
     },
     {
       "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
