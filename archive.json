@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-08T07:48:32.555844+00:00",
-  "total": 11,
+  "updated": "2026-04-08T19:36:59.606519+00:00",
+  "total": 13,
   "articles": [
+    {
+      "id": "d7a8736e77808b8a4b99ba41e8421e2627c293e923e8fc9c3884e62a881054cb",
+      "title": "Digits announces outcome-based pricing",
+      "url": "https://www.accountingtoday.com/news/digits-announces-outcome-based-pricing",
+      "summary": "Digits announced that accounting firms will only pay for clients where the Digits platform has successfully automated 95% or more of transactions with zero human touch; if not, it's free for that client.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-04-08T14:52:51+00:00"
+    },
+    {
+      "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
+      "title": "Russian hacking group targets home and small office routers to spy on users",
+      "url": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
+      "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
+      "source": "Malwarebytes Labs",
+      "category": "infrastructure",
+      "date": "2026-04-08T13:31:25+00:00"
+    },
     {
       "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
       "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
