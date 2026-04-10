@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-10T07:54:01.908970+00:00",
-  "total": 14,
+  "updated": "2026-04-10T19:06:43.329080+00:00",
+  "total": 15,
   "articles": [
+    {
+      "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
+      "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
+      "url": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
+      "summary": "Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-10T11:00:38+00:00"
+    },
     {
       "id": "8788549827dd1212a90c01c55f00f779f3d4b491c69a5d3dcde250d5f69da18c",
       "title": "The best business VoIP services in 2026: Expert tested and reviewed",
