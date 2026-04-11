@@ -125,11 +125,9 @@ NEWS_SOURCES = {
 # CATEGORY KEYWORDS
 # ============================================================================
 # Articles are assigned the FIRST category whose keywords match.
-# Order here is the priority order — product_review must come first so that
-# review/roundup articles don't fall into infrastructure or continuity.
+# Order here is the priority order.
 
 CATEGORY_PRIORITY = [
-    'product_review',   # highest priority — catch reviews before topic categories
     'continuity',
     'policy',
     'finance',
@@ -138,44 +136,20 @@ CATEGORY_PRIORITY = [
 ]
 
 CATEGORY_KEYWORDS = {
-    'product_review': [
-        # Title patterns that signal a review or roundup rather than a guide/news piece
-        ' review:', 'review —', '- review', 'hands-on', 'hands on review',
-        'best business', 'best smb', 'best small business', 'best for business',
-        'we tested', 'i tested', 'i tried', 'we tried',
-        'expert tested', 'expert reviewed', 'editors tested',
-        'vs.', ' vs ', 'compared', 'comparison',
-        'buyer's guide', 'buyers guide', 'buying guide',
-        'roundup', 'round-up', 'top picks', 'top 5', 'top 10',
-        'ahead of the pack', 'ahead of the rest',
-        'star rating', 'rating out of', '/5 stars', '/10 stars',
-        # Consumer electronics that don't belong in a business IT feed
-        'airpods', 'headphones', 'earbuds', 'earphones', 'headset review',
-        'cleaning kit', 'cleaning tool', 'sparkling clean',
-        'smartwatch', 'wearable', 'fitness tracker',
-        'gaming headset', 'gaming mouse', 'gaming keyboard',
-        'smartphone review', 'tablet review', 'laptop review',
-    ],
     'infrastructure': [
-        # Kept specific — removed bare 'VoIP' and 'wi-fi' to avoid catching reviews
-        'VoIP for business', 'VoIP phone system', 'business VoIP',
-        'VoIP deployment', 'VoIP setup', 'hosted PBX',
-        'office wi-fi', 'wi-fi 7', 'wi-fi deployment', 'wireless deployment',
-        'access point deployment', 'mesh network office',
-        'small business NAS', 'NAS drive', 'network attached storage',
-        'UPS backup power', 'uninterruptible power supply',
-        'LAN setup', 'local area network', 'structured cabling',
-        'point of sale', 'POS hardware', 'POS system',
-        'server rack', 'patch panel', 'network switch',
-        'office router setup', 'on-premise', 'on-prem',
-        'hardware refresh', 'printer server',
+        'wi-fi', 'wifi', 'wi-fi 7', 'small business NAS', 'NAS drive',
+        'VoIP', 'UPS backup', 'uninterruptible power', 'LAN setup',
+        'local area network', 'point of sale', 'POS hardware', 'server rack',
+        'patch panel', 'structured cabling', 'network switch', 'wireless access point',
+        'office router', 'on-premise', 'on-prem', 'hardware refresh',
+        'printer server', 'VoIP phone system',
     ],
     'cloud_saas': [
         'Microsoft 365', 'M365', 'Google Workspace', 'G Suite',
         'SaaS', 'cloud migration', 'AWS for small business', 'Azure SMB',
         'Slack', 'Microsoft Teams', 'cloud cost', 'SaaS sprawl',
         'software as a service', 'cloud subscription', 'identity management',
-        'SSO', 'single sign-on', 'OneDrive', 'SharePoint',
+        'SSO', 'single sign-on', 'cloud storage', 'OneDrive', 'SharePoint',
         'Dropbox business', 'cloud backup', 'QuickBooks Online',
     ],
     'finance': [
@@ -186,17 +160,12 @@ CATEGORY_KEYWORDS = {
         'cost optimization', 'IT audit', 'technology spend',
     ],
     'continuity': [
-        # Tightened — removed bare 'offsite storage', 'backup strategy', 'data recovery'
-        # which were too generic and catching unrelated AWS/storage articles
-        'business continuity', 'disaster recovery', 'DR plan', 'DR testing',
-        'business continuity plan', 'BCP', 'continuity planning',
-        '3-2-1 backup', 'offsite backup', 'air-gapped backup',
-        'recovery time objective', 'RTO', 'RPO',
-        'ransomware recovery', 'ransomware restore',
-        'failover', 'failover testing', 'failback',
-        'business interruption', 'incident response plan',
-        'backup and recovery', 'backup testing', 'restore testing', 'restore test',
-        'disaster recovery plan', 'crisis management plan',
+        'business continuity', 'disaster recovery', 'DR plan',
+        '3-2-1 backup', 'offsite backup', 'offsite storage',
+        'recovery time objective', 'RTO', 'RPO', 'data recovery',
+        'backup strategy', 'ransomware recovery', 'failover',
+        'business interruption', 'emergency IT', 'incident response plan',
+        'backup testing', 'restore test',
     ],
     'policy': [
         'BYOD', 'bring your own device', 'acceptable use policy',
