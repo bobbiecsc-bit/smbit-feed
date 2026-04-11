@@ -1,0 +1,144 @@
+{
+  "updated": "2026-04-11T07:12:38.675326+00:00",
+  "page": 1,
+  "total_pages": 1,
+  "total_articles": 15,
+  "page_size": 50,
+  "articles": [
+    {
+      "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
+      "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
+      "url": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
+      "summary": "Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-10T11:00:38+00:00"
+    },
+    {
+      "id": "8788549827dd1212a90c01c55f00f779f3d4b491c69a5d3dcde250d5f69da18c",
+      "title": "The best business VoIP services in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-business-voip-providers/",
+      "summary": "Navigate the VoIP landscape with ease and retire your old lines with our guide on the best VoIP providers of 2026.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-09T10:01:23+00:00"
+    },
+    {
+      "id": "d7a8736e77808b8a4b99ba41e8421e2627c293e923e8fc9c3884e62a881054cb",
+      "title": "Digits announces outcome-based pricing",
+      "url": "https://www.accountingtoday.com/news/digits-announces-outcome-based-pricing",
+      "summary": "Digits announced that accountants will only pay for clients if the Digits platform successfully automates 95% or more of transactions with zero human touch.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-04-08T14:52:51+00:00"
+    },
+    {
+      "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
+      "title": "Russian hacking group targets home and small office routers to spy on users",
+      "url": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
+      "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
+      "source": "Malwarebytes Labs",
+      "category": "infrastructure",
+      "date": "2026-04-08T13:31:25+00:00"
+    },
+    {
+      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
+      "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
+      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+      "summary": "Between the Apple AirPods Max 2, Bose QuietComfort Ultra 2, and Sony WH-1000XM6, here's how they compare after real-world testing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-08T02:00:57+00:00"
+    },
+    {
+      "id": "a322ecfd7c1050ec61f3c6cc217be3fd74275854756f09e1ab485466ac2eeadb",
+      "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",
+      "url": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+      "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-07T20:07:20+00:00"
+    },
+    {
+      "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
+      "title": "What does a “right-size” incident response plan look like?",
+      "url": "https://smartermsp.com/what-does-a-right-size-incident-response-plan-look-like/",
+      "summary": "Often, when a cyber incident occurs, the response is ad hoc—a reactive, seat‑of‑the‑pants scramble. After all, every incident is different, so how can you plan for what you don’t know? But just as every building fire is different, there are [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-04-07T18:57:56+00:00"
+    },
+    {
+      "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
+      "title": "Weaver acquires SaaS provider",
+      "url": "https://www.accountingtoday.com/news/weaver-acquires-mass-ingenuity",
+      "summary": "The Top 50 Firm acquired Mass Ingenuity, a Portland, Oregon-based software-as-a-service company, effective April 1.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-04-06T21:11:48+00:00"
+    },
+    {
+      "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
+      "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
+      "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
+      "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-06T16:44:16+00:00"
+    },
+    {
+      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
+      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
+      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
+      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-04T19:49:00+00:00"
+    },
+    {
+      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
+      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
+      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
+      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-04-02T14:36:51+00:00"
+    },
+    {
+      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
+      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
+      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-03-12T21:18:55+00:00"
+    },
+    {
+      "id": "b23c9d102b4b775d0165580774270be257172f5feba51c11daa320ae86316218",
+      "title": "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
+      "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-03-09T16:15:35+00:00"
+    },
+    {
+      "id": "6e76d5f134c3155192ec3a906acde7a7f0a6e617f265856aac167e8e7c55dd1b",
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "category": "infrastructure",
+      "date": "2026-02-26T15:45:18+00:00"
+    },
+    {
+      "id": "cd8203d5460433e165e85f209dbda60cddec0fe529449526df6135ae1e989e45",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "summary": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-02-16T23:12:37+00:00"
+    }
+  ]
+}
