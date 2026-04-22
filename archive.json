@@ -1,7 +1,124 @@
 {
-  "updated": "2026-04-11T07:12:38.675326+00:00",
-  "total": 15,
+  "updated": "2026-04-22T08:01:59.246970+00:00",
+  "total": 34,
   "articles": [
+    {
+      "id": "d484f25d7da40ef5b68c35428d5a98add44e117743e2b8f7dec950333debd65a",
+      "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
+      "url": "https://www.zdnet.com/article/lg-g6-vs-lg-g5/",
+      "summary": "Between the latest LG G6 OLED and last year's G5, here are the key differences to consider before you upgrade.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T02:00:47+00:00"
+    },
+    {
+      "id": "06aa4321e4a9a5e38b34cee22e3e95ad142ddc48fbdd88d86f8b4948be84c078",
+      "title": "I compared Thread, Zigbee, and Matter - here's the best smart home setup for you",
+      "url": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
+      "summary": "All three are related to smart home connectivity, and it's important that you understand their differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T18:53:00+00:00"
+    },
+    {
+      "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
+      "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
+      "url": "https://www.zdnet.com/article/motorola-moto-g-deal/",
+      "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T17:29:25+00:00"
+    },
+    {
+      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
+      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
+      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T16:22:42+00:00"
+    },
+    {
+      "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
+      "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
+      "url": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+      "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T13:30:00+00:00"
+    },
+    {
+      "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
+      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
+      "url": "https://thenewstack.io/open-vsx-managed-registry/",
+      "summary": "Platform engineering&#160;requires something of a leap of faith. Developers need to &#8220;believe&#8221; that foundation-level tools,&#160;libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft&#8217;s VS Code Marketpla",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-04-21T11:00:00+00:00"
+    },
+    {
+      "id": "3e782d7bc5b684c3aa14486fe9870f80f39e65f3b7a82e3b4ced0057976800e6",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-20T15:53:21+00:00"
+    },
+    {
+      "id": "38903ba9a49ab63c5e18e6f6a798e95b70ee483b62618e1d60b0ad1d4b41695c",
+      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
+      "url": "https://thenewstack.io/claude-opus-47-launch/",
+      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-16T17:56:33+00:00"
+    },
+    {
+      "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
+      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
+      "summary": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing an",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-04-16T14:49:33+00:00"
+    },
+    {
+      "id": "2cac1348ac74be2b81fe3da7129c3de921947d2b69ae7d88763e7cfbaff7faff",
+      "title": "A fake Slack download is giving attackers a hidden desktop on your machine",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine",
+      "summary": "This trojanized Slack installer looks normal, but quietly gives attackers an invisible desktop to access your accounts and data. We take a deep dive into the attack.",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-04-16T09:26:45+00:00"
+    },
+    {
+      "id": "1525188312d41bbf9cf8eadc293cf8b7eba1ccc3872ae81de38909f471d8abca",
+      "title": "A year in, Google wants its Axion processors to feel like a scheduling decision",
+      "url": "https://thenewstack.io/google-axion-kubernetes-arm/",
+      "summary": "At KubeCon Europe in Amsterdam, The New Stack sat down with Jago Macleod and Abdel Sghiouar from Google Cloud to The post A year in, Google wants its Axion processors to feel like a scheduling decision appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-15T22:41:08+00:00"
+    },
+    {
+      "id": "b7aaa397c7cfb53822565db32e7e85a99d4cc657f68a6f649823a6e2a169f12c",
+      "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/",
+      "summary": "In my last Week in Review post, I mentioned how much time I’ve been spending on AI-Driven Development Lifecycle (AI-DLC) workshops with customers this year. A common theme in those sessions is the need for better cost visibility. Teams are moving fast with AI, but as they go from experimenting to fu",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-13T16:16:20+00:00"
+    },
+    {
+      "id": "7fe1b09c9d5548db6eac569a414ca16432eb02fef0a2ded0ae4afbf560472388",
+      "title": "The biggest issues facing accounting firms",
+      "url": "https://www.accountingtoday.com/list/13-issues-worrying-accounting-firm-leaders",
+      "summary": "Leaders from the Top 100 Firm name the top challenges to the profession — from private equity and tech, to staffing and change management.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-12T00:03:34+00:00"
+    },
     {
       "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
       "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
@@ -75,6 +192,15 @@
       "date": "2026-04-06T21:11:48+00:00"
     },
     {
+      "id": "16fc935264a6d7cbaa0902070bbe270721209b0e109d28a2eab38439384a37ba",
+      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
+      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-06T16:51:00+00:00"
+    },
+    {
       "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
       "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
       "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
@@ -102,6 +228,33 @@
       "date": "2026-04-02T14:36:51+00:00"
     },
     {
+      "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
+      "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/",
+      "summary": "Last week, what excited me most was the launch of the 2026 AWS AI &amp; ML Scholars program by Swami Sivasubramanian, VP of AWS Agentic AI, to provide free AI education to up to 100,000 learners worldwide. The program has two phases: a Challenge phase where you’ll learn foundational generative AI sk",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-30T16:11:28+00:00"
+    },
+    {
+      "id": "41e1c891d109efcd7d448b29bc20ce5d727c41685677552e7c59288c6c62d838",
+      "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/",
+      "summary": "Hello! I’m Daniel Abib, and this is my first AWS Weekly Roundup. I’m a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in solution architecture, software development, and cloud architecture, I help Startups &amp; Enterpr",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-23T16:40:41+00:00"
+    },
+    {
+      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
+      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
+      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-16T16:02:17+00:00"
+    },
+    {
       "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
       "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
       "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
@@ -116,7 +269,7 @@
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
       "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
       "source": "AWS News Blog",
-      "category": "finance",
+      "category": "product_review",
       "date": "2026-03-09T16:15:35+00:00"
     },
     {
@@ -136,6 +289,24 @@
       "source": "AWS News Blog",
       "category": "cloud_saas",
       "date": "2026-02-16T23:12:37+00:00"
+    },
+    {
+      "id": "222805e5a6917e0efb3589fd15c23bc0684698e77ddf1af4d6e02a55d2a18542",
+      "title": "5 Top Benefits of Virtualization",
+      "url": "https://www.serverwatch.com/virtualization/virtualization-benefits/",
+      "summary": "Virtualization is a powerful technology that can help businesses reduce costs, increase efficiency, and improve security. Here are the top 5 benefits. The post 5 Top Benefits of Virtualization appeared first on ServerWatch.",
+      "source": "ServerWatch",
+      "category": "product_review",
+      "date": "2023-12-01T17:34:43+00:00"
+    },
+    {
+      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
+      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
+      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
+      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
+      "source": "ServerWatch",
+      "category": "product_review",
+      "date": "2023-11-14T21:31:21+00:00"
     }
   ]
 }
