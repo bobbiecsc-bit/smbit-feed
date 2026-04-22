@@ -145,7 +145,7 @@ CATEGORY_KEYWORDS = {
         'we tested', 'i tested', 'i tried', 'we tried',
         'expert tested', 'expert reviewed', 'editors tested',
         'vs.', ' vs ', 'compared', 'comparison',
-        'buyer'''s guide', 'buyers guide', 'buying guide',
+        'buyer''s guide', 'buyers guide', 'buying guide',
         'roundup', 'round-up', 'top picks', 'top 5', 'top 10',
         'ahead of the pack', 'ahead of the rest',
         'star rating', 'rating out of', '/5 stars', '/10 stars',
