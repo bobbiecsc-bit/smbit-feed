@@ -1,0 +1,27 @@
+{
+  "updated": "2026-04-23T19:25:18.546145+00:00",
+  "page": 2,
+  "total_pages": 2,
+  "total_articles": 52,
+  "page_size": 50,
+  "articles": [
+    {
+      "id": "222805e5a6917e0efb3589fd15c23bc0684698e77ddf1af4d6e02a55d2a18542",
+      "title": "5 Top Benefits of Virtualization",
+      "url": "https://www.serverwatch.com/virtualization/virtualization-benefits/",
+      "summary": "Virtualization is a powerful technology that can help businesses reduce costs, increase efficiency, and improve security. Here are the top 5 benefits. The post 5 Top Benefits of Virtualization appeared first on ServerWatch.",
+      "source": "ServerWatch",
+      "category": "product_review",
+      "date": "2023-12-01T17:34:43+00:00"
+    },
+    {
+      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
+      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
+      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
+      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
+      "source": "ServerWatch",
+      "category": "product_review",
+      "date": "2023-11-14T21:31:21+00:00"
+    }
+  ]
+}

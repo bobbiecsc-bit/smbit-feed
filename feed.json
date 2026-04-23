@@ -1,10 +1,91 @@
 {
-  "updated": "2026-04-23T08:07:09.771509+00:00",
+  "updated": "2026-04-23T19:25:18.546145+00:00",
   "page": 1,
-  "total_pages": 1,
-  "total_articles": 43,
+  "total_pages": 2,
+  "total_articles": 52,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
+      "title": "Top 5 opportunities for firms",
+      "url": "https://www.accountingtoday.com/list/top-5-opportunities-for-accounting-firms",
+      "summary": "The rapidly changing profession leaves firms with a host of challenges — and opportunities.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-23T18:10:48+00:00"
+    },
+    {
+      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
+      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
+      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
+      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T18:00:00+00:00"
+    },
+    {
+      "id": "2a684e5a5fd8adb7e72f29b4ffe6aa530f1fa7e4aac9b115446599819efb6b98",
+      "title": "The best SEO reporting software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
+      "summary": "Looking for better ways to track and present your SEO performance? We've tested the best SEO reporting software, including Semrush, Ahrefs, and SE Ranking.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T15:00:04+00:00"
+    },
+    {
+      "id": "864ac5cdb81df93c6c06628d430fc98c599956a50327c8c97de5e14af57413fc",
+      "title": "Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/",
+      "summary": "Sony may be at the top of its game, but how well do the XM6 stack up against its more premium competitors? It comes down to how you use them.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T14:58:18+00:00"
+    },
+    {
+      "id": "d5261299bd51d073b666f4fccbff7b692566f7ff0b567506271c8e396387f3b4",
+      "title": "I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance",
+      "url": "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/",
+      "summary": "If you have a Bluetooth-supported TV or streaming stick, you can connect any wireless headphones to watch content without distracting others.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T14:02:29+00:00"
+    },
+    {
+      "id": "b40037cc7d6c0dd19ffb6f362c2c1e3b1734bf475ceb57c10fdf8d67a4f80ad1",
+      "title": "Sonos Era 300 vs. Denon Home 400: Why I'm pulling the plug on the more popular speaker",
+      "url": "https://www.zdnet.com/article/sonos-era-300-vs-denon-home-400/",
+      "summary": "Is the Denon Home 400 worth the extra cash? I tested it beside my Sonos Era 300, and here's my verdict.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T11:01:29+00:00"
+    },
+    {
+      "id": "1a3d8f10e096f2a5da1c7732714553215af137df5f34ccf009f001a6bee7ee73",
+      "title": "The best Amazon Fire TV Stick VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vpn-for-firestick/",
+      "summary": "These tried-and-tested VPNs will work with your Amazon Fire TV Stick, giving you more privacy and freedom when streaming.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T10:45:33+00:00"
+    },
+    {
+      "id": "2b6d59dae85e6e0b9bb00024dd994051aedc0e333d6ab55d85169105a32ce07a",
+      "title": "The best smart TV VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smart-tv-vpns/",
+      "summary": "Keep your browsing and streaming activities hidden from ISPs and expand your content libraries with a solid, secure, and fast VPN that works well with smart TVs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T10:00:49+00:00"
+    },
+    {
+      "id": "027f1409784c34531fa2b7bc8463b695f2266ef4a5d82edb9cad19a593ecdc96",
+      "title": "The best free VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-free-vpn/",
+      "summary": "If you're on the hunt for a free VPN to use at home and when you travel, we have you covered. These are our top picks for free VPN services today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T09:00:50+00:00"
+    },
     {
       "id": "62cf8271bf4743b4f0de607205c16380c563802e830cc3d11ccf51188f59de39",
       "title": "Bose QuietComfort Ultra 2 vs. Samsung Galaxy Buds 4 Pro: I tried both, and this pair wins",
@@ -373,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "cloud_saas",
       "date": "2026-02-16T23:12:37+00:00"
-    },
-    {
-      "id": "222805e5a6917e0efb3589fd15c23bc0684698e77ddf1af4d6e02a55d2a18542",
-      "title": "5 Top Benefits of Virtualization",
-      "url": "https://www.serverwatch.com/virtualization/virtualization-benefits/",
-      "summary": "Virtualization is a powerful technology that can help businesses reduce costs, increase efficiency, and improve security. Here are the top 5 benefits. The post 5 Top Benefits of Virtualization appeared first on ServerWatch.",
-      "source": "ServerWatch",
-      "category": "product_review",
-      "date": "2023-12-01T17:34:43+00:00"
-    },
-    {
-      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
-      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
-      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
-      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
-      "source": "ServerWatch",
-      "category": "product_review",
-      "date": "2023-11-14T21:31:21+00:00"
     }
   ]
 }
