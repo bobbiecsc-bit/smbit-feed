@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22T19:25:16.847409+00:00",
-  "total": 41,
+  "updated": "2026-04-23T08:07:09.771509+00:00",
+  "total": 43,
   "articles": [
+    {
+      "id": "62cf8271bf4743b4f0de607205c16380c563802e830cc3d11ccf51188f59de39",
+      "title": "Bose QuietComfort Ultra 2 vs. Samsung Galaxy Buds 4 Pro: I tried both, and this pair wins",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
+      "summary": "The latest Samsung earbuds compete squarely with the flagship Bose QuietComfort Ultra Earbuds 2. But are they better?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T01:30:42+00:00"
+    },
+    {
+      "id": "1d062d436e0a583c94214730b7f07e67b97aec68a432ebaa96cec8fb8f7304cd",
+      "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
+      "url": "https://www.zdnet.com/article/bloom-card-review/",
+      "summary": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T19:38:00+00:00"
+    },
     {
       "id": "be8b53e063611d71dc26f3d523e97684d193b3d33b64ec07cf272ba7614986c9",
       "title": "The best earbuds of 2026: Expert tested and reviewed",
