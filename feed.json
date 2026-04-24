@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-24T08:16:54.615708+00:00",
+  "updated": "2026-04-24T19:06:08.371869+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 54,
+  "total_articles": 57,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
+      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T13:19:02+00:00"
+    },
+    {
+      "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
+      "title": "The best inventory management software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-inventory-management-software/",
+      "summary": "Need better stock visibility and smoother fulfillment? Here are the best inventory management software options we've tested including Odoo, Square, and Katana.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T10:00:55+00:00"
+    },
+    {
+      "id": "d8999e32ee8d78c147a653dcad822632373010bb008b2ea990dbce8b6a5a6b77",
+      "title": "The best website builder for SEO in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-website-builder-for-seo/",
+      "summary": "Looking for a website builder that helps you rank? Discover the best SEO-focused website builders including Wix, Webflow, and Shopify.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T09:00:39+00:00"
+    },
     {
       "id": "240449ae02513b856abecac5d6b6c7fa028d7159e8d8fbaebb71ddda1227f636",
       "title": "I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked",
@@ -427,33 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-03-23T16:40:41+00:00"
-    },
-    {
-      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
-      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
-      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-16T16:02:17+00:00"
-    },
-    {
-      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
-      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
-      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-03-12T21:18:55+00:00"
-    },
-    {
-      "id": "b23c9d102b4b775d0165580774270be257172f5feba51c11daa320ae86316218",
-      "title": "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
-      "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-09T16:15:35+00:00"
     }
   ]
 }

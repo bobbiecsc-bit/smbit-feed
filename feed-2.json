@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-24T08:16:54.615708+00:00",
+  "updated": "2026-04-24T19:06:08.371869+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 54,
+  "total_articles": 57,
   "page_size": 50,
   "articles": [
+    {
+      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
+      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
+      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-16T16:02:17+00:00"
+    },
+    {
+      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
+      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
+      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-03-12T21:18:55+00:00"
+    },
+    {
+      "id": "b23c9d102b4b775d0165580774270be257172f5feba51c11daa320ae86316218",
+      "title": "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
+      "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-09T16:15:35+00:00"
+    },
     {
       "id": "6e76d5f134c3155192ec3a906acde7a7f0a6e617f265856aac167e8e7c55dd1b",
       "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",

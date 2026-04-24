@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-24T08:16:54.615708+00:00",
-  "total": 54,
+  "updated": "2026-04-24T19:06:08.371869+00:00",
+  "total": 57,
   "articles": [
+    {
+      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
+      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T13:19:02+00:00"
+    },
+    {
+      "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
+      "title": "The best inventory management software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-inventory-management-software/",
+      "summary": "Need better stock visibility and smoother fulfillment? Here are the best inventory management software options we've tested including Odoo, Square, and Katana.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T10:00:55+00:00"
+    },
+    {
+      "id": "d8999e32ee8d78c147a653dcad822632373010bb008b2ea990dbce8b6a5a6b77",
+      "title": "The best website builder for SEO in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-website-builder-for-seo/",
+      "summary": "Looking for a website builder that helps you rank? Discover the best SEO-focused website builders including Wix, Webflow, and Shopify.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T09:00:39+00:00"
+    },
     {
       "id": "240449ae02513b856abecac5d6b6c7fa028d7159e8d8fbaebb71ddda1227f636",
       "title": "I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked",
