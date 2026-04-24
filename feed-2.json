@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-23T19:25:18.546145+00:00",
+  "updated": "2026-04-24T08:16:54.615708+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 52,
+  "total_articles": 54,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6e76d5f134c3155192ec3a906acde7a7f0a6e617f265856aac167e8e7c55dd1b",
+      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "source": "Ars Technica",
+      "category": "infrastructure",
+      "date": "2026-02-26T15:45:18+00:00"
+    },
+    {
+      "id": "cd8203d5460433e165e85f209dbda60cddec0fe529449526df6135ae1e989e45",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "summary": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-02-16T23:12:37+00:00"
+    },
     {
       "id": "222805e5a6917e0efb3589fd15c23bc0684698e77ddf1af4d6e02a55d2a18542",
       "title": "5 Top Benefits of Virtualization",

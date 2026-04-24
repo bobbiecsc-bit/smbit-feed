@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23T19:25:18.546145+00:00",
-  "total": 52,
+  "updated": "2026-04-24T08:16:54.615708+00:00",
+  "total": 54,
   "articles": [
+    {
+      "id": "240449ae02513b856abecac5d6b6c7fa028d7159e8d8fbaebb71ddda1227f636",
+      "title": "I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked",
+      "url": "https://www.zdnet.com/article/winhance-free-optimize-customize-windows/",
+      "summary": "The free Winhance utility boasts that it can optimize and customize Windows the way you prefer.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T02:00:43+00:00"
+    },
+    {
+      "id": "d5261299bd51d073b666f4fccbff7b692566f7ff0b567506271c8e396387f3b4",
+      "title": "I finally tried pairing headphones to my TV streaming stick, and I'm not going back",
+      "url": "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/",
+      "summary": "Your housemates will thank you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T01:00:39+00:00"
+    },
+    {
+      "id": "890b320df320b75c0f123fd41af957fe081318ada335ad5df97e53651a0c5839",
+      "title": "DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint",
+      "url": "https://www.zdnet.com/article/delete-me-review/",
+      "summary": "Tools like DeleteMe help remove your personal info online. Here's what they get right - and wrong.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T23:00:45+00:00"
+    },
     {
       "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
       "title": "Top 5 opportunities for firms",
@@ -37,15 +64,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T14:58:18+00:00"
-    },
-    {
-      "id": "d5261299bd51d073b666f4fccbff7b692566f7ff0b567506271c8e396387f3b4",
-      "title": "I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance",
-      "url": "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/",
-      "summary": "If you have a Bluetooth-supported TV or streaming stick, you can connect any wireless headphones to watch content without distracting others.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T14:02:29+00:00"
     },
     {
       "id": "b40037cc7d6c0dd19ffb6f362c2c1e3b1734bf475ceb57c10fdf8d67a4f80ad1",
