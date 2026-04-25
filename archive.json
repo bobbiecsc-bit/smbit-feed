@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-25T07:41:30.414041+00:00",
-  "total": 57,
+  "updated": "2026-04-25T19:05:56.009015+00:00",
+  "total": 58,
   "articles": [
+    {
+      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
+      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
+      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
+      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-25T10:00:00+00:00"
+    },
     {
       "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
       "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",

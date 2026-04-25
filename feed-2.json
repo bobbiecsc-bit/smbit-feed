@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-25T07:41:30.414041+00:00",
+  "updated": "2026-04-25T19:05:56.009015+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 57,
+  "total_articles": 58,
   "page_size": 50,
   "articles": [
+    {
+      "id": "41e1c891d109efcd7d448b29bc20ce5d727c41685677552e7c59288c6c62d838",
+      "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/",
+      "summary": "Hello! I’m Daniel Abib, and this is my first AWS Weekly Roundup. I’m a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in solution architecture, software development, and cloud architecture, I help Startups &amp; Enterpr",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-23T16:40:41+00:00"
+    },
     {
       "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
       "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
