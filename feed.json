@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-26T07:49:59.917253+00:00",
+  "updated": "2026-04-26T19:07:43.789574+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 59,
+  "total_articles": 61,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
+      "title": "The one Slack message that proved our elite engineering team was flying blind",
+      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
+      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-26T15:00:00+00:00"
+    },
+    {
+      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
+      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
+      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-26T13:00:38+00:00"
+    },
     {
       "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
       "title": "I've tested Sony headphones for years, and these tweaks get me the best audio - always",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "infrastructure",
       "date": "2026-04-06T16:44:16+00:00"
-    },
-    {
-      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
-      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
-      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
-      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-04T19:49:00+00:00"
-    },
-    {
-      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
-      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
-      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
-      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "policy",
-      "date": "2026-04-02T14:36:51+00:00"
     }
   ]
 }

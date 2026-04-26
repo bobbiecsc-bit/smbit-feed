@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-26T07:49:59.917253+00:00",
+  "updated": "2026-04-26T19:07:43.789574+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 59,
+  "total_articles": 61,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
+      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
+      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
+      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-04T19:49:00+00:00"
+    },
+    {
+      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
+      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
+      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
+      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-04-02T14:36:51+00:00"
+    },
     {
       "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
       "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",

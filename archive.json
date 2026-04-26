@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-26T07:49:59.917253+00:00",
-  "total": 59,
+  "updated": "2026-04-26T19:07:43.789574+00:00",
+  "total": 61,
   "articles": [
+    {
+      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
+      "title": "The one Slack message that proved our elite engineering team was flying blind",
+      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
+      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-26T15:00:00+00:00"
+    },
+    {
+      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
+      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
+      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-26T13:00:38+00:00"
+    },
     {
       "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
       "title": "I've tested Sony headphones for years, and these tweaks get me the best audio - always",
