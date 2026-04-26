@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-25T19:05:56.009015+00:00",
+  "updated": "2026-04-26T07:49:59.917253+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 58,
+  "total_articles": 59,
   "page_size": 50,
   "articles": [
+    {
+      "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
+      "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/",
+      "summary": "Last week, what excited me most was the launch of the 2026 AWS AI &amp; ML Scholars program by Swami Sivasubramanian, VP of AWS Agentic AI, to provide free AI education to up to 100,000 learners worldwide. The program has two phases: a Challenge phase where you’ll learn foundational generative AI sk",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-30T16:11:28+00:00"
+    },
     {
       "id": "41e1c891d109efcd7d448b29bc20ce5d727c41685677552e7c59288c6c62d838",
       "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
