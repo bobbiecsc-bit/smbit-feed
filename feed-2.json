@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-27T08:38:51.445105+00:00",
+  "updated": "2026-04-27T19:43:45.010463+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 61,
+  "total_articles": 65,
   "page_size": 50,
   "articles": [
+    {
+      "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
+      "title": "What does a “right-size” incident response plan look like?",
+      "url": "https://smartermsp.com/what-does-a-right-size-incident-response-plan-look-like/",
+      "summary": "Often, when a cyber incident occurs, the response is ad hoc—a reactive, seat‑of‑the‑pants scramble. After all, every incident is different, so how can you plan for what you don’t know? But just as every building fire is different, there are [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-04-07T18:57:56+00:00"
+    },
+    {
+      "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
+      "title": "Weaver acquires SaaS provider",
+      "url": "https://www.accountingtoday.com/news/weaver-acquires-mass-ingenuity",
+      "summary": "The Top 50 Firm acquired Mass Ingenuity, a Portland, Oregon-based software-as-a-service company, effective April 1.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-04-06T21:11:48+00:00"
+    },
+    {
+      "id": "16fc935264a6d7cbaa0902070bbe270721209b0e109d28a2eab38439384a37ba",
+      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
+      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-06T16:51:00+00:00"
+    },
+    {
+      "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
+      "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
+      "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
+      "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-06T16:44:16+00:00"
+    },
     {
       "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
       "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",

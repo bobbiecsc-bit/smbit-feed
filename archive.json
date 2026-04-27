@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-27T08:38:51.445105+00:00",
-  "total": 61,
+  "updated": "2026-04-27T19:43:45.010463+00:00",
+  "total": 65,
   "articles": [
+    {
+      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
+      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
+      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
+      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-27T18:14:00+00:00"
+    },
+    {
+      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
+      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-27T15:01:28+00:00"
+    },
+    {
+      "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
+      "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+      "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-27T14:26:00+00:00"
+    },
+    {
+      "id": "067b8840c1004d0434994fc48a2d7aa3e1aafc6c9b928e209e39e0143040492c",
+      "title": "This machine is the only way to make nitro cold brew coffee at home - and it's on sale",
+      "url": "https://www.zdnet.com/article/cumulus-coffee-machine-deal/",
+      "summary": "The Cumulus Coffee machine is uniquely designed to make cold brew, nitro, and cold espresso. Get one for 20% off now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-27T13:00:00+00:00"
+    },
     {
       "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
       "title": "The one Slack message that proved our elite engineering team was flying blind",
