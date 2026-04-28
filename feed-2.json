@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-28T08:37:06.186624+00:00",
+  "updated": "2026-04-28T19:52:09.080263+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 66,
+  "total_articles": 68,
   "page_size": 50,
   "articles": [
+    {
+      "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
+      "title": "Russian hacking group targets home and small office routers to spy on users",
+      "url": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
+      "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
+      "source": "Malwarebytes Labs",
+      "category": "infrastructure",
+      "date": "2026-04-08T13:31:25+00:00"
+    },
+    {
+      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
+      "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
+      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+      "summary": "Between the Apple AirPods Max 2, Bose QuietComfort Ultra 2, and Sony WH-1000XM6, here's how they compare after real-world testing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-08T02:00:57+00:00"
+    },
     {
       "id": "a322ecfd7c1050ec61f3c6cc217be3fd74275854756f09e1ab485466ac2eeadb",
       "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",

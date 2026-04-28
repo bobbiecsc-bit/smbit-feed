@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-28T08:37:06.186624+00:00",
-  "total": 66,
+  "updated": "2026-04-28T19:52:09.080263+00:00",
+  "total": 68,
   "articles": [
+    {
+      "id": "914cc583eb6ad25e2a6e32e143642a56e9816dbb2974d16229b773caa6e6a6c0",
+      "title": "Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today",
+      "url": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
+      "summary": "The Apple Watch SE 3 is the latest refresh of Apple's entry-level smartwatch, and you can get one for free with a new smartwatch line on your T-Mobile plan.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-28T16:59:33+00:00"
+    },
+    {
+      "id": "5ba0ff6fc39e120bf2d5867f203bf4b2d39dce0edf1e273c9011ff12f7526a31",
+      "title": "I tested a BlackBerry-style Android phone with a keyboard, and it's weirdly practical in 2026",
+      "url": "https://www.zdnet.com/article/unihertz-titan-2-elite-review/",
+      "summary": "Unihertz' new Titan 2 Elite has a full hardware keyboard and lots of available shortcuts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-28T15:58:00+00:00"
+    },
     {
       "id": "3bc3b7c116e60085f81fcd59e9f7d8f441608a4accdc0a2b7539c13643981eba",
       "title": "My 5 favorite open source operating systems that aren't Linux",
