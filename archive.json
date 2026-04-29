@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-29T08:30:08.802222+00:00",
-  "total": 68,
+  "updated": "2026-04-29T19:47:17.747112+00:00",
+  "total": 74,
   "articles": [
+    {
+      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
+      "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+      "summary": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T19:15:42+00:00"
+    },
+    {
+      "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
+      "title": "HP vs. Dell: I've tested dozens of laptops from both brands, and here's my advice",
+      "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
+      "summary": "Dell and HP both sell excellent laptops, but their models stand out in different ways. Let's break down the biggest differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T17:08:00+00:00"
+    },
+    {
+      "id": "007689ec0eed5f4dc56b6816943dd30b09f429a13a03ce0161562c94bf12ffe2",
+      "title": "The best VPN for small businesses in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
+      "summary": "Looking for the best VPN for your small business? I tested Surfshark, Proton VPN, and more to find the top picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T15:52:00+00:00"
+    },
+    {
+      "id": "2b3eb7f695962465f76969ff0d3fdc012d63be821270822e0b3c3b90b80c054e",
+      "title": "After years of Linux, I tried GhostBSD and found it incredibly stable - and nearly unbreakable",
+      "url": "https://www.zdnet.com/article/i-tried-ghostbsd-found-it-incredibly-stable-nearly-unbreakable/",
+      "summary": "This FreeBSD-based OS is for Linux users who want a reliable, Unix-like experience. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T15:49:10+00:00"
+    },
+    {
+      "id": "cd4398f5b6d78611a240c74a7efce69e51a25e16b371ed99baefda573026ea58",
+      "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-iphone-vpn/",
+      "summary": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost your online security.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T10:01:28+00:00"
+    },
+    {
+      "id": "c2e8a645df4fd36f36602043c21f329b501e9a0fde03a6938b938bd73c4ab6e2",
+      "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-apple-tv-vpns/",
+      "summary": "Setting up a VPN on your Apple TV can be a nuisance, but with one of our top Apple TV VPNs, setup and streaming will take mere moments.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-29T09:00:48+00:00"
+    },
     {
       "id": "914cc583eb6ad25e2a6e32e143642a56e9816dbb2974d16229b773caa6e6a6c0",
       "title": "Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today",

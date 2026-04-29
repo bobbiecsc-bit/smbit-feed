@@ -1,10 +1,64 @@
 {
-  "updated": "2026-04-29T08:30:08.802222+00:00",
+  "updated": "2026-04-29T19:47:17.747112+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 68,
+  "total_articles": 74,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1525188312d41bbf9cf8eadc293cf8b7eba1ccc3872ae81de38909f471d8abca",
+      "title": "A year in, Google wants its Axion processors to feel like a scheduling decision",
+      "url": "https://thenewstack.io/google-axion-kubernetes-arm/",
+      "summary": "At KubeCon Europe in Amsterdam, The New Stack sat down with Jago Macleod and Abdel Sghiouar from Google Cloud to The post A year in, Google wants its Axion processors to feel like a scheduling decision appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-15T22:41:08+00:00"
+    },
+    {
+      "id": "b7aaa397c7cfb53822565db32e7e85a99d4cc657f68a6f649823a6e2a169f12c",
+      "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/",
+      "summary": "In my last Week in Review post, I mentioned how much time I’ve been spending on AI-Driven Development Lifecycle (AI-DLC) workshops with customers this year. A common theme in those sessions is the need for better cost visibility. Teams are moving fast with AI, but as they go from experimenting to fu",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-13T16:16:20+00:00"
+    },
+    {
+      "id": "7fe1b09c9d5548db6eac569a414ca16432eb02fef0a2ded0ae4afbf560472388",
+      "title": "The biggest issues facing accounting firms",
+      "url": "https://www.accountingtoday.com/list/13-issues-worrying-accounting-firm-leaders",
+      "summary": "Leaders from the Top 100 Firm name the top challenges to the profession — from private equity and tech, to staffing and change management.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-12T00:03:34+00:00"
+    },
+    {
+      "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
+      "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
+      "url": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
+      "summary": "Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-10T11:00:38+00:00"
+    },
+    {
+      "id": "8788549827dd1212a90c01c55f00f779f3d4b491c69a5d3dcde250d5f69da18c",
+      "title": "The best business VoIP services in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-business-voip-providers/",
+      "summary": "Navigate the VoIP landscape with ease and retire your old lines with our guide on the best VoIP providers of 2026.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-09T10:01:23+00:00"
+    },
+    {
+      "id": "d7a8736e77808b8a4b99ba41e8421e2627c293e923e8fc9c3884e62a881054cb",
+      "title": "Digits announces outcome-based pricing",
+      "url": "https://www.accountingtoday.com/news/digits-announces-outcome-based-pricing",
+      "summary": "Digits announced that accountants will only pay for clients if the Digits platform successfully automates 95% or more of transactions with zero human touch.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-04-08T14:52:51+00:00"
+    },
     {
       "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
       "title": "Russian hacking group targets home and small office routers to spy on users",
