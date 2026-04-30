@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-30T08:32:59.707301+00:00",
+  "updated": "2026-04-30T19:44:52.196192+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 74,
+  "total_articles": 78,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
+      "title": "Worldwide IT services spending to increase in 2026",
+      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
+      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "finance",
+      "date": "2026-04-30T18:08:01+00:00"
+    },
     {
       "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
       "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
@@ -12,7 +21,34 @@
       "summary": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-04-29T19:15:42+00:00"
+      "date": "2026-04-30T17:13:09+00:00"
+    },
+    {
+      "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
+      "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
+      "url": "https://www.zdnet.com/article/sony-vs-bose-headphones-2026/",
+      "summary": "Sony and Bose make best-in-class headphones, but my extended time with the latest flagship models reveals their true strengths and weaknesses.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-30T15:52:00+00:00"
+    },
+    {
+      "id": "6f1ce3c363ae8f0149df4740cd47d519db2ad8d70b35fcb8f8c6d02857446ff6",
+      "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
+      "summary": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-30T13:06:00+00:00"
+    },
+    {
+      "id": "d87611112d423f8265d6e593328d451cda149c554065850838fd0881219eead3",
+      "title": "The best cloud phone systems of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-cloud-phone-systems/",
+      "summary": "I tested the best cloud phone systems hands-on, compared pricing, AI features, and real user feedback to help you pick the right one for your team.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-30T09:01:00+00:00"
     },
     {
       "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
@@ -418,42 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-04-21T11:00:00+00:00"
-    },
-    {
-      "id": "3e782d7bc5b684c3aa14486fe9870f80f39e65f3b7a82e3b4ced0057976800e6",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-20T15:53:21+00:00"
-    },
-    {
-      "id": "38903ba9a49ab63c5e18e6f6a798e95b70ee483b62618e1d60b0ad1d4b41695c",
-      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
-      "url": "https://thenewstack.io/claude-opus-47-launch/",
-      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-16T17:56:33+00:00"
-    },
-    {
-      "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
-      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
-      "summary": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing an",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-04-16T14:49:33+00:00"
-    },
-    {
-      "id": "2cac1348ac74be2b81fe3da7129c3de921947d2b69ae7d88763e7cfbaff7faff",
-      "title": "A fake Slack download is giving attackers a hidden desktop on your machine",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine",
-      "summary": "This trojanized Slack installer looks normal, but quietly gives attackers an invisible desktop to access your accounts and data. We take a deep dive into the attack.",
-      "source": "Malwarebytes Labs",
-      "category": "cloud_saas",
-      "date": "2026-04-16T09:26:45+00:00"
     }
   ]
 }
