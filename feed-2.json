@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-01T08:22:49.018666+00:00",
+  "updated": "2026-05-01T19:22:56.319458+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 79,
+  "total_articles": 82,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
+      "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
+      "url": "https://www.zdnet.com/article/motorola-moto-g-deal/",
+      "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T17:29:25+00:00"
+    },
+    {
+      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
+      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
+      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T16:22:42+00:00"
+    },
+    {
+      "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
+      "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
+      "url": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+      "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T13:30:00+00:00"
+    },
     {
       "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
       "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",

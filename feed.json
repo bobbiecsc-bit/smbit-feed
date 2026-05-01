@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-01T08:22:49.018666+00:00",
+  "updated": "2026-05-01T19:22:56.319458+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 79,
+  "total_articles": 82,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
+      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
+      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T17:46:00+00:00"
+    },
+    {
+      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
+      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
+      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
+      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T15:00:44+00:00"
+    },
+    {
+      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
+      "title": "Best AirPods of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-airpods/",
+      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T11:00:48+00:00"
+    },
     {
       "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
       "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T18:53:00+00:00"
-    },
-    {
-      "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
-      "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
-      "url": "https://www.zdnet.com/article/motorola-moto-g-deal/",
-      "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T17:29:25+00:00"
-    },
-    {
-      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
-      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
-      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
-      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T16:22:42+00:00"
-    },
-    {
-      "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
-      "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
-      "url": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
-      "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T13:30:00+00:00"
     }
   ]
 }

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-01T08:22:49.018666+00:00",
-  "total": 79,
+  "updated": "2026-05-01T19:22:56.319458+00:00",
+  "total": 82,
   "articles": [
+    {
+      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
+      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
+      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T17:46:00+00:00"
+    },
+    {
+      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
+      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
+      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
+      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T15:00:44+00:00"
+    },
+    {
+      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
+      "title": "Best AirPods of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-airpods/",
+      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T11:00:48+00:00"
+    },
     {
       "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
       "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
