@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-30T19:44:52.196192+00:00",
+  "updated": "2026-05-01T08:22:49.018666+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 78,
+  "total_articles": 79,
   "page_size": 50,
   "articles": [
+    {
+      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
+      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
+      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
+      "summary": "When you're driving, both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's modest abilities. Here's which one is better.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T02:00:50+00:00"
+    },
     {
       "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
       "title": "Worldwide IT services spending to increase in 2026",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T13:30:00+00:00"
-    },
-    {
-      "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
-      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
-      "url": "https://thenewstack.io/open-vsx-managed-registry/",
-      "summary": "Platform engineering&#160;requires something of a leap of faith. Developers need to &#8220;believe&#8221; that foundation-level tools,&#160;libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft&#8217;s VS Code Marketpla",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-04-21T11:00:00+00:00"
     }
   ]
 }
