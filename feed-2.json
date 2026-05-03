@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-02T19:12:04.970126+00:00",
+  "updated": "2026-05-03T08:10:31.887628+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 82,
+  "total_articles": 83,
   "page_size": 50,
   "articles": [
+    {
+      "id": "06aa4321e4a9a5e38b34cee22e3e95ad142ddc48fbdd88d86f8b4948be84c078",
+      "title": "I compared Thread, Zigbee, and Matter - here's the best smart home setup for you",
+      "url": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
+      "summary": "All three are related to smart home connectivity, and it's important that you understand their differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T18:53:00+00:00"
+    },
     {
       "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
       "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
