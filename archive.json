@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-03T08:10:31.887628+00:00",
-  "total": 83,
+  "updated": "2026-05-03T19:11:40.666890+00:00",
+  "total": 85,
   "articles": [
+    {
+      "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
+      "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
+      "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
+      "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-03T19:00:46+00:00"
+    },
+    {
+      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
+      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
+      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
+      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-03T17:00:45+00:00"
+    },
     {
       "id": "479481334a9102ef8c84a9716c5bb2bc2a94bba707fbadb176eb279a0ff9f64c",
       "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
@@ -10,6 +28,15 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-03T01:01:07+00:00"
+    },
+    {
+      "id": "e667ebc58261da850cde1d3c06a48beffcdc717f632aba5c1a63f7185c8d231a",
+      "title": "YouTube Premium vs. Premium Lite: Is the cheaper tier still your best deal?",
+      "url": "https://www.zdnet.com/article/youtube-premium-vs-youtube-premium-lite/",
+      "summary": "YouTube videos without ads sound great, but you should know about both plans before overpaying for features you don't use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-02T11:00:00+00:00"
     },
     {
       "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
@@ -37,15 +64,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-01T11:00:48+00:00"
-    },
-    {
-      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
-      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
-      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "summary": "When you're driving, both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's modest abilities. Here's which one is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T02:00:50+00:00"
     },
     {
       "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
