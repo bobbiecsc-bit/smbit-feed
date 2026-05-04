@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-03T19:11:40.666890+00:00",
+  "updated": "2026-05-04T08:40:41.368357+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 85,
+  "total_articles": 86,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
+      "title": "The best robot vacuums for 2026: Expert and lab tested",
+      "url": "https://www.zdnet.com/article/best-robot-vacuum/",
+      "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T11:06:10+00:00"
+    },
     {
       "id": "977ba6dbaa7c1b0ea7577a2b26c65cb4e712f148e0c3b4bfeb76f8af16e22c11",
       "title": "We compared 10 robot vacuums for sand pickup - and one model was the clear favorite",

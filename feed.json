@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-03T19:11:40.666890+00:00",
+  "updated": "2026-05-04T08:40:41.368357+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 85,
+  "total_articles": 86,
   "page_size": 50,
   "articles": [
+    {
+      "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
+      "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
+      "url": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
+      "summary": "Just how reliable is that smartwatch or smart ring? I tested three of the most popular health trackers to find out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T00:30:39+00:00"
+    },
     {
       "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
       "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-22T14:10:00+00:00"
-    },
-    {
-      "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
-      "title": "The best robot vacuums for 2026: Expert and lab tested",
-      "url": "https://www.zdnet.com/article/best-robot-vacuum/",
-      "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T11:06:10+00:00"
     }
   ]
 }

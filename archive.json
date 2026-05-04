@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-03T19:11:40.666890+00:00",
-  "total": 85,
+  "updated": "2026-05-04T08:40:41.368357+00:00",
+  "total": 86,
   "articles": [
+    {
+      "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
+      "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
+      "url": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
+      "summary": "Just how reliable is that smartwatch or smart ring? I tested three of the most popular health trackers to find out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T00:30:39+00:00"
+    },
     {
       "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
       "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
