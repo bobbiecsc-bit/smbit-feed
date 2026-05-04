@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-04T08:40:41.368357+00:00",
+  "updated": "2026-05-04T19:51:06.779220+00:00",
   "page": 2,
   "total_pages": 2,
-  "total_articles": 86,
+  "total_articles": 93,
   "page_size": 50,
   "articles": [
+    {
+      "id": "62cf8271bf4743b4f0de607205c16380c563802e830cc3d11ccf51188f59de39",
+      "title": "Bose QuietComfort Ultra 2 vs. Samsung Galaxy Buds 4 Pro: I tried both, and this pair wins",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
+      "summary": "The latest Samsung earbuds compete squarely with the flagship Bose QuietComfort Ultra Earbuds 2. But are they better?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T01:30:42+00:00"
+    },
+    {
+      "id": "1d062d436e0a583c94214730b7f07e67b97aec68a432ebaa96cec8fb8f7304cd",
+      "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
+      "url": "https://www.zdnet.com/article/bloom-card-review/",
+      "summary": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T19:38:00+00:00"
+    },
+    {
+      "id": "be8b53e063611d71dc26f3d523e97684d193b3d33b64ec07cf272ba7614986c9",
+      "title": "The best earbuds of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-earbuds/",
+      "summary": "For your workouts, cool-downs, days in the office, and everything in between, we picked the five best earbuds for your day-to-day from brands like Apple, Sony, and Bose.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T18:00:39+00:00"
+    },
+    {
+      "id": "c4ce72531b9ea7a8b014c3304db49ff7d1b43abedb5d22fefbebc8271f75ca0c",
+      "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
+      "url": "https://thenewstack.io/roo-code-cloud-ides-ai-coding/",
+      "summary": "Roo Code, an open source AI coding tool built for VS Code, has announced that it&#8217;s shutting down its VS The post Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-04-22T17:49:07+00:00"
+    },
+    {
+      "id": "c155f1ffd78752c25c972e8e3a9b1d911ee79614ab9fe1de1b4a6b8de6f19947",
+      "title": "After testing this Garmin rival, I won't use a smartwatch without a built-in flashlight again",
+      "url": "https://www.zdnet.com/article/polar-street-x-review/",
+      "summary": "The Polar Street X raises the bar for smartwatches with integrated LED flashlights at a low entry price.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T16:38:00+00:00"
+    },
+    {
+      "id": "c106a76844c2589d183a275f11d5a754f7937537b2d0b9693c8a94d71f8a83ee",
+      "title": "This Moto G Stylus phone deal includes a free smartwatch and more - here's how it works",
+      "url": "https://www.zdnet.com/article/motorola-moto-g-stylus-deal/",
+      "summary": "Buy the Moto G Stylus directly from Motorola and get a pair of Moto Buds Loop earbuds, a Moto Watch, and Moto Tag for free.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T14:28:25+00:00"
+    },
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Lenovo vs. Dell: My buying advice after testing dozens of laptops from both",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in different areas. This guide will help you decide which to buy.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T14:10:00+00:00"
+    },
     {
       "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
       "title": "The best robot vacuums for 2026: Expert and lab tested",

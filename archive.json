@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-04T08:40:41.368357+00:00",
-  "total": 86,
+  "updated": "2026-05-04T19:51:06.779220+00:00",
+  "total": 93,
   "articles": [
+    {
+      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
+      "title": "I tested Google Maps vs. Apple Maps to find the best navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
+      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's which one is best.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T18:36:00+00:00"
+    },
+    {
+      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
+      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
+      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
+      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T17:57:00+00:00"
+    },
+    {
+      "id": "64fe8f5ddd2b349f286f56489d98acbcd5e3c9d83825d928bc72f6e0bbd36508",
+      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
+      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuri",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-04T17:05:41+00:00"
+    },
+    {
+      "id": "c91992fa751dae01caf5cd15b1672f82a051a6fd5fa4c16e76a10f4826666cbd",
+      "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
+      "url": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
+      "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T16:00:48+00:00"
+    },
+    {
+      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
+      "title": "Building an agentic AI strategy that pays off - without risking business failure",
+      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
+      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-04T14:10:00+00:00"
+    },
+    {
+      "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
+      "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
+      "summary": "Samsung and Google make some of the best Android phones, making it sometimes difficult to pick between the two. Here's my advice if you're split.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T11:30:49+00:00"
+    },
+    {
+      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
+      "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
+      "summary": "Waze is great for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my pick.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T11:00:00+00:00"
+    },
     {
       "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
       "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
