@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-04T19:51:06.779220+00:00",
-  "total": 93,
+  "updated": "2026-05-05T08:22:12.700236+00:00",
+  "total": 94,
   "articles": [
+    {
+      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
+      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
+      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
+      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T20:44:58+00:00"
+    },
     {
       "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
       "title": "I tested Google Maps vs. Apple Maps to find the best navigation app - and this one wins",
