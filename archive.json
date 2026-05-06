@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-05T19:46:41.064697+00:00",
-  "total": 97,
+  "updated": "2026-05-06T08:38:28.017828+00:00",
+  "total": 98,
   "articles": [
+    {
+      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
+      "title": "How MSPs close the cloud migration security gap",
+      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
+      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-05T20:09:50+00:00"
+    },
     {
       "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
       "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",

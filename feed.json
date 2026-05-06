@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-05T19:46:41.064697+00:00",
+  "updated": "2026-05-06T08:38:28.017828+00:00",
   "page": 1,
   "total_pages": 2,
-  "total_articles": 97,
+  "total_articles": 98,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
+      "title": "How MSPs close the cloud migration security gap",
+      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
+      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-05T20:09:50+00:00"
+    },
     {
       "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
       "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T15:00:04+00:00"
-    },
-    {
-      "id": "864ac5cdb81df93c6c06628d430fc98c599956a50327c8c97de5e14af57413fc",
-      "title": "Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony may be at the top of its game, but how well do the XM6 stack up against its more premium competitors? It comes down to how you use them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T14:58:18+00:00"
     }
   ]
 }
