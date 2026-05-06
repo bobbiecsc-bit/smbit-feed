@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-06T08:38:28.017828+00:00",
-  "total": 98,
+  "updated": "2026-05-06T19:57:15.453276+00:00",
+  "total": 106,
   "articles": [
+    {
+      "id": "2e24fae09d04c1eec9edc7445c921a993aa8426fc2d56e9aee3bc16670a3cd4a",
+      "title": "Sony vs. Samsung: My buying advice after testing both home theater systems",
+      "url": "https://www.zdnet.com/article/sony-vs-samsung-soundbars-comparison/",
+      "summary": "Sony and Samsung both offer excellent home theater products, but consider these factors first.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T19:00:35+00:00"
+    },
+    {
+      "id": "1bbd6b01476aa2edd1bac79f2de2ffd447204b644f4a7116dc2be9fd6ba62690",
+      "title": "I tested 5G signals of AT&T, T-Mobile, and Verizon in rural America - here's how your carrier did",
+      "url": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
+      "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T17:30:50+00:00"
+    },
+    {
+      "id": "ef3a7e004d1fe378d85a9a855b73e45f207f86bc3387d484f4e96678a7f9c6a2",
+      "title": "How NetEase Games cut LLM cold starts from 42 minutes to 30 seconds",
+      "url": "https://thenewstack.io/netease-fluid-llm-inference/",
+      "summary": "At NetEase Games, we learned a hard lesson about large language model (LLM) inference in production: elastic compute is only The post How NetEase Games cut LLM cold starts from 42 minutes to 30 seconds appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-05-06T13:00:00+00:00"
+    },
+    {
+      "id": "0f6965e5d4a286765bba544df6ed27d0298958762569cb7ecca3385a6546ef62",
+      "title": "Attackers adopt JavaScript runtime Bun to spread NWHStealer",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer",
+      "summary": "A legitimate developer tool is being repurposed by attackers to package and spread this Windows infostealer in harder-to-detect ways.",
+      "source": "Malwarebytes Labs",
+      "category": "continuity",
+      "date": "2026-05-06T12:50:55+00:00"
+    },
+    {
+      "id": "4b844cb02be2598f337864cb01ff0546a1add4bf1a92652179f66e27289ae9a8",
+      "title": "I tested ReMarkable's 'cheap' Paper Pure tablet, and it hardly feels like a downgrade",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
+      "summary": "The Paper Pure pairs an accessible design with modest hardware while retaining ReMarkable's niche functionality.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T12:00:38+00:00"
+    },
+    {
+      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
+      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
+      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
+      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T11:00:44+00:00"
+    },
+    {
+      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
+      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
+      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
+      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-05-06T10:00:00+00:00"
+    },
+    {
+      "id": "ddcdbae9152bfa0d9dcbb1b6c45dbfc8de4efe4012b669d1b9ee05da7639c427",
+      "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-40-inch-tv/",
+      "summary": "We tested and compared the best 40-inch class TVs from brands like Samsung, Hisense, and more to help you find the right fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T09:00:40+00:00"
+    },
     {
       "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
       "title": "How MSPs close the cloud migration security gap",
