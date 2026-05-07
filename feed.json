@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-07T08:45:31.287367+00:00",
+  "updated": "2026-05-07T19:50:07.950012+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 106,
+  "total_articles": 111,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
+      "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe: I've written on both E Ink tablets - this one wins",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
+      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different use cases.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-07T18:00:51+00:00"
+    },
+    {
+      "id": "20a9b9b952834a2eb183d5393303af2fb44ffecbb1ba2954578baa35b39e3c5e",
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+      "url": "https://thenewstack.io/openai-codex-claude-code/",
+      "summary": "Late last month, OpenAI shipped a new product they dubbed &#8220;Codex for (almost) everything.&#8221; Its goal was to shift&#160;Codex&#160;from a The post I tested the new OpenAI Codex features on a real Python codebase, and it&#8217;s the strongest Claude Code rival yet appeared first on The New ",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-07T15:27:18+00:00"
+    },
+    {
+      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
+      "title": "Whoop vs. Fitbit Air: I compared Google's new fitness band to the industry favorite",
+      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+      "summary": "Taking on Whoop, Google unveiled its brand new screenless fitness band, the Fitbit Air. Here's which one is better, by the specs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-07T14:00:00+00:00"
+    },
+    {
+      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
+      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-travel-vpn/",
+      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-07T10:30:37+00:00"
+    },
+    {
+      "id": "aca38b4d61fa0dd39d54e07eab83fa61990f91ebbbdc2355ad2cc992239b85dc",
+      "title": "The best VPN extensions for Chrome in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-chrome-vpn/",
+      "summary": "Chrome VPN extensions hide your online activities and improve your privacy without disrupting your browsing session. These are ZDNET's top picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-07T09:00:36+00:00"
+    },
     {
       "id": "2e24fae09d04c1eec9edc7445c921a993aa8426fc2d56e9aee3bc16670a3cd4a",
       "title": "Sony vs. Samsung: My buying advice after testing both home theater systems",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-27T14:26:00+00:00"
-    },
-    {
-      "id": "067b8840c1004d0434994fc48a2d7aa3e1aafc6c9b928e209e39e0143040492c",
-      "title": "This machine is the only way to make nitro cold brew coffee at home - and it's on sale",
-      "url": "https://www.zdnet.com/article/cumulus-coffee-machine-deal/",
-      "summary": "The Cumulus Coffee machine is uniquely designed to make cold brew, nitro, and cold espresso. Get one for 20% off now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-04-27T13:00:00+00:00"
-    },
-    {
-      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
-      "title": "The one Slack message that proved our elite engineering team was flying blind",
-      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
-      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-26T15:00:00+00:00"
-    },
-    {
-      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
-      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
-      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
-      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-26T13:00:38+00:00"
-    },
-    {
-      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
-      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-25T10:00:00+00:00"
-    },
-    {
-      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
-      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
-      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
-      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T13:19:02+00:00"
     }
   ]
 }
