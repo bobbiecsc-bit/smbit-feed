@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-07T19:50:07.950012+00:00",
+  "updated": "2026-05-08T07:51:44.937061+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 111,
+  "total_articles": 112,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
+      "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+      "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-27T14:26:00+00:00"
+    },
     {
       "id": "067b8840c1004d0434994fc48a2d7aa3e1aafc6c9b928e209e39e0143040492c",
       "title": "This machine is the only way to make nitro cold brew coffee at home - and it's on sale",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-04-06T16:51:00+00:00"
-    },
-    {
-      "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
-      "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
-      "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
-      "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-06T16:44:16+00:00"
     }
   ]
 }

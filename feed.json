@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-07T19:50:07.950012+00:00",
+  "updated": "2026-05-08T07:51:44.937061+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 111,
+  "total_articles": 112,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-08T00:43:04+00:00"
+    },
     {
       "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
       "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe: I've written on both E Ink tablets - this one wins",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-04-27T15:01:28+00:00"
-    },
-    {
-      "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
-      "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
-      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
-      "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T14:26:00+00:00"
     }
   ]
 }

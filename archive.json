@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-07T19:50:07.950012+00:00",
-  "total": 111,
+  "updated": "2026-05-08T07:51:44.937061+00:00",
+  "total": 112,
   "articles": [
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-08T00:43:04+00:00"
+    },
     {
       "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
       "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe: I've written on both E Ink tablets - this one wins",
