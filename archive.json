@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-08T07:51:44.937061+00:00",
-  "total": 112,
+  "updated": "2026-05-08T19:40:40.990368+00:00",
+  "total": 113,
   "articles": [
+    {
+      "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
+      "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
+      "url": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
+      "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Chromebooks could have a leg up.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-08T17:00:41+00:00"
+    },
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-08T13:20:00+00:00"
+    },
     {
       "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
       "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
@@ -676,15 +694,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-22T14:28:25+00:00"
-    },
-    {
-      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
-      "title": "Lenovo vs. Dell: My buying advice after testing dozens of laptops from both",
-      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "summary": "Dell and Lenovo specialize in different areas. This guide will help you decide which to buy.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T14:10:00+00:00"
     },
     {
       "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",

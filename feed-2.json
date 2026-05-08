@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-08T07:51:44.937061+00:00",
+  "updated": "2026-05-08T19:40:40.990368+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 112,
+  "total_articles": 113,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
+      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
+      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
+      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-27T18:14:00+00:00"
+    },
+    {
+      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
+      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-27T15:01:28+00:00"
+    },
     {
       "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
       "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
@@ -231,15 +249,6 @@
       "date": "2026-04-22T14:28:25+00:00"
     },
     {
-      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
-      "title": "Lenovo vs. Dell: My buying advice after testing dozens of laptops from both",
-      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "summary": "Dell and Lenovo specialize in different areas. This guide will help you decide which to buy.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T14:10:00+00:00"
-    },
-    {
       "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
       "title": "The best robot vacuums for 2026: Expert and lab tested",
       "url": "https://www.zdnet.com/article/best-robot-vacuum/",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-04-06T21:11:48+00:00"
-    },
-    {
-      "id": "16fc935264a6d7cbaa0902070bbe270721209b0e109d28a2eab38439384a37ba",
-      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
-      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-06T16:51:00+00:00"
     }
   ]
 }

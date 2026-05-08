@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-08T07:51:44.937061+00:00",
+  "updated": "2026-05-08T19:40:40.990368+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 112,
+  "total_articles": 113,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
+      "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
+      "url": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
+      "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Chromebooks could have a leg up.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-08T17:00:41+00:00"
+    },
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-08T13:20:00+00:00"
+    },
     {
       "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
       "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-28T02:00:40+00:00"
-    },
-    {
-      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
-      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
-      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
-      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T18:14:00+00:00"
-    },
-    {
-      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-27T15:01:28+00:00"
     }
   ]
 }
