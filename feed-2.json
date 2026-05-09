@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-09T08:05:33.135437+00:00",
+  "updated": "2026-05-09T19:15:26.190320+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 113,
+  "total_articles": 115,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5ba0ff6fc39e120bf2d5867f203bf4b2d39dce0edf1e273c9011ff12f7526a31",
+      "title": "I tested a BlackBerry-style Android phone with a keyboard, and it's weirdly practical in 2026",
+      "url": "https://www.zdnet.com/article/unihertz-titan-2-elite-review/",
+      "summary": "Unihertz' new Titan 2 Elite has a full hardware keyboard and lots of available shortcuts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-28T15:58:00+00:00"
+    },
+    {
+      "id": "3bc3b7c116e60085f81fcd59e9f7d8f441608a4accdc0a2b7539c13643981eba",
+      "title": "My 5 favorite open source operating systems that aren't Linux",
+      "url": "https://www.zdnet.com/article/my-5-favorite-open-source-operating-systems-that-arent-linux/",
+      "summary": "Looking for non-Linux open-source options? From ghosts of past operating systems to fascinating works in progress, here are my top picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-28T02:00:40+00:00"
+    },
     {
       "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
       "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-04-07T20:07:20+00:00"
-    },
-    {
-      "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
-      "title": "What does a “right-size” incident response plan look like?",
-      "url": "https://smartermsp.com/what-does-a-right-size-incident-response-plan-look-like/",
-      "summary": "Often, when a cyber incident occurs, the response is ad hoc—a reactive, seat‑of‑the‑pants scramble. After all, every incident is different, so how can you plan for what you don’t know? But just as every building fire is different, there are [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-04-07T18:57:56+00:00"
-    },
-    {
-      "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
-      "title": "Weaver acquires SaaS provider",
-      "url": "https://www.accountingtoday.com/news/weaver-acquires-mass-ingenuity",
-      "summary": "The Top 50 Firm acquired Mass Ingenuity, a Portland, Oregon-based software-as-a-service company, effective April 1.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-04-06T21:11:48+00:00"
     }
   ]
 }
