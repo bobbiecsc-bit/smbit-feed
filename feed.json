@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-10T08:19:46.940713+00:00",
+  "updated": "2026-05-10T19:16:30.070128+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 116,
+  "total_articles": 118,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-05-10T15:00:00+00:00"
+    },
+    {
+      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
+      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-sony-tv/",
+      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-10T09:01:05+00:00"
+    },
     {
       "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
       "title": "Yes, you can get Microsoft 365 free - here's how",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-29T15:49:10+00:00"
-    },
-    {
-      "id": "cd4398f5b6d78611a240c74a7efce69e51a25e16b371ed99baefda573026ea58",
-      "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-iphone-vpn/",
-      "summary": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost your online security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T10:01:28+00:00"
-    },
-    {
-      "id": "c2e8a645df4fd36f36602043c21f329b501e9a0fde03a6938b938bd73c4ab6e2",
-      "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-apple-tv-vpns/",
-      "summary": "Setting up a VPN on your Apple TV can be a nuisance, but with one of our top Apple TV VPNs, setup and streaming will take mere moments.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T09:00:48+00:00"
     }
   ]
 }

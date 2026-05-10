@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-10T08:19:46.940713+00:00",
-  "total": 116,
+  "updated": "2026-05-10T19:16:30.070128+00:00",
+  "total": 118,
   "articles": [
+    {
+      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-05-10T15:00:00+00:00"
+    },
+    {
+      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
+      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-sony-tv/",
+      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-10T09:01:05+00:00"
+    },
     {
       "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
       "title": "Yes, you can get Microsoft 365 free - here's how",
