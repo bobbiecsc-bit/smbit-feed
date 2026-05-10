@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-09T19:15:26.190320+00:00",
-  "total": 115,
+  "updated": "2026-05-10T08:19:46.940713+00:00",
+  "total": 116,
   "articles": [
+    {
+      "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
+      "title": "Yes, you can get Microsoft 365 free - here's how",
+      "url": "https://www.zdnet.com/article/how-to-get-microsoft-365-free/",
+      "summary": "The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-10T08:00:36+00:00"
+    },
     {
       "id": "6ef600c7275a2232b0e45bd2b6848a5dd7f8afd976f488c12ecfb4bbec245b70",
       "title": "The best 85-inch TVs in 2026: Expert recommended",
