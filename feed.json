@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-11T09:56:56.904443+00:00",
+  "updated": "2026-05-11T19:58:42.189114+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 118,
+  "total_articles": 122,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cb222cdfa30ba32f7403f4bc731071b77a288165b0d2a20750339d1d68c1ece7",
+      "title": "Ubuntu 26.04 vs. Fedora 44: After years of testing both Linux distros, here's my verdict",
+      "url": "https://www.zdnet.com/article/ubuntu-26-04-vs-fedora-44/",
+      "summary": "Ubuntu and Fedora are two powerhouse Linux distributions, but both take very different approaches, so which one should you be using?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T18:57:15+00:00"
+    },
+    {
+      "id": "d88d600ab941a7f864f79377d995887fd776d6fe769d7367780356f87f6b8448",
+      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/",
+      "summary": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase and Stripe, it removes the undifferentiated heavy l",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-11T16:08:26+00:00"
+    },
+    {
+      "id": "c3d602d0ce17abc469e0cb0a3f539134f33baafe61ff503a629607a6c9f2fe4f",
+      "title": "Grant Thornton launches AI-enabled audit platform",
+      "url": "https://www.accountingtoday.com/news/grant-thornton-launches-unified-ai-enabled-audit-platform-gtap",
+      "summary": "Top 10 Firm Grant Thornton announced the launch of gtap, a proprietary audit infrastructure intended to redefine how the firm performs audits.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-11T14:13:27+00:00"
+    },
+    {
+      "id": "64167f27cfc4110f26c54d87f1e76c2726a31fd9c89c72b9f657e6b62f454bb4",
+      "title": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+      "url": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "summary": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T12:34:46+00:00"
+    },
+    {
+      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
+      "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+      "summary": "While Samsung focuses on durability and AI, the new Motorola phone is all about the design. Here's which one is better overall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T12:00:36+00:00"
+    },
+    {
+      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
+      "title": "Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best",
+      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+      "summary": "Taking on Whoop, Google has unveiled the Fitbit Air. Here's which one is better, by the numbers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T10:49:00+00:00"
+    },
     {
       "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
       "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
@@ -94,15 +148,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-07T15:27:18+00:00"
-    },
-    {
-      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
-      "title": "Whoop vs. Fitbit Air: I compared Google's new fitness band to the industry favorite",
-      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-      "summary": "Taking on Whoop, Google unveiled its brand new screenless fitness band, the Fitbit Air. Here's which one is better, by the specs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-07T14:00:00+00:00"
     },
     {
       "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
@@ -393,15 +438,6 @@
       "date": "2026-04-30T18:08:01+00:00"
     },
     {
-      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
-      "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
-      "summary": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T17:13:09+00:00"
-    },
-    {
       "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
       "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
       "url": "https://www.zdnet.com/article/sony-vs-bose-headphones-2026/",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-30T13:06:00+00:00"
-    },
-    {
-      "id": "d87611112d423f8265d6e593328d451cda149c554065850838fd0881219eead3",
-      "title": "The best cloud phone systems of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-cloud-phone-systems/",
-      "summary": "I tested the best cloud phone systems hands-on, compared pricing, AI features, and real user feedback to help you pick the right one for your team.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T09:01:00+00:00"
-    },
-    {
-      "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
-      "title": "HP vs. Dell: I've tested dozens of laptops from both brands, and here's my advice",
-      "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
-      "summary": "Dell and HP both sell excellent laptops, but their models stand out in different ways. Let's break down the biggest differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T17:08:00+00:00"
-    },
-    {
-      "id": "007689ec0eed5f4dc56b6816943dd30b09f429a13a03ce0161562c94bf12ffe2",
-      "title": "The best VPN for small businesses in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
-      "summary": "Looking for the best VPN for your small business? I tested Surfshark, Proton VPN, and more to find the top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T15:52:00+00:00"
-    },
-    {
-      "id": "2b3eb7f695962465f76969ff0d3fdc012d63be821270822e0b3c3b90b80c054e",
-      "title": "After years of Linux, I tried GhostBSD and found it incredibly stable - and nearly unbreakable",
-      "url": "https://www.zdnet.com/article/i-tried-ghostbsd-found-it-incredibly-stable-nearly-unbreakable/",
-      "summary": "This FreeBSD-based OS is for Linux users who want a reliable, Unix-like experience. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T15:49:10+00:00"
     }
   ]
 }

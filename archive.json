@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-11T09:56:56.904443+00:00",
-  "total": 118,
+  "updated": "2026-05-11T19:58:42.189114+00:00",
+  "total": 122,
   "articles": [
+    {
+      "id": "cb222cdfa30ba32f7403f4bc731071b77a288165b0d2a20750339d1d68c1ece7",
+      "title": "Ubuntu 26.04 vs. Fedora 44: After years of testing both Linux distros, here's my verdict",
+      "url": "https://www.zdnet.com/article/ubuntu-26-04-vs-fedora-44/",
+      "summary": "Ubuntu and Fedora are two powerhouse Linux distributions, but both take very different approaches, so which one should you be using?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T18:57:15+00:00"
+    },
+    {
+      "id": "d88d600ab941a7f864f79377d995887fd776d6fe769d7367780356f87f6b8448",
+      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/",
+      "summary": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase and Stripe, it removes the undifferentiated heavy l",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-11T16:08:26+00:00"
+    },
+    {
+      "id": "c3d602d0ce17abc469e0cb0a3f539134f33baafe61ff503a629607a6c9f2fe4f",
+      "title": "Grant Thornton launches AI-enabled audit platform",
+      "url": "https://www.accountingtoday.com/news/grant-thornton-launches-unified-ai-enabled-audit-platform-gtap",
+      "summary": "Top 10 Firm Grant Thornton announced the launch of gtap, a proprietary audit infrastructure intended to redefine how the firm performs audits.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-11T14:13:27+00:00"
+    },
+    {
+      "id": "64167f27cfc4110f26c54d87f1e76c2726a31fd9c89c72b9f657e6b62f454bb4",
+      "title": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+      "url": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+      "summary": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T12:34:46+00:00"
+    },
+    {
+      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
+      "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+      "summary": "While Samsung focuses on durability and AI, the new Motorola phone is all about the design. Here's which one is better overall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T12:00:36+00:00"
+    },
+    {
+      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
+      "title": "Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best",
+      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+      "summary": "Taking on Whoop, Google has unveiled the Fitbit Air. Here's which one is better, by the numbers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T10:49:00+00:00"
+    },
     {
       "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
       "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
@@ -91,15 +145,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-07T15:27:18+00:00"
-    },
-    {
-      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
-      "title": "Whoop vs. Fitbit Air: I compared Google's new fitness band to the industry favorite",
-      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-      "summary": "Taking on Whoop, Google unveiled its brand new screenless fitness band, the Fitbit Air. Here's which one is better, by the specs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-07T14:00:00+00:00"
     },
     {
       "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
@@ -388,15 +433,6 @@
       "source": "Smarter MSP",
       "category": "finance",
       "date": "2026-04-30T18:08:01+00:00"
-    },
-    {
-      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
-      "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
-      "summary": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T17:13:09+00:00"
     },
     {
       "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
