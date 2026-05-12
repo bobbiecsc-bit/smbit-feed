@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-12T08:50:49.631054+00:00",
+  "updated": "2026-05-12T20:04:00.315394+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 124,
+  "total_articles": 129,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e667ebc58261da850cde1d3c06a48beffcdc717f632aba5c1a63f7185c8d231a",
+      "title": "YouTube Premium vs. Premium Lite: Is the cheaper tier still your best deal?",
+      "url": "https://www.zdnet.com/article/youtube-premium-vs-youtube-premium-lite/",
+      "summary": "YouTube videos without ads sound great, but you should know about both plans before overpaying for features you don't use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-02T11:00:00+00:00"
+    },
+    {
+      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
+      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
+      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T17:46:00+00:00"
+    },
+    {
+      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
+      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
+      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
+      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T15:00:44+00:00"
+    },
+    {
+      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
+      "title": "Best AirPods of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-airpods/",
+      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T11:00:48+00:00"
+    },
+    {
+      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
+      "title": "Worldwide IT services spending to increase in 2026",
+      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
+      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "finance",
+      "date": "2026-04-30T18:08:01+00:00"
+    },
     {
       "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
       "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T13:30:00+00:00"
-    },
-    {
-      "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
-      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
-      "url": "https://thenewstack.io/open-vsx-managed-registry/",
-      "summary": "Platform engineering&#160;requires something of a leap of faith. Developers need to &#8220;believe&#8221; that foundation-level tools,&#160;libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft&#8217;s VS Code Marketpla",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-04-21T11:00:00+00:00"
-    },
-    {
-      "id": "3e782d7bc5b684c3aa14486fe9870f80f39e65f3b7a82e3b4ced0057976800e6",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-20T15:53:21+00:00"
-    },
-    {
-      "id": "38903ba9a49ab63c5e18e6f6a798e95b70ee483b62618e1d60b0ad1d4b41695c",
-      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
-      "url": "https://thenewstack.io/claude-opus-47-launch/",
-      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-16T17:56:33+00:00"
-    },
-    {
-      "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
-      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
-      "summary": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing an",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-04-16T14:49:33+00:00"
-    },
-    {
-      "id": "2cac1348ac74be2b81fe3da7129c3de921947d2b69ae7d88763e7cfbaff7faff",
-      "title": "A fake Slack download is giving attackers a hidden desktop on your machine",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine",
-      "summary": "This trojanized Slack installer looks normal, but quietly gives attackers an invisible desktop to access your accounts and data. We take a deep dive into the attack.",
-      "source": "Malwarebytes Labs",
-      "category": "cloud_saas",
-      "date": "2026-04-16T09:26:45+00:00"
     }
   ]
 }

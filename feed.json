@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-12T08:50:49.631054+00:00",
+  "updated": "2026-05-12T20:04:00.315394+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 124,
+  "total_articles": 129,
   "page_size": 50,
   "articles": [
+    {
+      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
+      "title": "The compliance trap: checking boxes isn’t the same as being secure",
+      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
+      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "policy",
+      "date": "2026-05-12T19:01:11+00:00"
+    },
+    {
+      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
+      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
+      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T17:00:44+00:00"
+    },
+    {
+      "id": "cc2f25936bbf3cf0b94c45759a71886f6592148c5c1b99d5a513b19219e91bc8",
+      "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
+      "url": "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best personal audio features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T15:31:02+00:00"
+    },
+    {
+      "id": "201cb8d279130245e8ed04677c15bee8980b9f6e4c2a7ee0bcc7129b2fdcfc75",
+      "title": "Why business architects are poised to lead the corporate AI revolution",
+      "url": "https://www.zdnet.com/article/why-business-architects-are-poised-to-lead-the-corporate-ai-revolution/",
+      "summary": "Business architects and other like-minded roles elevate human skills by developing deep domain knowledge.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-12T12:08:25+00:00"
+    },
+    {
+      "id": "abf2f00eb5e4e78814031613c773cb77a3881614fc131636dbe59937df3d27a0",
+      "title": "Linux Mint vs. Elementary OS: I compared both distros, and here's my advice",
+      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint-which-is-right-for-you/",
+      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T09:00:37+00:00"
+    },
     {
       "id": "5a26b98c21a6515a414219634e31092c392675489217fe8b0043e356eb6e1547",
       "title": "Microsoft PowerToys now lets you control your monitor from the taskbar - here's how",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-03T01:01:07+00:00"
-    },
-    {
-      "id": "e667ebc58261da850cde1d3c06a48beffcdc717f632aba5c1a63f7185c8d231a",
-      "title": "YouTube Premium vs. Premium Lite: Is the cheaper tier still your best deal?",
-      "url": "https://www.zdnet.com/article/youtube-premium-vs-youtube-premium-lite/",
-      "summary": "YouTube videos without ads sound great, but you should know about both plans before overpaying for features you don't use.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-02T11:00:00+00:00"
-    },
-    {
-      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
-      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
-      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T17:46:00+00:00"
-    },
-    {
-      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
-      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
-      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
-      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T15:00:44+00:00"
-    },
-    {
-      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
-      "title": "Best AirPods of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-airpods/",
-      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T11:00:48+00:00"
-    },
-    {
-      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
-      "title": "Worldwide IT services spending to increase in 2026",
-      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
-      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "finance",
-      "date": "2026-04-30T18:08:01+00:00"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-12T08:50:49.631054+00:00",
-  "total": 124,
+  "updated": "2026-05-12T20:04:00.315394+00:00",
+  "total": 129,
   "articles": [
+    {
+      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
+      "title": "The compliance trap: checking boxes isn’t the same as being secure",
+      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
+      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "policy",
+      "date": "2026-05-12T19:01:11+00:00"
+    },
+    {
+      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
+      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
+      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T17:00:44+00:00"
+    },
+    {
+      "id": "cc2f25936bbf3cf0b94c45759a71886f6592148c5c1b99d5a513b19219e91bc8",
+      "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
+      "url": "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best personal audio features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T15:31:02+00:00"
+    },
+    {
+      "id": "201cb8d279130245e8ed04677c15bee8980b9f6e4c2a7ee0bcc7129b2fdcfc75",
+      "title": "Why business architects are poised to lead the corporate AI revolution",
+      "url": "https://www.zdnet.com/article/why-business-architects-are-poised-to-lead-the-corporate-ai-revolution/",
+      "summary": "Business architects and other like-minded roles elevate human skills by developing deep domain knowledge.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-12T12:08:25+00:00"
+    },
+    {
+      "id": "abf2f00eb5e4e78814031613c773cb77a3881614fc131636dbe59937df3d27a0",
+      "title": "Linux Mint vs. Elementary OS: I compared both distros, and here's my advice",
+      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint-which-is-right-for-you/",
+      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T09:00:37+00:00"
+    },
     {
       "id": "5a26b98c21a6515a414219634e31092c392675489217fe8b0043e356eb6e1547",
       "title": "Microsoft PowerToys now lets you control your monitor from the taskbar - here's how",
