@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-12T20:04:00.315394+00:00",
-  "total": 129,
+  "updated": "2026-05-13T08:54:54.179147+00:00",
+  "total": 134,
   "articles": [
+    {
+      "id": "4c224cae1f95bca658d5b23872a1b922bf772f9f95b751bd13fc66cb6e38f810",
+      "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
+      "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
+      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T02:30:44+00:00"
+    },
+    {
+      "id": "a93dd64b15c4fc24ae991cf1ddfeabc765795e81102aaadfb1b98d1b2f78ab81",
+      "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
+      "summary": "Google is going all-in on its new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T01:15:00+00:00"
+    },
+    {
+      "id": "5bfc11bb8f3f2a5d816f44cae0433848e1f04d5f8814ad76b6fcf908d1f18366",
+      "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
+      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
+      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point. Here's how two of your best options compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T01:12:00+00:00"
+    },
+    {
+      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
+      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it",
+      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
+      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-05-13T01:03:00+00:00"
+    },
+    {
+      "id": "d4774613fd8f6e2da1d5b6e3f2d5bf3ad9d1a1786427eca2a39c9980e368752e",
+      "title": "The new FinOps problem isn’t cloud bills",
+      "url": "https://thenewstack.io/finops-ai-token-economics/",
+      "summary": "At Google Cloud Next this month in Las Vegas, The New Stack sat down with Finout co-founder and CEO Roi The post The new FinOps problem isn&#8217;t cloud bills appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-05-12T23:24:43+00:00"
+    },
     {
       "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
       "title": "The compliance trap: checking boxes isn’t the same as being secure",

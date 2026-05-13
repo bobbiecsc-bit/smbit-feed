@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-12T20:04:00.315394+00:00",
+  "updated": "2026-05-13T08:54:54.179147+00:00",
   "page": 3,
   "total_pages": 3,
-  "total_articles": 129,
+  "total_articles": 134,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d484f25d7da40ef5b68c35428d5a98add44e117743e2b8f7dec950333debd65a",
+      "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
+      "url": "https://www.zdnet.com/article/lg-g6-vs-lg-g5/",
+      "summary": "Between the latest LG G6 OLED and last year's G5, here are the key differences to consider before you upgrade.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T02:00:47+00:00"
+    },
+    {
+      "id": "06aa4321e4a9a5e38b34cee22e3e95ad142ddc48fbdd88d86f8b4948be84c078",
+      "title": "I compared Thread, Zigbee, and Matter - here's the best smart home setup for you",
+      "url": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
+      "summary": "All three are related to smart home connectivity, and it's important that you understand their differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T18:53:00+00:00"
+    },
+    {
+      "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
+      "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
+      "url": "https://www.zdnet.com/article/motorola-moto-g-deal/",
+      "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T17:29:25+00:00"
+    },
+    {
+      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
+      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
+      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T16:22:42+00:00"
+    },
+    {
+      "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
+      "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
+      "url": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+      "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T13:30:00+00:00"
+    },
     {
       "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
       "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
