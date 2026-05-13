@@ -1,15 +1,51 @@
 {
-  "updated": "2026-05-13T08:54:54.179147+00:00",
-  "total": 134,
+  "updated": "2026-05-13T20:04:46.625459+00:00",
+  "total": 138,
   "articles": [
+    {
+      "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
+      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
+      "url": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested/",
+      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT&#8217;s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI&#8217;s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-13T14:50:41+00:00"
+    },
+    {
+      "id": "c6052de5c05ce85815b645846d60a70b1dcff99170a08befc7640cbc08d38514",
+      "title": "CachyOS vs. MX Linux: Are you seeking speed or stability in your distro?",
+      "url": "https://www.zdnet.com/article/cachyos-vs-mx-linux-which-is-right-for-you/",
+      "summary": "Both CachyOS and MX Linux sit atop the Distrowatch Page Hit Ranking list, but they are quite different distributions. Which one of these should you choose?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T14:18:48+00:00"
+    },
+    {
+      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
+      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T13:34:00+00:00"
+    },
+    {
+      "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
+      "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
+      "url": "https://www.zdnet.com/article/sony-headphoens-adaptive-sound-control-feature/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best feats.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T09:00:44+00:00"
+    },
     {
       "id": "4c224cae1f95bca658d5b23872a1b922bf772f9f95b751bd13fc66cb6e38f810",
       "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
       "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
-      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different.",
+      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be more different.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-05-13T02:30:44+00:00"
+      "date": "2026-05-13T02:30:00+00:00"
     },
     {
       "id": "a93dd64b15c4fc24ae991cf1ddfeabc765795e81102aaadfb1b98d1b2f78ab81",

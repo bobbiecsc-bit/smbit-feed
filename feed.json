@@ -1,18 +1,54 @@
 {
-  "updated": "2026-05-13T08:54:54.179147+00:00",
+  "updated": "2026-05-13T20:04:46.625459+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 134,
+  "total_articles": 138,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
+      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
+      "url": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested/",
+      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT&#8217;s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI&#8217;s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-13T14:50:41+00:00"
+    },
+    {
+      "id": "c6052de5c05ce85815b645846d60a70b1dcff99170a08befc7640cbc08d38514",
+      "title": "CachyOS vs. MX Linux: Are you seeking speed or stability in your distro?",
+      "url": "https://www.zdnet.com/article/cachyos-vs-mx-linux-which-is-right-for-you/",
+      "summary": "Both CachyOS and MX Linux sit atop the Distrowatch Page Hit Ranking list, but they are quite different distributions. Which one of these should you choose?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T14:18:48+00:00"
+    },
+    {
+      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
+      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T13:34:00+00:00"
+    },
+    {
+      "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
+      "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
+      "url": "https://www.zdnet.com/article/sony-headphoens-adaptive-sound-control-feature/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best feats.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T09:00:44+00:00"
+    },
     {
       "id": "4c224cae1f95bca658d5b23872a1b922bf772f9f95b751bd13fc66cb6e38f810",
       "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
       "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
-      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different.",
+      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be more different.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-05-13T02:30:44+00:00"
+      "date": "2026-05-13T02:30:00+00:00"
     },
     {
       "id": "a93dd64b15c4fc24ae991cf1ddfeabc765795e81102aaadfb1b98d1b2f78ab81",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T17:57:00+00:00"
-    },
-    {
-      "id": "64fe8f5ddd2b349f286f56489d98acbcd5e3c9d83825d928bc72f6e0bbd36508",
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
-      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuri",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-04T17:05:41+00:00"
-    },
-    {
-      "id": "c91992fa751dae01caf5cd15b1672f82a051a6fd5fa4c16e76a10f4826666cbd",
-      "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-      "url": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-      "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T16:00:48+00:00"
-    },
-    {
-      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
-      "title": "Building an agentic AI strategy that pays off - without risking business failure",
-      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
-      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-04T14:10:00+00:00"
-    },
-    {
-      "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
-      "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
-      "summary": "Samsung and Google make some of the best Android phones, making it sometimes difficult to pick between the two. Here's my advice if you're split.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T11:30:49+00:00"
     }
   ]
 }
