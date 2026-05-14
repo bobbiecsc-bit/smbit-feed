@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-14T08:47:46.536787+00:00",
+  "updated": "2026-05-14T19:56:07.900909+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 140,
+  "total_articles": 144,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
+      "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
+      "url": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
+      "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on refresh rates.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T17:00:38+00:00"
+    },
+    {
+      "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
+      "title": "I've tested dozens of Sony headphones - these 4 tweaks get me the best sound quality",
+      "url": "https://www.zdnet.com/article/best-sony-headphones-settings/",
+      "summary": "Sony's headphones and earbuds are full of hidden but useful features. Here are the ones I can always rely on.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T13:30:47+00:00"
+    },
+    {
+      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
+      "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
+      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T11:00:49+00:00"
+    },
+    {
+      "id": "7c67fa9058eeeb0732d1f086740dc7e57a745dcda565987813647c34fa0e33b3",
+      "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
+      "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T09:00:59+00:00"
+    },
     {
       "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
       "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T10:45:33+00:00"
-    },
-    {
-      "id": "2b6d59dae85e6e0b9bb00024dd994051aedc0e333d6ab55d85169105a32ce07a",
-      "title": "The best smart TV VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-tv-vpns/",
-      "summary": "Keep your browsing and streaming activities hidden from ISPs and expand your content libraries with a solid, secure, and fast VPN that works well with smart TVs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T10:00:49+00:00"
-    },
-    {
-      "id": "027f1409784c34531fa2b7bc8463b695f2266ef4a5d82edb9cad19a593ecdc96",
-      "title": "The best free VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-free-vpn/",
-      "summary": "If you're on the hunt for a free VPN to use at home and when you travel, we have you covered. These are our top picks for free VPN services today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T09:00:50+00:00"
-    },
-    {
-      "id": "62cf8271bf4743b4f0de607205c16380c563802e830cc3d11ccf51188f59de39",
-      "title": "Bose QuietComfort Ultra 2 vs. Samsung Galaxy Buds 4 Pro: I tried both, and this pair wins",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
-      "summary": "The latest Samsung earbuds compete squarely with the flagship Bose QuietComfort Ultra Earbuds 2. But are they better?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T01:30:42+00:00"
-    },
-    {
-      "id": "1d062d436e0a583c94214730b7f07e67b97aec68a432ebaa96cec8fb8f7304cd",
-      "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
-      "url": "https://www.zdnet.com/article/bloom-card-review/",
-      "summary": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T19:38:00+00:00"
     }
   ]
 }
