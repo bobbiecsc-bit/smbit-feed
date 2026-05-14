@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-13T20:04:46.625459+00:00",
+  "updated": "2026-05-14T08:47:46.536787+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 138,
+  "total_articles": 140,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
+      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
+      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
+      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T20:44:58+00:00"
+    },
+    {
+      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
+      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
+      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
+      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T17:57:00+00:00"
+    },
     {
       "id": "64fe8f5ddd2b349f286f56489d98acbcd5e3c9d83825d928bc72f6e0bbd36508",
       "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-22T19:38:00+00:00"
-    },
-    {
-      "id": "be8b53e063611d71dc26f3d523e97684d193b3d33b64ec07cf272ba7614986c9",
-      "title": "The best earbuds of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-earbuds/",
-      "summary": "For your workouts, cool-downs, days in the office, and everything in between, we picked the five best earbuds for your day-to-day from brands like Apple, Sony, and Bose.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T18:00:39+00:00"
-    },
-    {
-      "id": "c4ce72531b9ea7a8b014c3304db49ff7d1b43abedb5d22fefbebc8271f75ca0c",
-      "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
-      "url": "https://thenewstack.io/roo-code-cloud-ides-ai-coding/",
-      "summary": "Roo Code, an open source AI coding tool built for VS Code, has announced that it&#8217;s shutting down its VS The post Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-04-22T17:49:07+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-13T20:04:46.625459+00:00",
+  "updated": "2026-05-14T08:47:46.536787+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 138,
+  "total_articles": 140,
   "page_size": 50,
   "articles": [
+    {
+      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
+      "title": "I'm following the 60-60 rule for headphone listening, and my future self will thank me for it",
+      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T01:30:41+00:00"
+    },
+    {
+      "id": "22034874988b7113d0d60aa25ff65dea4a108498768edac69f17f95dd9d32cea",
+      "title": "Adobe Express vs Canva: Which design tool is better?",
+      "url": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
+      "summary": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T20:09:59+00:00"
+    },
     {
       "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
       "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T09:00:59+00:00"
-    },
-    {
-      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
-      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T20:44:58+00:00"
-    },
-    {
-      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
-      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T17:57:00+00:00"
     }
   ]
 }
