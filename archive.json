@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-15T09:21:06.045145+00:00",
-  "total": 149,
+  "updated": "2026-05-15T19:48:37.698302+00:00",
+  "total": 155,
   "articles": [
+    {
+      "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
+      "title": "Samsung vs. Motorola in 2026: I've tested enough phones from both to know my winner",
+      "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
+      "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T13:26:16+00:00"
+    },
+    {
+      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
+      "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
+      "summary": "Smart speakers are all the rage, and Bose's newcomer is a worthy competitor to the established Sonos.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
+    {
+      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "url": "https://thenewstack.io/agentic-ai-build-buy/",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
+    {
+      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
+      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:31:53+00:00"
+    },
+    {
+      "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
+      "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
+      "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:01:00+00:00"
+    },
+    {
+      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
+      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:00:50+00:00"
+    },
     {
       "id": "2ee62b41963cac5f5aaf9a57d6093b2a110815a7733cbad67e1cb2d82df92057",
       "title": "Can anything replace my laptop? I tested 5 remote work setups to find the best alternative",
@@ -60,7 +114,7 @@
       "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
       "title": "Six strategies for AI",
       "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
-      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intellgience.",
+      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-05-14T21:08:57+00:00"
