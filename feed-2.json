@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-14T19:56:07.900909+00:00",
+  "updated": "2026-05-15T09:21:06.045145+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 144,
+  "total_articles": 149,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
+      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
+      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
+      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T11:00:44+00:00"
+    },
+    {
+      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
+      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
+      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
+      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-05-06T10:00:00+00:00"
+    },
+    {
+      "id": "ddcdbae9152bfa0d9dcbb1b6c45dbfc8de4efe4012b669d1b9ee05da7639c427",
+      "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-40-inch-tv/",
+      "summary": "We tested and compared the best 40-inch class TVs from brands like Samsung, Hisense, and more to help you find the right fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T09:00:40+00:00"
+    },
+    {
+      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
+      "title": "How MSPs close the cloud migration security gap",
+      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
+      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-05T20:09:50+00:00"
+    },
+    {
+      "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
+      "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max/",
+      "summary": "Samsung's latest flagship phone offers some impressive and unique features, but how does it compare to Apple's finest?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T18:00:48+00:00"
+    },
     {
       "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
       "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
@@ -409,51 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-04-23T18:10:48+00:00"
-    },
-    {
-      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
-      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
-      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
-      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T18:00:00+00:00"
-    },
-    {
-      "id": "2a684e5a5fd8adb7e72f29b4ffe6aa530f1fa7e4aac9b115446599819efb6b98",
-      "title": "The best SEO reporting software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
-      "summary": "Looking for better ways to track and present your SEO performance? We've tested the best SEO reporting software, including Semrush, Ahrefs, and SE Ranking.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T15:00:04+00:00"
-    },
-    {
-      "id": "864ac5cdb81df93c6c06628d430fc98c599956a50327c8c97de5e14af57413fc",
-      "title": "Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony may be at the top of its game, but how well do the XM6 stack up against its more premium competitors? It comes down to how you use them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T14:58:18+00:00"
-    },
-    {
-      "id": "b40037cc7d6c0dd19ffb6f362c2c1e3b1734bf475ceb57c10fdf8d67a4f80ad1",
-      "title": "Sonos Era 300 vs. Denon Home 400: Why I'm pulling the plug on the more popular speaker",
-      "url": "https://www.zdnet.com/article/sonos-era-300-vs-denon-home-400/",
-      "summary": "Is the Denon Home 400 worth the extra cash? I tested it beside my Sonos Era 300, and here's my verdict.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T11:01:29+00:00"
-    },
-    {
-      "id": "1a3d8f10e096f2a5da1c7732714553215af137df5f34ccf009f001a6bee7ee73",
-      "title": "The best Amazon Fire TV Stick VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-for-firestick/",
-      "summary": "These tried-and-tested VPNs will work with your Amazon Fire TV Stick, giving you more privacy and freedom when streaming.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T10:45:33+00:00"
     }
   ]
 }
