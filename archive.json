@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-15T19:48:37.698302+00:00",
-  "total": 155,
+  "updated": "2026-05-16T08:14:46.331744+00:00",
+  "total": 156,
   "articles": [
+    {
+      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
+      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
+      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
+      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-15T19:47:07+00:00"
+    },
     {
       "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
       "title": "Samsung vs. Motorola in 2026: I've tested enough phones from both to know my winner",

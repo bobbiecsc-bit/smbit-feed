@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-15T19:48:37.698302+00:00",
+  "updated": "2026-05-16T08:14:46.331744+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 155,
+  "total_articles": 156,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
+      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T13:19:02+00:00"
+    },
     {
       "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
       "title": "The best inventory management software of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-03-16T16:02:17+00:00"
-    },
-    {
-      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
-      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
-      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-03-12T21:18:55+00:00"
     }
   ]
 }

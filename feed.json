@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-15T19:48:37.698302+00:00",
+  "updated": "2026-05-16T08:14:46.331744+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 155,
+  "total_articles": 156,
   "page_size": 50,
   "articles": [
+    {
+      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
+      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
+      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
+      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-15T19:47:07+00:00"
+    },
     {
       "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
       "title": "Samsung vs. Motorola in 2026: I've tested enough phones from both to know my winner",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-07T15:27:18+00:00"
-    },
-    {
-      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
-      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-travel-vpn/",
-      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-07T10:30:37+00:00"
     }
   ]
 }
