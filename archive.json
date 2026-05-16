@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-16T08:14:46.331744+00:00",
-  "total": 156,
+  "updated": "2026-05-16T19:17:51.001850+00:00",
+  "total": 157,
   "articles": [
+    {
+      "id": "4042a1ae525d5fb9a0dceb89dbb972dc53c8fe400d35e78c1e27e2df7b5c921c",
+      "title": "The best external hard drives of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-external-hard-drive/",
+      "summary": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-16T09:00:40+00:00"
+    },
     {
       "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
       "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",

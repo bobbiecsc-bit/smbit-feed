@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-16T08:14:46.331744+00:00",
+  "updated": "2026-05-16T19:17:51.001850+00:00",
   "page": 4,
   "total_pages": 4,
-  "total_articles": 156,
+  "total_articles": 157,
   "page_size": 50,
   "articles": [
+    {
+      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
+      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
+      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-03-16T16:02:17+00:00"
+    },
     {
       "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
       "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",

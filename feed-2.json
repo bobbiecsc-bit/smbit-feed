@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-16T08:14:46.331744+00:00",
+  "updated": "2026-05-16T19:17:51.001850+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 156,
+  "total_articles": 157,
   "page_size": 50,
   "articles": [
+    {
+      "id": "20a9b9b952834a2eb183d5393303af2fb44ffecbb1ba2954578baa35b39e3c5e",
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+      "url": "https://thenewstack.io/openai-codex-claude-code/",
+      "summary": "Late last month, OpenAI shipped a new product they dubbed &#8220;Codex for (almost) everything.&#8221; Its goal was to shift&#160;Codex&#160;from a The post I tested the new OpenAI Codex features on a real Python codebase, and it&#8217;s the strongest Claude Code rival yet appeared first on The New ",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-07T15:27:18+00:00"
+    },
     {
       "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
       "title": "Best travel VPNs of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-26T13:00:38+00:00"
-    },
-    {
-      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
-      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-25T10:00:00+00:00"
     }
   ]
 }
