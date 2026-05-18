@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-18T10:21:25.519066+00:00",
+  "updated": "2026-05-18T19:58:46.086979+00:00",
   "total": 159,
   "articles": [
+    {
+      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
+      "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
+      "summary": "Smart speakers are all the rage, and Bose's latest entry is a worthy competitor to the established Sonos.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-18T13:00:43+00:00"
+    },
     {
       "id": "b26b94c2a10dfdaa346c1200a1363d2e0d5a547e85f6f01dcb7ca26931be91a1",
       "title": "Roborock vs. Ecovacs: I've tested dozens of robot vacuums from both brands - this one wins",
@@ -55,15 +64,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-15T19:47:07+00:00"
-    },
-    {
-      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
-      "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
-      "summary": "Smart speakers are all the rage, and Bose's newcomer is a worthy competitor to the established Sonos.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T13:00:00+00:00"
     },
     {
       "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
