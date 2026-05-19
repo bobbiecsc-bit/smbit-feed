@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-18T19:58:46.086979+00:00",
-  "total": 159,
+  "updated": "2026-05-19T10:00:38.693645+00:00",
+  "total": 160,
   "articles": [
+    {
+      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
+      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
+      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-18T19:13:20+00:00"
+    },
     {
       "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
       "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",

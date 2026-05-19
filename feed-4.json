@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-18T19:58:46.086979+00:00",
+  "updated": "2026-05-19T10:00:38.693645+00:00",
   "page": 4,
   "total_pages": 4,
-  "total_articles": 159,
+  "total_articles": 160,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
+      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
+      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
+      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-04-02T14:36:51+00:00"
+    },
     {
       "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
       "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",

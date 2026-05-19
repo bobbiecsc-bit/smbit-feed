@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-18T19:58:46.086979+00:00",
+  "updated": "2026-05-19T10:00:38.693645+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 159,
+  "total_articles": 160,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
+      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
+      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-18T19:13:20+00:00"
+    },
     {
       "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
       "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-09T09:01:04+00:00"
-    },
-    {
-      "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
-      "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
-      "url": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
-      "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Chromebooks could have a leg up.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-08T17:00:41+00:00"
     }
   ]
 }
