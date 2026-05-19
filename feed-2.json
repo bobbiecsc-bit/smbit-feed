@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-19T10:00:38.693645+00:00",
+  "updated": "2026-05-19T20:00:44.495174+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 160,
+  "total_articles": 165,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-05-10T15:00:00+00:00"
+    },
+    {
+      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
+      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-sony-tv/",
+      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-10T09:01:05+00:00"
+    },
+    {
+      "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
+      "title": "Yes, you can get Microsoft 365 free - here's how",
+      "url": "https://www.zdnet.com/article/how-to-get-microsoft-365-free/",
+      "summary": "The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-10T08:00:36+00:00"
+    },
+    {
+      "id": "6ef600c7275a2232b0e45bd2b6848a5dd7f8afd976f488c12ecfb4bbec245b70",
+      "title": "The best 85-inch TVs in 2026: Expert recommended",
+      "url": "https://www.zdnet.com/article/best-85-inch-tv/",
+      "summary": "Upgrading your home theater with a big-screen TV can help create a more cinematic experience at home, and we tested the best from Samsung, Sony, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-09T11:00:54+00:00"
+    },
+    {
+      "id": "6e5aadd50ebed28dda7b9ebea8f46c80358e0c2c428b051a3fe9a7385a27de6c",
+      "title": "Best VPN services 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-vpn/",
+      "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-09T09:01:04+00:00"
+    },
     {
       "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
       "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-28T16:59:33+00:00"
-    },
-    {
-      "id": "5ba0ff6fc39e120bf2d5867f203bf4b2d39dce0edf1e273c9011ff12f7526a31",
-      "title": "I tested a BlackBerry-style Android phone with a keyboard, and it's weirdly practical in 2026",
-      "url": "https://www.zdnet.com/article/unihertz-titan-2-elite-review/",
-      "summary": "Unihertz' new Titan 2 Elite has a full hardware keyboard and lots of available shortcuts.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T15:58:00+00:00"
-    },
-    {
-      "id": "3bc3b7c116e60085f81fcd59e9f7d8f441608a4accdc0a2b7539c13643981eba",
-      "title": "My 5 favorite open source operating systems that aren't Linux",
-      "url": "https://www.zdnet.com/article/my-5-favorite-open-source-operating-systems-that-arent-linux/",
-      "summary": "Looking for non-Linux open-source options? From ghosts of past operating systems to fascinating works in progress, here are my top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T02:00:40+00:00"
-    },
-    {
-      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
-      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
-      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
-      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T18:14:00+00:00"
-    },
-    {
-      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-27T15:01:28+00:00"
-    },
-    {
-      "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
-      "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
-      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
-      "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T14:26:00+00:00"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-19T10:00:38.693645+00:00",
-  "total": 160,
+  "updated": "2026-05-19T20:00:44.495174+00:00",
+  "total": 165,
   "articles": [
+    {
+      "id": "0445537ac3eef827e6ef357ce999ec83b1aca8d31f9ba12c9480194f322b5022",
+      "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
+      "url": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
+      "summary": "These two Linux distributions take different approaches to the desktop. One may have an edge for new users.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-19T19:38:26+00:00"
+    },
+    {
+      "id": "a820fbe50f7187c817749ce46b2143b2b7a1a1e52bb1d9c68c67f47c3905fc13",
+      "title": "I tested Sony's new premium headphones, and they define practical luxury for me",
+      "url": "https://www.zdnet.com/article/sony-1000-x-the-collexion-review/",
+      "summary": "Sony debuts a special edition pair of 1000X-series headphones, striking a balance between modern style and function.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-19T16:00:00+00:00"
+    },
+    {
+      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
+      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-19T14:56:24+00:00"
+    },
+    {
+      "id": "4681d9a3a4322c4e1c6d5d9051bacb52833ccfabbe038b90bc7376cd6997bfa9",
+      "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
+      "url": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
+      "summary": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-19T13:00:00+00:00"
+    },
+    {
+      "id": "f04dd01e6f771f885da7533038d3e1ea2dd45d0ddfec7d9ceb86e55461245c98",
+      "title": "Marshall Milton ANC headphones aim to combine portability with performance",
+      "url": "https://www.zdnet.com/article/marshall-milton-anc-combine-the-portability-of-major-v-with-the-performance-of-monitor-iii/",
+      "summary": "I don't like on-ear headphones, but the new Marshall Milton ANC cans might change my mind due to their cool features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-19T12:00:38+00:00"
+    },
     {
       "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
