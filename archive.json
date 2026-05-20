@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-20T09:50:28.795846+00:00",
-  "total": 165,
+  "updated": "2026-05-20T20:27:13.681202+00:00",
+  "total": 170,
   "articles": [
+    {
+      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
+      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
+      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
+      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've seen so far.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-20T16:00:44+00:00"
+    },
+    {
+      "id": "f8761dcb76314f415272e1fb3b527075586eb5f218d6d2f73c92e9806f5f1e17",
+      "title": "I wore Google's Android XR glasses again - and my limit-testing should scare Meta and Apple",
+      "url": "https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/",
+      "summary": "My latest demos of the Android XR reference glasses and Project Aura show even more promise for Google's wearable lineup.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T13:32:03+00:00"
+    },
+    {
+      "id": "b34eccf8a8b79b1d9ebdce9d54615566ce26c315d056b39770b3ec146ee2afa2",
+      "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
+      "url": "https://www.zdnet.com/article/tcl-vs-hisense/",
+      "summary": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T12:00:42+00:00"
+    },
+    {
+      "id": "b7738a471d725993778cabb7ca72884efc96c7102e27e573dc4a9339dcc29b7d",
+      "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
+      "url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
+      "summary": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T11:30:34+00:00"
+    },
+    {
+      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
+      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-travel-vpn/",
+      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T11:07:52+00:00"
+    },
+    {
+      "id": "6e5aadd50ebed28dda7b9ebea8f46c80358e0c2c428b051a3fe9a7385a27de6c",
+      "title": "Best VPN services 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-vpn/",
+      "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T11:07:22+00:00"
+    },
+    {
+      "id": "349068dce408453cf9c85f5543266b0eb3abab57db997ba191b757cf69ce6b41",
+      "title": "We tested the most popular VPNs in New York, London, and Tokyo - this one is the best for traveling",
+      "url": "https://www.zdnet.com/article/fastest-travel-vpn-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the travel VPN with the fasted download speeds.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T11:00:45+00:00"
+    },
     {
       "id": "0445537ac3eef827e6ef357ce999ec83b1aca8d31f9ba12c9480194f322b5022",
       "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
@@ -489,15 +552,6 @@
       "date": "2026-05-09T11:00:54+00:00"
     },
     {
-      "id": "6e5aadd50ebed28dda7b9ebea8f46c80358e0c2c428b051a3fe9a7385a27de6c",
-      "title": "Best VPN services 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-vpn/",
-      "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-09T09:01:04+00:00"
-    },
-    {
       "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
       "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
       "url": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
@@ -532,15 +586,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-07T15:27:18+00:00"
-    },
-    {
-      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
-      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-travel-vpn/",
-      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-07T10:30:37+00:00"
     },
     {
       "id": "aca38b4d61fa0dd39d54e07eab83fa61990f91ebbbdc2355ad2cc992239b85dc",
