@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-22T09:44:01.246679+00:00",
-  "total": 171,
+  "updated": "2026-05-22T20:00:16.775034+00:00",
+  "total": 174,
   "articles": [
+    {
+      "id": "8f548f3de211864aaa56478caf89da183169db5f0ec580b039d75c7977551f0f",
+      "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
+      "url": "https://www.zdnet.com/article/my-favorite-ipad-air-accessories/",
+      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of the tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-05-22T16:20:03+00:00"
+    },
+    {
+      "id": "88097cbec2f647b5dc2d1db6844d7188071984121a8bff5c2535f3599accfba8",
+      "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
+      "url": "https://www.zdnet.com/article/costco-memorial-day-deal-2026/",
+      "summary": "If you've been thinking about joining Costco, the wholesale retailer is offering a gift card of up to $40 for new members, effectively dropping the price of your membership.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-22T14:30:00+00:00"
+    },
+    {
+      "id": "1a3ae1417add789885936785ec068e77bb6adaa23bb314dd3b9dab48902fca56",
+      "title": "I buried 20 problems in a fake P&L to see if Claude for Small Business could find them",
+      "url": "https://thenewstack.io/claude-small-business-test/",
+      "summary": "Anthropic launched Claude for Small Business this month, adding native connectors to business tools like QuickBooks, HubSpot, Canva, Google Workspace, The post I buried 20 problems in a fake P&amp;L to see if Claude for Small Business could find them appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-05-22T13:00:00+00:00"
+    },
     {
       "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
       "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
