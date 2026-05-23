@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-22T20:00:16.775034+00:00",
+  "updated": "2026-05-23T08:28:28.872256+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 174,
+  "total_articles": 175,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
+      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
+      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T17:00:44+00:00"
+    },
     {
       "id": "cc2f25936bbf3cf0b94c45759a71886f6592148c5c1b99d5a513b19219e91bc8",
       "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-01T11:00:48+00:00"
-    },
-    {
-      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
-      "title": "Worldwide IT services spending to increase in 2026",
-      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
-      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "finance",
-      "date": "2026-04-30T18:08:01+00:00"
     }
   ]
 }

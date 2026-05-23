@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-22T20:00:16.775034+00:00",
+  "updated": "2026-05-23T08:28:28.872256+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 174,
+  "total_articles": 175,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
+      "title": "Worldwide IT services spending to increase in 2026",
+      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
+      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "finance",
+      "date": "2026-04-30T18:08:01+00:00"
+    },
     {
       "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
       "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-04-16T14:49:33+00:00"
-    },
-    {
-      "id": "2cac1348ac74be2b81fe3da7129c3de921947d2b69ae7d88763e7cfbaff7faff",
-      "title": "A fake Slack download is giving attackers a hidden desktop on your machine",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine",
-      "summary": "This trojanized Slack installer looks normal, but quietly gives attackers an invisible desktop to access your accounts and data. We take a deep dive into the attack.",
-      "source": "Malwarebytes Labs",
-      "category": "cloud_saas",
-      "date": "2026-04-16T09:26:45+00:00"
     }
   ]
 }

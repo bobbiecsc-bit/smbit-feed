@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-22T20:00:16.775034+00:00",
+  "updated": "2026-05-23T08:28:28.872256+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 174,
+  "total_articles": 175,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
+      "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-exchange-on-premise-owa-vulnerability-exploited/",
+      "summary": "A Microsoft Exchange Server Outlook Web Access (OWA) spoofing vulnerability, tracked as CVE‑2026‑42897, is actively being exploited in the wild. This issue affects Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition across all update levels. Continue reading [&#8230;",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-05-22T22:09:23+00:00"
+    },
     {
       "id": "8f548f3de211864aaa56478caf89da183169db5f0ec580b039d75c7977551f0f",
       "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "policy",
       "date": "2026-05-12T19:01:11+00:00"
-    },
-    {
-      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
-      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
-      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
-      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T17:00:44+00:00"
     }
   ]
 }
