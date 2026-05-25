@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-25T10:25:53.978814+00:00",
+  "updated": "2026-05-25T19:52:58.680344+00:00",
   "page": 4,
   "total_pages": 4,
-  "total_articles": 175,
+  "total_articles": 176,
   "page_size": 50,
   "articles": [
+    {
+      "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
+      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
+      "summary": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing an",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-04-16T14:49:33+00:00"
+    },
     {
       "id": "2cac1348ac74be2b81fe3da7129c3de921947d2b69ae7d88763e7cfbaff7faff",
       "title": "A fake Slack download is giving attackers a hidden desktop on your machine",

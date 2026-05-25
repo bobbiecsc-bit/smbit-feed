@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-25T10:25:53.978814+00:00",
+  "updated": "2026-05-25T19:52:58.680344+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 175,
+  "total_articles": 176,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
+      "title": "Best AirPods of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-airpods/",
+      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T11:00:48+00:00"
+    },
     {
       "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
       "title": "Worldwide IT services spending to increase in 2026",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-04-16T17:56:33+00:00"
-    },
-    {
-      "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
-      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
-      "summary": "AWS launches Claude Opus 4.7 in Amazon Bedrock, Anthropic's most intelligent Opus model for advancing performance across coding, long-running agents, and professional work. Claude Opus 4.7 is powered by Amazon Bedrock's next generation inference engine, purpose-built for generative AI inferencing an",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-04-16T14:49:33+00:00"
     }
   ]
 }

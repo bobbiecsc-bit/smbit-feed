@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-25T10:25:53.978814+00:00",
+  "updated": "2026-05-25T19:52:58.680344+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 175,
+  "total_articles": 176,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b7376596f29ece387b7bd6e72633baba7b50a873f3f9d47d7f5dd908336e8eca",
+      "title": "The top 10 Memorial Day deals our readers keep buying (No. 3 is tiny yet functional)",
+      "url": "https://www.zdnet.com/article/memorial-day-2026-top-sellers/",
+      "summary": "Memorial Day weekend is wrapping up soon, but these are the deals our readers can't get enough of.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-25T16:47:00+00:00"
+    },
+    {
+      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
+      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-25T16:24:07+00:00"
+    },
+    {
+      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
+      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
+      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
+      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've found.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-25T15:04:29+00:00"
+    },
     {
       "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
       "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
@@ -42,15 +69,6 @@
       "date": "2026-05-22T13:00:00+00:00"
     },
     {
-      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
-      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
-      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
-      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-21T17:12:51+00:00"
-    },
-    {
       "id": "eb6cf3d2e0aab99bd09dcfc98bc4f1ddaba6c53d70647365ea3d674459f57b9f",
       "title": "These Marshall ANC headphones might finally pull me away from Bose and Sony - here's why",
       "url": "https://www.zdnet.com/article/marshall-milton-anc-first-look/",
@@ -58,15 +76,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-21T16:00:51+00:00"
-    },
-    {
-      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
-      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
-      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
-      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've seen so far.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-20T16:00:44+00:00"
     },
     {
       "id": "f8761dcb76314f415272e1fb3b527075586eb5f218d6d2f73c92e9806f5f1e17",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "finance",
       "date": "2026-05-12T23:24:43+00:00"
-    },
-    {
-      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
-      "title": "The compliance trap: checking boxes isn’t the same as being secure",
-      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
-      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "policy",
-      "date": "2026-05-12T19:01:11+00:00"
     }
   ]
 }
