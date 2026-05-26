@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-26T10:13:35.375454+00:00",
+  "updated": "2026-05-26T20:22:52.848006+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 177,
+  "total_articles": 178,
   "page_size": 50,
   "articles": [
+    {
+      "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
+      "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
+      "url": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
+      "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-26T15:38:00+00:00"
+    },
     {
       "id": "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f",
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T01:12:00+00:00"
-    },
-    {
-      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
-      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it",
-      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-05-13T01:03:00+00:00"
     }
   ]
 }

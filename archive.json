@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-26T10:13:35.375454+00:00",
-  "total": 177,
+  "updated": "2026-05-26T20:22:52.848006+00:00",
+  "total": 178,
   "articles": [
+    {
+      "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
+      "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
+      "url": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
+      "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-26T15:38:00+00:00"
+    },
     {
       "id": "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f",
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",

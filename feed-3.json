@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-26T10:13:35.375454+00:00",
+  "updated": "2026-05-26T20:22:52.848006+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 177,
+  "total_articles": 178,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
+      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
+      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T17:46:00+00:00"
+    },
     {
       "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
       "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-04-21T11:00:00+00:00"
-    },
-    {
-      "id": "3e782d7bc5b684c3aa14486fe9870f80f39e65f3b7a82e3b4ced0057976800e6",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-20T15:53:21+00:00"
     }
   ]
 }

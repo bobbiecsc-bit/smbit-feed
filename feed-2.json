@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-26T10:13:35.375454+00:00",
+  "updated": "2026-05-26T20:22:52.848006+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 177,
+  "total_articles": 178,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
+      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it",
+      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
+      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-05-13T01:03:00+00:00"
+    },
     {
       "id": "d4774613fd8f6e2da1d5b6e3f2d5bf3ad9d1a1786427eca2a39c9980e368752e",
       "title": "The new FinOps problem isn’t cloud bills",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-02T11:00:00+00:00"
-    },
-    {
-      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
-      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
-      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T17:46:00+00:00"
     }
   ]
 }
