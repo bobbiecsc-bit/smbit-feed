@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-25T19:52:58.680344+00:00",
+  "updated": "2026-05-26T10:13:35.375454+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 176,
+  "total_articles": 177,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
+      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
+      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
+      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-01T15:00:44+00:00"
+    },
     {
       "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
       "title": "Best AirPods of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-04-20T15:53:21+00:00"
-    },
-    {
-      "id": "38903ba9a49ab63c5e18e6f6a798e95b70ee483b62618e1d60b0ad1d4b41695c",
-      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
-      "url": "https://thenewstack.io/claude-opus-47-launch/",
-      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-16T17:56:33+00:00"
     }
   ]
 }
