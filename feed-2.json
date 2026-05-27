@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-27T10:11:50.604680+00:00",
+  "updated": "2026-05-27T20:26:58.274464+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 179,
+  "total_articles": 183,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c6052de5c05ce85815b645846d60a70b1dcff99170a08befc7640cbc08d38514",
+      "title": "CachyOS vs. MX Linux: Are you seeking speed or stability in your distro?",
+      "url": "https://www.zdnet.com/article/cachyos-vs-mx-linux-which-is-right-for-you/",
+      "summary": "Both CachyOS and MX Linux sit atop the Distrowatch Page Hit Ranking list, but they are quite different distributions. Which one of these should you choose?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T14:18:48+00:00"
+    },
+    {
+      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
+      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T13:34:00+00:00"
+    },
+    {
+      "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
+      "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
+      "url": "https://www.zdnet.com/article/sony-headphoens-adaptive-sound-control-feature/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best feats.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T09:00:44+00:00"
+    },
+    {
+      "id": "4c224cae1f95bca658d5b23872a1b922bf772f9f95b751bd13fc66cb6e38f810",
+      "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
+      "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
+      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be more different.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T02:30:00+00:00"
+    },
+    {
+      "id": "a93dd64b15c4fc24ae991cf1ddfeabc765795e81102aaadfb1b98d1b2f78ab81",
+      "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
+      "summary": "Google is going all-in on its new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T01:15:00+00:00"
+    },
     {
       "id": "5bfc11bb8f3f2a5d816f44cae0433848e1f04d5f8814ad76b6fcf908d1f18366",
       "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
@@ -139,15 +184,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-11T12:00:36+00:00"
-    },
-    {
-      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
-      "title": "Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best",
-      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-      "summary": "Taking on Whoop, Google has unveiled the Fitbit Air. Here's which one is better, by the numbers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-11T10:49:00+00:00"
     },
     {
       "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T11:00:00+00:00"
-    },
-    {
-      "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
-      "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
-      "url": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
-      "summary": "Just how reliable is that smartwatch or smart ring? I tested three of the most popular health trackers to find out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T00:30:39+00:00"
-    },
-    {
-      "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
-      "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
-      "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
-      "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T19:00:46+00:00"
-    },
-    {
-      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
-      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T17:00:45+00:00"
-    },
-    {
-      "id": "479481334a9102ef8c84a9716c5bb2bc2a94bba707fbadb176eb279a0ff9f64c",
-      "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
-      "url": "https://www.zdnet.com/article/why-i-own-4-different-pairs-of-headphones/",
-      "summary": "While a true 'all-in-one' pair of headphones may not exist for every user, these four come pretty close.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T01:01:07+00:00"
     }
   ]
 }
