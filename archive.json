@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-26T20:22:52.848006+00:00",
-  "total": 178,
+  "updated": "2026-05-27T10:11:50.604680+00:00",
+  "total": 179,
   "articles": [
+    {
+      "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
+      "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
+      "url": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
+      "summary": "Replacing your current Linux shell with something way more user-friendly is a lot easier than you think. Let's go Fish!",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-27T01:00:37+00:00"
+    },
     {
       "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
       "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
