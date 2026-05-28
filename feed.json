@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-28T10:20:44.157446+00:00",
+  "updated": "2026-05-28T20:33:41.315548+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 185,
+  "total_articles": 188,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bee5ae513eac1802b9a2981041a7ba44c757cfc8db1da12a0c2b0484cc025a70",
+      "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
+      "url": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+      "summary": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-28T13:10:13+00:00"
+    },
+    {
+      "id": "fa060956a47ac552a9fac5b6ecc54d656914bde84fa1293b37fbd40ccfebc41b",
+      "title": "Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close",
+      "url": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
+      "summary": "Your favorite smart ring is getting slimmer. Is the Oura Ring 5 worth the upgrade? I break it down.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "d534e3018e54f5c6756eddbe695931b2b89f34b92773e9aad2b2d013ab4835da",
+      "title": "Why a Bluetooth upgrade for AirPods excites me more than cameras or AI",
+      "url": "https://www.zdnet.com/article/why-bluetooth-upgrade-to-airpods-excites-me-more-than-cameras-or-ai/",
+      "summary": "Apple's WWDC is around the corner, and I'm hoping for one big software update to AirPods.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T11:00:34+00:00"
+    },
     {
       "id": "996e32fa4666895fd4030206af055be2e7b2ed2f9b36319f0a2006844488a437",
       "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
@@ -12,7 +39,7 @@
       "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-05-28T09:00:34+00:00"
+      "date": "2026-05-28T09:00:00+00:00"
     },
     {
       "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-14T16:00:47+00:00"
-    },
-    {
-      "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
-      "title": "The best microSD cards of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-microsd-card/",
-      "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T11:00:38+00:00"
-    },
-    {
-      "id": "6b89a42ac61752acf3c251b0202525bddc64c42ce82065b7ff777d30698f4d77",
-      "title": "The best secure browsers for privacy in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-browser-for-privacy/",
-      "summary": "Worried about your online activities from being tracked, or your browsing habits being sold? Make the switch to one of our favorite secure browsers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T10:00:38+00:00"
-    },
-    {
-      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
-      "title": "The best VPN routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-router/",
-      "summary": "My favorite VPN routers provide blanket coverage and security for your home, saving you the work of installing VPNs on individual devices. Check out my top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T09:00:55+00:00"
     }
   ]
 }
