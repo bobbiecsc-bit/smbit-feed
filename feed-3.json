@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-27T20:26:58.274464+00:00",
+  "updated": "2026-05-28T10:20:44.157446+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 183,
+  "total_articles": 185,
   "page_size": 50,
   "articles": [
+    {
+      "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
+      "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
+      "summary": "Samsung and Google make some of the best Android phones, making it sometimes difficult to pick between the two. Here's my advice if you're split.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T11:30:49+00:00"
+    },
+    {
+      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
+      "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
+      "summary": "Waze is great for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my pick.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T11:00:00+00:00"
+    },
     {
       "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
       "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-22T11:06:10+00:00"
-    },
-    {
-      "id": "977ba6dbaa7c1b0ea7577a2b26c65cb4e712f148e0c3b4bfeb76f8af16e22c11",
-      "title": "We compared 10 robot vacuums for sand pickup - and one model was the clear favorite",
-      "url": "https://www.zdnet.com/article/best-pickup-performance-robot-vacuums-lab-tested/",
-      "summary": "ZDNET's latest Lab Award crowns the top robot vacuum that picked up the most sand in our testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T11:00:51+00:00"
-    },
-    {
-      "id": "d484f25d7da40ef5b68c35428d5a98add44e117743e2b8f7dec950333debd65a",
-      "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
-      "url": "https://www.zdnet.com/article/lg-g6-vs-lg-g5/",
-      "summary": "Between the latest LG G6 OLED and last year's G5, here are the key differences to consider before you upgrade.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T02:00:47+00:00"
     }
   ]
 }

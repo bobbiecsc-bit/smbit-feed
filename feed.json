@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-27T20:26:58.274464+00:00",
+  "updated": "2026-05-28T10:20:44.157446+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 183,
+  "total_articles": 185,
   "page_size": 50,
   "articles": [
+    {
+      "id": "996e32fa4666895fd4030206af055be2e7b2ed2f9b36319f0a2006844488a437",
+      "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
+      "url": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
+      "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T09:00:34+00:00"
+    },
+    {
+      "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
+      "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
+      "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
+      "summary": "The Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how I've been using it.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T00:30:00+00:00"
+    },
     {
       "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
       "title": "Whoop vs. Fitbit Air: I've tested both trackers for health and fitness, and this model wins",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-14T09:00:55+00:00"
-    },
-    {
-      "id": "22034874988b7113d0d60aa25ff65dea4a108498768edac69f17f95dd9d32cea",
-      "title": "Adobe Express vs Canva: Which design tool is better?",
-      "url": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
-      "summary": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T20:09:59+00:00"
-    },
-    {
-      "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
-      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
-      "url": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested/",
-      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT&#8217;s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI&#8217;s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-13T14:50:41+00:00"
     }
   ]
 }
