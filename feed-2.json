@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-29T10:10:01.993824+00:00",
+  "updated": "2026-05-29T20:35:30.403593+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 188,
+  "total_articles": 190,
   "page_size": 50,
   "articles": [
+    {
+      "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
+      "title": "Six strategies for AI",
+      "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
+      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-14T21:08:57+00:00"
+    },
+    {
+      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
+      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T16:00:47+00:00"
+    },
     {
       "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
       "title": "The best microSD cards of 2026: Expert tested and reviewed",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T09:00:59+00:00"
-    },
-    {
-      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
-      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T20:44:58+00:00"
-    },
-    {
-      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
-      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T17:57:00+00:00"
     }
   ]
 }
