@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-30T08:37:09.577906+00:00",
+  "updated": "2026-05-30T19:37:47.741573+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 191,
+  "total_articles": 194,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
+      "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
+      "summary": "The Motorola Razr Fold faces tough competition from Samsung and Google, but still manages to stand out for these reasons.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:41:00+00:00"
+    },
+    {
+      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
+      "title": "Are you following the 60-60 rule with headphone listening? Your future self will thank you",
+      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:36:00+00:00"
+    },
+    {
+      "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
+      "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
+      "url": "https://www.zdnet.com/article/motorola-razr-fold-review/",
+      "summary": "The latest Razr Fold is a valiant first attempt at a book-style foldable phone, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:00:51+00:00"
+    },
     {
       "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
       "title": "Survey shows MSPs with cloud optimization expertise are in need",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T18:00:48+00:00"
-    },
-    {
-      "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
-      "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
-      "url": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
-      "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on refresh rates.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T17:00:38+00:00"
-    },
-    {
-      "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
-      "title": "I've tested dozens of Sony headphones - these 4 tweaks get me the best sound quality",
-      "url": "https://www.zdnet.com/article/best-sony-headphones-settings/",
-      "summary": "Sony's headphones and earbuds are full of hidden but useful features. Here are the ones I can always rely on.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T13:30:47+00:00"
-    },
-    {
-      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
-      "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
-      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T11:00:49+00:00"
     }
   ]
 }
