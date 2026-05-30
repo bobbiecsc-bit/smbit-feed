@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-29T20:35:30.403593+00:00",
+  "updated": "2026-05-30T08:37:09.577906+00:00",
   "page": 4,
   "total_pages": 4,
-  "total_articles": 190,
+  "total_articles": 191,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1d062d436e0a583c94214730b7f07e67b97aec68a432ebaa96cec8fb8f7304cd",
+      "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
+      "url": "https://www.zdnet.com/article/bloom-card-review/",
+      "summary": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-22T19:38:00+00:00"
+    },
     {
       "id": "be8b53e063611d71dc26f3d523e97684d193b3d33b64ec07cf272ba7614986c9",
       "title": "The best earbuds of 2026: Expert tested and reviewed",

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-29T20:35:30.403593+00:00",
+  "updated": "2026-05-30T08:37:09.577906+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 190,
+  "total_articles": 191,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bcf921beb7259d8ba283d777bc43330af54e9ab28939db7400759e200aae61c3",
+      "title": "Cybersecurity Threat Advisory: Critical Connectwise Automate vulnerability",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-critical-connectwise-automate-vulnerability/",
+      "summary": "ConnectWise has disclosed a high-impact vulnerability in its ConnectWise Automate platform that could allow attackers to bypass critical integrity validation during the agent’s plugin loading and self-update mechanisms, potentially enabling malicious code execution on affected on-premises deployment",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-05-29T21:30:01+00:00"
+    },
     {
       "id": "298cd86b4cf5b255f47d023018fd41b0898143b9aa463dfd22607201305a3666",
       "title": "I tried different Android Auto weather apps - these 3 are best for storm nerds like me",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T01:00:51+00:00"
-    },
-    {
-      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
-      "title": "Survey shows MSPs with cloud optimization expertise are in need",
-      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
-      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-14T23:22:38+00:00"
     }
   ]
 }

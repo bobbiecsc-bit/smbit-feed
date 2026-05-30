@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-29T20:35:30.403593+00:00",
+  "updated": "2026-05-30T08:37:09.577906+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 190,
+  "total_articles": 191,
   "page_size": 50,
   "articles": [
+    {
+      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
+      "title": "Survey shows MSPs with cloud optimization expertise are in need",
+      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
+      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-14T23:22:38+00:00"
+    },
     {
       "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
       "title": "Six strategies for AI",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T11:00:49+00:00"
-    },
-    {
-      "id": "7c67fa9058eeeb0732d1f086740dc7e57a745dcda565987813647c34fa0e33b3",
-      "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
-      "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T09:00:59+00:00"
     }
   ]
 }
