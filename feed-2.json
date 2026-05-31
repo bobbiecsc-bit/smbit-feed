@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-31T09:16:08.654082+00:00",
+  "updated": "2026-05-31T19:36:37.368265+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 194,
+  "total_articles": 195,
   "page_size": 50,
   "articles": [
+    {
+      "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
+      "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
+      "url": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
+      "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-05-15T02:00:42+00:00"
+    },
     {
       "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
       "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-05T20:09:50+00:00"
-    },
-    {
-      "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
-      "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max/",
-      "summary": "Samsung's latest flagship phone offers some impressive and unique features, but how does it compare to Apple's finest?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T18:00:48+00:00"
     }
   ]
 }
