@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-01T11:51:39.766105+00:00",
+  "updated": "2026-06-01T21:40:47.657627+00:00",
   "page": 2,
   "total_pages": 4,
-  "total_articles": 197,
+  "total_articles": 199,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "url": "https://thenewstack.io/agentic-ai-build-buy/",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
+    {
+      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
+      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:31:53+00:00"
+    },
     {
       "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
       "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-06T12:00:38+00:00"
-    },
-    {
-      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
-      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
-      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
-      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T11:00:44+00:00"
-    },
-    {
-      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
-      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
-      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
-      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-05-06T10:00:00+00:00"
     }
   ]
 }

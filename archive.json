@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-01T11:51:39.766105+00:00",
-  "total": 197,
+  "updated": "2026-06-01T21:40:47.657627+00:00",
+  "total": 199,
   "articles": [
+    {
+      "id": "b0f49cf3322a647082877df11a8430a8a8c219d1591683257559459ebd4e6f46",
+      "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
+      "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+      "summary": "Six months ago, the agentic coding tool was still an argument about form. By the start of June 2026, the The post Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-01T17:20:57+00:00"
+    },
+    {
+      "id": "d7ca4dea42773397dd9aca317de1224849c95f9c41e66dd7dc2d613420c3e0fc",
+      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separat",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-01T14:25:33+00:00"
+    },
     {
       "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
       "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",

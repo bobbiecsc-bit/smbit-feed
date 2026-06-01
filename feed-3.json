@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-01T11:51:39.766105+00:00",
+  "updated": "2026-06-01T21:40:47.657627+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 197,
+  "total_articles": 199,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
+      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
+      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
+      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T11:00:44+00:00"
+    },
+    {
+      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
+      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
+      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
+      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-05-06T10:00:00+00:00"
+    },
     {
       "id": "ddcdbae9152bfa0d9dcbb1b6c45dbfc8de4efe4012b669d1b9ee05da7639c427",
       "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-04-23T18:10:48+00:00"
-    },
-    {
-      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
-      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
-      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
-      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T18:00:00+00:00"
-    },
-    {
-      "id": "2a684e5a5fd8adb7e72f29b4ffe6aa530f1fa7e4aac9b115446599819efb6b98",
-      "title": "The best SEO reporting software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
-      "summary": "Looking for better ways to track and present your SEO performance? We've tested the best SEO reporting software, including Semrush, Ahrefs, and SE Ranking.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T15:00:04+00:00"
     }
   ]
 }
