@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-31T19:36:37.368265+00:00",
-  "total": 195,
+  "updated": "2026-06-01T11:51:39.766105+00:00",
+  "total": 197,
   "articles": [
+    {
+      "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
+      "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
+      "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+      "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-01T09:00:48+00:00"
+    },
+    {
+      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
+      "title": "Dell XPS 13 (2026) vs. MacBook Neo: I compared both budget laptops, here's which one I'd buy",
+      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+      "summary": "Dell just announced its new 13-inch XPS for $599 with student pricing, making it a direct competitor to the Neo.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-31T23:00:57+00:00"
+    },
     {
       "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
       "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",

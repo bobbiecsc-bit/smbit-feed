@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-31T19:36:37.368265+00:00",
+  "updated": "2026-06-01T11:51:39.766105+00:00",
   "page": 1,
   "total_pages": 4,
-  "total_articles": 195,
+  "total_articles": 197,
   "page_size": 50,
   "articles": [
+    {
+      "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
+      "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
+      "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+      "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-01T09:00:48+00:00"
+    },
+    {
+      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
+      "title": "Dell XPS 13 (2026) vs. MacBook Neo: I compared both budget laptops, here's which one I'd buy",
+      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+      "summary": "Dell just announced its new 13-inch XPS for $599 with student pricing, making it a direct competitor to the Neo.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-31T23:00:57+00:00"
+    },
     {
       "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
       "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T12:31:53+00:00"
-    },
-    {
-      "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
-      "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
-      "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:01:00+00:00"
-    },
-    {
-      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
-      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:00:50+00:00"
     }
   ]
 }
