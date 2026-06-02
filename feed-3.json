@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-01T21:40:47.657627+00:00",
+  "updated": "2026-06-02T10:50:18.908095+00:00",
   "page": 3,
-  "total_pages": 4,
-  "total_articles": 199,
+  "total_pages": 5,
+  "total_articles": 201,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f6965e5d4a286765bba544df6ed27d0298958762569cb7ecca3385a6546ef62",
+      "title": "Attackers adopt JavaScript runtime Bun to spread NWHStealer",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer",
+      "summary": "A legitimate developer tool is being repurposed by attackers to package and spread this Windows infostealer in harder-to-detect ways.",
+      "source": "Malwarebytes Labs",
+      "category": "continuity",
+      "date": "2026-05-06T12:50:55+00:00"
+    },
+    {
+      "id": "4b844cb02be2598f337864cb01ff0546a1add4bf1a92652179f66e27289ae9a8",
+      "title": "I tested ReMarkable's 'cheap' Paper Pure tablet, and it hardly feels like a downgrade",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
+      "summary": "The Paper Pure pairs an accessible design with modest hardware while retaining ReMarkable's niche functionality.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T12:00:38+00:00"
+    },
     {
       "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
       "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-24T01:00:39+00:00"
-    },
-    {
-      "id": "890b320df320b75c0f123fd41af957fe081318ada335ad5df97e53651a0c5839",
-      "title": "DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint",
-      "url": "https://www.zdnet.com/article/delete-me-review/",
-      "summary": "Tools like DeleteMe help remove your personal info online. Here's what they get right - and wrong.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T23:00:45+00:00"
-    },
-    {
-      "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
-      "title": "Top 5 opportunities for firms",
-      "url": "https://www.accountingtoday.com/list/top-5-opportunities-for-accounting-firms",
-      "summary": "The rapidly changing profession leaves firms with a host of challenges — and opportunities.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-04-23T18:10:48+00:00"
     }
   ]
 }

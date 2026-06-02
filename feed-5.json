@@ -1,0 +1,18 @@
+{
+  "updated": "2026-06-02T10:50:18.908095+00:00",
+  "page": 5,
+  "total_pages": 5,
+  "total_articles": 201,
+  "page_size": 50,
+  "articles": [
+    {
+      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
+      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
+      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
+      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
+      "source": "ServerWatch",
+      "category": "product_review",
+      "date": "2023-11-14T21:31:21+00:00"
+    }
+  ]
+}

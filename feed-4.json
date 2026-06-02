@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-01T21:40:47.657627+00:00",
+  "updated": "2026-06-02T10:50:18.908095+00:00",
   "page": 4,
-  "total_pages": 4,
-  "total_articles": 199,
+  "total_pages": 5,
+  "total_articles": 201,
   "page_size": 50,
   "articles": [
+    {
+      "id": "890b320df320b75c0f123fd41af957fe081318ada335ad5df97e53651a0c5839",
+      "title": "DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint",
+      "url": "https://www.zdnet.com/article/delete-me-review/",
+      "summary": "Tools like DeleteMe help remove your personal info online. Here's what they get right - and wrong.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T23:00:45+00:00"
+    },
+    {
+      "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
+      "title": "Top 5 opportunities for firms",
+      "url": "https://www.accountingtoday.com/list/top-5-opportunities-for-accounting-firms",
+      "summary": "The rapidly changing profession leaves firms with a host of challenges — and opportunities.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-23T18:10:48+00:00"
+    },
     {
       "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
       "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
@@ -436,15 +454,6 @@
       "source": "ServerWatch",
       "category": "product_review",
       "date": "2023-12-01T17:34:43+00:00"
-    },
-    {
-      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
-      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
-      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
-      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
-      "source": "ServerWatch",
-      "category": "product_review",
-      "date": "2023-11-14T21:31:21+00:00"
     }
   ]
 }

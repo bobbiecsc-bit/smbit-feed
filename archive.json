@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-01T21:40:47.657627+00:00",
-  "total": 199,
+  "updated": "2026-06-02T10:50:18.908095+00:00",
+  "total": 201,
   "articles": [
+    {
+      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
+      "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
+      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
+      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-06-02T02:30:43+00:00"
+    },
+    {
+      "id": "fb55747b2ef1520d920c96d90c5bc0d1708f5ca51f11662cc1a5ce10c6d5e310",
+      "title": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
+      "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
+      "summary": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:44:00+00:00"
+    },
+    {
+      "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
+      "title": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
+      "url": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
+      "summary": "Sony recently announced the new Bravia 9 II True RGB TV. Is it worth upgrading from the older Bravia 9 Mini LED? I break down the differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:23:00+00:00"
+    },
+    {
+      "id": "16d24b24ef609946f431e44531e12dbeaaa29e11940377508ee18da777a56a4a",
+      "title": "I tried gaming on Android Auto and found 4 apps that made car downtime less boring",
+      "url": "https://www.zdnet.com/article/i-tried-android-auto-games-and-apps/",
+      "summary": "In addition to the built-in Gamesnacks, these titles will help time move more quickly when you're parked.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:17:00+00:00"
+    },
     {
       "id": "b0f49cf3322a647082877df11a8430a8a8c219d1591683257559459ebd4e6f46",
       "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
@@ -172,15 +208,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-27T19:31:20+00:00"
-    },
-    {
-      "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
-      "title": "Sony Bravia 9 II vs. Bravia 9: I compared both TV models, and True RGB is a serious upgrade",
-      "url": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
-      "summary": "Sony just announced the new Bravia 9 II True RGB TV. But is it worth upgrading from the older Bravia 9 Mini LED?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-27T18:16:00+00:00"
     },
     {
       "id": "9a5ced975027f348eeec6a1c72931c8703898b221d2e41f6d60679d338d58f58",
@@ -649,15 +676,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T01:12:00+00:00"
-    },
-    {
-      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
-      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it",
-      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-05-13T01:03:00+00:00"
     },
     {
       "id": "d4774613fd8f6e2da1d5b6e3f2d5bf3ad9d1a1786427eca2a39c9980e368752e",
