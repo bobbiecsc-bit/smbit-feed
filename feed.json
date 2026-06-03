@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-03T11:19:07.129468+00:00",
+  "updated": "2026-06-03T21:25:37.364440+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 207,
+  "total_articles": 211,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
+      "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
+      "url": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
+      "summary": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T17:02:07+00:00"
+    },
+    {
+      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
+      "title": "I asked Bluetooth reps why our devices don't always connect properly - and learned the hard truth",
+      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T16:00:00+00:00"
+    },
+    {
+      "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
+      "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
+      "url": "https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/",
+      "summary": "Can you get a Copilot agent to do your work for you? I tried, but the AI wasn't ready to play along.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T14:43:00+00:00"
+    },
+    {
+      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
+      "title": "The best early Prime Day smartwatch and smart ring deals I'd recommend",
+      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and health tracker deals I've found ahead of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T12:00:49+00:00"
+    },
     {
       "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
       "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-20T11:07:52+00:00"
-    },
-    {
-      "id": "6e5aadd50ebed28dda7b9ebea8f46c80358e0c2c428b051a3fe9a7385a27de6c",
-      "title": "Best VPN services 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-vpn/",
-      "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:07:22+00:00"
-    },
-    {
-      "id": "349068dce408453cf9c85f5543266b0eb3abab57db997ba191b757cf69ce6b41",
-      "title": "We tested the most popular VPNs in New York, London, and Tokyo - this one is the best for traveling",
-      "url": "https://www.zdnet.com/article/fastest-travel-vpn-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the travel VPN with the fasted download speeds.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:00:45+00:00"
-    },
-    {
-      "id": "0445537ac3eef827e6ef357ce999ec83b1aca8d31f9ba12c9480194f322b5022",
-      "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
-      "url": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
-      "summary": "These two Linux distributions take different approaches to the desktop. One may have an edge for new users.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T19:38:26+00:00"
-    },
-    {
-      "id": "4681d9a3a4322c4e1c6d5d9051bacb52833ccfabbe038b90bc7376cd6997bfa9",
-      "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
-      "url": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
-      "summary": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T13:00:00+00:00"
     }
   ]
 }
