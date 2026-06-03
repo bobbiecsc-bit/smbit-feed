@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-02T21:19:34.487478+00:00",
+  "updated": "2026-06-03T11:19:07.129468+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 206,
+  "total_articles": 207,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-08T00:43:04+00:00"
+    },
     {
       "id": "20a9b9b952834a2eb183d5393303af2fb44ffecbb1ba2954578baa35b39e3c5e",
       "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-26T13:00:38+00:00"
-    },
-    {
-      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
-      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-25T10:00:00+00:00"
     }
   ]
 }

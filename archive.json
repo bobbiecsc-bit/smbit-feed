@@ -1,15 +1,33 @@
 {
-  "updated": "2026-06-02T21:19:34.487478+00:00",
-  "total": 206,
+  "updated": "2026-06-03T11:19:07.129468+00:00",
+  "total": 207,
   "articles": [
     {
+      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
+      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
+      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
+      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T09:00:48+00:00"
+    },
+    {
+      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
+      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
+      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
+      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T01:07:00+00:00"
+    },
+    {
       "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
-      "title": "I compared the two best Android camera phones in 2026 - and it's surprisingly close",
+      "title": "Samsung Galaxy S26 Ultra vs. Vivo X300 Ultra: My results after camera-testing the Android phones",
       "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
       "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but the latter impressed me in ways I didn't expect.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-06-02T16:56:00+00:00"
+      "date": "2026-06-03T01:00:39+00:00"
     },
     {
       "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
@@ -37,15 +55,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-02T14:42:38+00:00"
-    },
-    {
-      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
-      "title": "I set 10 honesty traps for Claude Opus 4.8 - and a legal test broke it",
-      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "summary": "I tested Opus 4.8 against 4.7 using coding, medical, finance, and legal traps, then cross-checked the results with multiple AIs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-02T12:41:00+00:00"
     },
     {
       "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
