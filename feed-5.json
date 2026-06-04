@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-04T10:11:50.812798+00:00",
+  "updated": "2026-06-04T20:16:20.707002+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 215,
+  "total_articles": 222,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7fe1b09c9d5548db6eac569a414ca16432eb02fef0a2ded0ae4afbf560472388",
+      "title": "The biggest issues facing accounting firms",
+      "url": "https://www.accountingtoday.com/list/13-issues-worrying-accounting-firm-leaders",
+      "summary": "Leaders from the Top 100 Firm name the top challenges to the profession — from private equity and tech, to staffing and change management.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-12T00:03:34+00:00"
+    },
+    {
+      "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
+      "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
+      "url": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
+      "summary": "Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-10T11:00:38+00:00"
+    },
+    {
+      "id": "8788549827dd1212a90c01c55f00f779f3d4b491c69a5d3dcde250d5f69da18c",
+      "title": "The best business VoIP services in 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-business-voip-providers/",
+      "summary": "Navigate the VoIP landscape with ease and retire your old lines with our guide on the best VoIP providers of 2026.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-04-09T10:01:23+00:00"
+    },
+    {
+      "id": "d7a8736e77808b8a4b99ba41e8421e2627c293e923e8fc9c3884e62a881054cb",
+      "title": "Digits announces outcome-based pricing",
+      "url": "https://www.accountingtoday.com/news/digits-announces-outcome-based-pricing",
+      "summary": "Digits announced that accountants will only pay for clients if the Digits platform successfully automates 95% or more of transactions with zero human touch.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-04-08T14:52:51+00:00"
+    },
+    {
+      "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
+      "title": "Russian hacking group targets home and small office routers to spy on users",
+      "url": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
+      "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
+      "source": "Malwarebytes Labs",
+      "category": "infrastructure",
+      "date": "2026-04-08T13:31:25+00:00"
+    },
+    {
+      "id": "4afdcf18072869acaedbdaf7430304339eeaf319417bedd02b9456261f110f67",
+      "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
+      "url": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+      "summary": "Between the Apple AirPods Max 2, Bose QuietComfort Ultra 2, and Sony WH-1000XM6, here's how they compare after real-world testing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-08T02:00:57+00:00"
+    },
+    {
+      "id": "a322ecfd7c1050ec61f3c6cc217be3fd74275854756f09e1ab485466ac2eeadb",
+      "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",
+      "url": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+      "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-04-07T20:07:20+00:00"
+    },
     {
       "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
       "title": "What does a “right-size” incident response plan look like?",
