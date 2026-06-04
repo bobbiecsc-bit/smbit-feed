@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-03T21:25:37.364440+00:00",
+  "updated": "2026-06-04T10:11:50.812798+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 211,
+  "total_articles": 215,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c3d602d0ce17abc469e0cb0a3f539134f33baafe61ff503a629607a6c9f2fe4f",
+      "title": "Grant Thornton launches AI-enabled audit platform",
+      "url": "https://www.accountingtoday.com/news/grant-thornton-launches-unified-ai-enabled-audit-platform-gtap",
+      "summary": "Top 10 Firm Grant Thornton announced the launch of gtap, a proprietary audit infrastructure intended to redefine how the firm performs audits.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-11T14:13:27+00:00"
+    },
+    {
+      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
+      "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+      "summary": "While Samsung focuses on durability and AI, the new Motorola phone is all about the design. Here's which one is better overall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-11T12:00:36+00:00"
+    },
+    {
+      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-05-10T15:00:00+00:00"
+    },
+    {
+      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
+      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-sony-tv/",
+      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-10T09:01:05+00:00"
+    },
     {
       "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
       "title": "Yes, you can get Microsoft 365 free - here's how",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-28T16:59:33+00:00"
-    },
-    {
-      "id": "5ba0ff6fc39e120bf2d5867f203bf4b2d39dce0edf1e273c9011ff12f7526a31",
-      "title": "I tested a BlackBerry-style Android phone with a keyboard, and it's weirdly practical in 2026",
-      "url": "https://www.zdnet.com/article/unihertz-titan-2-elite-review/",
-      "summary": "Unihertz' new Titan 2 Elite has a full hardware keyboard and lots of available shortcuts.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T15:58:00+00:00"
-    },
-    {
-      "id": "3bc3b7c116e60085f81fcd59e9f7d8f441608a4accdc0a2b7539c13643981eba",
-      "title": "My 5 favorite open source operating systems that aren't Linux",
-      "url": "https://www.zdnet.com/article/my-5-favorite-open-source-operating-systems-that-arent-linux/",
-      "summary": "Looking for non-Linux open-source options? From ghosts of past operating systems to fascinating works in progress, here are my top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T02:00:40+00:00"
-    },
-    {
-      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
-      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
-      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
-      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T18:14:00+00:00"
-    },
-    {
-      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-27T15:01:28+00:00"
     }
   ]
 }

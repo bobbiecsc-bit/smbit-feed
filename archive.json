@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-03T21:25:37.364440+00:00",
-  "total": 211,
+  "updated": "2026-06-04T10:11:50.812798+00:00",
+  "total": 215,
   "articles": [
+    {
+      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
+      "title": "I found the best early Prime Day Apple deals: MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
+      "summary": "Save on top Apple devices with these early Prime Day deals, hand-selected by our reviewers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-04T10:00:39+00:00"
+    },
+    {
+      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
+      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Amazon Prime Day is still weeks away, but great deals on Samsung phones, smartwatches, and TVs are already live.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-04T09:00:54+00:00"
+    },
+    {
+      "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
+      "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
+      "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
+      "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T23:05:00+00:00"
+    },
+    {
+      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
+      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
+      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T22:46:00+00:00"
+    },
+    {
+      "id": "814541e868eb3c0e9315b248fd894cc12da128d3535ce18c0193742d62c0701a",
+      "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
+      "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
+      "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys ",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-03T22:37:29+00:00"
+    },
     {
       "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
       "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
@@ -10,15 +55,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T17:02:07+00:00"
-    },
-    {
-      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
-      "title": "I asked Bluetooth reps why our devices don't always connect properly - and learned the hard truth",
-      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T16:00:00+00:00"
     },
     {
       "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
