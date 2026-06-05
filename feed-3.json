@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-04T20:16:20.707002+00:00",
+  "updated": "2026-06-05T10:06:05.393296+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 222,
+  "total_articles": 224,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
+      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
+      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T17:00:44+00:00"
+    },
+    {
+      "id": "cc2f25936bbf3cf0b94c45759a71886f6592148c5c1b99d5a513b19219e91bc8",
+      "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
+      "url": "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/",
+      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best personal audio features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-12T15:31:02+00:00"
+    },
     {
       "id": "201cb8d279130245e8ed04677c15bee8980b9f6e4c2a7ee0bcc7129b2fdcfc75",
       "title": "Why business architects are poised to lead the corporate AI revolution",
@@ -436,24 +454,6 @@
       "source": "Smarter MSP",
       "category": "finance",
       "date": "2026-04-30T18:08:01+00:00"
-    },
-    {
-      "id": "d4632741ec2f37474a406280f5f80a0ebe11d1e79f25b29097029910bb9f26b9",
-      "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
-      "url": "https://www.zdnet.com/article/sony-vs-bose-headphones-2026/",
-      "summary": "Sony and Bose make best-in-class headphones, but my extended time with the latest flagship models reveals their true strengths and weaknesses.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T15:52:00+00:00"
-    },
-    {
-      "id": "6f1ce3c363ae8f0149df4740cd47d519db2ad8d70b35fcb8f8c6d02857446ff6",
-      "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
-      "summary": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T13:06:00+00:00"
     }
   ]
 }

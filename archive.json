@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-04T20:16:20.707002+00:00",
-  "total": 222,
+  "updated": "2026-06-05T10:06:05.393296+00:00",
+  "total": 224,
   "articles": [
+    {
+      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
+      "title": "I asked published authors about their favorite e-readers - and the Kindle isn't the only pick",
+      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
+      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - and some may surprise you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-05T10:00:45+00:00"
+    },
+    {
+      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
+      "title": "Doeren Mayhew adds tech firm",
+      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
+      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-04T20:50:11+00:00"
+    },
     {
       "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
       "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
