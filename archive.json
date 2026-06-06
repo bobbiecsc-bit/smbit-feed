@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-06T08:43:49.053845+00:00",
-  "total": 226,
+  "updated": "2026-06-06T19:42:09.108137+00:00",
+  "total": 229,
   "articles": [
+    {
+      "id": "0f78c807964fb977c40c4b3b49facfea4d36db014612d830dc56a7bd3652b194",
+      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
+      "url": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
+      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T13:00:48+00:00"
+    },
+    {
+      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
+      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
+      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
+      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-06T11:00:53+00:00"
+    },
+    {
+      "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
+      "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
+      "url": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
+      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T11:00:52+00:00"
+    },
+    {
+      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
+      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
+      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
+      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T11:00:37+00:00"
+    },
     {
       "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
       "title": "I traveled 2,700 miles with Sony, Apple, and Sennheiser headphones - this pair sounded the best",
@@ -100,15 +136,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-04T13:47:00+00:00"
-    },
-    {
-      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
-      "title": "The 5 coolest gadgets I saw at Computex 2026 (that you can eventually buy)",
-      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
-      "summary": "At Computex 2026, Nvidia announced its RTX Spark processor, launching a wave of new high-performance ultrabooks.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-04T13:04:17+00:00"
     },
     {
       "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",

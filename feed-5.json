@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-06T08:43:49.053845+00:00",
+  "updated": "2026-06-06T19:42:09.108137+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 226,
+  "total_articles": 229,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
+      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
+      "url": "https://thenewstack.io/open-vsx-managed-registry/",
+      "summary": "Platform engineering&#160;requires something of a leap of faith. Developers need to &#8220;believe&#8221; that foundation-level tools,&#160;libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft&#8217;s VS Code Marketpla",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-04-21T11:00:00+00:00"
+    },
+    {
+      "id": "3e782d7bc5b684c3aa14486fe9870f80f39e65f3b7a82e3b4ced0057976800e6",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-20T15:53:21+00:00"
+    },
+    {
+      "id": "38903ba9a49ab63c5e18e6f6a798e95b70ee483b62618e1d60b0ad1d4b41695c",
+      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
+      "url": "https://thenewstack.io/claude-opus-47-launch/",
+      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-16T17:56:33+00:00"
+    },
     {
       "id": "572fd121aad308bf2d44b4c5e35d159aed2729dfd19b0d9911316f93d1775ca2",
       "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",

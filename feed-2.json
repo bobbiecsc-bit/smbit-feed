@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-06T08:43:49.053845+00:00",
+  "updated": "2026-06-06T19:42:09.108137+00:00",
   "page": 2,
   "total_pages": 5,
-  "total_articles": 226,
+  "total_articles": 229,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
+      "title": "Whoop vs. Fitbit Air: I've tested both trackers for health and fitness, and this model wins",
+      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+      "summary": "How does the new Fitbit Air stack up against the tried-and-true Whoop band? I've broken down the key differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-27T19:31:20+00:00"
+    },
+    {
+      "id": "9a5ced975027f348eeec6a1c72931c8703898b221d2e41f6d60679d338d58f58",
+      "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
+      "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
+      "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-05-27T14:51:30+00:00"
+    },
+    {
+      "id": "d257189bf4f401bc894beda5eae062a4e3e462a4203c886847851074bfe114fe",
+      "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
+      "url": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
+      "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-05-27T11:41:54+00:00"
+    },
     {
       "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
       "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T09:00:44+00:00"
-    },
-    {
-      "id": "4c224cae1f95bca658d5b23872a1b922bf772f9f95b751bd13fc66cb6e38f810",
-      "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
-      "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
-      "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be more different.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T02:30:00+00:00"
-    },
-    {
-      "id": "a93dd64b15c4fc24ae991cf1ddfeabc765795e81102aaadfb1b98d1b2f78ab81",
-      "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
-      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
-      "summary": "Google is going all-in on its new product line while assuring users Chromebooks aren't being phased out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T01:15:00+00:00"
-    },
-    {
-      "id": "5bfc11bb8f3f2a5d816f44cae0433848e1f04d5f8814ad76b6fcf908d1f18366",
-      "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
-      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
-      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point. Here's how two of your best options compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T01:12:00+00:00"
     }
   ]
 }
