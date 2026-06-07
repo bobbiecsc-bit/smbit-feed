@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-07T09:29:16.546894+00:00",
+  "updated": "2026-06-07T19:42:56.977531+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 229,
   "page_size": 50,
   "articles": [
+    {
+      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
+      "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
+      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
+      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - with some surprise picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-07T12:00:40+00:00"
+    },
+    {
+      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
+      "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
+      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+      "summary": "Dell's new 13-inch XPS starts at just $599 with student pricing, making it a direct competitor to the Neo. But is it any better?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-07T11:00:39+00:00"
+    },
     {
       "id": "0f78c807964fb977c40c4b3b49facfea4d36db014612d830dc56a7bd3652b194",
       "title": "The Apple Watch needs a better Siri more than the iPhone right now",
@@ -58,15 +76,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-05T13:29:05+00:00"
-    },
-    {
-      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
-      "title": "I asked published authors about their favorite e-readers - and the Kindle isn't the only pick",
-      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
-      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - and some may surprise you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T10:00:00+00:00"
     },
     {
       "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
@@ -319,15 +328,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-01T09:00:48+00:00"
-    },
-    {
-      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
-      "title": "Dell XPS 13 (2026) vs. MacBook Neo: I compared both budget laptops, here's which one I'd buy",
-      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
-      "summary": "Dell just announced its new 13-inch XPS for $599 with student pricing, making it a direct competitor to the Neo.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-31T23:00:57+00:00"
     },
     {
       "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
