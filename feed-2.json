@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-07T19:42:56.977531+00:00",
+  "updated": "2026-06-08T11:13:42.881581+00:00",
   "page": 2,
   "total_pages": 5,
-  "total_articles": 229,
+  "total_articles": 230,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
+      "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
+      "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
+      "summary": "The Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how I've been using it.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T00:30:00+00:00"
+    },
     {
       "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
       "title": "Whoop vs. Fitbit Air: I've tested both trackers for health and fitness, and this model wins",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T13:34:00+00:00"
-    },
-    {
-      "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
-      "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
-      "url": "https://www.zdnet.com/article/sony-headphoens-adaptive-sound-control-feature/",
-      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best feats.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T09:00:44+00:00"
     }
   ]
 }

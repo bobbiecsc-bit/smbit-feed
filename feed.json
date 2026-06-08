@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-07T19:42:56.977531+00:00",
+  "updated": "2026-06-08T11:13:42.881581+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 229,
+  "total_articles": 230,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb67be74490e9bb99a6f34ce7f3eb06f0b34cb5ed9f5fa64bc4563bba06b7274",
+      "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",
+      "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
+      "summary": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T02:00:43+00:00"
+    },
     {
       "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
       "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-28T09:00:00+00:00"
-    },
-    {
-      "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
-      "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
-      "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
-      "summary": "The Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how I've been using it.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-28T00:30:00+00:00"
     }
   ]
 }
