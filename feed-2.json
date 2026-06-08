@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-08T11:13:42.881581+00:00",
+  "updated": "2026-06-08T20:27:51.056113+00:00",
   "page": 2,
   "total_pages": 5,
-  "total_articles": 230,
+  "total_articles": 231,
   "page_size": 50,
   "articles": [
+    {
+      "id": "996e32fa4666895fd4030206af055be2e7b2ed2f9b36319f0a2006844488a437",
+      "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
+      "url": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
+      "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-28T09:00:00+00:00"
+    },
     {
       "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
       "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T14:18:48+00:00"
-    },
-    {
-      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
-      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
-      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
-      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T13:34:00+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-08T11:13:42.881581+00:00",
+  "updated": "2026-06-08T20:27:51.056113+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 230,
+  "total_articles": 231,
   "page_size": 50,
   "articles": [
+    {
+      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
+      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
+      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
+      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-03T17:00:45+00:00"
+    },
     {
       "id": "479481334a9102ef8c84a9716c5bb2bc2a94bba707fbadb176eb279a0ff9f64c",
       "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T17:29:25+00:00"
-    },
-    {
-      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
-      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
-      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
-      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T16:22:42+00:00"
     }
   ]
 }

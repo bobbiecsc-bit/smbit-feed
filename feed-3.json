@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-08T11:13:42.881581+00:00",
+  "updated": "2026-06-08T20:27:51.056113+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 230,
+  "total_articles": 231,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
+      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T13:34:00+00:00"
+    },
     {
       "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
       "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-03T19:00:46+00:00"
-    },
-    {
-      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
-      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T17:00:45+00:00"
     }
   ]
 }

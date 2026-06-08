@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-08T11:13:42.881581+00:00",
-  "total": 230,
+  "updated": "2026-06-08T20:27:51.056113+00:00",
+  "total": 231,
   "articles": [
+    {
+      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
+      "title": "Apple glossed over AirPods' new custom EQ - but it's a big deal",
+      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
+      "summary": "Despite flying under the WWDC radar, a custom EQ for AirPods is a feature I'm most excited for this fall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T18:04:27+00:00"
+    },
     {
       "id": "fb67be74490e9bb99a6f34ce7f3eb06f0b34cb5ed9f5fa64bc4563bba06b7274",
       "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",

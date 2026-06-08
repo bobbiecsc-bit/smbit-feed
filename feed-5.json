@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-08T11:13:42.881581+00:00",
+  "updated": "2026-06-08T20:27:51.056113+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 230,
+  "total_articles": 231,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
+      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
+      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-21T16:22:42+00:00"
+    },
     {
       "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
       "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
