@@ -1,15 +1,60 @@
 {
-  "updated": "2026-06-08T20:27:51.056113+00:00",
-  "total": 231,
+  "updated": "2026-06-09T09:59:21.705847+00:00",
+  "total": 236,
   "articles": [
     {
-      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
-      "title": "Apple glossed over AirPods' new custom EQ - but it's a big deal",
-      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
-      "summary": "Despite flying under the WWDC radar, a custom EQ for AirPods is a feature I'm most excited for this fall.",
+      "id": "2d2eb9abfcbb8f85d7788590ea565acf1926b9af72fbc7b71f45da7e94420eb6",
+      "title": "The best business budgeting tools of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-business-budgeting-tools/",
+      "summary": "Need to control company spend? I tested the best budgeting tools for businesses of all sizes.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-06-08T18:04:27+00:00"
+      "date": "2026-06-09T09:01:03+00:00"
+    },
+    {
+      "id": "2fc5c876b8edaad58aaf1864b8dd613a005b93e8298001aa117f7ba81a493cca",
+      "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
+      "url": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
+      "summary": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-09T09:00:44+00:00"
+    },
+    {
+      "id": "272893f928febafbe82ba3f5f3b7b58901bd871d535066d05bac85005a82f585",
+      "title": "MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins",
+      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
+      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the numbers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T00:57:00+00:00"
+    },
+    {
+      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
+      "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
+      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
+      "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T23:19:00+00:00"
+    },
+    {
+      "id": "beab180e9828dd1eddd5b32b17b04f243b608bfde9e9586a75b5fb373854aaa2",
+      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
+      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS,",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-08T21:27:12+00:00"
+    },
+    {
+      "id": "dfbe373709b13fb616c7e4d676e4006dcc213a57abc08d460acf4e9117465ff4",
+      "title": "WatchOS 27 has arrived: How to download the developer beta now",
+      "url": "https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/",
+      "summary": "Apple's WWDC event just elevated every basic user's experience - even on your smartwatch. Here's how to get WatchOS 27 early.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T20:46:34+00:00"
     },
     {
       "id": "fb67be74490e9bb99a6f34ce7f3eb06f0b34cb5ed9f5fa64bc4563bba06b7274",
