@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-09T09:59:21.705847+00:00",
+  "updated": "2026-06-09T20:17:10.807837+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 236,
+  "total_articles": 243,
   "page_size": 50,
   "articles": [
+    {
+      "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
+      "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
+      "url": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
+      "summary": "The new developer beta of iOS 27 offers three AI-powered skills to tweak and enhance your photos. Are they worth using?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T15:19:25+00:00"
+    },
+    {
+      "id": "e30f43282a31551d7f615031d65eb7fde5be88f471455c35ff37e25da7ca0887",
+      "title": "What you give up when you put on a smartwatch or ring",
+      "url": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:53:00+00:00"
+    },
+    {
+      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
+      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
+      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
+      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:52:00+00:00"
+    },
+    {
+      "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
+      "title": "The curious case of the disappearing wearable",
+      "url": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
+      "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:49:00+00:00"
+    },
+    {
+      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
+      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
+      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
+      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-09T14:40:00+00:00"
+    },
+    {
+      "id": "e94183193c4957ed6ee4210004be7f40a6290bf9201aefb3a469ddda3ac35f5d",
+      "title": "I tested a $15 smart switch and found a coffee maker wasting $1,500 a year in electricity",
+      "url": "https://www.zdnet.com/article/switchbot-relay-switch-review/",
+      "summary": "The SwitchBot Relay 1PM Switch turns a device on and off and tells you how much power it's using.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T12:17:00+00:00"
+    },
+    {
+      "id": "971b854c8ea56ce590ca53a1dc0d02481b9f65e28e7fb9a27c9a11a16e4abb74",
+      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
+      "url": "https://thenewstack.io/revenium-ai-cost-observability/",
+      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-09T10:00:00+00:00"
+    },
     {
       "id": "2d2eb9abfcbb8f85d7788590ea565acf1926b9af72fbc7b71f45da7e94420eb6",
       "title": "The best business budgeting tools of 2026: Expert tested",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-01T09:00:48+00:00"
-    },
-    {
-      "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
-      "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
-      "url": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
-      "summary": "Acer and Asus both have tried and tested PC options, but they excel in different areas. Let's break down the major differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-31T16:00:42+00:00"
-    },
-    {
-      "id": "1f1248f6441a70f90a3a99c7b892744015bb802718b6664aeb3e689f1e8308f8",
-      "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
-      "url": "https://thenewstack.io/cursor-jira-integration-test/",
-      "summary": "Cursor launched its Jira integration last week. The integration was marketed as simple: assign a ticket in Jira and Cursor The post I tested Cursor&#8217;s new Jira integration and it&#8217;s 5 stars, no notes. Here&#8217;s why. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-31T14:00:00+00:00"
-    },
-    {
-      "id": "b4ece367bc95a47051d27f4e31a31ac5391b1b48f7d668378f6b60d53a1d8ea2",
-      "title": "This Lenovo Yoga model I tested may be the most overlooked business laptop in 2026",
-      "url": "https://www.zdnet.com/article/lenovo-yoga-slim-7x-review/",
-      "summary": "The Slim 7x (2026) has impressive performance improvements, but its target user - the modern professional - remains the same.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T16:00:42+00:00"
-    },
-    {
-      "id": "7f999f1e5afa2529c5c94e5578d1febf83b43190dc405a02a61beb33e369ce53",
-      "title": "I tried Microsoft's Windows 365 Cloud PC on MacOS, Android, and iOS - here's what it's like",
-      "url": "https://www.zdnet.com/article/windows-365-cloud-pc-hands-on/",
-      "summary": "Who needs a Cloud PC, anyway? What's the experience like? How much does it really cost? I've got answers to all those questions.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T12:00:46+00:00"
-    },
-    {
-      "id": "ec20f1cb2eb4c062f32f6ba67e3b0d3b5e138fdc613b718d0fa897f8adba21a5",
-      "title": "ReMarkable Paper Pure vs. Boox Go 10.3: I used both tablets at work, and it comes down to this",
-      "url": "https://www.zdnet.com/article/boox-go-10-3-remarkable-paper-pure-comparison/",
-      "summary": "The Boox Go 10.3 Lumi (Gen 2) and ReMarkable Paper Pure have the same sized display, but they're very different. Here's where they each excel.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T10:00:59+00:00"
-    },
-    {
-      "id": "1881575e78def66c4e66fe254a9a650cd0a1e7ae1f77bcf2b04fba8166724443",
-      "title": "Is Amazfit's most premium smartwatch worth it? I tested it on the golf course, and it paid off",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-pro-review/",
-      "summary": "Amazfit is on a blistering pace for new watch releases in 2026 and for the past few weeks I've been using its new Cheetah 2 Pro for all of my activities.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T10:00:00+00:00"
-    },
-    {
-      "id": "bcf921beb7259d8ba283d777bc43330af54e9ab28939db7400759e200aae61c3",
-      "title": "Cybersecurity Threat Advisory: Critical Connectwise Automate vulnerability",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-critical-connectwise-automate-vulnerability/",
-      "summary": "ConnectWise has disclosed a high-impact vulnerability in its ConnectWise Automate platform that could allow attackers to bypass critical integrity validation during the agent’s plugin loading and self-update mechanisms, potentially enabling malicious code execution on affected on-premises deployment",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-05-29T21:30:01+00:00"
     }
   ]
 }

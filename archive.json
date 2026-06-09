@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-09T09:59:21.705847+00:00",
-  "total": 236,
+  "updated": "2026-06-09T20:17:10.807837+00:00",
+  "total": 243,
   "articles": [
+    {
+      "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
+      "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
+      "url": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
+      "summary": "The new developer beta of iOS 27 offers three AI-powered skills to tweak and enhance your photos. Are they worth using?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T15:19:25+00:00"
+    },
+    {
+      "id": "e30f43282a31551d7f615031d65eb7fde5be88f471455c35ff37e25da7ca0887",
+      "title": "What you give up when you put on a smartwatch or ring",
+      "url": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:53:00+00:00"
+    },
+    {
+      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
+      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
+      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
+      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:52:00+00:00"
+    },
+    {
+      "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
+      "title": "The curious case of the disappearing wearable",
+      "url": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
+      "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:49:00+00:00"
+    },
+    {
+      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
+      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
+      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
+      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-09T14:40:00+00:00"
+    },
+    {
+      "id": "e94183193c4957ed6ee4210004be7f40a6290bf9201aefb3a469ddda3ac35f5d",
+      "title": "I tested a $15 smart switch and found a coffee maker wasting $1,500 a year in electricity",
+      "url": "https://www.zdnet.com/article/switchbot-relay-switch-review/",
+      "summary": "The SwitchBot Relay 1PM Switch turns a device on and off and tells you how much power it's using.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T12:17:00+00:00"
+    },
+    {
+      "id": "971b854c8ea56ce590ca53a1dc0d02481b9f65e28e7fb9a27c9a11a16e4abb74",
+      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
+      "url": "https://thenewstack.io/revenium-ai-cost-observability/",
+      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-09T10:00:00+00:00"
+    },
     {
       "id": "2d2eb9abfcbb8f85d7788590ea565acf1926b9af72fbc7b71f45da7e94420eb6",
       "title": "The best business budgeting tools of 2026: Expert tested",

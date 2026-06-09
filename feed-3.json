@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-09T09:59:21.705847+00:00",
+  "updated": "2026-06-09T20:17:10.807837+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 236,
+  "total_articles": 243,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
+      "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
+      "summary": "The Motorola Razr Fold faces tough competition from Samsung and Google, but still manages to stand out for these reasons.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:41:00+00:00"
+    },
+    {
+      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
+      "title": "Are you following the 60-60 rule with headphone listening? Your future self will thank you",
+      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:36:00+00:00"
+    },
+    {
+      "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
+      "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
+      "url": "https://www.zdnet.com/article/motorola-razr-fold-review/",
+      "summary": "The latest Razr Fold is a valiant first attempt at a book-style foldable phone, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:00:51+00:00"
+    },
+    {
+      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
+      "title": "Survey shows MSPs with cloud optimization expertise are in need",
+      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
+      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-14T23:22:38+00:00"
+    },
+    {
+      "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
+      "title": "Six strategies for AI",
+      "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
+      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-14T21:08:57+00:00"
+    },
+    {
+      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
+      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T16:00:47+00:00"
+    },
+    {
+      "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
+      "title": "The best microSD cards of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-microsd-card/",
+      "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T11:00:38+00:00"
+    },
     {
       "id": "6b89a42ac61752acf3c251b0202525bddc64c42ce82065b7ff777d30698f4d77",
       "title": "The best secure browsers for privacy in 2026: Expert tested",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T17:00:38+00:00"
-    },
-    {
-      "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
-      "title": "I've tested dozens of Sony headphones - these 4 tweaks get me the best sound quality",
-      "url": "https://www.zdnet.com/article/best-sony-headphones-settings/",
-      "summary": "Sony's headphones and earbuds are full of hidden but useful features. Here are the ones I can always rely on.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T13:30:47+00:00"
-    },
-    {
-      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
-      "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
-      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T11:00:49+00:00"
-    },
-    {
-      "id": "7c67fa9058eeeb0732d1f086740dc7e57a745dcda565987813647c34fa0e33b3",
-      "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
-      "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T09:00:59+00:00"
-    },
-    {
-      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
-      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T20:44:58+00:00"
-    },
-    {
-      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
-      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T17:57:00+00:00"
-    },
-    {
-      "id": "64fe8f5ddd2b349f286f56489d98acbcd5e3c9d83825d928bc72f6e0bbd36508",
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
-      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuri",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-04T17:05:41+00:00"
-    },
-    {
-      "id": "c91992fa751dae01caf5cd15b1672f82a051a6fd5fa4c16e76a10f4826666cbd",
-      "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-      "url": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-      "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T16:00:48+00:00"
     }
   ]
 }
