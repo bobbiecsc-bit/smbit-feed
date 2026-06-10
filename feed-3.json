@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-10T10:16:31.044305+00:00",
+  "updated": "2026-06-10T20:41:32.895013+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 244,
+  "total_articles": 248,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "url": "https://thenewstack.io/agentic-ai-build-buy/",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
+    {
+      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
+      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:31:53+00:00"
+    },
+    {
+      "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
+      "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
+      "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:01:00+00:00"
+    },
+    {
+      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
+      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:00:50+00:00"
+    },
     {
       "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
       "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-06T11:00:44+00:00"
-    },
-    {
-      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
-      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
-      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
-      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-05-06T10:00:00+00:00"
-    },
-    {
-      "id": "ddcdbae9152bfa0d9dcbb1b6c45dbfc8de4efe4012b669d1b9ee05da7639c427",
-      "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-40-inch-tv/",
-      "summary": "We tested and compared the best 40-inch class TVs from brands like Samsung, Hisense, and more to help you find the right fit for your space.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T09:00:40+00:00"
-    },
-    {
-      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
-      "title": "How MSPs close the cloud migration security gap",
-      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
-      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-05T20:09:50+00:00"
-    },
-    {
-      "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
-      "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max/",
-      "summary": "Samsung's latest flagship phone offers some impressive and unique features, but how does it compare to Apple's finest?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T18:00:48+00:00"
     }
   ]
 }

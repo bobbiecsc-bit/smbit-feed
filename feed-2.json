@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-10T10:16:31.044305+00:00",
+  "updated": "2026-06-10T20:41:32.895013+00:00",
   "page": 2,
   "total_pages": 5,
-  "total_articles": 244,
+  "total_articles": 248,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
+      "title": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
+      "url": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
+      "summary": "Sony recently announced the new Bravia 9 II True RGB TV. Is it worth upgrading from the older Bravia 9 Mini LED? I break down the differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:23:00+00:00"
+    },
+    {
+      "id": "16d24b24ef609946f431e44531e12dbeaaa29e11940377508ee18da777a56a4a",
+      "title": "I tried gaming on Android Auto and found 4 apps that made car downtime less boring",
+      "url": "https://www.zdnet.com/article/i-tried-android-auto-games-and-apps/",
+      "summary": "In addition to the built-in Gamesnacks, these titles will help time move more quickly when you're parked.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:17:00+00:00"
+    },
+    {
+      "id": "b0f49cf3322a647082877df11a8430a8a8c219d1591683257559459ebd4e6f46",
+      "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
+      "url": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026/",
+      "summary": "Six months ago, the agentic coding tool was still an argument about form. By the start of June 2026, the The post Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-01T17:20:57+00:00"
+    },
+    {
+      "id": "d7ca4dea42773397dd9aca317de1224849c95f9c41e66dd7dc2d613420c3e0fc",
+      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separat",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-01T14:25:33+00:00"
+    },
     {
       "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
       "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
@@ -418,42 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-15T19:47:07+00:00"
-    },
-    {
-      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
-      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
-      "url": "https://thenewstack.io/agentic-ai-build-buy/",
-      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-15T13:00:00+00:00"
-    },
-    {
-      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
-      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
-      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
-      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:31:53+00:00"
-    },
-    {
-      "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
-      "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
-      "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:01:00+00:00"
-    },
-    {
-      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
-      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:00:50+00:00"
     }
   ]
 }
