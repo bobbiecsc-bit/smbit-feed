@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-09T20:17:10.807837+00:00",
+  "updated": "2026-06-10T10:16:31.044305+00:00",
   "page": 3,
   "total_pages": 5,
-  "total_articles": 243,
+  "total_articles": 244,
   "page_size": 50,
   "articles": [
+    {
+      "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
+      "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
+      "url": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
+      "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-05-15T02:00:42+00:00"
+    },
     {
       "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
       "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T18:00:48+00:00"
-    },
-    {
-      "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
-      "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
-      "url": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
-      "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on refresh rates.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T17:00:38+00:00"
     }
   ]
 }

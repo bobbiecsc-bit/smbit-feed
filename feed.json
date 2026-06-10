@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-09T20:17:10.807837+00:00",
+  "updated": "2026-06-10T10:16:31.044305+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 243,
+  "total_articles": 244,
   "page_size": 50,
   "articles": [
+    {
+      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
+      "title": "The best laptop cooling pads of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-10T09:00:55+00:00"
+    },
     {
       "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
       "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-01T14:25:33+00:00"
-    },
-    {
-      "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
-      "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
-      "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
-      "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-01T09:00:48+00:00"
     }
   ]
 }

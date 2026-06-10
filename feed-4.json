@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-09T20:17:10.807837+00:00",
+  "updated": "2026-06-10T10:16:31.044305+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 243,
+  "total_articles": 244,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
+      "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
+      "url": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
+      "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on refresh rates.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-05T17:00:38+00:00"
+    },
     {
       "id": "4540ee6600de30bb32d7250e5e7bd82fb78e3b8a9d1f7f1e1b519881d3cb615f",
       "title": "I've tested dozens of Sony headphones - these 4 tweaks get me the best sound quality",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T10:45:33+00:00"
-    },
-    {
-      "id": "2b6d59dae85e6e0b9bb00024dd994051aedc0e333d6ab55d85169105a32ce07a",
-      "title": "The best smart TV VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-tv-vpns/",
-      "summary": "Keep your browsing and streaming activities hidden from ISPs and expand your content libraries with a solid, secure, and fast VPN that works well with smart TVs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T10:00:49+00:00"
     }
   ]
 }
