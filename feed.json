@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-10T20:41:32.895013+00:00",
+  "updated": "2026-06-11T10:52:08.885618+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 248,
+  "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
+      "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
+      "url": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
+      "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T09:30:15+00:00"
+    },
+    {
+      "id": "9aa64c031593dd7803dfb2ac9b77269bc8f026ff17ebb406c729501365f7b18c",
+      "title": "The best time-tracking software of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-time-tracking-software/",
+      "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T09:00:43+00:00"
+    },
     {
       "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
       "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
@@ -30,7 +48,7 @@
       "summary": "The AirPods Pro 3 are the best earbuds for Apple users. My only complaint is that I didn't get them for $70 off like they are with this deal.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-06-10T16:10:43+00:00"
+      "date": "2026-06-10T16:10:00+00:00"
     },
     {
       "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-02T14:42:38+00:00"
-    },
-    {
-      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
-      "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
-      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-06-02T02:30:43+00:00"
-    },
-    {
-      "id": "fb55747b2ef1520d920c96d90c5bc0d1708f5ca51f11662cc1a5ce10c6d5e310",
-      "title": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
-      "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
-      "summary": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-02T00:44:00+00:00"
     }
   ]
 }

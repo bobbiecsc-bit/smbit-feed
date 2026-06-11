@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-10T20:41:32.895013+00:00",
+  "updated": "2026-06-11T10:52:08.885618+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 248,
+  "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4b844cb02be2598f337864cb01ff0546a1add4bf1a92652179f66e27289ae9a8",
+      "title": "I tested ReMarkable's 'cheap' Paper Pure tablet, and it hardly feels like a downgrade",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
+      "summary": "The Paper Pure pairs an accessible design with modest hardware while retaining ReMarkable's niche functionality.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T12:00:38+00:00"
+    },
+    {
+      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
+      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
+      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
+      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-06T11:00:44+00:00"
+    },
     {
       "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
       "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T23:00:45+00:00"
-    },
-    {
-      "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
-      "title": "Top 5 opportunities for firms",
-      "url": "https://www.accountingtoday.com/list/top-5-opportunities-for-accounting-firms",
-      "summary": "The rapidly changing profession leaves firms with a host of challenges — and opportunities.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-04-23T18:10:48+00:00"
-    },
-    {
-      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
-      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
-      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
-      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T18:00:00+00:00"
     }
   ]
 }

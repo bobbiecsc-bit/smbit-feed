@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-10T20:41:32.895013+00:00",
+  "updated": "2026-06-11T10:52:08.885618+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 248,
+  "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a37515b1f55ac8504a8a781e0069722c080c1deac9053f4e502b1802a811a8ff",
+      "title": "Top 5 opportunities for firms",
+      "url": "https://www.accountingtoday.com/list/top-5-opportunities-for-accounting-firms",
+      "summary": "The rapidly changing profession leaves firms with a host of challenges — and opportunities.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-04-23T18:10:48+00:00"
+    },
+    {
+      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
+      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
+      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
+      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-23T18:00:00+00:00"
+    },
     {
       "id": "2a684e5a5fd8adb7e72f29b4ffe6aa530f1fa7e4aac9b115446599819efb6b98",
       "title": "The best SEO reporting software of 2026: Expert tested and reviewed",
