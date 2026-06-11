@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-11T10:52:08.885618+00:00",
+  "updated": "2026-06-11T20:31:22.153175+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
+      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
+      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
+      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T01:07:00+00:00"
+    },
+    {
+      "id": "582817a8a3eb44ab4c848fb1b2f8b20a65f19e800f2517809dd4ea53313a2a16",
+      "title": "HBK's Vertilocity acquires tech firm",
+      "url": "https://www.accountingtoday.com/news/hbks-vertilocity-acquires-computol",
+      "summary": "Vertilocity, an arm of Top 50 Firm Hill, Barth &amp; King, acquired Toledo, Ohio-based technology firm Computol, effective June 1.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-02T15:20:53+00:00"
+    },
+    {
+      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
+      "title": "Crete rebrands as Current",
+      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
+      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-02T14:42:38+00:00"
+    },
     {
       "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
       "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-18T00:54:00+00:00"
-    },
-    {
-      "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
-      "title": "Samsung vs. Motorola: I've tested dozens of phones from both brands - here's my choice",
-      "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
-      "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T13:00:45+00:00"
-    },
-    {
-      "id": "2ee62b41963cac5f5aaf9a57d6093b2a110815a7733cbad67e1cb2d82df92057",
-      "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
-      "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-      "summary": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T10:00:00+00:00"
-    },
-    {
-      "id": "2d46e44d772d71f7d2f5e862f47795d53b9b24ad58e69582d0b1b73bf72fce4c",
-      "title": "The best NAS devices of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-network-attached-storage/",
-      "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T09:00:47+00:00"
     }
   ]
 }

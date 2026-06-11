@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-11T10:52:08.885618+00:00",
+  "updated": "2026-06-11T20:31:22.153175+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
+      "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
+      "url": "https://www.zdnet.com/article/americans-data-center-backlash-nashville-zoo-clouded-leopard/",
+      "summary": "As fights against data centers spring up around the country, the latest showdown in Nashville has a furry face.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T18:52:14+00:00"
+    },
+    {
+      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
+      "title": "I found the best early Prime Day Apple deals: MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
+      "summary": "Save on top Apple devices with these early Prime Day deals, hand-selected by experts who sleep, breathe, and eat Apple.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T18:07:45+00:00"
+    },
+    {
+      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
+      "title": "The best early Prime Day health and fitness deals I'd recommend",
+      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T17:47:03+00:00"
+    },
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T17:35:00+00:00"
+    },
+    {
+      "id": "3f08a6ad020b1303e0e088f5222b5b93ab27e69227062b6bea01fecc4f4ad852",
+      "title": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
+      "url": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
+      "summary": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-11T16:53:16+00:00"
+    },
     {
       "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
       "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
@@ -354,15 +399,6 @@
       "date": "2026-06-04T13:47:00+00:00"
     },
     {
-      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
-      "title": "I found the best early Prime Day Apple deals: MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
-      "summary": "Save on top Apple devices with these early Prime Day deals, hand-selected by our reviewers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T10:00:39+00:00"
-    },
-    {
       "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
       "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
       "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
@@ -406,15 +442,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T14:43:00+00:00"
-    },
-    {
-      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
-      "title": "The best early Prime Day smartwatch and smart ring deals I'd recommend",
-      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and health tracker deals I've found ahead of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T12:00:49+00:00"
     },
     {
       "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
@@ -1279,15 +1306,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-05-08T17:00:41+00:00"
-    },
-    {
-      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
-      "title": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
-      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-08T13:20:00+00:00"
     },
     {
       "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
@@ -2233,24 +2251,6 @@
       "source": "AWS News Blog",
       "category": "cloud_saas",
       "date": "2026-02-16T23:12:37+00:00"
-    },
-    {
-      "id": "222805e5a6917e0efb3589fd15c23bc0684698e77ddf1af4d6e02a55d2a18542",
-      "title": "5 Top Benefits of Virtualization",
-      "url": "https://www.serverwatch.com/virtualization/virtualization-benefits/",
-      "summary": "Virtualization is a powerful technology that can help businesses reduce costs, increase efficiency, and improve security. Here are the top 5 benefits. The post 5 Top Benefits of Virtualization appeared first on ServerWatch.",
-      "source": "ServerWatch",
-      "category": "product_review",
-      "date": "2023-12-01T17:34:43+00:00"
-    },
-    {
-      "id": "de649571534d58b5a14db240eb6cce58417fc4a5c32664ea5baab72b354b7ddf",
-      "title": "Virtual Servers vs. Physical Servers: Comparison and Use Cases",
-      "url": "https://www.serverwatch.com/servers/virtual-servers-vs-physical-servers/",
-      "summary": "Virtual servers and physical servers both have advantages and disadvantages — but one of them comes out ahead for most companies. The post Virtual Servers vs. Physical Servers: Comparison and Use Cases appeared first on ServerWatch.",
-      "source": "ServerWatch",
-      "category": "product_review",
-      "date": "2023-11-14T21:31:21+00:00"
     }
   ]
 }

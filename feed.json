@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-11T10:52:08.885618+00:00",
+  "updated": "2026-06-11T20:31:22.153175+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
+      "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
+      "url": "https://www.zdnet.com/article/americans-data-center-backlash-nashville-zoo-clouded-leopard/",
+      "summary": "As fights against data centers spring up around the country, the latest showdown in Nashville has a furry face.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T18:52:14+00:00"
+    },
+    {
+      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
+      "title": "I found the best early Prime Day Apple deals: MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
+      "summary": "Save on top Apple devices with these early Prime Day deals, hand-selected by experts who sleep, breathe, and eat Apple.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T18:07:45+00:00"
+    },
+    {
+      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
+      "title": "The best early Prime Day health and fitness deals I'd recommend",
+      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T17:47:03+00:00"
+    },
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T17:35:00+00:00"
+    },
+    {
+      "id": "3f08a6ad020b1303e0e088f5222b5b93ab27e69227062b6bea01fecc4f4ad852",
+      "title": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
+      "url": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
+      "summary": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-11T16:53:16+00:00"
+    },
     {
       "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
       "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
@@ -357,15 +402,6 @@
       "date": "2026-06-04T13:47:00+00:00"
     },
     {
-      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
-      "title": "I found the best early Prime Day Apple deals: MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
-      "summary": "Save on top Apple devices with these early Prime Day deals, hand-selected by our reviewers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T10:00:39+00:00"
-    },
-    {
       "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
       "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
       "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
@@ -411,15 +447,6 @@
       "date": "2026-06-03T14:43:00+00:00"
     },
     {
-      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
-      "title": "The best early Prime Day smartwatch and smart ring deals I'd recommend",
-      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and health tracker deals I've found ahead of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T12:00:49+00:00"
-    },
-    {
       "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
       "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
       "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T09:00:48+00:00"
-    },
-    {
-      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
-      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T01:07:00+00:00"
-    },
-    {
-      "id": "582817a8a3eb44ab4c848fb1b2f8b20a65f19e800f2517809dd4ea53313a2a16",
-      "title": "HBK's Vertilocity acquires tech firm",
-      "url": "https://www.accountingtoday.com/news/hbks-vertilocity-acquires-computol",
-      "summary": "Vertilocity, an arm of Top 50 Firm Hill, Barth &amp; King, acquired Toledo, Ohio-based technology firm Computol, effective June 1.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T15:20:53+00:00"
-    },
-    {
-      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
-      "title": "Crete rebrands as Current",
-      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
-      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T14:42:38+00:00"
     }
   ]
 }
