@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-12T10:26:21.847523+00:00",
+  "updated": "2026-06-12T20:21:19.331255+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
+      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
+      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-18T19:13:20+00:00"
+    },
+    {
+      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
+      "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
+      "summary": "Smart speakers are all the rage, and Bose's latest entry is a worthy competitor to the established Sonos.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-18T13:00:43+00:00"
+    },
+    {
+      "id": "b26b94c2a10dfdaa346c1200a1363d2e0d5a547e85f6f01dcb7ca26931be91a1",
+      "title": "Roborock vs. Ecovacs: I've tested dozens of robot vacuums from both brands - this one wins",
+      "url": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
+      "summary": "Roborock and Ecovacs models consistently deliver market-leading performance, there are clear reasons to buy one over the other.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-18T00:54:00+00:00"
+    },
     {
       "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
       "title": "Samsung vs. Motorola: I've tested dozens of phones from both brands - here's my choice",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-07T15:27:18+00:00"
-    },
-    {
-      "id": "aca38b4d61fa0dd39d54e07eab83fa61990f91ebbbdc2355ad2cc992239b85dc",
-      "title": "The best VPN extensions for Chrome in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-chrome-vpn/",
-      "summary": "Chrome VPN extensions hide your online activities and improve your privacy without disrupting your browsing session. These are ZDNET's top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-07T09:00:36+00:00"
-    },
-    {
-      "id": "2e24fae09d04c1eec9edc7445c921a993aa8426fc2d56e9aee3bc16670a3cd4a",
-      "title": "Sony vs. Samsung: My buying advice after testing both home theater systems",
-      "url": "https://www.zdnet.com/article/sony-vs-samsung-soundbars-comparison/",
-      "summary": "Sony and Samsung both offer excellent home theater products, but consider these factors first.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T19:00:35+00:00"
-    },
-    {
-      "id": "1bbd6b01476aa2edd1bac79f2de2ffd447204b644f4a7116dc2be9fd6ba62690",
-      "title": "I tested 5G signals of AT&T, T-Mobile, and Verizon in rural America - here's how your carrier did",
-      "url": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
-      "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T17:30:50+00:00"
     }
   ]
 }

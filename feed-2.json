@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-12T10:26:21.847523+00:00",
+  "updated": "2026-06-12T20:21:19.331255+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
+      "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
+      "url": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
+      "summary": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T17:02:07+00:00"
+    },
+    {
+      "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
+      "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
+      "url": "https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/",
+      "summary": "Can you get a Copilot agent to do your work for you? I tried, but the AI wasn't ready to play along.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T14:43:00+00:00"
+    },
+    {
+      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
+      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
+      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
+      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T09:00:48+00:00"
+    },
     {
       "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
       "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T12:00:38+00:00"
-    },
-    {
-      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
-      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
-      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-18T19:13:20+00:00"
-    },
-    {
-      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
-      "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
-      "summary": "Smart speakers are all the rage, and Bose's latest entry is a worthy competitor to the established Sonos.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-18T13:00:43+00:00"
-    },
-    {
-      "id": "b26b94c2a10dfdaa346c1200a1363d2e0d5a547e85f6f01dcb7ca26931be91a1",
-      "title": "Roborock vs. Ecovacs: I've tested dozens of robot vacuums from both brands - this one wins",
-      "url": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
-      "summary": "Roborock and Ecovacs models consistently deliver market-leading performance, there are clear reasons to buy one over the other.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-18T00:54:00+00:00"
     }
   ]
 }

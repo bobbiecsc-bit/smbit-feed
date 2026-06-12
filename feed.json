@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-12T10:26:21.847523+00:00",
+  "updated": "2026-06-12T20:21:19.331255+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
+      "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
+      "url": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
+      "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-12T18:07:00+00:00"
+    },
+    {
+      "id": "cce4f3abf6823b8640446e10e6272e8aae6e79945a7a684a506394de90101138",
+      "title": "40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail",
+      "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
+      "summary": "How do you create real ROI from autonomous AI? Three digital leaders share lessons they've learned in the field.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-12T16:14:33+00:00"
+    },
+    {
+      "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
+      "title": "Dell vs. HP: I've tested dozens of laptops from both brands, and here's my buying advice",
+      "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
+      "summary": "Dell and HP both make excellent laptops, but each excels in different areas. Here are the key differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-12T10:54:00+00:00"
+    },
     {
       "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
       "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
@@ -427,33 +454,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-06-03T22:37:29+00:00"
-    },
-    {
-      "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
-      "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
-      "url": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
-      "summary": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T17:02:07+00:00"
-    },
-    {
-      "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
-      "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
-      "url": "https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/",
-      "summary": "Can you get a Copilot agent to do your work for you? I tried, but the AI wasn't ready to play along.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T14:43:00+00:00"
-    },
-    {
-      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
-      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
-      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
-      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T09:00:48+00:00"
     }
   ]
 }
