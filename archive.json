@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-13T09:28:25.682836+00:00",
+  "updated": "2026-06-13T19:47:03.383006+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
+      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
+      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
+      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T17:00:00+00:00"
+    },
+    {
+      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
+      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
+      "url": "https://thenewstack.io/fable-5-opus-comparison/",
+      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
+      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
+      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
+      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T13:00:58+00:00"
+    },
     {
       "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
       "title": "The best VPN routers of 2026: Expert tested and reviewed",
@@ -2224,33 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-03-30T16:11:28+00:00"
-    },
-    {
-      "id": "41e1c891d109efcd7d448b29bc20ce5d727c41685677552e7c59288c6c62d838",
-      "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/",
-      "summary": "Hello! I’m Daniel Abib, and this is my first AWS Weekly Roundup. I’m a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in solution architecture, software development, and cloud architecture, I help Startups &amp; Enterpr",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-23T16:40:41+00:00"
-    },
-    {
-      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
-      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
-      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-16T16:02:17+00:00"
-    },
-    {
-      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
-      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
-      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-03-12T21:18:55+00:00"
     }
   ]
 }

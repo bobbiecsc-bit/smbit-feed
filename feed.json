@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-13T09:28:25.682836+00:00",
+  "updated": "2026-06-13T19:47:03.383006+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
+      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
+      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
+      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T17:00:00+00:00"
+    },
+    {
+      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
+      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
+      "url": "https://thenewstack.io/fable-5-opus-comparison/",
+      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
+      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
+      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
+      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T13:00:58+00:00"
+    },
     {
       "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
       "title": "The best VPN routers of 2026: Expert tested and reviewed",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-04T16:21:55+00:00"
-    },
-    {
-      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
-      "title": "I compared two of the best Android camera phones right now - it came down to the wire",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
-      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but the latter impressed me in ways I didn't expect.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T14:55:00+00:00"
-    },
-    {
-      "id": "88388d037c05dbbbd7fc80d37a2096b0e7b1134d6638993ebed5423523e02b85",
-      "title": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
-      "url": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
-      "summary": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-04T13:47:00+00:00"
-    },
-    {
-      "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
-      "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
-      "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
-      "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T23:05:00+00:00"
     }
   ]
 }

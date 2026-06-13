@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-13T09:28:25.682836+00:00",
+  "updated": "2026-06-13T19:47:03.383006+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
+      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
+      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-26T13:00:38+00:00"
+    },
+    {
+      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
+      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
+      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
+      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-25T10:00:00+00:00"
+    },
+    {
+      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
+      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-24T13:19:02+00:00"
+    },
     {
       "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
       "title": "The best inventory management software of 2026: Expert tested and reviewed",
@@ -427,33 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-03-30T16:11:28+00:00"
-    },
-    {
-      "id": "41e1c891d109efcd7d448b29bc20ce5d727c41685677552e7c59288c6c62d838",
-      "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/",
-      "summary": "Hello! I’m Daniel Abib, and this is my first AWS Weekly Roundup. I’m a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in solution architecture, software development, and cloud architecture, I help Startups &amp; Enterpr",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-23T16:40:41+00:00"
-    },
-    {
-      "id": "10298423a6c76f84c01e16a713feb077567941f459d8d7f0e78106a63fb83617",
-      "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/",
-      "summary": "Twenty years ago this past week, Amazon S3 launched publicly on March 14, 2006. While Amazon Simple Storage Service is often considered the foundational storage service that defined cloud infrastructure, what began as a simple object storage service has grown into something far larger in scope and s",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-16T16:02:17+00:00"
-    },
-    {
-      "id": "47b7f1f6fbb3d5a37752bc4191cb519e2f4da427f1054412e8635c973fa33120",
-      "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/",
-      "summary": "AWS launches a new feature of Amazon S3 that lets you create general purpose buckets in your own account regional namespace simplifying bucket creation and management as your data storage needs grow in size and scope.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-03-12T21:18:55+00:00"
     }
   ]
 }
