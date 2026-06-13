@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-12T20:21:19.331255+00:00",
+  "updated": "2026-06-13T09:28:25.682836+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "20a9b9b952834a2eb183d5393303af2fb44ffecbb1ba2954578baa35b39e3c5e",
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+      "url": "https://thenewstack.io/openai-codex-claude-code/",
+      "summary": "Late last month, OpenAI shipped a new product they dubbed &#8220;Codex for (almost) everything.&#8221; Its goal was to shift&#160;Codex&#160;from a The post I tested the new OpenAI Codex features on a real Python codebase, and it&#8217;s the strongest Claude Code rival yet appeared first on The New ",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-07T15:27:18+00:00"
+    },
     {
       "id": "aca38b4d61fa0dd39d54e07eab83fa61990f91ebbbdc2355ad2cc992239b85dc",
       "title": "The best VPN extensions for Chrome in 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-24T13:19:02+00:00"
-    },
-    {
-      "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
-      "title": "The best inventory management software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-inventory-management-software/",
-      "summary": "Need better stock visibility and smoother fulfillment? Here are the best inventory management software options we've tested including Odoo, Square, and Katana.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T10:00:55+00:00"
     }
   ]
 }

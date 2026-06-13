@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-12T20:21:19.331255+00:00",
+  "updated": "2026-06-13T09:28:25.682836+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
+      "title": "The best VPN routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vpn-router/",
+      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T09:01:02+00:00"
+    },
+    {
+      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
+      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
+      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
+      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T09:00:54+00:00"
+    },
     {
       "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
       "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
@@ -1090,15 +1108,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-14T10:00:38+00:00"
-    },
-    {
-      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
-      "title": "The best VPN routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-router/",
-      "summary": "My favorite VPN routers provide blanket coverage and security for your home, saving you the work of installing VPNs on individual devices. Check out my top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T09:00:55+00:00"
     },
     {
       "id": "22034874988b7113d0d60aa25ff65dea4a108498768edac69f17f95dd9d32cea",
@@ -2242,15 +2251,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-03-12T21:18:55+00:00"
-    },
-    {
-      "id": "b23c9d102b4b775d0165580774270be257172f5feba51c11daa320ae86316218",
-      "title": "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/",
-      "summary": "Fiti AWS Student Community Kenya! Last week was an incredible whirlwind: a round of meetups, hands-on workshops, and career discussions across Kenya that culminated with the AWS Student Community Day at Meru University of Science and Technology, with keynotes from my colleagues Veliswa and Tiffany, ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-09T16:15:35+00:00"
     }
   ]
 }

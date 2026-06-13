@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-12T20:21:19.331255+00:00",
+  "updated": "2026-06-13T09:28:25.682836+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
+      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
+      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T22:46:00+00:00"
+    },
+    {
+      "id": "814541e868eb3c0e9315b248fd894cc12da128d3535ce18c0193742d62c0701a",
+      "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
+      "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
+      "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys ",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-03T22:37:29+00:00"
+    },
     {
       "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
       "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T19:38:26+00:00"
-    },
-    {
-      "id": "4681d9a3a4322c4e1c6d5d9051bacb52833ccfabbe038b90bc7376cd6997bfa9",
-      "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
-      "url": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
-      "summary": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T13:00:00+00:00"
-    },
-    {
-      "id": "f04dd01e6f771f885da7533038d3e1ea2dd45d0ddfec7d9ceb86e55461245c98",
-      "title": "Marshall Milton ANC headphones aim to combine portability with performance",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-combine-the-portability-of-major-v-with-the-performance-of-monitor-iii/",
-      "summary": "I don't like on-ear headphones, but the new Marshall Milton ANC cans might change my mind due to their cool features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T12:00:38+00:00"
     }
   ]
 }
