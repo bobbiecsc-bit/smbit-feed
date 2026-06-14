@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-14T09:50:12.936256+00:00",
+  "updated": "2026-06-14T19:48:42.453070+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d1ae6265d569b4f098c1a3b37c739df009dbcc0f40646dd5e90b97928bf2d5c",
+      "title": "Asana says its new AI “chief of staff” turns your Slack chaos into trackable work",
+      "url": "https://thenewstack.io/asana-dash-ai-teammates/",
+      "summary": "Asana on Thursday unveiled an AI assistant called Dash and a new generation of what the company calls AI &#8220;teammates&#8221; The post Asana says its new AI &#8220;chief of staff&#8221; turns your Slack chaos into trackable work appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-04T16:21:55+00:00"
+    },
     {
       "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
       "title": "I compared two of the best Android camera phones right now - it came down to the wire",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-20T11:30:34+00:00"
-    },
-    {
-      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
-      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-travel-vpn/",
-      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:07:52+00:00"
     }
   ]
 }

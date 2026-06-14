@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-14T09:50:12.936256+00:00",
+  "updated": "2026-06-14T19:48:42.453070+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
+      "title": "The one Slack message that proved our elite engineering team was flying blind",
+      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
+      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-04-26T15:00:00+00:00"
+    },
     {
       "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
       "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "policy",
       "date": "2026-04-02T14:36:51+00:00"
-    },
-    {
-      "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
-      "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/",
-      "summary": "Last week, what excited me most was the launch of the 2026 AWS AI &amp; ML Scholars program by Swami Sivasubramanian, VP of AWS Agentic AI, to provide free AI education to up to 100,000 learners worldwide. The program has two phases: a Challenge phase where you’ll learn foundational generative AI sk",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-30T16:11:28+00:00"
     }
   ]
 }

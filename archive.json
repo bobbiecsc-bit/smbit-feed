@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-14T09:50:12.936256+00:00",
+  "updated": "2026-06-14T19:48:42.453070+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
+      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-14T12:30:48+00:00"
+    },
     {
       "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
       "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
@@ -2242,15 +2251,6 @@
       "source": "The New Stack",
       "category": "policy",
       "date": "2026-04-02T14:36:51+00:00"
-    },
-    {
-      "id": "500238cb1e9a2ee1270dc3c63985070d2add21efc8047a70cc854d831db96554",
-      "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/",
-      "summary": "Last week, what excited me most was the launch of the 2026 AWS AI &amp; ML Scholars program by Swami Sivasubramanian, VP of AWS Agentic AI, to provide free AI education to up to 100,000 learners worldwide. The program has two phases: a Challenge phase where you’ll learn foundational generative AI sk",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-03-30T16:11:28+00:00"
     }
   ]
 }
