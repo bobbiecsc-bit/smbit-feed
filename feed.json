@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-14T19:48:42.453070+00:00",
+  "updated": "2026-06-15T12:36:08.643991+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
+      "title": "Code is a message to the future",
+      "url": "https://thenewstack.io/code-message-to-future/",
+      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-15T12:00:00+00:00"
+    },
+    {
+      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-15T11:41:48+00:00"
+    },
+    {
+      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
+      "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
+      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but that wasn't quite the case.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T11:15:41+00:00"
+    },
+    {
+      "id": "119a111f26130a7d8f3d5aa48f525681bf485df7630d24698837c40d0bf96a94",
+      "title": "I found popular student discounts that can save you up to $25 per month",
+      "url": "https://www.zdnet.com/article/best-student-discounts-2026/",
+      "summary": "A student status can unlock a lot of savings if you know where to look. Here are my top picks you don't want to miss.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T10:00:50+00:00"
+    },
     {
       "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
       "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
@@ -418,42 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-04T20:50:11+00:00"
-    },
-    {
-      "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
-      "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
-      "url": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
-      "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
-      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
-      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
-      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-04T17:45:50+00:00"
-    },
-    {
-      "id": "fce55326d77c184aef151a70de24e38765df1b1580f339bb46786f8ed15bc523",
-      "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
-      "url": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
-      "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:50:23+00:00"
-    },
-    {
-      "id": "2bd419ae305efe632f244f7be721f1703f9c81386743c9b723f0e7516fb049ff",
-      "title": "I flew 2,700 miles with 4 headphones - this pair was the best travel companion",
-      "url": "https://www.zdnet.com/article/i-flew-2700-miles-with-4-headphones-my-best-travel-companion/",
-      "summary": "Air travel is the true test for headphones and earbuds. My multiple journeys revealed all the strengths and weaknesses of these latest models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:24:18+00:00"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-14T19:48:42.453070+00:00",
+  "updated": "2026-06-15T12:36:08.643991+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
+      "title": "Code is a message to the future",
+      "url": "https://thenewstack.io/code-message-to-future/",
+      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-15T12:00:00+00:00"
+    },
+    {
+      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-15T11:41:48+00:00"
+    },
+    {
+      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
+      "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
+      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but that wasn't quite the case.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T11:15:41+00:00"
+    },
+    {
+      "id": "119a111f26130a7d8f3d5aa48f525681bf485df7630d24698837c40d0bf96a94",
+      "title": "I found popular student discounts that can save you up to $25 per month",
+      "url": "https://www.zdnet.com/article/best-student-discounts-2026/",
+      "summary": "A student status can unlock a lot of savings if you know where to look. Here are my top picks you don't want to miss.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T10:00:50+00:00"
+    },
     {
       "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
       "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
@@ -460,15 +496,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-04T16:21:55+00:00"
-    },
-    {
-      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
-      "title": "I compared two of the best Android camera phones right now - it came down to the wire",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
-      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but the latter impressed me in ways I didn't expect.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T14:55:00+00:00"
     },
     {
       "id": "88388d037c05dbbbd7fc80d37a2096b0e7b1134d6638993ebed5423523e02b85",
@@ -2224,33 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-04-06T16:51:00+00:00"
-    },
-    {
-      "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
-      "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
-      "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
-      "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-06T16:44:16+00:00"
-    },
-    {
-      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
-      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
-      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
-      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-04T19:49:00+00:00"
-    },
-    {
-      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
-      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
-      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
-      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "policy",
-      "date": "2026-04-02T14:36:51+00:00"
     }
   ]
 }

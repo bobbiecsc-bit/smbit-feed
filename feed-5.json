@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-14T19:48:42.453070+00:00",
+  "updated": "2026-06-15T12:36:08.643991+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
+      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-04-27T15:01:28+00:00"
+    },
+    {
+      "id": "f1c7e7dc1158c82e71e409c93e5751f254b644daebecaf7d34e358553e0adbe0",
+      "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+      "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-04-27T14:26:00+00:00"
+    },
+    {
+      "id": "067b8840c1004d0434994fc48a2d7aa3e1aafc6c9b928e209e39e0143040492c",
+      "title": "This machine is the only way to make nitro cold brew coffee at home - and it's on sale",
+      "url": "https://www.zdnet.com/article/cumulus-coffee-machine-deal/",
+      "summary": "The Cumulus Coffee machine is uniquely designed to make cold brew, nitro, and cold espresso. Get one for 20% off now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-04-27T13:00:00+00:00"
+    },
     {
       "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
       "title": "The one Slack message that proved our elite engineering team was flying blind",
@@ -427,33 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-04-06T16:51:00+00:00"
-    },
-    {
-      "id": "52bb5ad246697b1b8accfb72a70cadafee38a2f80f7db3dda0c743c2496ffd97",
-      "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
-      "url": "https://www.zdnet.com/article/tp-link-roam-7-review/",
-      "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-06T16:44:16+00:00"
-    },
-    {
-      "id": "b9ae8f68f094c0ce3c7c7faf2540407541529bd20e49372fa8991d3aab3bbd76",
-      "title": "Adjusting my router's antenna fixed my Wi-Fi problems - here's the best way to position it",
-      "url": "https://www.zdnet.com/article/adjusting-router-antenna-fix-wi-fi-problems/",
-      "summary": "Getting the best Wi-Fi performance requires strategic antenna positioning, proper router placement, and a bit of trial and error.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-04T19:49:00+00:00"
-    },
-    {
-      "id": "5d139e4d96fa9bf01af80c7ce7b358fb9016c91d4ce6c4d9c321f5b8c50e6673",
-      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
-      "url": "https://thenewstack.io/broadcom-donates-velero-cncf/",
-      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "policy",
-      "date": "2026-04-02T14:36:51+00:00"
     }
   ]
 }
