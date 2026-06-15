@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-15T12:36:08.643991+00:00",
+  "updated": "2026-06-15T21:13:46.930321+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
+      "title": "Cost vs. value in the age of AI",
+      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
+      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "product_review",
+      "date": "2026-06-15T18:50:41+00:00"
+    },
+    {
+      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
+      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
+      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T15:45:49+00:00"
+    },
+    {
+      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
+      "title": "I tested an AirTag alternative that uses LoRa mesh to track location - and it's seriously reliable",
+      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T14:00:43+00:00"
+    },
     {
       "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
       "title": "Code is a message to the future",
@@ -2224,33 +2251,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-04-07T20:07:20+00:00"
-    },
-    {
-      "id": "69aad1470119511a98648ea79a2cea36447edcb8a7f497fa167ce407ff4a3f25",
-      "title": "What does a “right-size” incident response plan look like?",
-      "url": "https://smartermsp.com/what-does-a-right-size-incident-response-plan-look-like/",
-      "summary": "Often, when a cyber incident occurs, the response is ad hoc—a reactive, seat‑of‑the‑pants scramble. After all, every incident is different, so how can you plan for what you don’t know? But just as every building fire is different, there are [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-04-07T18:57:56+00:00"
-    },
-    {
-      "id": "a1a52426a373eb57f70566dfdedc8361cb5223f7b865c45350330c7fee028bc8",
-      "title": "Weaver acquires SaaS provider",
-      "url": "https://www.accountingtoday.com/news/weaver-acquires-mass-ingenuity",
-      "summary": "The Top 50 Firm acquired Mass Ingenuity, a Portland, Oregon-based software-as-a-service company, effective April 1.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-04-06T21:11:48+00:00"
-    },
-    {
-      "id": "16fc935264a6d7cbaa0902070bbe270721209b0e109d28a2eab38439384a37ba",
-      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
-      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-06T16:51:00+00:00"
     }
   ]
 }

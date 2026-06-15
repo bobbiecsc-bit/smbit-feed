@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-15T12:36:08.643991+00:00",
+  "updated": "2026-06-15T21:13:46.930321+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
+      "title": "Cost vs. value in the age of AI",
+      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
+      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "product_review",
+      "date": "2026-06-15T18:50:41+00:00"
+    },
+    {
+      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
+      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
+      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T15:45:49+00:00"
+    },
+    {
+      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
+      "title": "I tested an AirTag alternative that uses LoRa mesh to track location - and it's seriously reliable",
+      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T14:00:43+00:00"
+    },
     {
       "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
       "title": "Code is a message to the future",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-06T11:00:37+00:00"
-    },
-    {
-      "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
-      "title": "I traveled 2,700 miles with Sony, Apple, and Sennheiser headphones - this pair sounded the best",
-      "url": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
-      "summary": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed all the strengths and weaknesses of these latest models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T16:50:00+00:00"
-    },
-    {
-      "id": "47358d671b659bb1df5cdef1688b5473c1f65dd453480c74a94514e9b14802f8",
-      "title": "How Google could turn Siri into the AI health coach my Apple Watch needs",
-      "url": "https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T13:29:05+00:00"
-    },
-    {
-      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
-      "title": "Doeren Mayhew adds tech firm",
-      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
-      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-04T20:50:11+00:00"
     }
   ]
 }
