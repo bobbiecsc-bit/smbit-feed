@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-16T11:28:18.814164+00:00",
+  "updated": "2026-06-16T21:14:00.770896+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
+      "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
+      "url": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
+      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T11:00:52+00:00"
+    },
+    {
+      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
+      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
+      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
+      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T11:00:37+00:00"
+    },
     {
       "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
       "title": "I traveled 2,700 miles with Sony, Apple, and Sennheiser headphones - this pair sounded the best",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-05-25T15:04:29+00:00"
-    },
-    {
-      "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
-      "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-exchange-on-premise-owa-vulnerability-exploited/",
-      "summary": "A Microsoft Exchange Server Outlook Web Access (OWA) spoofing vulnerability, tracked as CVE‑2026‑42897, is actively being exploited in the wild. This issue affects Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition across all update levels. Continue reading [&#8230;",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-05-22T22:09:23+00:00"
-    },
-    {
-      "id": "8f548f3de211864aaa56478caf89da183169db5f0ec580b039d75c7977551f0f",
-      "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
-      "url": "https://www.zdnet.com/article/my-favorite-ipad-air-accessories/",
-      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of the tablet.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-05-22T16:20:03+00:00"
     }
   ]
 }

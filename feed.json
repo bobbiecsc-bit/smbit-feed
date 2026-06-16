@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-16T11:28:18.814164+00:00",
+  "updated": "2026-06-16T21:14:00.770896+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
+      "title": "The DIY era of smartwatches has begun - Google and Apple already have me hooked",
+      "url": "https://www.zdnet.com/article/apple-and-google-ai-widgets-and-shortcuts/",
+      "summary": "Google's Create My Widget and Apple's new Shortcuts feature prove we're in a DIY era of automation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T18:01:08+00:00"
+    },
+    {
+      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
+      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "summary": "Skip Amazon Prime Day. Check out the best early Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T17:47:16+00:00"
+    },
+    {
+      "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
+      "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
+      "url": "https://www.zdnet.com/article/i-tried-anduinos-2-0-easiest-way-to-ditch-windows-for-linux/",
+      "summary": "AnduinOS 2.0 is a speedy, private, Ubuntu-based Linux distro that's all about true distro engineering. And it's laid out like Windows 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T17:07:27+00:00"
+    },
     {
       "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
       "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
@@ -240,15 +267,6 @@
       "date": "2026-06-10T16:10:00+00:00"
     },
     {
-      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
-      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
-      "summary": "Prime Day may be coming soon, but Costco already has great discounts live on home essentials, top tech, and more.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-06-10T15:34:53+00:00"
-    },
-    {
       "id": "f9d76014bb7c4092fa59b6ae3b8d1cbff4733028d63e6f490b4f97241e32801e",
       "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
       "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-06T11:00:53+00:00"
-    },
-    {
-      "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
-      "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
-      "url": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
-      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:52+00:00"
-    },
-    {
-      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
-      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
-      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:37+00:00"
     }
   ]
 }
