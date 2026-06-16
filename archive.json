@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-15T21:13:46.930321+00:00",
+  "updated": "2026-06-16T11:28:18.814164+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
+      "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
+      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T10:30:51+00:00"
+    },
     {
       "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
       "title": "Cost vs. value in the age of AI",
@@ -19,15 +28,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-15T15:45:49+00:00"
-    },
-    {
-      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
-      "title": "I tested an AirTag alternative that uses LoRa mesh to track location - and it's seriously reliable",
-      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
-      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T14:00:43+00:00"
     },
     {
       "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
