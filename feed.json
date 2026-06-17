@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-16T21:14:00.770896+00:00",
+  "updated": "2026-06-17T11:11:39.031829+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
+      "title": "The best power banks of 2026: Expert and lab tested",
+      "url": "https://www.zdnet.com/article/best-power-banks/",
+      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:06:08+00:00"
+    },
+    {
+      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
+      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
+      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
+      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:01:01+00:00"
+    },
+    {
+      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
+      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:00:45+00:00"
+    },
+    {
+      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
     {
       "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
       "title": "The DIY era of smartwatches has begun - Google and Apple already have me hooked",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-08T02:00:43+00:00"
-    },
-    {
-      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
-      "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
-      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
-      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - with some surprise picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-07T12:00:40+00:00"
-    },
-    {
-      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
-      "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
-      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
-      "summary": "Dell's new 13-inch XPS starts at just $599 with student pricing, making it a direct competitor to the Neo. But is it any better?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-07T11:00:39+00:00"
-    },
-    {
-      "id": "0f78c807964fb977c40c4b3b49facfea4d36db014612d830dc56a7bd3652b194",
-      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
-      "url": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T13:00:48+00:00"
-    },
-    {
-      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
-      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
-      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
-      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-06T11:00:53+00:00"
     }
   ]
 }

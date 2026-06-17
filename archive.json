@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-16T21:14:00.770896+00:00",
+  "updated": "2026-06-17T11:11:39.031829+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
+      "title": "The best power banks of 2026: Expert and lab tested",
+      "url": "https://www.zdnet.com/article/best-power-banks/",
+      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:06:08+00:00"
+    },
+    {
+      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
+      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
+      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
+      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:01:01+00:00"
+    },
+    {
+      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
+      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:00:45+00:00"
+    },
+    {
+      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
     {
       "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
       "title": "The DIY era of smartwatches has begun - Google and Apple already have me hooked",
@@ -2215,42 +2251,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-04-12T00:03:34+00:00"
-    },
-    {
-      "id": "3b1686bb737c5068e89e7709fd6c8d73a5aa2c74962e3a7b788cfc068a68b988",
-      "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
-      "url": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
-      "summary": "Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-04-10T11:00:38+00:00"
-    },
-    {
-      "id": "8788549827dd1212a90c01c55f00f779f3d4b491c69a5d3dcde250d5f69da18c",
-      "title": "The best business VoIP services in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-business-voip-providers/",
-      "summary": "Navigate the VoIP landscape with ease and retire your old lines with our guide on the best VoIP providers of 2026.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-04-09T10:01:23+00:00"
-    },
-    {
-      "id": "d7a8736e77808b8a4b99ba41e8421e2627c293e923e8fc9c3884e62a881054cb",
-      "title": "Digits announces outcome-based pricing",
-      "url": "https://www.accountingtoday.com/news/digits-announces-outcome-based-pricing",
-      "summary": "Digits announced that accountants will only pay for clients if the Digits platform successfully automates 95% or more of transactions with zero human touch.",
-      "source": "Accounting Today Tech",
-      "category": "finance",
-      "date": "2026-04-08T14:52:51+00:00"
-    },
-    {
-      "id": "383e610dfdc19a32ce6f5e150f873640cec819b86d8f7651800360869b230ab0",
-      "title": "Russian hacking group targets home and small office routers to spy on users",
-      "url": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
-      "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
-      "source": "Malwarebytes Labs",
-      "category": "infrastructure",
-      "date": "2026-04-08T13:31:25+00:00"
     }
   ]
 }

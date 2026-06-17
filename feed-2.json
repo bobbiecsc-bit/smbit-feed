@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-16T21:14:00.770896+00:00",
+  "updated": "2026-06-17T11:11:39.031829+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
+      "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
+      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
+      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - with some surprise picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-07T12:00:40+00:00"
+    },
+    {
+      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
+      "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
+      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+      "summary": "Dell's new 13-inch XPS starts at just $599 with student pricing, making it a direct competitor to the Neo. But is it any better?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-07T11:00:39+00:00"
+    },
+    {
+      "id": "0f78c807964fb977c40c4b3b49facfea4d36db014612d830dc56a7bd3652b194",
+      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
+      "url": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
+      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T13:00:48+00:00"
+    },
+    {
+      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
+      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
+      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
+      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-06T11:00:53+00:00"
+    },
     {
       "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
       "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-26T15:38:00+00:00"
-    },
-    {
-      "id": "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f",
-      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
-      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-25T20:11:10+00:00"
-    },
-    {
-      "id": "b7376596f29ece387b7bd6e72633baba7b50a873f3f9d47d7f5dd908336e8eca",
-      "title": "The top 10 Memorial Day deals our readers keep buying (No. 3 is tiny yet functional)",
-      "url": "https://www.zdnet.com/article/memorial-day-2026-top-sellers/",
-      "summary": "Memorial Day weekend is wrapping up soon, but these are the deals our readers can't get enough of.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-25T16:47:00+00:00"
-    },
-    {
-      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
-      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
-      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
-      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-25T16:24:07+00:00"
-    },
-    {
-      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
-      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
-      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
-      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've found.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-25T15:04:29+00:00"
     }
   ]
 }
