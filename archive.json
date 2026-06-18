@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-17T20:25:24.366853+00:00",
+  "updated": "2026-06-18T10:42:04.864717+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
+      "title": "Sennheiser just gave me a compelling reason to put away my Bose and Sony headphones for good",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
+      "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T01:10:45+00:00"
+    },
     {
       "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
       "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T13:30:00+00:00"
-    },
-    {
-      "id": "ea4d4e0782f00d22ac6c4311c43a4b0c5ec27ae92e60243ee2532329aadf0efb",
-      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
-      "url": "https://thenewstack.io/open-vsx-managed-registry/",
-      "summary": "Platform engineering&#160;requires something of a leap of faith. Developers need to &#8220;believe&#8221; that foundation-level tools,&#160;libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft&#8217;s VS Code Marketpla",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-04-21T11:00:00+00:00"
     }
   ]
 }
