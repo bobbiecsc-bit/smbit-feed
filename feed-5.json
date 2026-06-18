@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-18T10:42:04.864717+00:00",
+  "updated": "2026-06-18T20:35:27.196420+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
+      "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
+      "url": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
+      "summary": "Just how reliable is that smartwatch or smart ring? I tested three of the most popular health trackers to find out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-04T00:30:39+00:00"
+    },
+    {
+      "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
+      "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
+      "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
+      "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-03T19:00:46+00:00"
+    },
+    {
+      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
+      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
+      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
+      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-03T17:00:45+00:00"
+    },
     {
       "id": "479481334a9102ef8c84a9716c5bb2bc2a94bba707fbadb176eb279a0ff9f64c",
       "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-21T18:53:00+00:00"
-    },
-    {
-      "id": "fc1fe4a31929fc2e57a2e39e4810f7737c0f2d29bcbffed29c9959fd68ffafee",
-      "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
-      "url": "https://www.zdnet.com/article/motorola-moto-g-deal/",
-      "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T17:29:25+00:00"
-    },
-    {
-      "id": "2a5915c6a38f6f2925ffb09f95dd368aa1cecf0695d5ece642c0016dc23d27a1",
-      "title": "Can a near infrared laptop light boost my mood? I tried it to find out",
-      "url": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
-      "summary": "The SunBooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T16:22:42+00:00"
-    },
-    {
-      "id": "8441b9340fd6afdd1bd18273016e8e16a3e76c87858bd82eb78f67d2a1c58171",
-      "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
-      "url": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
-      "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-21T13:30:00+00:00"
     }
   ]
 }

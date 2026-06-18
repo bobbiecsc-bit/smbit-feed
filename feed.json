@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-18T10:42:04.864717+00:00",
+  "updated": "2026-06-18T20:35:27.196420+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d122cfcf259e6433caf32b03b473a9568b6e2438ccbc9fc0cd4decbcabb18f62",
+      "title": "I recommend these Garmin smartwatches for almost every situation (and price range)",
+      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-roundup-prime-day/",
+      "summary": "Plus, many of Garmin's signature smartwatches are on sale ahead of Amazon Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T20:19:50+00:00"
+    },
+    {
+      "id": "e94183193c4957ed6ee4210004be7f40a6290bf9201aefb3a469ddda3ac35f5d",
+      "title": "I tested a $15 smart switch and uncovered a $1,500-a-year energy waste in the kitchen",
+      "url": "https://www.zdnet.com/article/switchbot-relay-switch-review/",
+      "summary": "The SwitchBot Relay 1PM Switch turns a device on and off and tells you how much power it's using.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T18:22:00+00:00"
+    },
+    {
+      "id": "7056df9bc679d07ff8c80f1b79597f532f60f451fd3afe6a7b6c004ada290f63",
+      "title": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
+      "url": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
+      "summary": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T15:00:48+00:00"
+    },
+    {
+      "id": "84d2c3c512decc9619fbd44f1c4900c1edb1155d094199e8d4663fba1b87af64",
+      "title": "Google Home Speaker (2026) vs. Amazon Echo Dot Max: Why I'm split on these $99 rivals",
+      "url": "https://www.zdnet.com/article/google-home-speaker-vs-amazon-echo-dot-max/",
+      "summary": "Both Google and Amazon have generative AI-powered smart speakers for under $100, so which one stands out?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T14:22:57+00:00"
+    },
+    {
+      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
+      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
+      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
+      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-18T13:00:00+00:00"
+    },
     {
       "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
       "title": "Sennheiser just gave me a compelling reason to put away my Bose and Sony headphones for good",
@@ -103,15 +148,6 @@
       "source": "AWS News Blog",
       "category": "finance",
       "date": "2026-06-17T15:00:11+00:00"
-    },
-    {
-      "id": "7056df9bc679d07ff8c80f1b79597f532f60f451fd3afe6a7b6c004ada290f63",
-      "title": "I put the new Siri AI through a 10-round test on my Mac - here's how it did",
-      "url": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
-      "summary": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T12:34:00+00:00"
     },
     {
       "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-09T14:53:00+00:00"
-    },
-    {
-      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
-      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
-      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
-      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:52:00+00:00"
-    },
-    {
-      "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
-      "title": "The curious case of the disappearing wearable",
-      "url": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
-      "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:49:00+00:00"
-    },
-    {
-      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
-      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
-      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
-      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-09T14:40:00+00:00"
-    },
-    {
-      "id": "e94183193c4957ed6ee4210004be7f40a6290bf9201aefb3a469ddda3ac35f5d",
-      "title": "I tested a $15 smart switch and found a coffee maker wasting $1,500 a year in electricity",
-      "url": "https://www.zdnet.com/article/switchbot-relay-switch-review/",
-      "summary": "The SwitchBot Relay 1PM Switch turns a device on and off and tells you how much power it's using.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T12:17:00+00:00"
     }
   ]
 }
