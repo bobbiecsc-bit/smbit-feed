@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-18T20:35:27.196420+00:00",
+  "updated": "2026-06-19T10:52:33.152050+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "84d2c3c512decc9619fbd44f1c4900c1edb1155d094199e8d4663fba1b87af64",
+      "title": "Google Home Speaker vs. Amazon Echo Dot Max: I compared the $99 smart hubs by the specs",
+      "url": "https://www.zdnet.com/article/google-home-speaker-vs-amazon-echo-dot-max/",
+      "summary": "Both Google and Amazon have generative AI-powered smart speakers for under $100, so which one stands out?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T21:13:31+00:00"
+    },
     {
       "id": "d122cfcf259e6433caf32b03b473a9568b6e2438ccbc9fc0cd4decbcabb18f62",
       "title": "I recommend these Garmin smartwatches for almost every situation (and price range)",
@@ -31,15 +40,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-18T15:00:48+00:00"
-    },
-    {
-      "id": "84d2c3c512decc9619fbd44f1c4900c1edb1155d094199e8d4663fba1b87af64",
-      "title": "Google Home Speaker (2026) vs. Amazon Echo Dot Max: Why I'm split on these $99 rivals",
-      "url": "https://www.zdnet.com/article/google-home-speaker-vs-amazon-echo-dot-max/",
-      "summary": "Both Google and Amazon have generative AI-powered smart speakers for under $100, so which one stands out?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-18T14:22:57+00:00"
     },
     {
       "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
