@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-20T09:30:31.617728+00:00",
+  "updated": "2026-06-20T19:48:44.703580+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
+      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
+      "url": "https://thenewstack.io/gemini-cli-antigravity-replacement/",
+      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-20T16:00:00+00:00"
+    },
     {
       "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
       "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-10T14:00:00+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-10T09:00:55+00:00"
     }
   ]
 }
