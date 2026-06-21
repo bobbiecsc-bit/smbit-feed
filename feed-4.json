@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-21T10:01:03.840585+00:00",
+  "updated": "2026-06-21T19:55:24.783738+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
+      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
+      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T16:00:47+00:00"
+    },
     {
       "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
       "title": "The best microSD cards of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T16:00:48+00:00"
-    },
-    {
-      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
-      "title": "Building an agentic AI strategy that pays off - without risking business failure",
-      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
-      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-04T14:10:00+00:00"
     }
   ]
 }

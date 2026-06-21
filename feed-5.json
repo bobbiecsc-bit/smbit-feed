@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-21T10:01:03.840585+00:00",
+  "updated": "2026-06-21T19:55:24.783738+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
+      "title": "Building an agentic AI strategy that pays off - without risking business failure",
+      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
+      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-04T14:10:00+00:00"
+    },
     {
       "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
       "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-22T11:06:10+00:00"
-    },
-    {
-      "id": "977ba6dbaa7c1b0ea7577a2b26c65cb4e712f148e0c3b4bfeb76f8af16e22c11",
-      "title": "We compared 10 robot vacuums for sand pickup - and one model was the clear favorite",
-      "url": "https://www.zdnet.com/article/best-pickup-performance-robot-vacuums-lab-tested/",
-      "summary": "ZDNET's latest Lab Award crowns the top robot vacuum that picked up the most sand in our testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T11:00:51+00:00"
     }
   ]
 }
