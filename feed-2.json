@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-21T19:55:24.783738+00:00",
+  "updated": "2026-06-22T12:20:48.286944+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f9d76014bb7c4092fa59b6ae3b8d1cbff4733028d63e6f490b4f97241e32801e",
+      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+      "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+      "summary": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy eﬃcient processor AWS has ever built, and oﬀers up to 25% better compute performance compared to Graviton4-based instances.",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-10T15:04:30+00:00"
+    },
     {
       "id": "de1ac4ae49aab86e142b857c2eebd6bc40c165ac670833b484b51e1fea98f25b",
       "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-30T12:00:46+00:00"
-    },
-    {
-      "id": "ec20f1cb2eb4c062f32f6ba67e3b0d3b5e138fdc613b718d0fa897f8adba21a5",
-      "title": "ReMarkable Paper Pure vs. Boox Go 10.3: I used both tablets at work, and it comes down to this",
-      "url": "https://www.zdnet.com/article/boox-go-10-3-remarkable-paper-pure-comparison/",
-      "summary": "The Boox Go 10.3 Lumi (Gen 2) and ReMarkable Paper Pure have the same sized display, but they're very different. Here's where they each excel.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T10:00:59+00:00"
     }
   ]
 }

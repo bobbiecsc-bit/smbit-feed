@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-21T19:55:24.783738+00:00",
+  "updated": "2026-06-22T12:20:48.286944+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ec20f1cb2eb4c062f32f6ba67e3b0d3b5e138fdc613b718d0fa897f8adba21a5",
+      "title": "ReMarkable Paper Pure vs. Boox Go 10.3: I used both tablets at work, and it comes down to this",
+      "url": "https://www.zdnet.com/article/boox-go-10-3-remarkable-paper-pure-comparison/",
+      "summary": "The Boox Go 10.3 Lumi (Gen 2) and ReMarkable Paper Pure have the same sized display, but they're very different. Here's where they each excel.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-30T10:00:59+00:00"
+    },
     {
       "id": "1881575e78def66c4e66fe254a9a650cd0a1e7ae1f77bcf2b04fba8166724443",
       "title": "Is Amazfit's most premium smartwatch worth it? I tested it on the golf course, and it paid off",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-14T23:22:38+00:00"
-    },
-    {
-      "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
-      "title": "Six strategies for AI",
-      "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
-      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-05-14T21:08:57+00:00"
     }
   ]
 }
