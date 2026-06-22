@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-22T12:20:48.286944+00:00",
+  "updated": "2026-06-22T21:09:26.686044+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b2b66777a2651afe34f80660496d24b899dc67bd6f33597ad803eb71dfdb3f77",
+      "title": "I tested Android 17 on my Pixel 9 Pro - its app bubbles are a multitasker's dream",
+      "url": "https://www.zdnet.com/article/the-android-17-features-that-im-most-excited-about/",
+      "summary": "These are the 6 new Android 17 features I'm most excited about.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T20:53:34+00:00"
+    },
+    {
+      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
+      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T19:31:57+00:00"
+    },
+    {
+      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
+      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T19:10:46+00:00"
+    },
+    {
+      "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
+      "title": "Samsung Galaxy vs. Google Pixel: I've used both brands extensively, and this one's better",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
+      "summary": "Samsung and Google make some of the best Android phones right now, but there are some clear differences to consider if you're split between the two.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T18:00:40+00:00"
+    },
+    {
+      "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
+      "title": "Amazon is selling Garmin watches for up to $350 off - and I recommend these models",
+      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "Many of Garmin's signature smartwatches are on sale for Prime Day, including Forerunner, Fenix, and Venu models.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T17:15:20+00:00"
+    },
+    {
+      "id": "766eda4d9b8a4ccd57b98f52679b53b1ba95ecc9981e0e1d2d8023a721b93e1d",
+      "title": "Samsung OLED vs. QLED vs. Micro RGB: I compared the 3 TV types and found a surprise winner",
+      "url": "https://www.zdnet.com/article/oled-vs-qled-micro-rgb-samsung-tvs/",
+      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, based on our lab testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T16:58:00+00:00"
+    },
+    {
+      "id": "b3605439c2255e95d555563d4d54d37664e2bd19850b3ed1ecf3a0da4af5c9d1",
+      "title": "Cybersecurity Threat Advisory: PAN-OS GlobalProtect exploit",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-pan-os-globalprotect-exploit/",
+      "summary": "Palo Alto Networks has confirmed that attackers are actively exploiting a security flaw in PAN-OS GlobalProtect, tracked as CVE-2026-0257 with a CVSS score of 7.8. The vulnerability affects both on-premises firewalls and Prisma Access. Review the Cybersecurity Threat Advisory for [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-06-22T16:35:49+00:00"
+    },
+    {
+      "id": "eb8d31ba42083b53ad5db61fabf1821a1084cc0f2c168443d224244b44046b59",
+      "title": "This is the smartwatch most iPhone users should buy (and it's $120 off)",
+      "url": "https://www.zdnet.com/article/apple-watch-series-11-prime-day-deal-2026/",
+      "summary": "The Apple Watch Series 11 arrived last year with a full suite of health-tracking features and an extended battery life. It's on sale one day before Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T16:29:57+00:00"
+    },
+    {
+      "id": "742e22a96bbd16f211a861ffe0a6d5625821d2ebcdc9a34feac94ba760de5c7f",
+      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
+      "summary": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesi",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-22T14:46:17+00:00"
+    },
     {
       "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
       "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I used both pairs for months, and here's my pick",
@@ -111,15 +192,6 @@
       "date": "2026-06-17T19:59:00+00:00"
     },
     {
-      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
-      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T19:05:42+00:00"
-    },
-    {
       "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
       "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
       "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
@@ -226,15 +298,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-06-16T23:13:10+00:00"
-    },
-    {
-      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
-      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
-      "summary": "Skip Amazon Prime Day. Check out the best early Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-16T17:47:16+00:00"
     },
     {
       "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
@@ -1821,15 +1884,6 @@
       "date": "2026-05-04T14:10:00+00:00"
     },
     {
-      "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
-      "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
-      "summary": "Samsung and Google make some of the best Android phones, making it sometimes difficult to pick between the two. Here's my advice if you're split.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T11:30:49+00:00"
-    },
-    {
       "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
       "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
       "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
@@ -2197,60 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T09:00:50+00:00"
-    },
-    {
-      "id": "62cf8271bf4743b4f0de607205c16380c563802e830cc3d11ccf51188f59de39",
-      "title": "Bose QuietComfort Ultra 2 vs. Samsung Galaxy Buds 4 Pro: I tried both, and this pair wins",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
-      "summary": "The latest Samsung earbuds compete squarely with the flagship Bose QuietComfort Ultra Earbuds 2. But are they better?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T01:30:42+00:00"
-    },
-    {
-      "id": "1d062d436e0a583c94214730b7f07e67b97aec68a432ebaa96cec8fb8f7304cd",
-      "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
-      "url": "https://www.zdnet.com/article/bloom-card-review/",
-      "summary": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T19:38:00+00:00"
-    },
-    {
-      "id": "be8b53e063611d71dc26f3d523e97684d193b3d33b64ec07cf272ba7614986c9",
-      "title": "The best earbuds of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-earbuds/",
-      "summary": "For your workouts, cool-downs, days in the office, and everything in between, we picked the five best earbuds for your day-to-day from brands like Apple, Sony, and Bose.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T18:00:39+00:00"
-    },
-    {
-      "id": "c4ce72531b9ea7a8b014c3304db49ff7d1b43abedb5d22fefbebc8271f75ca0c",
-      "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
-      "url": "https://thenewstack.io/roo-code-cloud-ides-ai-coding/",
-      "summary": "Roo Code, an open source AI coding tool built for VS Code, has announced that it&#8217;s shutting down its VS The post Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-04-22T17:49:07+00:00"
-    },
-    {
-      "id": "c155f1ffd78752c25c972e8e3a9b1d911ee79614ab9fe1de1b4a6b8de6f19947",
-      "title": "After testing this Garmin rival, I won't use a smartwatch without a built-in flashlight again",
-      "url": "https://www.zdnet.com/article/polar-street-x-review/",
-      "summary": "The Polar Street X raises the bar for smartwatches with integrated LED flashlights at a low entry price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T16:38:00+00:00"
-    },
-    {
-      "id": "c106a76844c2589d183a275f11d5a754f7937537b2d0b9693c8a94d71f8a83ee",
-      "title": "This Moto G Stylus phone deal includes a free smartwatch and more - here's how it works",
-      "url": "https://www.zdnet.com/article/motorola-moto-g-stylus-deal/",
-      "summary": "Buy the Moto G Stylus directly from Motorola and get a pair of Moto Buds Loop earbuds, a Moto Watch, and Moto Tag for free.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-22T14:28:25+00:00"
     }
   ]
 }
