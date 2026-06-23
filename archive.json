@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-23T09:58:08.049977+00:00",
+  "updated": "2026-06-23T20:16:26.255243+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
+      "title": "This Garmin smartwatch is our top-selling Prime Day deal so far",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
+      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features. ZDNET readers can't get enough of it on the first day of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:49:39+00:00"
+    },
+    {
+      "id": "36b69c1e752726ddbf7f834cfa2f677cfab1954363f7f0d5fd1e985e0771cee2",
+      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-costco-deals-2026/",
+      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:38:55+00:00"
+    },
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:00:00+00:00"
+    },
+    {
+      "id": "225b39ba9c21a807b57e138098bcb0c0069243a9053a8270a08788be39082ca4",
+      "title": "Hourly billing very rare in tax prep",
+      "url": "https://www.accountingtoday.com/news/hourly-billing-very-rare-in-tax-prep",
+      "summary": "Firms that rely on the old-fashioned billable hour are in the minority compared to fixed fee, value pricing and other models.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-23T19:00:00+00:00"
+    },
+    {
+      "id": "6c1787612aa96c0e546fd00223f1387455da5549d315d5b6fa82a977542fb4fe",
+      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+      "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
+      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-23T18:50:18+00:00"
+    },
+    {
+      "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
+      "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-2026/",
+      "summary": "It's Walmart vs. Amazon this Prime Day: Walmart's massive rival sale is here, with great deals on 4K smart TVs, Apple tech, and laptops - some of which are better than Amazon's prices.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T17:32:04+00:00"
+    },
     {
       "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
       "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
@@ -2197,60 +2251,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-04-23T18:10:48+00:00"
-    },
-    {
-      "id": "08cea93685b9308418949a02b5c0c15652f740d9e76787fa7dbffd625b385130",
-      "title": "Samsung Micro RGB vs. QLED vs. OLED: I compared all three and found a surprising winner",
-      "url": "https://www.zdnet.com/article/micro-rgb-vs-qled-vs-oled-which-samsung-tv-is-better/",
-      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, informed by our lab testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T18:00:00+00:00"
-    },
-    {
-      "id": "2a684e5a5fd8adb7e72f29b4ffe6aa530f1fa7e4aac9b115446599819efb6b98",
-      "title": "The best SEO reporting software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
-      "summary": "Looking for better ways to track and present your SEO performance? We've tested the best SEO reporting software, including Semrush, Ahrefs, and SE Ranking.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T15:00:04+00:00"
-    },
-    {
-      "id": "864ac5cdb81df93c6c06628d430fc98c599956a50327c8c97de5e14af57413fc",
-      "title": "Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony may be at the top of its game, but how well do the XM6 stack up against its more premium competitors? It comes down to how you use them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T14:58:18+00:00"
-    },
-    {
-      "id": "b40037cc7d6c0dd19ffb6f362c2c1e3b1734bf475ceb57c10fdf8d67a4f80ad1",
-      "title": "Sonos Era 300 vs. Denon Home 400: Why I'm pulling the plug on the more popular speaker",
-      "url": "https://www.zdnet.com/article/sonos-era-300-vs-denon-home-400/",
-      "summary": "Is the Denon Home 400 worth the extra cash? I tested it beside my Sonos Era 300, and here's my verdict.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T11:01:29+00:00"
-    },
-    {
-      "id": "1a3d8f10e096f2a5da1c7732714553215af137df5f34ccf009f001a6bee7ee73",
-      "title": "The best Amazon Fire TV Stick VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-for-firestick/",
-      "summary": "These tried-and-tested VPNs will work with your Amazon Fire TV Stick, giving you more privacy and freedom when streaming.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T10:45:33+00:00"
-    },
-    {
-      "id": "2b6d59dae85e6e0b9bb00024dd994051aedc0e333d6ab55d85169105a32ce07a",
-      "title": "The best smart TV VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-tv-vpns/",
-      "summary": "Keep your browsing and streaming activities hidden from ISPs and expand your content libraries with a solid, secure, and fast VPN that works well with smart TVs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T10:00:49+00:00"
     }
   ]
 }

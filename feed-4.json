@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-23T09:58:08.049977+00:00",
+  "updated": "2026-06-23T20:16:26.255243+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
+      "title": "Samsung vs. Motorola: I've tested dozens of phones from both brands - here's my choice",
+      "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
+      "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-17T13:00:45+00:00"
+    },
+    {
+      "id": "2ee62b41963cac5f5aaf9a57d6093b2a110815a7733cbad67e1cb2d82df92057",
+      "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
+      "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
+      "summary": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-17T10:00:00+00:00"
+    },
+    {
+      "id": "2d46e44d772d71f7d2f5e862f47795d53b9b24ad58e69582d0b1b73bf72fce4c",
+      "title": "The best NAS devices of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-network-attached-storage/",
+      "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-17T09:00:47+00:00"
+    },
+    {
+      "id": "4042a1ae525d5fb9a0dceb89dbb972dc53c8fe400d35e78c1e27e2df7b5c921c",
+      "title": "The best external hard drives of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-external-hard-drive/",
+      "summary": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-16T09:00:40+00:00"
+    },
+    {
+      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
+      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
+      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
+      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-15T19:47:07+00:00"
+    },
+    {
+      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "url": "https://thenewstack.io/agentic-ai-build-buy/",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
     {
       "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
       "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
@@ -400,60 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-05-06T13:00:00+00:00"
-    },
-    {
-      "id": "0f6965e5d4a286765bba544df6ed27d0298958762569cb7ecca3385a6546ef62",
-      "title": "Attackers adopt JavaScript runtime Bun to spread NWHStealer",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer",
-      "summary": "A legitimate developer tool is being repurposed by attackers to package and spread this Windows infostealer in harder-to-detect ways.",
-      "source": "Malwarebytes Labs",
-      "category": "continuity",
-      "date": "2026-05-06T12:50:55+00:00"
-    },
-    {
-      "id": "4b844cb02be2598f337864cb01ff0546a1add4bf1a92652179f66e27289ae9a8",
-      "title": "I tested ReMarkable's 'cheap' Paper Pure tablet, and it hardly feels like a downgrade",
-      "url": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
-      "summary": "The Paper Pure pairs an accessible design with modest hardware while retaining ReMarkable's niche functionality.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T12:00:38+00:00"
-    },
-    {
-      "id": "8126adffbb86400122d314a35f705a0d0ea1c2a942fbfb5369a69ab019b41cb6",
-      "title": "Wix vs. Squarespace: I compared two of the top website builders, and this one wins",
-      "url": "https://www.zdnet.com/article/wix-vs-squarespace-compared-2026/",
-      "summary": "Wix and Squarespace are two of the most popular website builders - so how do they compare?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T11:00:44+00:00"
-    },
-    {
-      "id": "3fac3e01d0ac67fbba765097a60a40f327a5d59f3108b0f8e8e3c44f0c07092e",
-      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
-      "url": "https://thenewstack.io/acm-vibe-coding-ai-agent/",
-      "summary": "The Association for Computing Machinery&#8216;s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post &#8220;AI systems do not understand&#8221;: New report flags systemic failures in AI coding appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-05-06T10:00:00+00:00"
-    },
-    {
-      "id": "ddcdbae9152bfa0d9dcbb1b6c45dbfc8de4efe4012b669d1b9ee05da7639c427",
-      "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-40-inch-tv/",
-      "summary": "We tested and compared the best 40-inch class TVs from brands like Samsung, Hisense, and more to help you find the right fit for your space.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-06T09:00:40+00:00"
-    },
-    {
-      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
-      "title": "How MSPs close the cloud migration security gap",
-      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
-      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-05T20:09:50+00:00"
     }
   ]
 }

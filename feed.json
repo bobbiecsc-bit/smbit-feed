@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-23T09:58:08.049977+00:00",
+  "updated": "2026-06-23T20:16:26.255243+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
+      "title": "This Garmin smartwatch is our top-selling Prime Day deal so far",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
+      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features. ZDNET readers can't get enough of it on the first day of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:49:39+00:00"
+    },
+    {
+      "id": "36b69c1e752726ddbf7f834cfa2f677cfab1954363f7f0d5fd1e985e0771cee2",
+      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-costco-deals-2026/",
+      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:38:55+00:00"
+    },
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T19:00:00+00:00"
+    },
+    {
+      "id": "225b39ba9c21a807b57e138098bcb0c0069243a9053a8270a08788be39082ca4",
+      "title": "Hourly billing very rare in tax prep",
+      "url": "https://www.accountingtoday.com/news/hourly-billing-very-rare-in-tax-prep",
+      "summary": "Firms that rely on the old-fashioned billable hour are in the minority compared to fixed fee, value pricing and other models.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-23T19:00:00+00:00"
+    },
+    {
+      "id": "6c1787612aa96c0e546fd00223f1387455da5549d315d5b6fa82a977542fb4fe",
+      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+      "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
+      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-23T18:50:18+00:00"
+    },
+    {
+      "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
+      "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-2026/",
+      "summary": "It's Walmart vs. Amazon this Prime Day: Walmart's massive rival sale is here, with great deals on 4K smart TVs, Apple tech, and laptops - some of which are better than Amazon's prices.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T17:32:04+00:00"
+    },
     {
       "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
       "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
@@ -400,60 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-06-13T17:00:00+00:00"
-    },
-    {
-      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "url": "https://thenewstack.io/fable-5-opus-comparison/",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T15:00:00+00:00"
-    },
-    {
-      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
-      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
-      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
-      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T13:00:58+00:00"
-    },
-    {
-      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
-      "title": "The best VPN routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-router/",
-      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:01:02+00:00"
-    },
-    {
-      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
-      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
-      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:00:54+00:00"
-    },
-    {
-      "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
-      "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
-      "url": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
-      "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-12T18:07:00+00:00"
-    },
-    {
-      "id": "cce4f3abf6823b8640446e10e6272e8aae6e79945a7a684a506394de90101138",
-      "title": "40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail",
-      "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
-      "summary": "How do you create real ROI from autonomous AI? Three digital leaders share lessons they've learned in the field.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-12T16:14:33+00:00"
     }
   ]
 }
