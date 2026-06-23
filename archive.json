@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-22T21:09:26.686044+00:00",
+  "updated": "2026-06-23T09:58:08.049977+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
+      "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
+      "url": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
+      "summary": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T08:00:40+00:00"
+    },
     {
       "id": "b2b66777a2651afe34f80660496d24b899dc67bd6f33597ad803eb71dfdb3f77",
       "title": "I tested Android 17 on my Pixel 9 Pro - its app bubbles are a multitasker's dream",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-23T10:00:49+00:00"
-    },
-    {
-      "id": "027f1409784c34531fa2b7bc8463b695f2266ef4a5d82edb9cad19a593ecdc96",
-      "title": "The best free VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-free-vpn/",
-      "summary": "If you're on the hunt for a free VPN to use at home and when you travel, we have you covered. These are our top picks for free VPN services today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-23T09:00:50+00:00"
     }
   ]
 }

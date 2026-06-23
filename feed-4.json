@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-22T21:09:26.686044+00:00",
+  "updated": "2026-06-23T09:58:08.049977+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
+      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:31:53+00:00"
+    },
     {
       "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
       "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-05T20:09:50+00:00"
-    },
-    {
-      "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
-      "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max/",
-      "summary": "Samsung's latest flagship phone offers some impressive and unique features, but how does it compare to Apple's finest?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T18:00:48+00:00"
     }
   ]
 }
