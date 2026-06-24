@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-23T20:16:26.255243+00:00",
+  "updated": "2026-06-24T09:46:04.630539+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:50+00:00"
+    },
+    {
+      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
+      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
+      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
+      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:35+00:00"
+    },
+    {
+      "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
+      "title": "I recommend these best Garmin Prime Day deals - get up to $500 off right now",
+      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "Many of Garmin's signature smartwatches are on sale for Prime Day, including Forerunner, Fenix, and Venu models that we've tested.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T01:19:02+00:00"
+    },
+    {
+      "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
+      "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
+      "url": "https://www.zdnet.com/article/hp-omnibook-3-2026-review/",
+      "summary": "HP's OmniBook 3 combines decent hardware and exceptional battery life, making it one of the best-value laptops I've tested this year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T00:57:00+00:00"
+    },
+    {
+      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
+      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
+      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
+      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-24T00:51:00+00:00"
+    },
+    {
+      "id": "c12566a091814a4899d8a7f2b451fffa40719469083e5252c13fad3d33f84be0",
+      "title": "Sony's WH-1000XM6 headphones just dropped to their lowest price yet for Amazon Prime Day",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-amazon-prime-day-deal-2026/",
+      "summary": "Sony's WH-1000XM6 headphones bring best-in-class ANC and refined audio output.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T00:51:00+00:00"
+    },
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T21:27:13+00:00"
+    },
     {
       "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
       "title": "This Garmin smartwatch is our top-selling Prime Day deal so far",
@@ -22,15 +85,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-23T19:38:55+00:00"
-    },
-    {
-      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T19:00:00+00:00"
     },
     {
       "id": "225b39ba9c21a807b57e138098bcb0c0069243a9053a8270a08788be39082ca4",
@@ -103,15 +157,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T18:00:40+00:00"
-    },
-    {
-      "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
-      "title": "Amazon is selling Garmin watches for up to $350 off - and I recommend these models",
-      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-amazon-prime-day-2026/",
-      "summary": "Many of Garmin's signature smartwatches are on sale for Prime Day, including Forerunner, Fenix, and Venu models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T17:15:20+00:00"
     },
     {
       "id": "766eda4d9b8a4ccd57b98f52679b53b1ba95ecc9981e0e1d2d8023a721b93e1d",
@@ -409,51 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-15T12:00:00+00:00"
-    },
-    {
-      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
-      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
-      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-15T11:41:48+00:00"
-    },
-    {
-      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
-      "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
-      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but that wasn't quite the case.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T11:15:41+00:00"
-    },
-    {
-      "id": "119a111f26130a7d8f3d5aa48f525681bf485df7630d24698837c40d0bf96a94",
-      "title": "I found popular student discounts that can save you up to $25 per month",
-      "url": "https://www.zdnet.com/article/best-student-discounts-2026/",
-      "summary": "A student status can unlock a lot of savings if you know where to look. Here are my top picks you don't want to miss.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T10:00:50+00:00"
-    },
-    {
-      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
-      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-14T12:30:48+00:00"
-    },
-    {
-      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
-      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
-      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
-      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T17:00:00+00:00"
     }
   ]
 }
