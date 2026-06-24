@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-24T09:46:04.630539+00:00",
+  "updated": "2026-06-24T19:58:26.591973+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
+      "title": "Yes, you can get Microsoft 365 free - here's how",
+      "url": "https://www.zdnet.com/article/how-to-get-microsoft-365-free/",
+      "summary": "The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-05-10T08:00:36+00:00"
+    },
+    {
+      "id": "6ef600c7275a2232b0e45bd2b6848a5dd7f8afd976f488c12ecfb4bbec245b70",
+      "title": "The best 85-inch TVs in 2026: Expert recommended",
+      "url": "https://www.zdnet.com/article/best-85-inch-tv/",
+      "summary": "Upgrading your home theater with a big-screen TV can help create a more cinematic experience at home, and we tested the best from Samsung, Sony, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-09T11:00:54+00:00"
+    },
+    {
+      "id": "ca1f0ad8cf937bef64c1cfefbb89a04e757a14e9f8da98e4bafdcf6474d65f40",
+      "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
+      "url": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
+      "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Chromebooks could have a leg up.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-08T17:00:41+00:00"
+    },
+    {
+      "id": "20a9b9b952834a2eb183d5393303af2fb44ffecbb1ba2954578baa35b39e3c5e",
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+      "url": "https://thenewstack.io/openai-codex-claude-code/",
+      "summary": "Late last month, OpenAI shipped a new product they dubbed &#8220;Codex for (almost) everything.&#8221; Its goal was to shift&#160;Codex&#160;from a The post I tested the new OpenAI Codex features on a real Python codebase, and it&#8217;s the strongest Claude Code rival yet appeared first on The New ",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-07T15:27:18+00:00"
+    },
     {
       "id": "aca38b4d61fa0dd39d54e07eab83fa61990f91ebbbdc2355ad2cc992239b85dc",
       "title": "The best VPN extensions for Chrome in 2026: Expert tested and reviewed",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-26T13:00:38+00:00"
-    },
-    {
-      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
-      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-25T10:00:00+00:00"
-    },
-    {
-      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
-      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
-      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
-      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T13:19:02+00:00"
-    },
-    {
-      "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
-      "title": "The best inventory management software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-inventory-management-software/",
-      "summary": "Need better stock visibility and smoother fulfillment? Here are the best inventory management software options we've tested including Odoo, Square, and Katana.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T10:00:55+00:00"
-    },
-    {
-      "id": "d8999e32ee8d78c147a653dcad822632373010bb008b2ea990dbce8b6a5a6b77",
-      "title": "The best website builder for SEO in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-website-builder-for-seo/",
-      "summary": "Looking for a website builder that helps you rank? Discover the best SEO-focused website builders including Wix, Webflow, and Shopify.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T09:00:39+00:00"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-24T09:46:04.630539+00:00",
+  "updated": "2026-06-24T19:58:26.591973+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
+      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
+      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
+      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-06-24T18:52:17+00:00"
+    },
+    {
+      "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
+      "title": "The best Prime Day deals under $50 you can grab right now and still be within budget",
+      "url": "https://www.zdnet.com/article/best-deals-under-50-amazon-prime-day-2026/",
+      "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T18:47:27+00:00"
+    },
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T18:14:32+00:00"
+    },
+    {
+      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
+      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
+      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
+      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T18:10:00+00:00"
+    },
+    {
+      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
+      "title": "More revenue, less waste: Five lessons for MSP growth",
+      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
+      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-24T15:52:53+00:00"
+    },
     {
       "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
       "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
@@ -55,15 +100,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T00:51:00+00:00"
-    },
-    {
-      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T21:27:13+00:00"
     },
     {
       "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
@@ -2215,42 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-26T13:00:38+00:00"
-    },
-    {
-      "id": "99c3bccc229653a5ee508372f692546d9f8d256a780ec36356d152d786b4253f",
-      "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-      "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-      "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-25T10:00:00+00:00"
-    },
-    {
-      "id": "8d696078a38b5a42d7419e987cfb0c8f82b2a7677b30877a30c72a81ad1fe611",
-      "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
-      "url": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
-      "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T13:19:02+00:00"
-    },
-    {
-      "id": "80e623d5e3a53fa8f139ea09ffffbb65410430050299851c3400e22431b628d5",
-      "title": "The best inventory management software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-inventory-management-software/",
-      "summary": "Need better stock visibility and smoother fulfillment? Here are the best inventory management software options we've tested including Odoo, Square, and Katana.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T10:00:55+00:00"
-    },
-    {
-      "id": "d8999e32ee8d78c147a653dcad822632373010bb008b2ea990dbce8b6a5a6b77",
-      "title": "The best website builder for SEO in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-website-builder-for-seo/",
-      "summary": "Looking for a website builder that helps you rank? Discover the best SEO-focused website builders including Wix, Webflow, and Shopify.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-24T09:00:39+00:00"
     }
   ]
 }
