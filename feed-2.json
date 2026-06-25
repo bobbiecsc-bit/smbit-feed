@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-25T09:37:06.822368+00:00",
+  "updated": "2026-06-25T20:15:33.386452+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
+      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
+      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
+      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:01:01+00:00"
+    },
+    {
+      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
+      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:00:45+00:00"
+    },
     {
       "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-05T13:29:05+00:00"
-    },
-    {
-      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
-      "title": "Doeren Mayhew adds tech firm",
-      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
-      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-04T20:50:11+00:00"
-    },
-    {
-      "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
-      "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
-      "url": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
-      "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T18:04:00+00:00"
     }
   ]
 }

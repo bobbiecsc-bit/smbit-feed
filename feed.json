@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-25T09:37:06.822368+00:00",
+  "updated": "2026-06-25T20:15:33.386452+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T19:27:07+00:00"
+    },
+    {
+      "id": "629659874c29e05fa42f2f615a83f07cf8da929688477693eb98305786095e12",
+      "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/",
+      "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T19:08:00+00:00"
+    },
+    {
+      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
+      "title": "The Garmin Fenix 8 Pro smartwatch is a top-selling Prime Day deal - here's why I recommend it",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
+      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T15:41:11+00:00"
+    },
+    {
+      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
+      "title": "HeyPolo vs. Life360: I tried both location-sharing apps, and there's a clear winner",
+      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
+      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space compares.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T15:38:00+00:00"
+    },
     {
       "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
       "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
@@ -40,15 +76,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-06-24T18:52:17+00:00"
-    },
-    {
-      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T18:14:32+00:00"
     },
     {
       "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
@@ -121,15 +148,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T00:51:00+00:00"
-    },
-    {
-      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
-      "title": "This Garmin smartwatch is our top-selling Prime Day deal so far",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
-      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features. ZDNET readers can't get enough of it on the first day of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T19:49:39+00:00"
     },
     {
       "id": "36b69c1e752726ddbf7f834cfa2f677cfab1954363f7f0d5fd1e985e0771cee2",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T11:06:08+00:00"
-    },
-    {
-      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
-      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
-      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
-      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:01:01+00:00"
-    },
-    {
-      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
-      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
-      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:00:45+00:00"
     }
   ]
 }
