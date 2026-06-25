@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-24T19:58:26.591973+00:00",
+  "updated": "2026-06-25T09:37:06.822368+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
+    {
+      "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
+      "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
+      "url": "https://www.zdnet.com/article/i-tried-anduinos-2-0-easiest-way-to-ditch-windows-for-linux/",
+      "summary": "AnduinOS 2.0 is a speedy, private, Ubuntu-based Linux distro that's all about true distro engineering. And it's laid out like Windows 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T17:07:27+00:00"
+    },
     {
       "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
       "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
-      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
-      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
-      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-04T17:45:50+00:00"
-    },
-    {
-      "id": "fce55326d77c184aef151a70de24e38765df1b1580f339bb46786f8ed15bc523",
-      "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
-      "url": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
-      "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:50:23+00:00"
     }
   ]
 }

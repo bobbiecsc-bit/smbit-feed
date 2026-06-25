@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-24T19:58:26.591973+00:00",
+  "updated": "2026-06-25T09:37:06.822368+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-05-10T15:00:00+00:00"
+    },
+    {
+      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
+      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-sony-tv/",
+      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-10T09:01:05+00:00"
+    },
     {
       "id": "fa53d49fb84a2c30b62957736e0f2670b3838a139e0e24a2195d439992ad6251",
       "title": "Yes, you can get Microsoft 365 free - here's how",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-04-27T13:00:00+00:00"
-    },
-    {
-      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
-      "title": "The one Slack message that proved our elite engineering team was flying blind",
-      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
-      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-26T15:00:00+00:00"
-    },
-    {
-      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
-      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
-      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
-      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-26T13:00:38+00:00"
     }
   ]
 }

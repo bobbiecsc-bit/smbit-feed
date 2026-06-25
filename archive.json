@@ -1,15 +1,24 @@
 {
-  "updated": "2026-06-24T19:58:26.591973+00:00",
+  "updated": "2026-06-25T09:37:06.822368+00:00",
   "total": 250,
   "articles": [
     {
-      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
-      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
-      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
-      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
+      "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
+      "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
+      "url": "https://www.zdnet.com/article/tiny-iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
       "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-06-24T18:52:17+00:00"
+      "category": "continuity",
+      "date": "2026-06-25T09:00:44+00:00"
+    },
+    {
+      "id": "a814208c6c8c93013ff2922b3d0af8924003db78b63a63e423fbe1d78bdbdea3",
+      "title": "As an avid reader, these are the Kindle Prime Day deals worth buying (accessories, too)",
+      "url": "https://www.zdnet.com/article/kindle-amazon-prime-day-deals-2026/",
+      "summary": "Kindle and other Amazon devices get the biggest price drops of the year, and here are the best deals you can find right now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-25T00:54:38+00:00"
     },
     {
       "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
@@ -18,7 +27,16 @@
       "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-06-24T18:47:27+00:00"
+      "date": "2026-06-24T20:14:41+00:00"
+    },
+    {
+      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
+      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
+      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
+      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-06-24T18:52:17+00:00"
     },
     {
       "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-04-27T13:00:00+00:00"
-    },
-    {
-      "id": "c986257b6ce9fc9828dec5bcc27cbfc0dc0c7ec06effbbae3ef6b759078cb77b",
-      "title": "The one Slack message that proved our elite engineering team was flying blind",
-      "url": "https://thenewstack.io/multi-cloud-blind-spots/",
-      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-04-26T15:00:00+00:00"
-    },
-    {
-      "id": "04b534ebb5316d0bf040fac48ec82edd13a4009d3f5d3d839fd5644e8b0c3c32",
-      "title": "Framework Laptop 13 Pro vs. MacBook Neo: These Windows rivals are more similar than expected",
-      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-vs-macbook-neo/",
-      "summary": "Framework's sleek new Laptop 13 Pro is built for power users, but it shares similar ambitions to the Neo: Windows users seeking alternatives.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-26T13:00:38+00:00"
     }
   ]
 }

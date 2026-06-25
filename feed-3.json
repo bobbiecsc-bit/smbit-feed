@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-24T19:58:26.591973+00:00",
+  "updated": "2026-06-25T09:37:06.822368+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
+      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
+      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
+      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-04T17:45:50+00:00"
+    },
+    {
+      "id": "fce55326d77c184aef151a70de24e38765df1b1580f339bb46786f8ed15bc523",
+      "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
+      "url": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
+      "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-04T16:50:23+00:00"
+    },
     {
       "id": "2bd419ae305efe632f244f7be721f1703f9c81386743c9b723f0e7516fb049ff",
       "title": "I flew 2,700 miles with 4 headphones - this pair was the best travel companion",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-20T13:32:03+00:00"
-    },
-    {
-      "id": "b34eccf8a8b79b1d9ebdce9d54615566ce26c315d056b39770b3ec146ee2afa2",
-      "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
-      "url": "https://www.zdnet.com/article/tcl-vs-hisense/",
-      "summary": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T12:00:42+00:00"
-    },
-    {
-      "id": "b7738a471d725993778cabb7ca72884efc96c7102e27e573dc4a9339dcc29b7d",
-      "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
-      "url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
-      "summary": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:30:34+00:00"
     }
   ]
 }

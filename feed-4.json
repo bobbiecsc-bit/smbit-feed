@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-24T19:58:26.591973+00:00",
+  "updated": "2026-06-25T09:37:06.822368+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b34eccf8a8b79b1d9ebdce9d54615566ce26c315d056b39770b3ec146ee2afa2",
+      "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
+      "url": "https://www.zdnet.com/article/tcl-vs-hisense/",
+      "summary": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T12:00:42+00:00"
+    },
+    {
+      "id": "b7738a471d725993778cabb7ca72884efc96c7102e27e573dc4a9339dcc29b7d",
+      "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
+      "url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
+      "summary": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-20T11:30:34+00:00"
+    },
     {
       "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
       "title": "Best travel VPNs of 2026: Expert tested and reviewed",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-11T12:00:36+00:00"
-    },
-    {
-      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
-      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
-      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
-      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-05-10T15:00:00+00:00"
-    },
-    {
-      "id": "abd0b865d592c472eb723fd27ce7d5a6b0ac4c0e0cb661fa9079dea29cdc2fb1",
-      "title": "The best Sony TVs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-sony-tv/",
-      "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-10T09:01:05+00:00"
     }
   ]
 }
