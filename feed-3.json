@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-25T20:15:33.386452+00:00",
+  "updated": "2026-06-26T09:44:20.730709+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
+      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
+      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
+      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-06T11:00:37+00:00"
+    },
+    {
+      "id": "47358d671b659bb1df5cdef1688b5473c1f65dd453480c74a94514e9b14802f8",
+      "title": "How Google could turn Siri into the AI health coach my Apple Watch needs",
+      "url": "https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/",
+      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-05T13:29:05+00:00"
+    },
     {
       "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
       "title": "Doeren Mayhew adds tech firm",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-05-22T16:20:03+00:00"
-    },
-    {
-      "id": "88097cbec2f647b5dc2d1db6844d7188071984121a8bff5c2535f3599accfba8",
-      "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
-      "url": "https://www.zdnet.com/article/costco-memorial-day-deal-2026/",
-      "summary": "If you've been thinking about joining Costco, the wholesale retailer is offering a gift card of up to $40 for new members, effectively dropping the price of your membership.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-22T14:30:00+00:00"
-    },
-    {
-      "id": "1a3ae1417add789885936785ec068e77bb6adaa23bb314dd3b9dab48902fca56",
-      "title": "I buried 20 problems in a fake P&L to see if Claude for Small Business could find them",
-      "url": "https://thenewstack.io/claude-small-business-test/",
-      "summary": "Anthropic launched Claude for Small Business this month, adding native connectors to business tools like QuickBooks, HubSpot, Canva, Google Workspace, The post I buried 20 problems in a fake P&amp;L to see if Claude for Small Business could find them appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-05-22T13:00:00+00:00"
     }
   ]
 }

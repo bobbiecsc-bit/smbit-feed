@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-25T20:15:33.386452+00:00",
+  "updated": "2026-06-26T09:44:20.730709+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3bd36ff5e651a3dea388cfe0c90238957e78e6819d3c238f736b11aa01f07a8f",
+      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedro",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-06-17T15:00:11+00:00"
+    },
+    {
+      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
+      "title": "The best power banks of 2026: Expert and lab tested",
+      "url": "https://www.zdnet.com/article/best-power-banks/",
+      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:06:08+00:00"
+    },
     {
       "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
       "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-06T11:00:52+00:00"
-    },
-    {
-      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
-      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
-      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:37+00:00"
-    },
-    {
-      "id": "47358d671b659bb1df5cdef1688b5473c1f65dd453480c74a94514e9b14802f8",
-      "title": "How Google could turn Siri into the AI health coach my Apple Watch needs",
-      "url": "https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T13:29:05+00:00"
     }
   ]
 }

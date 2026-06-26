@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-25T20:15:33.386452+00:00",
+  "updated": "2026-06-26T09:44:20.730709+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
+      "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
+      "url": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-prime-day-2026/",
+      "summary": "Small gear, big gain. Snag useful USB-C accessories, Bluetooth gadgets, and more before Amazon Prime Day ends.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-26T09:00:39+00:00"
+    },
+    {
+      "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
+      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+      "url": "https://thenewstack.io/cloud-costs-private-repatriation/",
+      "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-26T00:09:24+00:00"
+    },
     {
       "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
       "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T15:01:00+00:00"
-    },
-    {
-      "id": "3bd36ff5e651a3dea388cfe0c90238957e78e6819d3c238f736b11aa01f07a8f",
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
-      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedro",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-06-17T15:00:11+00:00"
-    },
-    {
-      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
-      "title": "The best power banks of 2026: Expert and lab tested",
-      "url": "https://www.zdnet.com/article/best-power-banks/",
-      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:06:08+00:00"
     }
   ]
 }

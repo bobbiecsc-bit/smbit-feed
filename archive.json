@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-25T20:15:33.386452+00:00",
+  "updated": "2026-06-26T09:44:20.730709+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
+      "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
+      "url": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-prime-day-2026/",
+      "summary": "Small gear, big gain. Snag useful USB-C accessories, Bluetooth gadgets, and more before Amazon Prime Day ends.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-26T09:00:39+00:00"
+    },
+    {
+      "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
+      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+      "url": "https://thenewstack.io/cloud-costs-private-repatriation/",
+      "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-26T00:09:24+00:00"
+    },
     {
       "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
       "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-28T02:00:40+00:00"
-    },
-    {
-      "id": "7fe48725ab422492d143d41ce17595f08423bef5bd4134ac3352f2bcab6522a7",
-      "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
-      "url": "https://www.zdnet.com/article/bluetti-elite-400-review/",
-      "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-27T18:14:00+00:00"
-    },
-    {
-      "id": "42459e08cec8a6325da44298543c37709beacfbb35d912300ca7aa2c0a95fd03",
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
-      "summary": "Late March took me to Seattle for the Specialist Tech Conference, one of the most energizing gatherings of AWS specialists from around the world. It was an incredible opportunity to connect with peers, exchange experiences, and go deep on the latest advancements in Generative AI and Amazon Bedrock —",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-04-27T15:01:28+00:00"
     }
   ]
 }
