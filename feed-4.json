@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-26T09:44:20.730709+00:00",
+  "updated": "2026-06-26T20:01:05.499673+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
+      "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
+      "url": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
+      "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-26T15:38:00+00:00"
+    },
+    {
+      "id": "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f",
+      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
+      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-05-25T20:11:10+00:00"
+    },
+    {
+      "id": "b7376596f29ece387b7bd6e72633baba7b50a873f3f9d47d7f5dd908336e8eca",
+      "title": "The top 10 Memorial Day deals our readers keep buying (No. 3 is tiny yet functional)",
+      "url": "https://www.zdnet.com/article/memorial-day-2026-top-sellers/",
+      "summary": "Memorial Day weekend is wrapping up soon, but these are the deals our readers can't get enough of.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-25T16:47:00+00:00"
+    },
+    {
+      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
+      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-25T16:24:07+00:00"
+    },
+    {
+      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
+      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
+      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
+      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've found.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-05-25T15:04:29+00:00"
+    },
+    {
+      "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
+      "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-exchange-on-premise-owa-vulnerability-exploited/",
+      "summary": "A Microsoft Exchange Server Outlook Web Access (OWA) spoofing vulnerability, tracked as CVE‑2026‑42897, is actively being exploited in the wild. This issue affects Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition across all update levels. Continue reading [&#8230;",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-05-22T22:09:23+00:00"
+    },
+    {
+      "id": "8f548f3de211864aaa56478caf89da183169db5f0ec580b039d75c7977551f0f",
+      "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
+      "url": "https://www.zdnet.com/article/my-favorite-ipad-air-accessories/",
+      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of the tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-05-22T16:20:03+00:00"
+    },
     {
       "id": "88097cbec2f647b5dc2d1db6844d7188071984121a8bff5c2535f3599accfba8",
       "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
@@ -391,69 +454,6 @@
       "source": "Smarter MSP",
       "category": "policy",
       "date": "2026-05-12T19:01:11+00:00"
-    },
-    {
-      "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
-      "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
-      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
-      "summary": "Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T17:00:44+00:00"
-    },
-    {
-      "id": "cc2f25936bbf3cf0b94c45759a71886f6592148c5c1b99d5a513b19219e91bc8",
-      "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
-      "url": "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/",
-      "summary": "I like headphones that understand exactly what I want them to do - that's why I consider Adaptive Sound Control to be one of Sony's best personal audio features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T15:31:02+00:00"
-    },
-    {
-      "id": "201cb8d279130245e8ed04677c15bee8980b9f6e4c2a7ee0bcc7129b2fdcfc75",
-      "title": "Why business architects are poised to lead the corporate AI revolution",
-      "url": "https://www.zdnet.com/article/why-business-architects-are-poised-to-lead-the-corporate-ai-revolution/",
-      "summary": "Business architects and other like-minded roles elevate human skills by developing deep domain knowledge.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-05-12T12:08:25+00:00"
-    },
-    {
-      "id": "abf2f00eb5e4e78814031613c773cb77a3881614fc131636dbe59937df3d27a0",
-      "title": "Linux Mint vs. Elementary OS: I compared both distros, and here's my advice",
-      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint-which-is-right-for-you/",
-      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T09:00:37+00:00"
-    },
-    {
-      "id": "5a26b98c21a6515a414219634e31092c392675489217fe8b0043e356eb6e1547",
-      "title": "Microsoft PowerToys now lets you control your monitor from the taskbar - here's how",
-      "url": "https://www.zdnet.com/article/microsoft-powertoys-control-your-windows-monitor-from-the-taskbar/",
-      "summary": "Instead of pressing buttons on your monitor or hunting through your Windows settings, here's how you can now adjust your display directly from the system tray - plus other new PowerToys perks.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-05-12T02:00:41+00:00"
-    },
-    {
-      "id": "64167f27cfc4110f26c54d87f1e76c2726a31fd9c89c72b9f657e6b62f454bb4",
-      "title": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "url": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "summary": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T01:59:09+00:00"
-    },
-    {
-      "id": "45f1838889519878b7efa3524fb494db06afe3c31c4ec1605a28d981a7b4ebd3",
-      "title": "Can hackers break encrypted USB drives? I tried to find out",
-      "url": "https://www.zdnet.com/article/kingston-ironkey-locker50-g2-review/",
-      "summary": "The Kingston IronKey Locker+50 G2 offers a high level of data security and several unique features to deter hackers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-11T20:42:00+00:00"
     }
   ]
 }

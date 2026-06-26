@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-26T09:44:20.730709+00:00",
+  "updated": "2026-06-26T20:01:05.499673+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
+      "title": "This Garmin smartwatch is half off while Prime Day lasts",
+      "url": "https://www.zdnet.com/article/garmin-epix-pro-smartwatch-prime-deal-2026/",
+      "summary": "The Garmin Epix Pro Gen 2 smartwatch is half off during Prime Day. Grab it before the sale ends.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T19:11:43+00:00"
+    },
+    {
+      "id": "4aefa65682873fa2d713ddee92bc2a549a796de4eab3473017c7186a50105755",
+      "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
+      "url": "https://www.zdnet.com/article/jabra-evolve3-75-amazon-prime-day-2026/",
+      "summary": "Jabra's Evolve3 75 boomless headphones is one of the most comfortable business headsets I've ever worn.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T18:36:11+00:00"
+    },
+    {
+      "id": "b4b7be15673e2de74f5ce4f61b0025e86530441b4f890f010323be1563ac1be1",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is almost over. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T18:03:29+00:00"
+    },
+    {
+      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
+      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
+      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T17:54:00+00:00"
+    },
+    {
+      "id": "a30787c36cbd92c9d50e7ce0175a7702d136b5e9172bfbbada97bb63898ff707",
+      "title": "10 gadgets that can give your iPhone useful superpowers (and they're cheaper than you think)",
+      "url": "https://www.zdnet.com/article/iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-26T16:17:26+00:00"
+    },
+    {
+      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
+      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
+      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:49:11+00:00"
+    },
+    {
+      "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
+      "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
+      "url": "https://www.zdnet.com/article/best-last-minute-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found for the last day of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:43:12+00:00"
+    },
     {
       "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
       "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
@@ -2188,69 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-30T09:01:00+00:00"
-    },
-    {
-      "id": "007689ec0eed5f4dc56b6816943dd30b09f429a13a03ce0161562c94bf12ffe2",
-      "title": "The best VPN for small businesses in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
-      "summary": "Looking for the best VPN for your small business? I tested Surfshark, Proton VPN, and more to find the top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T15:52:00+00:00"
-    },
-    {
-      "id": "2b3eb7f695962465f76969ff0d3fdc012d63be821270822e0b3c3b90b80c054e",
-      "title": "After years of Linux, I tried GhostBSD and found it incredibly stable - and nearly unbreakable",
-      "url": "https://www.zdnet.com/article/i-tried-ghostbsd-found-it-incredibly-stable-nearly-unbreakable/",
-      "summary": "This FreeBSD-based OS is for Linux users who want a reliable, Unix-like experience. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T15:49:10+00:00"
-    },
-    {
-      "id": "cd4398f5b6d78611a240c74a7efce69e51a25e16b371ed99baefda573026ea58",
-      "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-iphone-vpn/",
-      "summary": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost your online security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T10:01:28+00:00"
-    },
-    {
-      "id": "c2e8a645df4fd36f36602043c21f329b501e9a0fde03a6938b938bd73c4ab6e2",
-      "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-apple-tv-vpns/",
-      "summary": "Setting up a VPN on your Apple TV can be a nuisance, but with one of our top Apple TV VPNs, setup and streaming will take mere moments.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-29T09:00:48+00:00"
-    },
-    {
-      "id": "914cc583eb6ad25e2a6e32e143642a56e9816dbb2974d16229b773caa6e6a6c0",
-      "title": "Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today",
-      "url": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
-      "summary": "The Apple Watch SE 3 is the latest refresh of Apple's entry-level smartwatch, and you can get one for free with a new smartwatch line on your T-Mobile plan.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T16:59:33+00:00"
-    },
-    {
-      "id": "5ba0ff6fc39e120bf2d5867f203bf4b2d39dce0edf1e273c9011ff12f7526a31",
-      "title": "I tested a BlackBerry-style Android phone with a keyboard, and it's weirdly practical in 2026",
-      "url": "https://www.zdnet.com/article/unihertz-titan-2-elite-review/",
-      "summary": "Unihertz' new Titan 2 Elite has a full hardware keyboard and lots of available shortcuts.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T15:58:00+00:00"
-    },
-    {
-      "id": "3bc3b7c116e60085f81fcd59e9f7d8f441608a4accdc0a2b7539c13643981eba",
-      "title": "My 5 favorite open source operating systems that aren't Linux",
-      "url": "https://www.zdnet.com/article/my-5-favorite-open-source-operating-systems-that-arent-linux/",
-      "summary": "Looking for non-Linux open-source options? From ghosts of past operating systems to fascinating works in progress, here are my top picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-28T02:00:40+00:00"
     }
   ]
 }

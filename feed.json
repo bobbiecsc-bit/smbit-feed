@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-26T09:44:20.730709+00:00",
+  "updated": "2026-06-26T20:01:05.499673+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
+      "title": "This Garmin smartwatch is half off while Prime Day lasts",
+      "url": "https://www.zdnet.com/article/garmin-epix-pro-smartwatch-prime-deal-2026/",
+      "summary": "The Garmin Epix Pro Gen 2 smartwatch is half off during Prime Day. Grab it before the sale ends.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T19:11:43+00:00"
+    },
+    {
+      "id": "4aefa65682873fa2d713ddee92bc2a549a796de4eab3473017c7186a50105755",
+      "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
+      "url": "https://www.zdnet.com/article/jabra-evolve3-75-amazon-prime-day-2026/",
+      "summary": "Jabra's Evolve3 75 boomless headphones is one of the most comfortable business headsets I've ever worn.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T18:36:11+00:00"
+    },
+    {
+      "id": "b4b7be15673e2de74f5ce4f61b0025e86530441b4f890f010323be1563ac1be1",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is almost over. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T18:03:29+00:00"
+    },
+    {
+      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
+      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
+      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T17:54:00+00:00"
+    },
+    {
+      "id": "a30787c36cbd92c9d50e7ce0175a7702d136b5e9172bfbbada97bb63898ff707",
+      "title": "10 gadgets that can give your iPhone useful superpowers (and they're cheaper than you think)",
+      "url": "https://www.zdnet.com/article/iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-26T16:17:26+00:00"
+    },
+    {
+      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
+      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
+      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:49:11+00:00"
+    },
+    {
+      "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
+      "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
+      "url": "https://www.zdnet.com/article/best-last-minute-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found for the last day of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:43:12+00:00"
+    },
     {
       "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
       "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T19:59:00+00:00"
-    },
-    {
-      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
-      "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
-      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T18:02:18+00:00"
-    },
-    {
-      "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
-      "title": "Google and Apple are finally giving smartwatches the creative freedom they needed",
-      "url": "https://www.zdnet.com/article/apple-and-google-ai-widgets-and-shortcuts/",
-      "summary": "Google's Create My Widget and Apple's new Shortcuts feature prove we're in a DIY era of automation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T17:31:10+00:00"
-    },
-    {
-      "id": "05b2b035baed798d7fa17b54a3e59f532742b43ad55f527f5bb1be2cf37b1351",
-      "title": "Cybersecurity Threat Advisory: Microsoft Teams TURN relay exploit",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-microsoft-teams-turn-relay-exploit/",
-      "summary": "Threat actors are using a custom backdoor to route their command-and-control (C2) traffic through Microsoft Teams’ TURN relay infrastructure. This technique blends malicious traffic with legitimate Teams communications. As a result, attackers can bypass traditional network defenses, maintain covert ",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:37:48+00:00"
-    },
-    {
-      "id": "2b4b58d7b59b12a775ac610edc9040a86f8f30cf5cf007dfefe3df3b403aa0f6",
-      "title": "How Block manages its fleet of AI coding agents from Slack",
-      "url": "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack/",
-      "summary": "Most AI coding tools work well inside a single repository. But few of them can operate across hundreds of services The post How Block manages its fleet of AI coding agents from Slack appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:01:00+00:00"
-    },
-    {
-      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
-      "title": "Best early Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is next week. Shop our experts' hand-selected early deals on AirPods Pro 3 ($169), Apple Watch 11 ($300), and AirPods Max 2 now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:51:16+00:00"
-    },
-    {
-      "id": "bbdec7cefdd5439b931cc7220fb7b86ae146f18e387686586146829130220cc9",
-      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers c",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-06-17T15:09:20+00:00"
-    },
-    {
-      "id": "5ef2ed5a74d3292d9d6242f0821975ef4dde77ece1fa0a6dd28aa6770a430297",
-      "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe (2026): I tested the budget models - here's my pick",
-      "url": "https://www.zdnet.com/article/amazon-kindle-scribe-2026-vs-remarkable-paper-pure/",
-      "summary": "Amazon's new Kindle Scribe foregoes the front light for a more affordable $429: pitting it against the ReMarkable Paper Pure.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:01:00+00:00"
     }
   ]
 }
