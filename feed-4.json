@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-27T08:46:56.766448+00:00",
+  "updated": "2026-06-27T19:39:53.087645+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
+      "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
+      "url": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
+      "summary": "Replacing your current Linux shell with something way more user-friendly is a lot easier than you think. Let's go Fish!",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-27T01:00:37+00:00"
+    },
     {
       "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
       "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "finance",
       "date": "2026-05-12T23:24:43+00:00"
-    },
-    {
-      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
-      "title": "The compliance trap: checking boxes isn’t the same as being secure",
-      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
-      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "policy",
-      "date": "2026-05-12T19:01:11+00:00"
     }
   ]
 }

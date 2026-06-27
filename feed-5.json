@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-27T08:46:56.766448+00:00",
+  "updated": "2026-06-27T19:39:53.087645+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
+      "title": "The compliance trap: checking boxes isn’t the same as being secure",
+      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
+      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "policy",
+      "date": "2026-05-12T19:01:11+00:00"
+    },
     {
       "id": "2db35a001a94da8cdad3cc5aed1d99cfd045d3d00089f85c2d02df51aacd52b3",
       "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-04-30T13:06:00+00:00"
-    },
-    {
-      "id": "d87611112d423f8265d6e593328d451cda149c554065850838fd0881219eead3",
-      "title": "The best cloud phone systems of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-cloud-phone-systems/",
-      "summary": "I tested the best cloud phone systems hands-on, compared pricing, AI features, and real user feedback to help you pick the right one for your team.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-04-30T09:01:00+00:00"
     }
   ]
 }

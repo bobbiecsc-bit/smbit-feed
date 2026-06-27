@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-27T08:46:56.766448+00:00",
+  "updated": "2026-06-27T19:39:53.087645+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
+      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
+      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
+      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T19:59:00+00:00"
+    },
     {
       "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
       "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-08T23:19:00+00:00"
-    },
-    {
-      "id": "beab180e9828dd1eddd5b32b17b04f243b608bfde9e9586a75b5fb373854aaa2",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
-      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS,",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-08T21:27:12+00:00"
     }
   ]
 }

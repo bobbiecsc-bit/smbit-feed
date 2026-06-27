@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-27T08:46:56.766448+00:00",
+  "updated": "2026-06-27T19:39:53.087645+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
+      "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
+      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price, even though Prime Day is over.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-27T13:37:34+00:00"
+    },
+    {
+      "id": "793fb82cf6f60e3219a8f7c0dbbf95fcb4bdfcba8e00843ad936d268d35eaf2a",
+      "title": "Linux Mint vs RefreshOS: I found the best distro for new users",
+      "url": "https://www.zdnet.com/article/linux-mint-vs-refreshos-best-distro-for-new-users/",
+      "summary": "These two user-friendly distributions take different routes to the 'best Linux' crown. In the end, it all comes down to the desktop.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-27T10:00:45+00:00"
+    },
     {
       "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
       "title": "This Garmin Epix Pro Gen 2 smartwatch is 50% off on Amazon - while supplies lasts",
@@ -103,15 +121,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-25T19:08:00+00:00"
-    },
-    {
-      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
-      "title": "The Garmin Fenix 8 Pro smartwatch is a top-selling Prime Day deal - here's why I recommend it",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
-      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-25T15:41:11+00:00"
     },
     {
       "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-06-18T13:00:00+00:00"
-    },
-    {
-      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
-      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
-      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
-      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T19:59:00+00:00"
     }
   ]
 }
