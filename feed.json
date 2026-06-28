@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-28T09:24:39.396537+00:00",
+  "updated": "2026-06-28T19:41:14.031777+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5ed21e9c69b743e1f4ab08dcffa25d5c5ccc01dff059808f23c2e23b6c1a2e23",
+      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
+      "url": "https://thenewstack.io/okta-ai-agents-fedramp/",
+      "summary": "Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-06-28T13:49:00+00:00"
+    },
+    {
+      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
+      "title": "I tested two of the best location-sharing apps for a month - this one was most accurate",
+      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
+      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space competes.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-28T11:00:41+00:00"
+    },
+    {
+      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
+      "title": "I tested MSI's Windows handheld PC, and it beats the Legion Go in a major way",
+      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
+      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-28T10:45:44+00:00"
+    },
     {
       "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
       "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
@@ -121,15 +148,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-25T19:08:00+00:00"
-    },
-    {
-      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
-      "title": "HeyPolo vs. Life360: I tried both location-sharing apps, and there's a clear winner",
-      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
-      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space compares.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-25T15:38:00+00:00"
     },
     {
       "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-18T18:22:00+00:00"
-    },
-    {
-      "id": "7056df9bc679d07ff8c80f1b79597f532f60f451fd3afe6a7b6c004ada290f63",
-      "title": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
-      "url": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
-      "summary": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-18T15:00:48+00:00"
-    },
-    {
-      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
-      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
-      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
-      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-06-18T13:00:00+00:00"
     }
   ]
 }

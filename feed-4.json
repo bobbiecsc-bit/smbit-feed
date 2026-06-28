@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-28T09:24:39.396537+00:00",
+  "updated": "2026-06-28T19:41:14.031777+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9a5ced975027f348eeec6a1c72931c8703898b221d2e41f6d60679d338d58f58",
+      "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
+      "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
+      "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-05-27T14:51:30+00:00"
+    },
+    {
+      "id": "d257189bf4f401bc894beda5eae062a4e3e462a4203c886847851074bfe114fe",
+      "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
+      "url": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
+      "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-05-27T11:41:54+00:00"
+    },
     {
       "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
       "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T01:15:00+00:00"
-    },
-    {
-      "id": "5bfc11bb8f3f2a5d816f44cae0433848e1f04d5f8814ad76b6fcf908d1f18366",
-      "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
-      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
-      "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point. Here's how two of your best options compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T01:12:00+00:00"
-    },
-    {
-      "id": "d4774613fd8f6e2da1d5b6e3f2d5bf3ad9d1a1786427eca2a39c9980e368752e",
-      "title": "The new FinOps problem isn’t cloud bills",
-      "url": "https://thenewstack.io/finops-ai-token-economics/",
-      "summary": "At Google Cloud Next this month in Las Vegas, The New Stack sat down with Finout co-founder and CEO Roi The post The new FinOps problem isn&#8217;t cloud bills appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-05-12T23:24:43+00:00"
     }
   ]
 }

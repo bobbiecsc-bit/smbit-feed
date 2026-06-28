@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-28T09:24:39.396537+00:00",
+  "updated": "2026-06-28T19:41:14.031777+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7056df9bc679d07ff8c80f1b79597f532f60f451fd3afe6a7b6c004ada290f63",
+      "title": "I put Siri AI through the same tests I use for ChatGPT and Gemini on MacOS 27 - here's how it did",
+      "url": "https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/",
+      "summary": "I tried the new Siri on my Mac, and although it's off to a promising start, Apple still has more work to do.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-18T15:00:48+00:00"
+    },
+    {
+      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
+      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
+      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
+      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-18T13:00:00+00:00"
+    },
     {
       "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
       "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-06-09T09:00:44+00:00"
-    },
-    {
-      "id": "272893f928febafbe82ba3f5f3b7b58901bd871d535066d05bac85005a82f585",
-      "title": "MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
-      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the numbers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T00:57:00+00:00"
-    },
-    {
-      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
-      "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
-      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
-      "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T23:19:00+00:00"
     }
   ]
 }
