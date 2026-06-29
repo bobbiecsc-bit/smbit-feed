@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-29T11:18:17.486882+00:00",
+  "updated": "2026-06-29T20:09:09.647823+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
+      "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
+      "url": "https://www.zdnet.com/article/i-replaced-iphone-battery-at-apple-store-what-i-learned/",
+      "summary": "A few weeks ago, I replaced my iPhone 14 Pro battery at the Apple store - and was pleasantly surprised by the results.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-29T19:06:00+00:00"
+    },
+    {
+      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
+      "title": "I tried a Windows handheld PC, and its docking system made it my ideal travel companion",
+      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
+      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-29T17:50:00+00:00"
+    },
+    {
+      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
+      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-29T16:30:30+00:00"
+    },
+    {
+      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
+      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
+      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
+      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-29T14:52:00+00:00"
+    },
+    {
+      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
+      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
+      "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-29T12:00:38+00:00"
+    },
     {
       "id": "5ed21e9c69b743e1f4ab08dcffa25d5c5ccc01dff059808f23c2e23b6c1a2e23",
       "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
@@ -19,15 +64,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-28T11:00:41+00:00"
-    },
-    {
-      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
-      "title": "I tested MSI's Windows handheld PC, and it beats the Legion Go in a major way",
-      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
-      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-28T10:45:44+00:00"
     },
     {
       "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
@@ -370,15 +406,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-22T14:46:17+00:00"
-    },
-    {
-      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
-      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I used both pairs for months, and here's my pick",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
-      "summary": "Sony's and Sennheiser's flagship headphones are objectively good, but how you plan to use them determines whether they're great.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T02:43:00+00:00"
     },
     {
       "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
@@ -2224,33 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-01T17:46:00+00:00"
-    },
-    {
-      "id": "9b9964214dd186c06867cfd7c8ddb9ff353380692bc1adca57c8d239f2967a60",
-      "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
-      "url": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
-      "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T15:00:44+00:00"
-    },
-    {
-      "id": "f80550ec4a6993f059f1a984ee53ff81ac80d788dc0bf21e9675c6ed504675e7",
-      "title": "Best AirPods of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-airpods/",
-      "summary": "I've worn every pair of headphones in Apple's catalog to help you find your iPhone's new best friend.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T11:00:48+00:00"
-    },
-    {
-      "id": "b7e9c7200de5f86fc1f6b91457d986a5ddc967f3357e1fd1618f71fe98671f40",
-      "title": "Worldwide IT services spending to increase in 2026",
-      "url": "https://smartermsp.com/worldwide-it-services-spending-to-increase-in-2026/",
-      "summary": "The market research firm Gartner is forecasting that global IT services revenue will increase 9 percent in 2026, reaching $1.87 trillion, up from $1.71 trillion in 2025. Overall, Gartner predicts worldwide IT spending will climb to $6.31 trillion in 2026—an [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "finance",
-      "date": "2026-04-30T18:08:01+00:00"
     }
   ]
 }
