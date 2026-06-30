@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-30T09:55:16.216543+00:00",
+  "updated": "2026-06-30T20:08:59.078554+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
+      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
+      "url": "https://thenewstack.io/gemini-cli-antigravity-replacement/",
+      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-20T16:00:00+00:00"
+    },
+    {
+      "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
+      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
+      "url": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
+      "summary": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed key strengths and weaknesses of the latest models.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-19T12:00:54+00:00"
+    },
     {
       "id": "a4527781c94951fecea5fd940f6afde30a86fef0760a94785692a0fa0075e777",
       "title": "Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-09T14:53:00+00:00"
-    },
-    {
-      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
-      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
-      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
-      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:52:00+00:00"
-    },
-    {
-      "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
-      "title": "The curious case of the disappearing wearable",
-      "url": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
-      "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:49:00+00:00"
     }
   ]
 }
