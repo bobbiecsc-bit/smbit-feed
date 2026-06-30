@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-29T20:09:09.647823+00:00",
+  "updated": "2026-06-30T09:55:16.216543+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
+      "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
+      "url": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+      "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-30T09:00:30+00:00"
+    },
     {
       "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
       "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
@@ -22,7 +31,7 @@
     },
     {
       "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
       "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
       "source": "AWS News Blog",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-02T11:00:00+00:00"
-    },
-    {
-      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
-      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
-      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T17:46:00+00:00"
     }
   ]
 }

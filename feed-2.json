@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-29T20:09:09.647823+00:00",
+  "updated": "2026-06-30T09:55:16.216543+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a4527781c94951fecea5fd940f6afde30a86fef0760a94785692a0fa0075e777",
+      "title": "Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap",
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap",
+      "summary": "Apple has patched a year-old Bluetooth vulnerability that could have let nearby attackers listen through Beats Studio Buds' microphone.",
+      "source": "Malwarebytes Labs",
+      "category": "product_review",
+      "date": "2026-06-19T11:47:16+00:00"
+    },
     {
       "id": "84d2c3c512decc9619fbd44f1c4900c1edb1155d094199e8d4663fba1b87af64",
       "title": "Google Home Speaker vs. Amazon Echo Dot Max: I compared the $99 smart hubs by the specs",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-09T14:49:00+00:00"
-    },
-    {
-      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
-      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
-      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
-      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-09T14:40:00+00:00"
     }
   ]
 }

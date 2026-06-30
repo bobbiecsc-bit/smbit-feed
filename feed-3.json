@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-29T20:09:09.647823+00:00",
+  "updated": "2026-06-30T09:55:16.216543+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
+      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
+      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
+      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-09T14:40:00+00:00"
+    },
     {
       "id": "971b854c8ea56ce590ca53a1dc0d02481b9f65e28e7fb9a27c9a11a16e4abb74",
       "title": "The tokenmaxxing party is over, and Revenium is mopping up",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "d534e3018e54f5c6756eddbe695931b2b89f34b92773e9aad2b2d013ab4835da",
-      "title": "Why a Bluetooth upgrade for AirPods excites me more than cameras or AI",
-      "url": "https://www.zdnet.com/article/why-bluetooth-upgrade-to-airpods-excites-me-more-than-cameras-or-ai/",
-      "summary": "Apple's WWDC is around the corner, and I'm hoping for one big software update to AirPods.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-28T11:00:34+00:00"
     }
   ]
 }

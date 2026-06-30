@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-29T20:09:09.647823+00:00",
+  "updated": "2026-06-30T09:55:16.216543+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
+      "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
+      "url": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+      "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-30T09:00:30+00:00"
+    },
     {
       "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
       "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
@@ -25,7 +34,7 @@
     },
     {
       "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
       "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
       "source": "AWS News Blog",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-19T12:00:54+00:00"
-    },
-    {
-      "id": "a4527781c94951fecea5fd940f6afde30a86fef0760a94785692a0fa0075e777",
-      "title": "Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap",
-      "url": "https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap",
-      "summary": "Apple has patched a year-old Bluetooth vulnerability that could have let nearby attackers listen through Beats Studio Buds' microphone.",
-      "source": "Malwarebytes Labs",
-      "category": "product_review",
-      "date": "2026-06-19T11:47:16+00:00"
     }
   ]
 }

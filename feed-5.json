@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-29T20:09:09.647823+00:00",
+  "updated": "2026-06-30T09:55:16.216543+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ea4b2f868d6e0bc6de9cf59923b0c3e685bc63a39af36b2f1cbe411736780391",
+      "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+      "url": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+      "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T13:34:00+00:00"
+    },
     {
       "id": "36a74baba2bce7eaf0da559107a5a832e8bf156e34fbe170130d16e04655d889",
       "title": "Sony just gave me a compelling reason to put my AirPods and Bose headphones away",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-02T11:00:00+00:00"
-    },
-    {
-      "id": "a8b22842f87712503d64470c95538e63d2f1f33f7d66bf0d8ce80f83ad02c6a8",
-      "title": "Google Maps vs. Waze: I compared the two best navigation apps, and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze/",
-      "summary": "Waze is great for fast reroutes and real-time alerts, while Google Maps delivers deep Gemini integration and more features. Here's my pick after extensive testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-01T17:46:00+00:00"
     }
   ]
 }
