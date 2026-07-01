@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-30T20:08:59.078554+00:00",
+  "updated": "2026-07-01T10:05:09.880891+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
+      "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
+      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-01T08:30:53+00:00"
+    },
+    {
+      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
+      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-06-30T20:56:44+00:00"
+    },
     {
       "id": "9610cd93bf7602e71d33d202eb4a4e08161b78657298c83e1f07c776a705f053",
       "title": "Netflix vs. Peacock: I've subscribed to both streaming services for years - this one's more worth it",
@@ -436,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-22T14:46:17+00:00"
-    },
-    {
-      "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
-      "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
-      "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T11:00:09+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T10:00:00+00:00"
     }
   ]
 }

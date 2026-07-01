@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-30T20:08:59.078554+00:00",
+  "updated": "2026-07-01T10:05:09.880891+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
+      "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
+      "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-21T11:00:09+00:00"
+    },
+    {
+      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
+      "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
+      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+      "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-21T10:00:00+00:00"
+    },
     {
       "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
       "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-10T09:00:55+00:00"
-    },
-    {
-      "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
-      "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
-      "url": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
-      "summary": "The new developer beta of iOS 27 offers three AI-powered skills to tweak and enhance your photos. Are they worth using?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T15:19:25+00:00"
-    },
-    {
-      "id": "e30f43282a31551d7f615031d65eb7fde5be88f471455c35ff37e25da7ca0887",
-      "title": "What you give up when you put on a smartwatch or ring",
-      "url": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:53:00+00:00"
     }
   ]
 }

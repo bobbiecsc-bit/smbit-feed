@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-30T20:08:59.078554+00:00",
+  "updated": "2026-07-01T10:05:09.880891+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6b89a42ac61752acf3c251b0202525bddc64c42ce82065b7ff777d30698f4d77",
+      "title": "The best secure browsers for privacy in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-browser-for-privacy/",
+      "summary": "Worried about your online activities from being tracked, or your browsing habits being sold? Make the switch to one of our favorite secure browsers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-14T10:00:38+00:00"
+    },
+    {
+      "id": "22034874988b7113d0d60aa25ff65dea4a108498768edac69f17f95dd9d32cea",
+      "title": "Adobe Express vs Canva: Which design tool is better?",
+      "url": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
+      "summary": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-13T20:09:59+00:00"
+    },
     {
       "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
       "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T00:30:39+00:00"
-    },
-    {
-      "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
-      "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
-      "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
-      "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T19:00:46+00:00"
-    },
-    {
-      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
-      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T17:00:45+00:00"
     }
   ]
 }

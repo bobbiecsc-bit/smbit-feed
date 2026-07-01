@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-30T20:08:59.078554+00:00",
+  "updated": "2026-07-01T10:05:09.880891+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
+      "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
+      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-01T08:30:53+00:00"
+    },
+    {
+      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
+      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-06-30T20:56:44+00:00"
+    },
     {
       "id": "9610cd93bf7602e71d33d202eb4a4e08161b78657298c83e1f07c776a705f053",
       "title": "Netflix vs. Peacock: I've subscribed to both streaming services for years - this one's more worth it",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T00:30:39+00:00"
-    },
-    {
-      "id": "767863cd8ceee28aab358b59a83b700367879fddfa9b3eff1782d366d3ac70d9",
-      "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
-      "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
-      "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T19:00:46+00:00"
-    },
-    {
-      "id": "83f3c58af6b42ebb1c59675d2cae5835b173e2d402b808dcf1ff968b57208d4d",
-      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-      "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-03T17:00:45+00:00"
     }
   ]
 }
