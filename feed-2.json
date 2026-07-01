@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-01T10:05:09.880891+00:00",
+  "updated": "2026-07-01T20:05:27.763326+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b3605439c2255e95d555563d4d54d37664e2bd19850b3ed1ecf3a0da4af5c9d1",
+      "title": "Cybersecurity Threat Advisory: PAN-OS GlobalProtect exploit",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-pan-os-globalprotect-exploit/",
+      "summary": "Palo Alto Networks has confirmed that attackers are actively exploiting a security flaw in PAN-OS GlobalProtect, tracked as CVE-2026-0257 with a CVSS score of 7.8. The vulnerability affects both on-premises firewalls and Prisma Access. Review the Cybersecurity Threat Advisory for [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-06-22T16:35:49+00:00"
+    },
+    {
+      "id": "eb8d31ba42083b53ad5db61fabf1821a1084cc0f2c168443d224244b44046b59",
+      "title": "This is the smartwatch most iPhone users should buy (and it's $120 off)",
+      "url": "https://www.zdnet.com/article/apple-watch-series-11-prime-day-deal-2026/",
+      "summary": "The Apple Watch Series 11 arrived last year with a full suite of health-tracking features and an extended battery life. It's on sale one day before Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T16:29:57+00:00"
+    },
+    {
+      "id": "742e22a96bbd16f211a861ffe0a6d5625821d2ebcdc9a34feac94ba760de5c7f",
+      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
+      "summary": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesi",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-22T14:46:17+00:00"
+    },
     {
       "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
       "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
@@ -13,15 +40,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-21T11:00:09+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T10:00:00+00:00"
     },
     {
       "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
@@ -436,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-10T15:04:30+00:00"
-    },
-    {
-      "id": "de1ac4ae49aab86e142b857c2eebd6bc40c165ac670833b484b51e1fea98f25b",
-      "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
-      "url": "https://thenewstack.io/databricks-opensharing-ai-agents/",
-      "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the &#8220;email me a file&#8221; problem for AI agent skills appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-10T14:00:00+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-10T09:00:55+00:00"
     }
   ]
 }

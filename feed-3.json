@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-01T10:05:09.880891+00:00",
+  "updated": "2026-07-01T20:05:27.763326+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "de1ac4ae49aab86e142b857c2eebd6bc40c165ac670833b484b51e1fea98f25b",
+      "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
+      "url": "https://thenewstack.io/databricks-opensharing-ai-agents/",
+      "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the &#8220;email me a file&#8221; problem for AI agent skills appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-10T14:00:00+00:00"
+    },
+    {
+      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
+      "title": "The best laptop cooling pads of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-10T09:00:55+00:00"
+    },
     {
       "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
       "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-30T10:00:59+00:00"
-    },
-    {
-      "id": "1881575e78def66c4e66fe254a9a650cd0a1e7ae1f77bcf2b04fba8166724443",
-      "title": "Is Amazfit's most premium smartwatch worth it? I tested it on the golf course, and it paid off",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-pro-review/",
-      "summary": "Amazfit is on a blistering pace for new watch releases in 2026 and for the past few weeks I've been using its new Cheetah 2 Pro for all of my activities.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T10:00:00+00:00"
-    },
-    {
-      "id": "bcf921beb7259d8ba283d777bc43330af54e9ab28939db7400759e200aae61c3",
-      "title": "Cybersecurity Threat Advisory: Critical Connectwise Automate vulnerability",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-critical-connectwise-automate-vulnerability/",
-      "summary": "ConnectWise has disclosed a high-impact vulnerability in its ConnectWise Automate platform that could allow attackers to bypass critical integrity validation during the agent’s plugin loading and self-update mechanisms, potentially enabling malicious code execution on affected on-premises deployment",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-05-29T21:30:01+00:00"
     }
   ]
 }

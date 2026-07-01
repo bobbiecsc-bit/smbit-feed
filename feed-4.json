@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-01T10:05:09.880891+00:00",
+  "updated": "2026-07-01T20:05:27.763326+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1881575e78def66c4e66fe254a9a650cd0a1e7ae1f77bcf2b04fba8166724443",
+      "title": "Is Amazfit's most premium smartwatch worth it? I tested it on the golf course, and it paid off",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-pro-review/",
+      "summary": "Amazfit is on a blistering pace for new watch releases in 2026 and for the past few weeks I've been using its new Cheetah 2 Pro for all of my activities.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-30T10:00:00+00:00"
+    },
+    {
+      "id": "bcf921beb7259d8ba283d777bc43330af54e9ab28939db7400759e200aae61c3",
+      "title": "Cybersecurity Threat Advisory: Critical Connectwise Automate vulnerability",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-critical-connectwise-automate-vulnerability/",
+      "summary": "ConnectWise has disclosed a high-impact vulnerability in its ConnectWise Automate platform that could allow attackers to bypass critical integrity validation during the agent’s plugin loading and self-update mechanisms, potentially enabling malicious code execution on affected on-premises deployment",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-05-29T21:30:01+00:00"
+    },
     {
       "id": "298cd86b4cf5b255f47d023018fd41b0898143b9aa463dfd22607201305a3666",
       "title": "I tried different Android Auto weather apps - these 3 are best for storm nerds like me",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-05-14T21:08:57+00:00"
-    },
-    {
-      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
-      "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
-      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
-      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T16:00:47+00:00"
-    },
-    {
-      "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
-      "title": "The best microSD cards of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-microsd-card/",
-      "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T11:00:38+00:00"
     }
   ]
 }

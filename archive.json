@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-01T10:05:09.880891+00:00",
+  "updated": "2026-07-01T20:05:27.763326+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
+      "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
+      "url": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
+      "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-01T19:51:00+00:00"
+    },
+    {
+      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
+      "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
+      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
+      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-07-01T19:00:08+00:00"
+    },
+    {
+      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
+      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
+      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-01T18:30:24+00:00"
+    },
+    {
+      "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
+      "title": "BioShocking: when “gaming” AI agents is no longer a game",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
+      "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
+      "source": "Malwarebytes Labs",
+      "category": "finance",
+      "date": "2026-07-01T12:50:59+00:00"
+    },
     {
       "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
       "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
@@ -9,7 +45,7 @@
       "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
       "source": "ZDNet Business",
       "category": "cloud_saas",
-      "date": "2026-07-01T08:30:53+00:00"
+      "date": "2026-07-01T08:30:00+00:00"
     },
     {
       "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
@@ -28,15 +64,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-30T18:17:00+00:00"
-    },
-    {
-      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
-      "title": "How I turned my old Android phone into a dashcam for free - in 5 easy steps",
-      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
-      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-30T18:16:00+00:00"
     },
     {
       "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
@@ -460,15 +487,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-21T11:00:09+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T10:00:00+00:00"
     },
     {
       "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-05-04T14:10:00+00:00"
-    },
-    {
-      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
-      "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
-      "summary": "Waze is great for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my pick.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T11:00:00+00:00"
-    },
-    {
-      "id": "69fbf26e35b6d5448faea34c7f15e6f08a58e8e1fd5491a04fddb8842baeca17",
-      "title": "I tracked 3,000 steps on my Apple Watch, Google Pixel, and Oura Ring - this one was most accurate",
-      "url": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
-      "summary": "Just how reliable is that smartwatch or smart ring? I tested three of the most popular health trackers to find out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T00:30:39+00:00"
     }
   ]
 }
