@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-01T20:05:27.763326+00:00",
+  "updated": "2026-07-02T09:27:27.106022+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
+      "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
+      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
+      "summary": "LG's flagship OLED TV got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-01T20:00:00+00:00"
+    },
     {
       "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
       "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T18:00:40+00:00"
-    },
-    {
-      "id": "766eda4d9b8a4ccd57b98f52679b53b1ba95ecc9981e0e1d2d8023a721b93e1d",
-      "title": "Samsung OLED vs. QLED vs. Micro RGB: I compared the 3 TV types and found a surprise winner",
-      "url": "https://www.zdnet.com/article/oled-vs-qled-micro-rgb-samsung-tvs/",
-      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, based on our lab testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T16:58:00+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-01T20:05:27.763326+00:00",
+  "updated": "2026-07-02T09:27:27.106022+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
+      "title": "Six strategies for AI",
+      "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
+      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-05-14T21:08:57+00:00"
+    },
     {
       "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
       "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T16:00:48+00:00"
-    },
-    {
-      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
-      "title": "Building an agentic AI strategy that pays off - without risking business failure",
-      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
-      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-04T14:10:00+00:00"
     }
   ]
 }

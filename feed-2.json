@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-01T20:05:27.763326+00:00",
+  "updated": "2026-07-02T09:27:27.106022+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "766eda4d9b8a4ccd57b98f52679b53b1ba95ecc9981e0e1d2d8023a721b93e1d",
+      "title": "Samsung OLED vs. QLED vs. Micro RGB: I compared the 3 TV types and found a surprise winner",
+      "url": "https://www.zdnet.com/article/oled-vs-qled-micro-rgb-samsung-tvs/",
+      "summary": "Samsung now has TVs with Micro RGB, QLED, and OLED displays. Here are the pros and cons of each, based on our lab testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T16:58:00+00:00"
+    },
     {
       "id": "b3605439c2255e95d555563d4d54d37664e2bd19850b3ed1ecf3a0da4af5c9d1",
       "title": "Cybersecurity Threat Advisory: PAN-OS GlobalProtect exploit",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-10T16:10:00+00:00"
-    },
-    {
-      "id": "f9d76014bb7c4092fa59b6ae3b8d1cbff4733028d63e6f490b4f97241e32801e",
-      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
-      "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
-      "summary": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy eﬃcient processor AWS has ever built, and oﬀers up to 25% better compute performance compared to Graviton4-based instances.",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-10T15:04:30+00:00"
     }
   ]
 }

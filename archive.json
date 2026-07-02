@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-01T20:05:27.763326+00:00",
+  "updated": "2026-07-02T09:27:27.106022+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
+      "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
+      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
+      "summary": "LG's flagship OLED TV got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-01T20:00:00+00:00"
+    },
     {
       "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
       "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T16:00:48+00:00"
-    },
-    {
-      "id": "2eff3239449ba9c8aa3a973d2d140267c1ee02ba541b19e7027855fc8173584c",
-      "title": "Building an agentic AI strategy that pays off - without risking business failure",
-      "url": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
-      "summary": "Companies are chasing tenfold AI gains, but many projects are failing fast. We break down the real risks and show you how to turn agentic AI into reliable, profitable outcomes.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-04T14:10:00+00:00"
     }
   ]
 }
