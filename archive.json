@@ -1,15 +1,33 @@
 {
-  "updated": "2026-07-02T09:27:27.106022+00:00",
+  "updated": "2026-07-02T19:43:36.824969+00:00",
   "total": 250,
   "articles": [
     {
+      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
+      "title": "Finally, I found a robot vacuum that leaves my two-year-old model in the dust",
+      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-02T14:30:41+00:00"
+    },
+    {
       "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
-      "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
+      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
       "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
-      "summary": "LG's flagship OLED TV got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
+      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-07-01T20:00:00+00:00"
+      "date": "2026-07-02T13:53:00+00:00"
+    },
+    {
+      "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
+      "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
+      "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
+      "summary": "If you like the idea of Brave's browser security, but all of the other features just get in your way, the developers have created a solution for you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-02T10:00:56+00:00"
     },
     {
       "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
@@ -46,15 +64,6 @@
       "source": "Malwarebytes Labs",
       "category": "finance",
       "date": "2026-07-01T12:50:59+00:00"
-    },
-    {
-      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
-      "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
-      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
-      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-01T08:30:00+00:00"
     },
     {
       "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
@@ -2242,15 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-05-04T17:05:41+00:00"
-    },
-    {
-      "id": "c91992fa751dae01caf5cd15b1672f82a051a6fd5fa4c16e76a10f4826666cbd",
-      "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-      "url": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-      "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T16:00:48+00:00"
     }
   ]
 }

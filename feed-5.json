@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-02T09:27:27.106022+00:00",
+  "updated": "2026-07-02T19:43:36.824969+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
+      "title": "Survey shows MSPs with cloud optimization expertise are in need",
+      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
+      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-14T23:22:38+00:00"
+    },
     {
       "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
       "title": "Six strategies for AI",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-05-04T17:05:41+00:00"
-    },
-    {
-      "id": "c91992fa751dae01caf5cd15b1672f82a051a6fd5fa4c16e76a10f4826666cbd",
-      "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-      "url": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-      "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T16:00:48+00:00"
     }
   ]
 }
