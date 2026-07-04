@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-04T08:47:47.445580+00:00",
+  "updated": "2026-07-04T19:25:18.745397+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
+      "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
+      "url": "https://www.zdnet.com/article/motorola-razr-fold-review/",
+      "summary": "The latest Razr Fold is a valiant first attempt at a book-style foldable phone, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:00:51+00:00"
+    },
     {
       "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
       "title": "Survey shows MSPs with cloud optimization expertise are in need",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-04T17:57:00+00:00"
-    },
-    {
-      "id": "64fe8f5ddd2b349f286f56489d98acbcd5e3c9d83825d928bc72f6e0bbd36508",
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
-      "summary": "Last week, I took some time off in York, England, often described as the most haunted city in the country. I wandered through the ruins of abbeys that have stood for nearly a thousand years, walked along medieval walls, and spent an evening on a ghost tour hearing stories passed down through centuri",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-04T17:05:41+00:00"
     }
   ]
 }

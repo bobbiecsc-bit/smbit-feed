@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-04T08:47:47.445580+00:00",
+  "updated": "2026-07-04T19:25:18.745397+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4ece367bc95a47051d27f4e31a31ac5391b1b48f7d668378f6b60d53a1d8ea2",
+      "title": "This Lenovo Yoga model I tested may be the most overlooked business laptop in 2026",
+      "url": "https://www.zdnet.com/article/lenovo-yoga-slim-7x-review/",
+      "summary": "The Slim 7x (2026) has impressive performance improvements, but its target user - the modern professional - remains the same.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-30T16:00:42+00:00"
+    },
     {
       "id": "7f999f1e5afa2529c5c94e5578d1febf83b43190dc405a02a61beb33e369ce53",
       "title": "I tried Microsoft's Windows 365 Cloud PC on MacOS, Android, and iOS - here's what it's like",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T01:36:00+00:00"
-    },
-    {
-      "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
-      "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
-      "url": "https://www.zdnet.com/article/motorola-razr-fold-review/",
-      "summary": "The latest Razr Fold is a valiant first attempt at a book-style foldable phone, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:00:51+00:00"
     }
   ]
 }
