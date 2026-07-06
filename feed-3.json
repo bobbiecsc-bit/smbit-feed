@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
+      "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
+      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T17:35:00+00:00"
+    },
+    {
+      "id": "3f08a6ad020b1303e0e088f5222b5b93ab27e69227062b6bea01fecc4f4ad852",
+      "title": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
+      "url": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
+      "summary": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-11T16:53:16+00:00"
+    },
+    {
+      "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
+      "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
+      "url": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
+      "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T09:30:15+00:00"
+    },
+    {
+      "id": "9aa64c031593dd7803dfb2ac9b77269bc8f026ff17ebb406c729501365f7b18c",
+      "title": "The best time-tracking software of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-time-tracking-software/",
+      "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-11T09:00:43+00:00"
+    },
     {
       "id": "a680c04a2c013e2c6997033e702af152e39966eb6c6342756f5a21178b1cd447",
       "title": "AWS can now mathematically prove your VMs are isolated",
@@ -418,42 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-06-01T17:20:57+00:00"
-    },
-    {
-      "id": "d7ca4dea42773397dd9aca317de1224849c95f9c41e66dd7dc2d613420c3e0fc",
-      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
-      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separat",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-01T14:25:33+00:00"
-    },
-    {
-      "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
-      "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
-      "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
-      "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-01T09:00:48+00:00"
-    },
-    {
-      "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
-      "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
-      "url": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
-      "summary": "Acer and Asus both have tried and tested PC options, but they excel in different areas. Let's break down the major differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-31T16:00:42+00:00"
-    },
-    {
-      "id": "1f1248f6441a70f90a3a99c7b892744015bb802718b6664aeb3e689f1e8308f8",
-      "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
-      "url": "https://thenewstack.io/cursor-jira-integration-test/",
-      "summary": "Cursor launched its Jira integration last week. The integration was marketed as simple: assign a ticket in Jira and Cursor The post I tested Cursor&#8217;s new Jira integration and it&#8217;s 5 stars, no notes. Here&#8217;s why. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-31T14:00:00+00:00"
     }
   ]
 }

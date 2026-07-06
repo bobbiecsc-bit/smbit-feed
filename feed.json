@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3cd79ac51f7313d02762bf68a8ec0c6f9835ac0b466bb7576df3c080127b47a7",
+      "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
+      "url": "https://www.zdnet.com/article/apple-airtags-vs-rival-bluetooth-trackers-including-2-one/",
+      "summary": "How does a budget tracker tag perform against the best of the best? Turns out all Bluetooth range is not created equal.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T19:55:46+00:00"
+    },
+    {
+      "id": "af1d804bccbfde1e82fd1e525584bd1a97b14fb3b049dfdfdd7f4e857e9f535f",
+      "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
+      "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+      "summary": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T16:05:00+00:00"
+    },
+    {
+      "id": "b540a46dae2c7a1dbae9dcd35534f451656d8c3b57bcedc4d220c47c223d6bd4",
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-06T15:46:43+00:00"
+    },
+    {
+      "id": "719488ed61fa05d960233173658bbcb8690e25897555ed1e9e7134cb08cd17f3",
+      "title": "I tried the best-looking laptop of 2026, and its battery life was the real surprise",
+      "url": "https://www.zdnet.com/article/hp-omnibook-x-flip-14-review/",
+      "summary": "HP brought aesthetics front and center with the 2026 OmniBook X Flip 14, but thankfully, it didn't stop there.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T13:30:05+00:00"
+    },
     {
       "id": "5808ba5e6a38b9390d42f6a594e38e3353854a5bcee7f5f0a19d03f72bc989ce",
       "title": "I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful",
@@ -418,42 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-23T18:50:18+00:00"
-    },
-    {
-      "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
-      "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-2026/",
-      "summary": "It's Walmart vs. Amazon this Prime Day: Walmart's massive rival sale is here, with great deals on 4K smart TVs, Apple tech, and laptops - some of which are better than Amazon's prices.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T17:32:04+00:00"
-    },
-    {
-      "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
-      "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
-      "url": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
-      "summary": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T08:00:40+00:00"
-    },
-    {
-      "id": "b2b66777a2651afe34f80660496d24b899dc67bd6f33597ad803eb71dfdb3f77",
-      "title": "I tested Android 17 on my Pixel 9 Pro - its app bubbles are a multitasker's dream",
-      "url": "https://www.zdnet.com/article/the-android-17-features-that-im-most-excited-about/",
-      "summary": "These are the 6 new Android 17 features I'm most excited about.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T20:53:34+00:00"
-    },
-    {
-      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
-      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T19:31:57+00:00"
     }
   ]
 }

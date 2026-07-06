@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d7ca4dea42773397dd9aca317de1224849c95f9c41e66dd7dc2d613420c3e0fc",
+      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+      "summary": "In my last Week in Review post, I shared what I’d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I’ve been delivering. Last week I was back at it, this time in Denver for a two-day AI-DLC workshop, where I helped facilitate 17 teams to deliver nearly 20 separat",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-01T14:25:33+00:00"
+    },
+    {
+      "id": "06fdb12e4981a2e6cd217599cd296cf557c6168ea62b07248cb7a8fbe2ce5efa",
+      "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
+      "url": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+      "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-01T09:00:48+00:00"
+    },
+    {
+      "id": "3928f5b9e6c391fc8253390bcf4250ea0f23a518b7a6440e07f95ebeacdf429f",
+      "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
+      "url": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
+      "summary": "Acer and Asus both have tried and tested PC options, but they excel in different areas. Let's break down the major differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-31T16:00:42+00:00"
+    },
+    {
+      "id": "1f1248f6441a70f90a3a99c7b892744015bb802718b6664aeb3e689f1e8308f8",
+      "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
+      "url": "https://thenewstack.io/cursor-jira-integration-test/",
+      "summary": "Cursor launched its Jira integration last week. The integration was marketed as simple: assign a ticket in Jira and Cursor The post I tested Cursor&#8217;s new Jira integration and it&#8217;s 5 stars, no notes. Here&#8217;s why. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-31T14:00:00+00:00"
+    },
     {
       "id": "b4ece367bc95a47051d27f4e31a31ac5391b1b48f7d668378f6b60d53a1d8ea2",
       "title": "This Lenovo Yoga model I tested may be the most overlooked business laptop in 2026",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T12:01:00+00:00"
-    },
-    {
-      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
-      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:00:50+00:00"
-    },
-    {
-      "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
-      "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
-      "url": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
-      "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-05-15T02:00:42+00:00"
-    },
-    {
-      "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
-      "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
-      "summary": "The Motorola Razr Fold faces tough competition from Samsung and Google, but still manages to stand out for these reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:41:00+00:00"
-    },
-    {
-      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
-      "title": "Are you following the 60-60 rule with headphone listening? Your future self will thank you",
-      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
-      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:36:00+00:00"
     }
   ]
 }

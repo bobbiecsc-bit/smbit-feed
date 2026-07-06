@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
+      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
+      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:00:50+00:00"
+    },
+    {
+      "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
+      "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
+      "url": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
+      "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-05-15T02:00:42+00:00"
+    },
+    {
+      "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
+      "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
+      "summary": "The Motorola Razr Fold faces tough competition from Samsung and Google, but still manages to stand out for these reasons.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:41:00+00:00"
+    },
+    {
+      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
+      "title": "Are you following the 60-60 rule with headphone listening? Your future self will thank you",
+      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T01:36:00+00:00"
+    },
     {
       "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
       "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T13:30:47+00:00"
-    },
-    {
-      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
-      "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
-      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T11:00:49+00:00"
-    },
-    {
-      "id": "7c67fa9058eeeb0732d1f086740dc7e57a745dcda565987813647c34fa0e33b3",
-      "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
-      "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T09:00:59+00:00"
-    },
-    {
-      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
-      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T20:44:58+00:00"
-    },
-    {
-      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
-      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T17:57:00+00:00"
     }
   ]
 }

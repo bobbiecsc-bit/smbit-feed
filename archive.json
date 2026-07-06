@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3cd79ac51f7313d02762bf68a8ec0c6f9835ac0b466bb7576df3c080127b47a7",
+      "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
+      "url": "https://www.zdnet.com/article/apple-airtags-vs-rival-bluetooth-trackers-including-2-one/",
+      "summary": "How does a budget tracker tag perform against the best of the best? Turns out all Bluetooth range is not created equal.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T19:55:46+00:00"
+    },
+    {
+      "id": "af1d804bccbfde1e82fd1e525584bd1a97b14fb3b049dfdfdd7f4e857e9f535f",
+      "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
+      "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+      "summary": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T16:05:00+00:00"
+    },
+    {
+      "id": "b540a46dae2c7a1dbae9dcd35534f451656d8c3b57bcedc4d220c47c223d6bd4",
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-06T15:46:43+00:00"
+    },
+    {
+      "id": "719488ed61fa05d960233173658bbcb8690e25897555ed1e9e7134cb08cd17f3",
+      "title": "I tried the best-looking laptop of 2026, and its battery life was the real surprise",
+      "url": "https://www.zdnet.com/article/hp-omnibook-x-flip-14-review/",
+      "summary": "HP brought aesthetics front and center with the 2026 OmniBook X Flip 14, but thankfully, it didn't stop there.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T13:30:05+00:00"
+    },
     {
       "id": "5808ba5e6a38b9390d42f6a594e38e3353854a5bcee7f5f0a19d03f72bc989ce",
       "title": "I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful",
@@ -2215,42 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-05T13:30:47+00:00"
-    },
-    {
-      "id": "64759043d2baa0e362f1368b640be29cbf19d317244af0325eefb969c7deefd4",
-      "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
-      "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T11:00:49+00:00"
-    },
-    {
-      "id": "7c67fa9058eeeb0732d1f086740dc7e57a745dcda565987813647c34fa0e33b3",
-      "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
-      "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T09:00:59+00:00"
-    },
-    {
-      "id": "cb5f41175ba93d1e4ca0415ac7b1f9f8ad4248b36bfcda44ad15b3973c7dddb0",
-      "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-      "url": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-      "summary": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T20:44:58+00:00"
-    },
-    {
-      "id": "6eb721f522cd72787ebc95444d9b00bd4b858cbf985faaca01b505e269fc81c1",
-      "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-      "summary": "Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy? I broke down the key reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-04T17:57:00+00:00"
     }
   ]
 }

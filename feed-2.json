@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T10:54:47.355711+00:00",
+  "updated": "2026-07-06T20:08:25.139467+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
+      "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-2026/",
+      "summary": "It's Walmart vs. Amazon this Prime Day: Walmart's massive rival sale is here, with great deals on 4K smart TVs, Apple tech, and laptops - some of which are better than Amazon's prices.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T17:32:04+00:00"
+    },
+    {
+      "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
+      "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
+      "url": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
+      "summary": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-23T08:00:40+00:00"
+    },
+    {
+      "id": "b2b66777a2651afe34f80660496d24b899dc67bd6f33597ad803eb71dfdb3f77",
+      "title": "I tested Android 17 on my Pixel 9 Pro - its app bubbles are a multitasker's dream",
+      "url": "https://www.zdnet.com/article/the-android-17-features-that-im-most-excited-about/",
+      "summary": "These are the 6 new Android 17 features I'm most excited about.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T20:53:34+00:00"
+    },
+    {
+      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
+      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T19:31:57+00:00"
+    },
     {
       "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
       "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-11T18:52:00+00:00"
-    },
-    {
-      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
-      "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
-      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T17:35:00+00:00"
-    },
-    {
-      "id": "3f08a6ad020b1303e0e088f5222b5b93ab27e69227062b6bea01fecc4f4ad852",
-      "title": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
-      "url": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
-      "summary": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-11T16:53:16+00:00"
-    },
-    {
-      "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
-      "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
-      "url": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
-      "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T09:30:15+00:00"
-    },
-    {
-      "id": "9aa64c031593dd7803dfb2ac9b77269bc8f026ff17ebb406c729501365f7b18c",
-      "title": "The best time-tracking software of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-time-tracking-software/",
-      "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T09:00:43+00:00"
     }
   ]
 }
