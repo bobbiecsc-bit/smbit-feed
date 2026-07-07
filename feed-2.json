@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-06T20:08:25.139467+00:00",
+  "updated": "2026-07-07T09:56:38.105084+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6c1787612aa96c0e546fd00223f1387455da5549d315d5b6fa82a977542fb4fe",
+      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+      "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
+      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-23T18:50:18+00:00"
+    },
     {
       "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
       "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-12T10:54:00+00:00"
-    },
-    {
-      "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
-      "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
-      "url": "https://www.zdnet.com/article/americans-data-center-backlash-nashville-zoo-clouded-leopard/",
-      "summary": "As fights against data centers spring up around the country, the latest showdown in Nashville has a furry face.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T18:52:00+00:00"
     }
   ]
 }

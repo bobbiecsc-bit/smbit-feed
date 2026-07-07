@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-06T20:08:25.139467+00:00",
+  "updated": "2026-07-07T09:56:38.105084+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "858b1331e5d117a663cc75984430f5db470875a67f592d2fb663804d190ae330",
+      "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/",
+      "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-07T09:00:38+00:00"
+    },
     {
       "id": "3cd79ac51f7313d02762bf68a8ec0c6f9835ac0b466bb7576df3c080127b47a7",
       "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-23T19:00:00+00:00"
-    },
-    {
-      "id": "6c1787612aa96c0e546fd00223f1387455da5549d315d5b6fa82a977542fb4fe",
-      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
-      "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
-      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-23T18:50:18+00:00"
     }
   ]
 }
