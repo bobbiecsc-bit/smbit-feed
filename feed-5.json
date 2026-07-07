@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-07T09:56:38.105084+00:00",
+  "updated": "2026-07-07T20:07:12.477059+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
+      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
+      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
+      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-05-15T19:47:07+00:00"
+    },
+    {
+      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "url": "https://thenewstack.io/agentic-ai-build-buy/",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-05-15T13:00:00+00:00"
+    },
+    {
+      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
+      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-15T12:31:53+00:00"
+    },
     {
       "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
       "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-06T09:00:40+00:00"
-    },
-    {
-      "id": "cb1345e623f6cd0e220c7b909d073f9a9cf02bf3e21df82fc0e595b9bd2568a0",
-      "title": "How MSPs close the cloud migration security gap",
-      "url": "https://smartermsp.com/how-msps-close-the-cloud-migration-security-gap/",
-      "summary": "When a client migrates to Microsoft 365 or Google Workspace, the instinct is to declare victory once emails are flowing, files are accessible, and users are productive again. The project feels complete. Except it isn’t, because security didn’t make the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-05T20:09:50+00:00"
-    },
-    {
-      "id": "bedad3f07f44e0600517d822a34a595beab84481482d259c71d31bc6ef002d32",
-      "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: I use both phones daily, and this one's better",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max/",
-      "summary": "Samsung's latest flagship phone offers some impressive and unique features, but how does it compare to Apple's finest?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T18:00:48+00:00"
-    },
-    {
-      "id": "8329a4b5342ee644c537f2833a30bf291e1f35ccabcea1bc9b4edd12b7c54787",
-      "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
-      "url": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
-      "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on refresh rates.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-05T17:00:38+00:00"
     }
   ]
 }

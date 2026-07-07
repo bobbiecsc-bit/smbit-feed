@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-07T09:56:38.105084+00:00",
+  "updated": "2026-07-07T20:07:12.477059+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb55747b2ef1520d920c96d90c5bc0d1708f5ca51f11662cc1a5ce10c6d5e310",
+      "title": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
+      "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
+      "summary": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:44:00+00:00"
+    },
+    {
+      "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
+      "title": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
+      "url": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
+      "summary": "Sony recently announced the new Bravia 9 II True RGB TV. Is it worth upgrading from the older Bravia 9 Mini LED? I break down the differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:23:00+00:00"
+    },
+    {
+      "id": "16d24b24ef609946f431e44531e12dbeaaa29e11940377508ee18da777a56a4a",
+      "title": "I tried gaming on Android Auto and found 4 apps that made car downtime less boring",
+      "url": "https://www.zdnet.com/article/i-tried-android-auto-games-and-apps/",
+      "summary": "In addition to the built-in Gamesnacks, these titles will help time move more quickly when you're parked.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:17:00+00:00"
+    },
     {
       "id": "b0f49cf3322a647082877df11a8430a8a8c219d1591683257559459ebd4e6f46",
       "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-16T09:00:40+00:00"
-    },
-    {
-      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
-      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
-      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
-      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-15T19:47:07+00:00"
-    },
-    {
-      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
-      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
-      "url": "https://thenewstack.io/agentic-ai-build-buy/",
-      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-15T13:00:00+00:00"
-    },
-    {
-      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
-      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
-      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
-      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:31:53+00:00"
     }
   ]
 }

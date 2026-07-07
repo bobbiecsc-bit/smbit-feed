@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-07T09:56:38.105084+00:00",
+  "updated": "2026-07-07T20:07:12.477059+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
+      "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
+      "url": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
+      "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-12T18:07:00+00:00"
+    },
+    {
+      "id": "cce4f3abf6823b8640446e10e6272e8aae6e79945a7a684a506394de90101138",
+      "title": "40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail",
+      "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
+      "summary": "How do you create real ROI from autonomous AI? Three digital leaders share lessons they've learned in the field.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-12T16:14:33+00:00"
+    },
+    {
+      "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
+      "title": "Dell vs. HP: I've tested dozens of laptops from both brands, and here's my buying advice",
+      "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
+      "summary": "Dell and HP both make excellent laptops, but each excels in different areas. Here are the key differences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-12T10:54:00+00:00"
+    },
     {
       "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
       "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "infrastructure",
       "date": "2026-06-02T02:30:43+00:00"
-    },
-    {
-      "id": "fb55747b2ef1520d920c96d90c5bc0d1708f5ca51f11662cc1a5ce10c6d5e310",
-      "title": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
-      "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
-      "summary": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-02T00:44:00+00:00"
-    },
-    {
-      "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
-      "title": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
-      "url": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
-      "summary": "Sony recently announced the new Bravia 9 II True RGB TV. Is it worth upgrading from the older Bravia 9 Mini LED? I break down the differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-02T00:23:00+00:00"
-    },
-    {
-      "id": "16d24b24ef609946f431e44531e12dbeaaa29e11940377508ee18da777a56a4a",
-      "title": "I tried gaming on Android Auto and found 4 apps that made car downtime less boring",
-      "url": "https://www.zdnet.com/article/i-tried-android-auto-games-and-apps/",
-      "summary": "In addition to the built-in Gamesnacks, these titles will help time move more quickly when you're parked.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-02T00:17:00+00:00"
     }
   ]
 }
