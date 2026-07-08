@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-08T08:40:27.615815+00:00",
+  "updated": "2026-07-08T19:46:33.608259+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
+      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-14T12:30:48+00:00"
+    },
+    {
+      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
+      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
+      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
+      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T17:00:00+00:00"
+    },
+    {
+      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
+      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
+      "url": "https://thenewstack.io/fable-5-opus-comparison/",
+      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
+      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
+      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
+      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T13:00:58+00:00"
+    },
+    {
+      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
+      "title": "The best VPN routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vpn-router/",
+      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T09:01:02+00:00"
+    },
+    {
+      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
+      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
+      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
+      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T09:00:54+00:00"
+    },
     {
       "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
       "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T17:02:07+00:00"
-    },
-    {
-      "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
-      "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
-      "url": "https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/",
-      "summary": "Can you get a Copilot agent to do your work for you? I tried, but the AI wasn't ready to play along.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T14:43:00+00:00"
-    },
-    {
-      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
-      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
-      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
-      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T09:00:48+00:00"
-    },
-    {
-      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
-      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T01:07:00+00:00"
-    },
-    {
-      "id": "582817a8a3eb44ab4c848fb1b2f8b20a65f19e800f2517809dd4ea53313a2a16",
-      "title": "HBK's Vertilocity acquires tech firm",
-      "url": "https://www.accountingtoday.com/news/hbks-vertilocity-acquires-computol",
-      "summary": "Vertilocity, an arm of Top 50 Firm Hill, Barth &amp; King, acquired Toledo, Ohio-based technology firm Computol, effective June 1.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T15:20:53+00:00"
-    },
-    {
-      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
-      "title": "Crete rebrands as Current",
-      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
-      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T14:42:38+00:00"
-    },
-    {
-      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
-      "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
-      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-06-02T02:30:43+00:00"
     }
   ]
 }

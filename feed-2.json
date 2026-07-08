@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-08T08:40:27.615815+00:00",
+  "updated": "2026-07-08T19:46:33.608259+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
+      "title": "More revenue, less waste: Five lessons for MSP growth",
+      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
+      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-24T15:52:53+00:00"
+    },
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:50+00:00"
+    },
+    {
+      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
+      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
+      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
+      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:35+00:00"
+    },
+    {
+      "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
+      "title": "I recommend these best Garmin Prime Day deals - get up to $500 off right now",
+      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "Many of Garmin's signature smartwatches are on sale for Prime Day, including Forerunner, Fenix, and Venu models that we've tested.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T01:19:02+00:00"
+    },
+    {
+      "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
+      "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
+      "url": "https://www.zdnet.com/article/hp-omnibook-3-2026-review/",
+      "summary": "HP's OmniBook 3 combines decent hardware and exceptional battery life, making it one of the best-value laptops I've tested this year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T00:57:00+00:00"
+    },
+    {
+      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
+      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
+      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
+      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-24T00:51:00+00:00"
+    },
     {
       "id": "c12566a091814a4899d8a7f2b451fffa40719469083e5252c13fad3d33f84be0",
       "title": "Sony's WH-1000XM6 headphones just dropped to their lowest price yet for Amazon Prime Day",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-15T10:00:50+00:00"
-    },
-    {
-      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
-      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-14T12:30:48+00:00"
-    },
-    {
-      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
-      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
-      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
-      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T17:00:00+00:00"
-    },
-    {
-      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "url": "https://thenewstack.io/fable-5-opus-comparison/",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T15:00:00+00:00"
-    },
-    {
-      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
-      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
-      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
-      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T13:00:58+00:00"
-    },
-    {
-      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
-      "title": "The best VPN routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-router/",
-      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:01:02+00:00"
-    },
-    {
-      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
-      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
-      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:00:54+00:00"
     }
   ]
 }
