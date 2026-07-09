@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-09T09:53:36.471033+00:00",
+  "updated": "2026-07-09T19:57:19.020796+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
+      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+      "url": "https://thenewstack.io/cloud-costs-private-repatriation/",
+      "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-26T00:09:24+00:00"
+    },
+    {
+      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T19:27:07+00:00"
+    },
+    {
+      "id": "629659874c29e05fa42f2f615a83f07cf8da929688477693eb98305786095e12",
+      "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/",
+      "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T19:08:00+00:00"
+    },
+    {
+      "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
+      "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
+      "url": "https://www.zdnet.com/article/tiny-iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-25T09:00:44+00:00"
+    },
+    {
+      "id": "a814208c6c8c93013ff2922b3d0af8924003db78b63a63e423fbe1d78bdbdea3",
+      "title": "As an avid reader, these are the Kindle Prime Day deals worth buying (accessories, too)",
+      "url": "https://www.zdnet.com/article/kindle-amazon-prime-day-deals-2026/",
+      "summary": "Kindle and other Amazon devices get the biggest price drops of the year, and here are the best deals you can find right now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-25T00:54:38+00:00"
+    },
+    {
+      "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
+      "title": "The best Prime Day deals under $50 you can grab right now and still be within budget",
+      "url": "https://www.zdnet.com/article/best-deals-under-50-amazon-prime-day-2026/",
+      "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T20:14:41+00:00"
+    },
+    {
+      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
+      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
+      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
+      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-06-24T18:52:17+00:00"
+    },
     {
       "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
       "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
@@ -391,69 +454,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-06-16T23:13:10+00:00"
-    },
-    {
-      "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
-      "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
-      "url": "https://www.zdnet.com/article/i-tried-anduinos-2-0-easiest-way-to-ditch-windows-for-linux/",
-      "summary": "AnduinOS 2.0 is a speedy, private, Ubuntu-based Linux distro that's all about true distro engineering. And it's laid out like Windows 11.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-16T17:07:27+00:00"
-    },
-    {
-      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
-      "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
-      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
-      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-16T10:30:51+00:00"
-    },
-    {
-      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
-      "title": "Cost vs. value in the age of AI",
-      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
-      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "product_review",
-      "date": "2026-06-15T18:50:41+00:00"
-    },
-    {
-      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
-      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
-      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
-      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T15:45:49+00:00"
-    },
-    {
-      "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
-      "title": "Code is a message to the future",
-      "url": "https://thenewstack.io/code-message-to-future/",
-      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-15T12:00:00+00:00"
-    },
-    {
-      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
-      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
-      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-15T11:41:48+00:00"
-    },
-    {
-      "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
-      "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
-      "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but that wasn't quite the case.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T11:15:41+00:00"
     }
   ]
 }
