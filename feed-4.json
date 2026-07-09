@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-08T19:46:33.608259+00:00",
+  "updated": "2026-07-09T09:53:36.471033+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
+      "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
+      "url": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
+      "summary": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T17:02:07+00:00"
+    },
     {
       "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
       "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T12:00:38+00:00"
-    },
-    {
-      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
-      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
-      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-18T19:13:20+00:00"
     }
   ]
 }

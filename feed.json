@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-08T19:46:33.608259+00:00",
+  "updated": "2026-07-09T09:53:36.471033+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
+      "title": "The best malware removal software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
+      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T09:00:59+00:00"
+    },
     {
       "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
       "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-06-24T18:52:17+00:00"
-    },
-    {
-      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
-      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
-      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
-      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T18:10:00+00:00"
     }
   ]
 }

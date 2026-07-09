@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-08T19:46:33.608259+00:00",
+  "updated": "2026-07-09T09:53:36.471033+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
+      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
+      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
+      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T18:10:00+00:00"
+    },
     {
       "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
       "title": "More revenue, less waste: Five lessons for MSP growth",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-15T11:15:41+00:00"
-    },
-    {
-      "id": "119a111f26130a7d8f3d5aa48f525681bf485df7630d24698837c40d0bf96a94",
-      "title": "I found popular student discounts that can save you up to $25 per month",
-      "url": "https://www.zdnet.com/article/best-student-discounts-2026/",
-      "summary": "A student status can unlock a lot of savings if you know where to look. Here are my top picks you don't want to miss.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T10:00:50+00:00"
     }
   ]
 }
