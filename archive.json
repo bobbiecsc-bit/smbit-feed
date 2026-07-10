@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-10T09:49:20.473952+00:00",
+  "updated": "2026-07-10T19:44:44.178008+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
+      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
+      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
+      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T16:54:00+00:00"
+    },
+    {
+      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
+      "title": "Best wireless chargers of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-wireless-charger/",
+      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T11:00:47+00:00"
+    },
+    {
+      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
+      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
+      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T10:01:05+00:00"
+    },
+    {
+      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
+      "title": "The best HDMI cables of 2026: Expert reviewed",
+      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
+      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T10:00:49+00:00"
+    },
     {
       "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
       "title": "The best smart rings of 2026: Expert tested",
@@ -13,12 +49,12 @@
     },
     {
       "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
-      "title": "I tested my Fitbit Air against an 'EKG-accurate' heart rate monitor - the results surprised me",
+      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
       "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
       "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-07-10T08:45:39+00:00"
+      "date": "2026-07-10T08:45:00+00:00"
     },
     {
       "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
@@ -2215,42 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-12T01:59:09+00:00"
-    },
-    {
-      "id": "45f1838889519878b7efa3524fb494db06afe3c31c4ec1605a28d981a7b4ebd3",
-      "title": "Can hackers break encrypted USB drives? I tried to find out",
-      "url": "https://www.zdnet.com/article/kingston-ironkey-locker50-g2-review/",
-      "summary": "The Kingston IronKey Locker+50 G2 offers a high level of data security and several unique features to deter hackers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-11T20:42:00+00:00"
-    },
-    {
-      "id": "cb222cdfa30ba32f7403f4bc731071b77a288165b0d2a20750339d1d68c1ece7",
-      "title": "Ubuntu 26.04 vs. Fedora 44: After years of testing both Linux distros, here's my verdict",
-      "url": "https://www.zdnet.com/article/ubuntu-26-04-vs-fedora-44/",
-      "summary": "Ubuntu and Fedora are two powerhouse Linux distributions, but both take very different approaches, so which one should you be using?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-11T18:57:15+00:00"
-    },
-    {
-      "id": "d88d600ab941a7f864f79377d995887fd776d6fe769d7367780356f87f6b8448",
-      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/",
-      "summary": "My most exciting news of last week: Amazon Bedrock AgentCore previewed the first managed payment capabilities enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase and Stripe, it removes the undifferentiated heavy l",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-11T16:08:26+00:00"
-    },
-    {
-      "id": "c3d602d0ce17abc469e0cb0a3f539134f33baafe61ff503a629607a6c9f2fe4f",
-      "title": "Grant Thornton launches AI-enabled audit platform",
-      "url": "https://www.accountingtoday.com/news/grant-thornton-launches-unified-ai-enabled-audit-platform-gtap",
-      "summary": "Top 10 Firm Grant Thornton announced the launch of gtap, a proprietary audit infrastructure intended to redefine how the firm performs audits.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-05-11T14:13:27+00:00"
     }
   ]
 }

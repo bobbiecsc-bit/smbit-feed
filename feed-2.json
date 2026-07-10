@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-10T09:49:20.473952+00:00",
+  "updated": "2026-07-10T19:44:44.178008+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4b7be15673e2de74f5ce4f61b0025e86530441b4f890f010323be1563ac1be1",
+      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Prime Day is almost over. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T18:03:29+00:00"
+    },
+    {
+      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
+      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
+      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T17:54:00+00:00"
+    },
+    {
+      "id": "a30787c36cbd92c9d50e7ce0175a7702d136b5e9172bfbbada97bb63898ff707",
+      "title": "10 gadgets that can give your iPhone useful superpowers (and they're cheaper than you think)",
+      "url": "https://www.zdnet.com/article/iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-26T16:17:26+00:00"
+    },
+    {
+      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
+      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
+      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:49:11+00:00"
+    },
     {
       "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
       "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
@@ -418,42 +454,6 @@
       "source": "AWS News Blog",
       "category": "finance",
       "date": "2026-06-17T15:09:20+00:00"
-    },
-    {
-      "id": "5ef2ed5a74d3292d9d6242f0821975ef4dde77ece1fa0a6dd28aa6770a430297",
-      "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe (2026): I tested the budget models - here's my pick",
-      "url": "https://www.zdnet.com/article/amazon-kindle-scribe-2026-vs-remarkable-paper-pure/",
-      "summary": "Amazon's new Kindle Scribe foregoes the front light for a more affordable $429: pitting it against the ReMarkable Paper Pure.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:01:00+00:00"
-    },
-    {
-      "id": "3bd36ff5e651a3dea388cfe0c90238957e78e6819d3c238f736b11aa01f07a8f",
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
-      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedro",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-06-17T15:00:11+00:00"
-    },
-    {
-      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
-      "title": "The best power banks of 2026: Expert and lab tested",
-      "url": "https://www.zdnet.com/article/best-power-banks/",
-      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:06:08+00:00"
-    },
-    {
-      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
-      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
-      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
-      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:01:01+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-10T09:49:20.473952+00:00",
+  "updated": "2026-07-10T19:44:44.178008+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
+      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
+      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
+      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T16:54:00+00:00"
+    },
+    {
+      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
+      "title": "Best wireless chargers of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-wireless-charger/",
+      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T11:00:47+00:00"
+    },
+    {
+      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
+      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
+      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T10:01:05+00:00"
+    },
+    {
+      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
+      "title": "The best HDMI cables of 2026: Expert reviewed",
+      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
+      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T10:00:49+00:00"
+    },
     {
       "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
       "title": "The best smart rings of 2026: Expert tested",
@@ -16,12 +52,12 @@
     },
     {
       "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
-      "title": "I tested my Fitbit Air against an 'EKG-accurate' heart rate monitor - the results surprised me",
+      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
       "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
       "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-07-10T08:45:39+00:00"
+      "date": "2026-07-10T08:45:00+00:00"
     },
     {
       "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T18:36:11+00:00"
-    },
-    {
-      "id": "b4b7be15673e2de74f5ce4f61b0025e86530441b4f890f010323be1563ac1be1",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-last-minute-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is almost over. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T18:03:29+00:00"
-    },
-    {
-      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
-      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
-      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T17:54:00+00:00"
-    },
-    {
-      "id": "a30787c36cbd92c9d50e7ce0175a7702d136b5e9172bfbbada97bb63898ff707",
-      "title": "10 gadgets that can give your iPhone useful superpowers (and they're cheaper than you think)",
-      "url": "https://www.zdnet.com/article/iphone-gadgets-amazon-prime-day-2026/",
-      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-26T16:17:26+00:00"
-    },
-    {
-      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
-      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T15:49:11+00:00"
     }
   ]
 }
