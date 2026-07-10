@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-09T19:57:19.020796+00:00",
+  "updated": "2026-07-10T09:49:20.473952+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
+      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:00:45+00:00"
+    },
+    {
+      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
     {
       "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
       "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-04T20:50:11+00:00"
-    },
-    {
-      "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
-      "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
-      "url": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
-      "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
-      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
-      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
-      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-04T17:45:50+00:00"
     }
   ]
 }

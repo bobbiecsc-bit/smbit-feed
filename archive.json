@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-09T19:57:19.020796+00:00",
+  "updated": "2026-07-10T09:49:20.473952+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
+      "title": "The best smart rings of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-smart-ring/",
+      "summary": "I tested several top smart rings including the new Oura Ring 5. These are the ones I recommend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T09:00:41+00:00"
+    },
+    {
+      "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
+      "title": "I tested my Fitbit Air against an 'EKG-accurate' heart rate monitor - the results surprised me",
+      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
+      "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T08:45:39+00:00"
+    },
     {
       "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
       "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
@@ -2233,24 +2251,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-05-11T14:13:27+00:00"
-    },
-    {
-      "id": "bf1408dab6830b02792919decfc3d037be909704e965115265c9154f9665f3c9",
-      "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
-      "summary": "While Samsung focuses on durability and AI, the new Motorola phone is all about the design. Here's which one is better overall.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-11T12:00:36+00:00"
-    },
-    {
-      "id": "c1e4d6fd26c8ad6f4f23eac620de0ed5cfeda1700e762e9b5a7e304bbe8600cd",
-      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
-      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
-      "summary": "Anthropic is expanding Claude&#8217;s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-05-10T15:00:00+00:00"
     }
   ]
 }

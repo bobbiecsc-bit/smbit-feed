@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-09T19:57:19.020796+00:00",
+  "updated": "2026-07-10T09:49:20.473952+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
+      "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
+      "url": "https://www.zdnet.com/article/best-last-minute-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found for the last day of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:43:12+00:00"
+    },
+    {
+      "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
+      "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
+      "url": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-prime-day-2026/",
+      "summary": "Small gear, big gain. Snag useful USB-C accessories, Bluetooth gadgets, and more before Amazon Prime Day ends.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-26T09:00:39+00:00"
+    },
     {
       "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
       "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T11:01:01+00:00"
-    },
-    {
-      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
-      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
-      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:00:45+00:00"
-    },
-    {
-      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
-      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
-      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-06-16T23:13:10+00:00"
     }
   ]
 }
