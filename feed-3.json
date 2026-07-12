@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-12T08:28:05.392582+00:00",
+  "updated": "2026-07-12T19:16:24.590558+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bbdec7cefdd5439b931cc7220fb7b86ae146f18e387686586146829130220cc9",
+      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
+      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers c",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-06-17T15:09:20+00:00"
+    },
     {
       "id": "5ef2ed5a74d3292d9d6242f0821975ef4dde77ece1fa0a6dd28aa6770a430297",
       "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe (2026): I tested the budget models - here's my pick",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-06T13:00:48+00:00"
-    },
-    {
-      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
-      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
-      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
-      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-06T11:00:53+00:00"
     }
   ]
 }

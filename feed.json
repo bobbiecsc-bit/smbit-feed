@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-12T08:28:05.392582+00:00",
+  "updated": "2026-07-12T19:16:24.590558+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
+      "title": "The best email hosting for small businesses in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
+      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-12T09:00:44+00:00"
+    },
     {
       "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T20:58:00+00:00"
-    },
-    {
-      "id": "4aefa65682873fa2d713ddee92bc2a549a796de4eab3473017c7186a50105755",
-      "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
-      "url": "https://www.zdnet.com/article/jabra-evolve3-75-amazon-prime-day-2026/",
-      "summary": "Jabra's Evolve3 75 boomless headphones is one of the most comfortable business headsets I've ever worn.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T18:36:11+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-12T08:28:05.392582+00:00",
+  "updated": "2026-07-12T19:16:24.590558+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
+      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
+      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
+      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-06T11:00:53+00:00"
+    },
     {
       "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
       "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-05-25T15:04:29+00:00"
-    },
-    {
-      "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
-      "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-exchange-on-premise-owa-vulnerability-exploited/",
-      "summary": "A Microsoft Exchange Server Outlook Web Access (OWA) spoofing vulnerability, tracked as CVE‑2026‑42897, is actively being exploited in the wild. This issue affects Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition across all update levels. Continue reading [&#8230;",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-05-22T22:09:23+00:00"
     }
   ]
 }

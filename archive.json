@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-12T08:28:05.392582+00:00",
+  "updated": "2026-07-12T19:16:24.590558+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
+      "title": "The best email hosting for small businesses in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
+      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-12T09:00:44+00:00"
+    },
     {
       "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-05-12T02:00:41+00:00"
-    },
-    {
-      "id": "64167f27cfc4110f26c54d87f1e76c2726a31fd9c89c72b9f657e6b62f454bb4",
-      "title": "I compared how Gemini, ChatGPT, and Claude can analyze videos - this model wins",
-      "url": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
-      "summary": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the best.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-12T01:59:09+00:00"
     }
   ]
 }
