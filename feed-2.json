@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-13T09:42:09.287302+00:00",
+  "updated": "2026-07-13T19:39:54.355715+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
+      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
+      "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-29T12:00:38+00:00"
+    },
+    {
+      "id": "5ed21e9c69b743e1f4ab08dcffa25d5c5ccc01dff059808f23c2e23b6c1a2e23",
+      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
+      "url": "https://thenewstack.io/okta-ai-agents-fedramp/",
+      "summary": "Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "policy",
+      "date": "2026-06-28T13:49:00+00:00"
+    },
+    {
+      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
+      "title": "I tested two of the best location-sharing apps for a month - this one was most accurate",
+      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
+      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space competes.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-28T11:00:41+00:00"
+    },
+    {
+      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
+      "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
+      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
+      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price, even though Prime Day is over.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-27T13:37:34+00:00"
+    },
+    {
+      "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
+      "title": "This Garmin Epix Pro Gen 2 smartwatch is 50% off on Amazon - while supplies lasts",
+      "url": "https://www.zdnet.com/article/garmin-epix-pro-smartwatch-prime-deal-2026/",
+      "summary": "The Garmin Epix Pro Gen 2 smartwatch is half off during Prime Day. Grab it before the sale ends.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T20:58:00+00:00"
+    },
     {
       "id": "4aefa65682873fa2d713ddee92bc2a549a796de4eab3473017c7186a50105755",
       "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T19:59:00+00:00"
-    },
-    {
-      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
-      "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
-      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T18:02:18+00:00"
-    },
-    {
-      "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
-      "title": "Google and Apple are finally giving smartwatches the creative freedom they needed",
-      "url": "https://www.zdnet.com/article/apple-and-google-ai-widgets-and-shortcuts/",
-      "summary": "Google's Create My Widget and Apple's new Shortcuts feature prove we're in a DIY era of automation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T17:31:10+00:00"
-    },
-    {
-      "id": "05b2b035baed798d7fa17b54a3e59f532742b43ad55f527f5bb1be2cf37b1351",
-      "title": "Cybersecurity Threat Advisory: Microsoft Teams TURN relay exploit",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-microsoft-teams-turn-relay-exploit/",
-      "summary": "Threat actors are using a custom backdoor to route their command-and-control (C2) traffic through Microsoft Teams’ TURN relay infrastructure. This technique blends malicious traffic with legitimate Teams communications. As a result, attackers can bypass traditional network defenses, maintain covert ",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:37:48+00:00"
-    },
-    {
-      "id": "2b4b58d7b59b12a775ac610edc9040a86f8f30cf5cf007dfefe3df3b403aa0f6",
-      "title": "How Block manages its fleet of AI coding agents from Slack",
-      "url": "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack/",
-      "summary": "Most AI coding tools work well inside a single repository. But few of them can operate across hundreds of services The post How Block manages its fleet of AI coding agents from Slack appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:01:00+00:00"
-    },
-    {
-      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
-      "title": "Best early Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is next week. Shop our experts' hand-selected early deals on AirPods Pro 3 ($169), Apple Watch 11 ($300), and AirPods Max 2 now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:51:16+00:00"
     }
   ]
 }

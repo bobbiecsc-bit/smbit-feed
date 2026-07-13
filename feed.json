@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-13T09:42:09.287302+00:00",
+  "updated": "2026-07-13T19:39:54.355715+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
+      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
+      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
+      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-07-13T19:39:43+00:00"
+    },
+    {
+      "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
+      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
+      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick S",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-13T16:18:20+00:00"
+    },
+    {
+      "id": "b9e6f1eae5e3adebd1ef32295b367e79e782866829eb2f491fd07b4ab6baf401",
+      "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-all-in-one-computer/",
+      "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-13T14:56:00+00:00"
+    },
+    {
+      "id": "ad1e09ad0e3cf5226496bc212dee3f2279401f174028463142ddd1b31402c142",
+      "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
+      "url": "https://www.zdnet.com/article/alienware-15-review/",
+      "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-13T14:37:00+00:00"
+    },
+    {
+      "id": "10bc6ccd71086724a0ea8d1e5d172c01561c9d0db89ecc96c8833d64034759c6",
+      "title": "Ghostcommit attack hides malicious AI instructions in images",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
+      "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
+      "source": "Malwarebytes Labs",
+      "category": "finance",
+      "date": "2026-07-13T13:18:50+00:00"
+    },
     {
       "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
       "title": "The best email hosting for small businesses in 2026: Expert tested",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-29T14:52:00+00:00"
-    },
-    {
-      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
-      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
-      "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T12:00:38+00:00"
-    },
-    {
-      "id": "5ed21e9c69b743e1f4ab08dcffa25d5c5ccc01dff059808f23c2e23b6c1a2e23",
-      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
-      "url": "https://thenewstack.io/okta-ai-agents-fedramp/",
-      "summary": "Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "policy",
-      "date": "2026-06-28T13:49:00+00:00"
-    },
-    {
-      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
-      "title": "I tested two of the best location-sharing apps for a month - this one was most accurate",
-      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
-      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space competes.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-28T11:00:41+00:00"
-    },
-    {
-      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
-      "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
-      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price, even though Prime Day is over.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-27T13:37:34+00:00"
-    },
-    {
-      "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
-      "title": "This Garmin Epix Pro Gen 2 smartwatch is 50% off on Amazon - while supplies lasts",
-      "url": "https://www.zdnet.com/article/garmin-epix-pro-smartwatch-prime-deal-2026/",
-      "summary": "The Garmin Epix Pro Gen 2 smartwatch is half off during Prime Day. Grab it before the sale ends.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T20:58:00+00:00"
     }
   ]
 }
