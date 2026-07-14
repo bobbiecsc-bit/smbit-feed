@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-13T19:39:54.355715+00:00",
+  "updated": "2026-07-14T08:21:19.535845+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-29T16:30:30+00:00"
+    },
+    {
+      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
+      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
+      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
+      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-29T14:52:00+00:00"
+    },
     {
       "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
       "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-18T15:00:48+00:00"
-    },
-    {
-      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
-      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
-      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
-      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-06-18T13:00:00+00:00"
-    },
-    {
-      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
-      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
-      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
-      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T19:59:00+00:00"
     }
   ]
 }

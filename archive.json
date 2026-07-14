@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-13T19:39:54.355715+00:00",
+  "updated": "2026-07-14T08:21:19.535845+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
+      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
+      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
+      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T06:40:33+00:00"
+    },
+    {
+      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
+      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
+      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
+      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-13T20:59:08+00:00"
+    },
     {
       "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
       "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-13T01:12:00+00:00"
-    },
-    {
-      "id": "d4774613fd8f6e2da1d5b6e3f2d5bf3ad9d1a1786427eca2a39c9980e368752e",
-      "title": "The new FinOps problem isn’t cloud bills",
-      "url": "https://thenewstack.io/finops-ai-token-economics/",
-      "summary": "At Google Cloud Next this month in Las Vegas, The New Stack sat down with Finout co-founder and CEO Roi The post The new FinOps problem isn&#8217;t cloud bills appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-05-12T23:24:43+00:00"
-    },
-    {
-      "id": "39a6431e0f467bca2395955c01a145c0828dc3a19622957ede24a1b7e8cee897",
-      "title": "The compliance trap: checking boxes isn’t the same as being secure",
-      "url": "https://smartermsp.com/the-compliance-trap-checking-boxes-isnt-the-same-as-being-secure/",
-      "summary": "When businesses pass a SOC 2 audit, complete a HIPAA assessment, or earn a Cyber Essentials certification, there’s often a sense of relief—the work is done. In reality, that moment is where risk often begins. “Compliance frameworks establish a baseline,” [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "policy",
-      "date": "2026-05-12T19:01:11+00:00"
     }
   ]
 }

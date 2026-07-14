@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-13T19:39:54.355715+00:00",
+  "updated": "2026-07-14T08:21:19.535845+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
+      "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
+      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
+      "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T23:19:00+00:00"
+    },
+    {
+      "id": "beab180e9828dd1eddd5b32b17b04f243b608bfde9e9586a75b5fb373854aaa2",
+      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
+      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS,",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-08T21:27:12+00:00"
+    },
     {
       "id": "dfbe373709b13fb616c7e4d676e4006dcc213a57abc08d460acf4e9117465ff4",
       "title": "WatchOS 27 has arrived: How to download the developer beta now",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "infrastructure",
       "date": "2026-05-27T14:51:30+00:00"
-    },
-    {
-      "id": "d257189bf4f401bc894beda5eae062a4e3e462a4203c886847851074bfe114fe",
-      "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
-      "url": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
-      "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
-      "source": "Malwarebytes Labs",
-      "category": "cloud_saas",
-      "date": "2026-05-27T11:41:54+00:00"
-    },
-    {
-      "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
-      "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
-      "url": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
-      "summary": "Replacing your current Linux shell with something way more user-friendly is a lot easier than you think. Let's go Fish!",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-27T01:00:37+00:00"
     }
   ]
 }

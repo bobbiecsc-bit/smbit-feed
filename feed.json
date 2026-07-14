@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-13T19:39:54.355715+00:00",
+  "updated": "2026-07-14T08:21:19.535845+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
+      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
+      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
+      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T06:40:33+00:00"
+    },
+    {
+      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
+      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
+      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
+      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-13T20:59:08+00:00"
+    },
     {
       "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
       "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-29T17:50:00+00:00"
-    },
-    {
-      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-29T16:30:30+00:00"
-    },
-    {
-      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
-      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
-      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
-      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T14:52:00+00:00"
     }
   ]
 }

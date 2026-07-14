@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-13T19:39:54.355715+00:00",
+  "updated": "2026-07-14T08:21:19.535845+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
+      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
+      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
+      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-18T13:00:00+00:00"
+    },
+    {
+      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
+      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
+      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
+      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T19:59:00+00:00"
+    },
     {
       "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
       "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-09T00:57:00+00:00"
-    },
-    {
-      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
-      "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
-      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
-      "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T23:19:00+00:00"
-    },
-    {
-      "id": "beab180e9828dd1eddd5b32b17b04f243b608bfde9e9586a75b5fb373854aaa2",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
-      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS,",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-08T21:27:12+00:00"
     }
   ]
 }
