@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-14T08:21:19.535845+00:00",
+  "updated": "2026-07-14T19:37:33.523215+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "971b854c8ea56ce590ca53a1dc0d02481b9f65e28e7fb9a27c9a11a16e4abb74",
+      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
+      "url": "https://thenewstack.io/revenium-ai-cost-observability/",
+      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-06-09T10:00:00+00:00"
+    },
+    {
+      "id": "2d2eb9abfcbb8f85d7788590ea565acf1926b9af72fbc7b71f45da7e94420eb6",
+      "title": "The best business budgeting tools of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-business-budgeting-tools/",
+      "summary": "Need to control company spend? I tested the best budgeting tools for businesses of all sizes.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T09:01:03+00:00"
+    },
+    {
+      "id": "2fc5c876b8edaad58aaf1864b8dd613a005b93e8298001aa117f7ba81a493cca",
+      "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
+      "url": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
+      "summary": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-09T09:00:44+00:00"
+    },
+    {
+      "id": "272893f928febafbe82ba3f5f3b7b58901bd871d535066d05bac85005a82f585",
+      "title": "MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins",
+      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
+      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the numbers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T00:57:00+00:00"
+    },
     {
       "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
       "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-28T11:00:34+00:00"
-    },
-    {
-      "id": "996e32fa4666895fd4030206af055be2e7b2ed2f9b36319f0a2006844488a437",
-      "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
-      "url": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
-      "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-28T09:00:00+00:00"
-    },
-    {
-      "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
-      "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
-      "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
-      "summary": "The Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how I've been using it.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-28T00:30:00+00:00"
-    },
-    {
-      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
-      "title": "Whoop vs. Fitbit Air: I've tested both trackers for health and fitness, and this model wins",
-      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-      "summary": "How does the new Fitbit Air stack up against the tried-and-true Whoop band? I've broken down the key differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-27T19:31:20+00:00"
-    },
-    {
-      "id": "9a5ced975027f348eeec6a1c72931c8703898b221d2e41f6d60679d338d58f58",
-      "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
-      "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
-      "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-05-27T14:51:30+00:00"
     }
   ]
 }
