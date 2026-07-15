@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-14T19:37:33.523215+00:00",
+  "updated": "2026-07-15T08:27:55.544583+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
+      "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
+      "url": "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/",
+      "summary": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T07:45:43+00:00"
+    },
+    {
+      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
+      "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T07:00:00+00:00"
+    },
     {
       "id": "4003e11e87e443ba41bd4be9b256c51d2b6a51e570dc1181d328f80de5452c1d",
       "title": "I tested the Ultrahuman Ring Pro: It's a biohacker's dream that's not for me",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-01T18:30:24+00:00"
-    },
-    {
-      "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
-      "title": "BioShocking: when “gaming” AI agents is no longer a game",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
-      "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-01T12:50:59+00:00"
-    },
-    {
-      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
-      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-06-30T20:56:44+00:00"
     }
   ]
 }
