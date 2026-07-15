@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-15T08:27:55.544583+00:00",
+  "updated": "2026-07-15T19:23:39.696326+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
+      "title": "Prosperity flips PE partners",
+      "url": "https://www.accountingtoday.com/news/prosperity-flips-private-equity-partners",
+      "summary": "The Top 100 Firm is getting a majority investment from Lightyear Capital, while its previous investor, Unity Partners, will maintain a minority position in the firm.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-07-15T17:38:10+00:00"
+    },
+    {
+      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
+      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
+      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
+      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T17:00:46+00:00"
+    },
+    {
+      "id": "134f412affe3a211f86095a96c1a9a215388708db594aedadabe53f1639e50cd",
+      "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
+      "url": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
+      "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:39:00+00:00"
+    },
+    {
+      "id": "2087cffe654791aab37cd4bdad4f61e5ae4c456fb017fe6ff42415d0f6385d3a",
+      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
+      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
+      "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:27:00+00:00"
+    },
+    {
+      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
+      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
+      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
+      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-15T12:51:29+00:00"
+    },
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
     {
       "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
       "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-04T10:00:44+00:00"
-    },
-    {
-      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
-      "title": "Finally, I found a robot vacuum that leaves my two-year-old model in the dust",
-      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
-      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-02T14:30:41+00:00"
-    },
-    {
-      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
-      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
-      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
-      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-02T13:53:00+00:00"
-    },
-    {
-      "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
-      "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
-      "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
-      "summary": "If you like the idea of Brave's browser security, but all of the other features just get in your way, the developers have created a solution for you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-02T10:00:56+00:00"
-    },
-    {
-      "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
-      "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
-      "url": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
-      "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-01T19:51:00+00:00"
-    },
-    {
-      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
-      "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
-      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
-      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-07-01T19:00:08+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-01T18:30:24+00:00"
     }
   ]
 }

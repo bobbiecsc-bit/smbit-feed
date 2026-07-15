@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-15T08:27:55.544583+00:00",
+  "updated": "2026-07-15T19:23:39.696326+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
+      "title": "Prosperity flips PE partners",
+      "url": "https://www.accountingtoday.com/news/prosperity-flips-private-equity-partners",
+      "summary": "The Top 100 Firm is getting a majority investment from Lightyear Capital, while its previous investor, Unity Partners, will maintain a minority position in the firm.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-07-15T17:38:10+00:00"
+    },
+    {
+      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
+      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
+      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
+      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T17:00:46+00:00"
+    },
+    {
+      "id": "134f412affe3a211f86095a96c1a9a215388708db594aedadabe53f1639e50cd",
+      "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
+      "url": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
+      "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:39:00+00:00"
+    },
+    {
+      "id": "2087cffe654791aab37cd4bdad4f61e5ae4c456fb017fe6ff42415d0f6385d3a",
+      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
+      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
+      "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:27:00+00:00"
+    },
+    {
+      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
+      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
+      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
+      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-15T12:51:29+00:00"
+    },
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
     {
       "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
       "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
@@ -2197,60 +2251,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-14T23:22:38+00:00"
-    },
-    {
-      "id": "65fde9cb7296eabcea5013bb1125932dfa17016ea2a7c2f119d5fe5276ec4a77",
-      "title": "Six strategies for AI",
-      "url": "https://www.accountingtoday.com/list/accounting-leaders-share-ai-strategies",
-      "summary": "Executives from the Top 100 Firms and Regional Leaders share their approaches on adopting and implementing artificial intelligence.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-05-14T21:08:57+00:00"
-    },
-    {
-      "id": "ab536ffb80b8efdafb5073510ac2323c6c94378b56c420c1240a036b28759035",
-      "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
-      "url": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
-      "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T16:00:47+00:00"
-    },
-    {
-      "id": "b099e2a96fcb856407757a5df7a215f8e0152ea3145d06d8aecd39af0546f937",
-      "title": "The best microSD cards of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-microsd-card/",
-      "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T11:00:38+00:00"
-    },
-    {
-      "id": "6b89a42ac61752acf3c251b0202525bddc64c42ce82065b7ff777d30698f4d77",
-      "title": "The best secure browsers for privacy in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-browser-for-privacy/",
-      "summary": "Worried about your online activities from being tracked, or your browsing habits being sold? Make the switch to one of our favorite secure browsers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-14T10:00:38+00:00"
-    },
-    {
-      "id": "22034874988b7113d0d60aa25ff65dea4a108498768edac69f17f95dd9d32cea",
-      "title": "Adobe Express vs Canva: Which design tool is better?",
-      "url": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
-      "summary": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-13T20:09:59+00:00"
-    },
-    {
-      "id": "eb174ee6820e9b95f1ed59b6ac27cf30763b7e545092671703c2c71ef206fb23",
-      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
-      "url": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested/",
-      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT&#8217;s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI&#8217;s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-13T14:50:41+00:00"
     }
   ]
 }
