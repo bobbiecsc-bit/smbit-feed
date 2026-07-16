@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-16T08:25:48.338369+00:00",
+  "updated": "2026-07-16T19:23:20.297846+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
+      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
+      "url": "https://thenewstack.io/ai-agents-no-laws/",
+      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post &#8220;There are no laws, only suggestions&#8221;: What AI agents do with your instructions appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-16T13:00:00+00:00"
+    },
     {
       "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
       "title": "Prosperity flips PE partners",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T01:00:51+00:00"
-    },
-    {
-      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
-      "title": "Survey shows MSPs with cloud optimization expertise are in need",
-      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
-      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-14T23:22:38+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-16T08:25:48.338369+00:00",
+  "updated": "2026-07-16T19:23:20.297846+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
+      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
+      "url": "https://thenewstack.io/ai-agents-no-laws/",
+      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post &#8220;There are no laws, only suggestions&#8221;: What AI agents do with your instructions appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-16T13:00:00+00:00"
+    },
     {
       "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
       "title": "Prosperity flips PE partners",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-06T13:30:05+00:00"
-    },
-    {
-      "id": "5808ba5e6a38b9390d42f6a594e38e3353854a5bcee7f5f0a19d03f72bc989ce",
-      "title": "I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful",
-      "url": "https://www.zdnet.com/article/android-auto-pdf-reader-app-surprisingly-useful/",
-      "summary": "No, you can't read and drive. But you can catch up on important documents.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-04T10:00:44+00:00"
     }
   ]
 }

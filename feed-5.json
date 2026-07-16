@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-16T08:25:48.338369+00:00",
+  "updated": "2026-07-16T19:23:20.297846+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7f999f1e5afa2529c5c94e5578d1febf83b43190dc405a02a61beb33e369ce53",
+      "title": "I tried Microsoft's Windows 365 Cloud PC on MacOS, Android, and iOS - here's what it's like",
+      "url": "https://www.zdnet.com/article/windows-365-cloud-pc-hands-on/",
+      "summary": "Who needs a Cloud PC, anyway? What's the experience like? How much does it really cost? I've got answers to all those questions.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-05-30T12:00:46+00:00"
+    },
     {
       "id": "ec20f1cb2eb4c062f32f6ba67e3b0d3b5e138fdc613b718d0fa897f8adba21a5",
       "title": "ReMarkable Paper Pure vs. Boox Go 10.3: I used both tablets at work, and it comes down to this",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T01:00:51+00:00"
-    },
-    {
-      "id": "47cd032f2744dddc429b2d754e8881cdf5c27f1ebec4a58414f70b5f3b73bb40",
-      "title": "Survey shows MSPs with cloud optimization expertise are in need",
-      "url": "https://smartermsp.com/survey-shows-msps-with-cloud-optimization-expertise-are-in-need/",
-      "summary": "A survey of 300 U.S. finance leaders at organizations with more than $50 million in revenue suggests companies are looking to fund artificial intelligence (AI) initiatives in part by optimizing cloud spending. Surging cloud costs A survey conducted by market [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-14T23:22:38+00:00"
     }
   ]
 }
