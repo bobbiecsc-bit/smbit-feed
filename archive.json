@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-17T08:22:15.303437+00:00",
+  "updated": "2026-07-17T19:21:31.026382+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
+      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
+      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
+      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T16:36:19+00:00"
+    },
+    {
+      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
+      "title": "Tech News: Blue J offers accounting professors free access",
+      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
+      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-07-17T15:16:55+00:00"
+    },
+    {
+      "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
+      "title": "I tested this backup power station during a real blackout - don't make my mistakes",
+      "url": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
+      "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T14:15:10+00:00"
+    },
+    {
+      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
+      "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
+      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+      "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T14:04:12+00:00"
+    },
+    {
+      "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
+      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+      "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
+      "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-17T13:03:00+00:00"
+    },
+    {
+      "id": "69b626580a1700e41199b220af9406cde0c98c6a5b5780a69b246f5bf0978234",
+      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
+      "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
+      "summary": "Kubernetes controllers are what make the platform&#8217;s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-17T12:00:00+00:00"
+    },
     {
       "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
       "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
@@ -2197,60 +2251,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-05-15T19:47:07+00:00"
-    },
-    {
-      "id": "b61d321716cddfbbc2fd77a0e8fec707ef7d5014a56423e98b05dd214e4f7269",
-      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
-      "url": "https://thenewstack.io/agentic-ai-build-buy/",
-      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-05-15T13:00:00+00:00"
-    },
-    {
-      "id": "e34f3ca7e362c44bb56ea79d8c9742bfee7388a808299d70046135f2c52d4003",
-      "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
-      "url": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
-      "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:31:53+00:00"
-    },
-    {
-      "id": "54d5e2ddcda32dab419705afa7818036d02ef6ef3ddef5d61da7a3e942c339fa",
-      "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
-      "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:01:00+00:00"
-    },
-    {
-      "id": "7df6bb5e44a127850ebf5ef04cd03d9152fe87fc545c820e2111939c088c6f71",
-      "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-      "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T12:00:50+00:00"
-    },
-    {
-      "id": "640235c7385a47e740974fba1c6ab61a476bf4bb33ae7aebc8377d1fa6fbad51",
-      "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
-      "url": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
-      "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-05-15T02:00:42+00:00"
-    },
-    {
-      "id": "8b7e161aceb364c82ba3e135139e7e74daa55f0f9deda5f9372455a3d71b8b9a",
-      "title": "Samsung Galaxy Z Fold 7 vs. Pixel 10 Pro Fold vs. Motorola Razr Fold - this model wins for me",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
-      "summary": "The Motorola Razr Fold faces tough competition from Samsung and Google, but still manages to stand out for these reasons.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:41:00+00:00"
     }
   ]
 }

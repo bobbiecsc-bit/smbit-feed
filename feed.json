@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-17T08:22:15.303437+00:00",
+  "updated": "2026-07-17T19:21:31.026382+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
+      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
+      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
+      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T16:36:19+00:00"
+    },
+    {
+      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
+      "title": "Tech News: Blue J offers accounting professors free access",
+      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
+      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-07-17T15:16:55+00:00"
+    },
+    {
+      "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
+      "title": "I tested this backup power station during a real blackout - don't make my mistakes",
+      "url": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
+      "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T14:15:10+00:00"
+    },
+    {
+      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
+      "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
+      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+      "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T14:04:12+00:00"
+    },
+    {
+      "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
+      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+      "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
+      "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-17T13:03:00+00:00"
+    },
+    {
+      "id": "69b626580a1700e41199b220af9406cde0c98c6a5b5780a69b246f5bf0978234",
+      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
+      "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
+      "summary": "Kubernetes controllers are what make the platform&#8217;s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-17T12:00:00+00:00"
+    },
     {
       "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
       "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-07-08T11:00:40+00:00"
-    },
-    {
-      "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
-      "title": "The best robot vacuums for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-robot-vacuum/",
-      "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T17:01:00+00:00"
-    },
-    {
-      "id": "793fb82cf6f60e3219a8f7c0dbbf95fcb4bdfcba8e00843ad936d268d35eaf2a",
-      "title": "Linux Mint vs. RefreshOS: I compared the two best distros for new users - this one's better",
-      "url": "https://www.zdnet.com/article/linux-mint-vs-refreshos-best-distro-for-new-users/",
-      "summary": "These two user-friendly distributions take different routes to the 'best Linux' crown. The winner comes down to this.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T16:30:39+00:00"
-    },
-    {
-      "id": "af2474af392fbd8dd9bbc284b58a7da599198eb25843b514a0dab4c31c381840",
-      "title": "Sennheiser Momentum 5 vs. Bose QuietComfort Ultra 2: I compared the two and found a winner",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bose-quietcomfort-ultra-2/",
-      "summary": "Sennheiser's and Bose's flagship headphones are both solid choices, and the best pair boils down to your personal preferences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T16:20:00+00:00"
-    },
-    {
-      "id": "858b1331e5d117a663cc75984430f5db470875a67f592d2fb663804d190ae330",
-      "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/",
-      "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T09:00:38+00:00"
-    },
-    {
-      "id": "3cd79ac51f7313d02762bf68a8ec0c6f9835ac0b466bb7576df3c080127b47a7",
-      "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
-      "url": "https://www.zdnet.com/article/apple-airtags-vs-rival-bluetooth-trackers-including-2-one/",
-      "summary": "How does a budget tracker tag perform against the best of the best? Turns out all Bluetooth range is not created equal.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-06T19:55:46+00:00"
-    },
-    {
-      "id": "af1d804bccbfde1e82fd1e525584bd1a97b14fb3b049dfdfdd7f4e857e9f535f",
-      "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
-      "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
-      "summary": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-06T16:05:00+00:00"
     }
   ]
 }
