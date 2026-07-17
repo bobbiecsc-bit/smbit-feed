@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-16T19:23:20.297846+00:00",
+  "updated": "2026-07-17T08:22:15.303437+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
+      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
+      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T19:31:57+00:00"
+    },
+    {
+      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
+      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-22T19:10:46+00:00"
+    },
     {
       "id": "880955e3f028ed064b193e96c49a1853545475df4fb957b8f71432b270c72013",
       "title": "Samsung Galaxy vs. Google Pixel: I've used both brands extensively, and this one's better",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-11T09:30:15+00:00"
-    },
-    {
-      "id": "9aa64c031593dd7803dfb2ac9b77269bc8f026ff17ebb406c729501365f7b18c",
-      "title": "The best time-tracking software of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-time-tracking-software/",
-      "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T09:00:43+00:00"
-    },
-    {
-      "id": "a680c04a2c013e2c6997033e702af152e39966eb6c6342756f5a21178b1cd447",
-      "title": "AWS can now mathematically prove your VMs are isolated",
-      "url": "https://thenewstack.io/graviton5-nitro-isolation-engine/",
-      "summary": "On Wednesday, AWS announced that its Graviton5 processor is now generally available and powers two new Amazon EC2 instances: M9g The post AWS can now mathematically prove your VMs are isolated appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-10T16:46:34+00:00"
     }
   ]
 }

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-16T19:23:20.297846+00:00",
+  "updated": "2026-07-17T08:22:15.303437+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
+      "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
+      "url": "https://thenewstack.io/microsoft-comic-chat-open-source/",
+      "summary": "Comic Sans has been mocked, memed, and muzzled from corporate communications since time immemorial, but most people won&#8217;t know that The post Microsoft just open-sourced the app that put Comic Sans on the map appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-17T07:50:03+00:00"
+    },
+    {
+      "id": "6566e0725302227c9bef6eeda3b9e973dda6b22bc9783e83918397a914cf58d4",
+      "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
+      "url": "https://www.zdnet.com/article/msi-cyborg-15-review/",
+      "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T07:25:49+00:00"
+    },
     {
       "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
       "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-15T01:41:00+00:00"
-    },
-    {
-      "id": "501f11bd2e5a4f6a16fc56e8fe2b2edcf9e9ede9151b17fb90e25124d4a0d32f",
-      "title": "Are you following the 60-60 rule with headphone listening? Your future self will thank you",
-      "url": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
-      "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:36:00+00:00"
-    },
-    {
-      "id": "f1fc0efa90a4ca9f851631da2e5b3b169b022046d7ce04a2e45e17dd14fe0b7b",
-      "title": "I tested Motorola's $1,900 Razr Fold, and it gives Samsung and Google serious competition",
-      "url": "https://www.zdnet.com/article/motorola-razr-fold-review/",
-      "summary": "The latest Razr Fold is a valiant first attempt at a book-style foldable phone, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-15T01:00:51+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-16T19:23:20.297846+00:00",
+  "updated": "2026-07-17T08:22:15.303437+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b540a46dae2c7a1dbae9dcd35534f451656d8c3b57bcedc4d220c47c223d6bd4",
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-06T15:46:43+00:00"
+    },
+    {
+      "id": "719488ed61fa05d960233173658bbcb8690e25897555ed1e9e7134cb08cd17f3",
+      "title": "I tried the best-looking laptop of 2026, and its battery life was the real surprise",
+      "url": "https://www.zdnet.com/article/hp-omnibook-x-flip-14-review/",
+      "summary": "HP brought aesthetics front and center with the 2026 OmniBook X Flip 14, but thankfully, it didn't stop there.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-06T13:30:05+00:00"
+    },
     {
       "id": "5808ba5e6a38b9390d42f6a594e38e3353854a5bcee7f5f0a19d03f72bc989ce",
       "title": "I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T20:53:34+00:00"
-    },
-    {
-      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
-      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T19:31:57+00:00"
-    },
-    {
-      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
-      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
-      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T19:10:46+00:00"
     }
   ]
 }
