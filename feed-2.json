@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-18T08:04:15.058408+00:00",
+  "updated": "2026-07-18T19:15:22.474615+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
+      "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
+      "url": "https://www.zdnet.com/article/roborock-saros-20-review-robot-vacuum-2026/",
+      "summary": "Roborock took its flagship robot vacuum and really improved it, while keeping the same price. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T14:47:00+00:00"
+    },
+    {
+      "id": "e861e7b2f9450c952d495e17f21dfa1b43aad11877eb5e1cb6b6d3779c482d77",
+      "title": "3 Android Auto automations that make my drives much easier - and how I set them up",
+      "url": "https://www.zdnet.com/article/3-android-auto-automations-i-use-to-make-my-life-easier/",
+      "summary": "Android automations are nothing new, but incorporating them into you car can change your drive.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-07-08T11:00:40+00:00"
+    },
     {
       "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
       "title": "The best robot vacuums for 2026: Expert tested and reviewed",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T00:57:00+00:00"
-    },
-    {
-      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
-      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
-      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
-      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-24T00:51:00+00:00"
-    },
-    {
-      "id": "c12566a091814a4899d8a7f2b451fffa40719469083e5252c13fad3d33f84be0",
-      "title": "Sony's WH-1000XM6 headphones just dropped to their lowest price yet for Amazon Prime Day",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-amazon-prime-day-deal-2026/",
-      "summary": "Sony's WH-1000XM6 headphones bring best-in-class ANC and refined audio output.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T00:51:00+00:00"
     }
   ]
 }

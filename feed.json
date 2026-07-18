@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-18T08:04:15.058408+00:00",
+  "updated": "2026-07-18T19:15:22.474615+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
+      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
+      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
+      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-18T10:00:39+00:00"
+    },
+    {
+      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
+      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
+      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
+      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-18T09:30:41+00:00"
+    },
     {
       "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
       "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-08T15:09:00+00:00"
-    },
-    {
-      "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
-      "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
-      "url": "https://www.zdnet.com/article/roborock-saros-20-review-robot-vacuum-2026/",
-      "summary": "Roborock took its flagship robot vacuum and really improved it, while keeping the same price. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T14:47:00+00:00"
-    },
-    {
-      "id": "e861e7b2f9450c952d495e17f21dfa1b43aad11877eb5e1cb6b6d3779c482d77",
-      "title": "3 Android Auto automations that make my drives much easier - and how I set them up",
-      "url": "https://www.zdnet.com/article/3-android-auto-automations-i-use-to-make-my-life-easier/",
-      "summary": "Android automations are nothing new, but incorporating them into you car can change your drive.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-07-08T11:00:40+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-18T08:04:15.058408+00:00",
+  "updated": "2026-07-18T19:15:22.474615+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
+      "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
+      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
+      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-06-02T02:30:43+00:00"
+    },
+    {
+      "id": "fb55747b2ef1520d920c96d90c5bc0d1708f5ca51f11662cc1a5ce10c6d5e310",
+      "title": "I tried the latest MX Linux version on my PC, and it made the system look and feel like new",
+      "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-best-distribution-for-new-hardware/",
+      "summary": "MX Linux has released a version that includes features and software, making it a brilliant option for the latest systems.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-02T00:44:00+00:00"
+    },
     {
       "id": "c6b0a2ba6d20d5529b5fffe895800ac89abf678dc7140b68a960a7c28f3138cf",
       "title": "Sony Bravia 9 II vs. Bravia 9: I've seen both TV models, and True RGB LED is a major leap",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T09:00:47+00:00"
-    },
-    {
-      "id": "4042a1ae525d5fb9a0dceb89dbb972dc53c8fe400d35e78c1e27e2df7b5c921c",
-      "title": "The best external hard drives of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-external-hard-drive/",
-      "summary": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-16T09:00:40+00:00"
-    },
-    {
-      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
-      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
-      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
-      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-15T19:47:07+00:00"
     }
   ]
 }

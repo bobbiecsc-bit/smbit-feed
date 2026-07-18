@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-18T08:04:15.058408+00:00",
+  "updated": "2026-07-18T19:15:22.474615+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
+      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
+      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
+      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-18T10:00:39+00:00"
+    },
+    {
+      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
+      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
+      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
+      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-18T09:30:41+00:00"
+    },
     {
       "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
       "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T09:00:47+00:00"
-    },
-    {
-      "id": "4042a1ae525d5fb9a0dceb89dbb972dc53c8fe400d35e78c1e27e2df7b5c921c",
-      "title": "The best external hard drives of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-external-hard-drive/",
-      "summary": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-16T09:00:40+00:00"
-    },
-    {
-      "id": "72e7d4e64da1d37e71c588598ec705bd13cc5cce4fe1e444a5a5df9209afecc3",
-      "title": "Tech Time Warp: Ransomware continues to make computer users WannaCry",
-      "url": "https://smartermsp.com/tech-time-warp-ransomware-continues-to-make-computer-users-wannacry/",
-      "summary": "This month’s Canvas ransomware attack—in addition to making finals week more stressful for thousands of college students and their professors—was a stark reminder about the continued threat of ransomware. Consider it a bit of a Tech Time Warp. It’s enough [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-05-15T19:47:07+00:00"
     }
   ]
 }

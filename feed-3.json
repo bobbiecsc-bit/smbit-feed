@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-18T08:04:15.058408+00:00",
+  "updated": "2026-07-18T19:15:22.474615+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
+      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
+      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
+      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-06-24T00:51:00+00:00"
+    },
+    {
+      "id": "c12566a091814a4899d8a7f2b451fffa40719469083e5252c13fad3d33f84be0",
+      "title": "Sony's WH-1000XM6 headphones just dropped to their lowest price yet for Amazon Prime Day",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-amazon-prime-day-deal-2026/",
+      "summary": "Sony's WH-1000XM6 headphones bring best-in-class ANC and refined audio output.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T00:51:00+00:00"
+    },
     {
       "id": "36b69c1e752726ddbf7f834cfa2f677cfab1954363f7f0d5fd1e985e0771cee2",
       "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-13T09:01:02+00:00"
-    },
-    {
-      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
-      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
-      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:00:54+00:00"
-    },
-    {
-      "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
-      "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
-      "url": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
-      "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-12T18:07:00+00:00"
     }
   ]
 }
