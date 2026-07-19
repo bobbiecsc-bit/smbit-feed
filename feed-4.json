@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T08:29:33.456173+00:00",
+  "updated": "2026-07-19T19:16:55.428607+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
+      "title": "The best VPN routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-vpn-router/",
+      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-13T09:01:02+00:00"
+    },
     {
       "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
       "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-02T15:20:53+00:00"
-    },
-    {
-      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
-      "title": "Crete rebrands as Current",
-      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
-      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T14:42:38+00:00"
     }
   ]
 }

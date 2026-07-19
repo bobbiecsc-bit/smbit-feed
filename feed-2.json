@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T08:29:33.456173+00:00",
+  "updated": "2026-07-19T19:16:55.428607+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "361d12d7254ebf7dceb93a21d2b209453959aa07facdeb5221ab3ad22e449af3",
+      "title": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
+      "url": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
+      "summary": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T15:09:00+00:00"
+    },
     {
       "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
       "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T01:19:02+00:00"
-    },
-    {
-      "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
-      "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
-      "url": "https://www.zdnet.com/article/hp-omnibook-3-2026-review/",
-      "summary": "HP's OmniBook 3 combines decent hardware and exceptional battery life, making it one of the best-value laptops I've tested this year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T00:57:00+00:00"
     }
   ]
 }

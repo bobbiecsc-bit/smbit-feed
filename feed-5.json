@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T08:29:33.456173+00:00",
+  "updated": "2026-07-19T19:16:55.428607+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
+      "title": "Crete rebrands as Current",
+      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
+      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-02T14:42:38+00:00"
+    },
     {
       "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
       "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T10:00:00+00:00"
-    },
-    {
-      "id": "2d46e44d772d71f7d2f5e862f47795d53b9b24ad58e69582d0b1b73bf72fce4c",
-      "title": "The best NAS devices of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-network-attached-storage/",
-      "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T09:00:47+00:00"
     }
   ]
 }

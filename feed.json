@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T08:29:33.456173+00:00",
+  "updated": "2026-07-19T19:16:55.428607+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
+      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
+      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
+      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-07-19T10:00:43+00:00"
+    },
     {
       "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
       "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-08T16:14:42+00:00"
-    },
-    {
-      "id": "361d12d7254ebf7dceb93a21d2b209453959aa07facdeb5221ab3ad22e449af3",
-      "title": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
-      "url": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
-      "summary": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T15:09:00+00:00"
     }
   ]
 }

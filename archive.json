@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-19T08:29:33.456173+00:00",
+  "updated": "2026-07-19T19:16:55.428607+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
+      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
+      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
+      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-07-19T10:00:43+00:00"
+    },
     {
       "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
       "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T10:00:00+00:00"
-    },
-    {
-      "id": "2d46e44d772d71f7d2f5e862f47795d53b9b24ad58e69582d0b1b73bf72fce4c",
-      "title": "The best NAS devices of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-network-attached-storage/",
-      "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T09:00:47+00:00"
     }
   ]
 }
