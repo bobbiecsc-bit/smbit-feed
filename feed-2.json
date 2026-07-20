@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-20T09:29:51.982530+00:00",
+  "updated": "2026-07-20T19:51:30.196143+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "df79edd46fd49dc1a1b1065cf31b2de75a911e4e26e7bf0617e25698c3313a2d",
+      "title": "Best blood pressure watches: I tested the top models that actually work",
+      "url": "https://www.zdnet.com/article/best-blood-pressure-watch/",
+      "summary": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one for your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T10:00:00+00:00"
+    },
+    {
+      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
+      "title": "The best malware removal software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
+      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T09:00:59+00:00"
+    },
+    {
+      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
+      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
+      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
+      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T19:41:00+00:00"
+    },
+    {
+      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
+      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
+      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-08T19:30:26+00:00"
+    },
+    {
+      "id": "cebe52f9000bcf340a428da4a4ea02f0b0642c6138536223562931ccbba1fd34",
+      "title": "Cybersecurity Threat Advisory: LSHIY password spray campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-lshiy-password-spray-campaign/",
+      "summary": "This Cybersecurity Threat Advisory covers a large-scale password and token spray campaign targeting Microsoft Azure CLI authentication flows. Researchers linked the campaign to activity originating from the IPv6 range 2a0a:d683::/32. The range is associated with LSHIY LLC / AS32167. Researchers [&#8",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-08T17:23:30+00:00"
+    },
     {
       "id": "69c3f2a6c868cd4f0dd0bcd2d2dafaf189b1fa0ac6a2ae461de6687ea977eee4",
       "title": "I tried DuckDuckGo's new video player, and it blocks YouTube ads for free",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T20:14:41+00:00"
-    },
-    {
-      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
-      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
-      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
-      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-06-24T18:52:17+00:00"
-    },
-    {
-      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
-      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
-      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
-      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T18:10:00+00:00"
-    },
-    {
-      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
-      "title": "More revenue, less waste: Five lessons for MSP growth",
-      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
-      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-24T15:52:53+00:00"
-    },
-    {
-      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
-      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:50+00:00"
-    },
-    {
-      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
-      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
-      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
-      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:35+00:00"
     }
   ]
 }

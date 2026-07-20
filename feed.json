@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-20T09:29:51.982530+00:00",
+  "updated": "2026-07-20T19:51:30.196143+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T18:07:20+00:00"
+    },
+    {
+      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
+      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
+      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
+      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:42:00+00:00"
+    },
+    {
+      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
+      "title": "The best rugged phones in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-rugged-phone/",
+      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:07:00+00:00"
+    },
+    {
+      "id": "ff016fbfbc8c22a35fee318a78d08c893e0e8328830d6be51bd51e21086f8634",
+      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+      "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries acros",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-20T16:37:34+00:00"
+    },
+    {
+      "id": "a486585101aab0bf5c83c19729934c713975aa699efe2e111e67b5cf99a92a29",
+      "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
+      "url": "https://thenewstack.io/grok-opus-coding-tokens/",
+      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T13:38:00+00:00"
+    },
+    {
+      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
+      "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
+      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+      "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T13:00:50+00:00"
+    },
     {
       "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
       "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
@@ -67,15 +121,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-17T14:15:10+00:00"
-    },
-    {
-      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
-      "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
-      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-      "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T14:04:12+00:00"
     },
     {
       "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T13:02:00+00:00"
-    },
-    {
-      "id": "df79edd46fd49dc1a1b1065cf31b2de75a911e4e26e7bf0617e25698c3313a2d",
-      "title": "Best blood pressure watches: I tested the top models that actually work",
-      "url": "https://www.zdnet.com/article/best-blood-pressure-watch/",
-      "summary": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
-      "title": "The best malware removal software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
-      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T09:00:59+00:00"
-    },
-    {
-      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
-      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
-      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T19:41:00+00:00"
-    },
-    {
-      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
-      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
-      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-08T19:30:26+00:00"
-    },
-    {
-      "id": "cebe52f9000bcf340a428da4a4ea02f0b0642c6138536223562931ccbba1fd34",
-      "title": "Cybersecurity Threat Advisory: LSHIY password spray campaign",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-lshiy-password-spray-campaign/",
-      "summary": "This Cybersecurity Threat Advisory covers a large-scale password and token spray campaign targeting Microsoft Azure CLI authentication flows. Researchers linked the campaign to activity originating from the IPv6 range 2a0a:d683::/32. The range is associated with LSHIY LLC / AS32167. Researchers [&#8",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-08T17:23:30+00:00"
     }
   ]
 }

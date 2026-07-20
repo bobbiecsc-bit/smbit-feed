@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-20T09:29:51.982530+00:00",
+  "updated": "2026-07-20T19:51:30.196143+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T18:07:20+00:00"
+    },
+    {
+      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
+      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
+      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
+      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:42:00+00:00"
+    },
+    {
+      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
+      "title": "The best rugged phones in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-rugged-phone/",
+      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:07:00+00:00"
+    },
+    {
+      "id": "ff016fbfbc8c22a35fee318a78d08c893e0e8328830d6be51bd51e21086f8634",
+      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+      "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries acros",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-20T16:37:34+00:00"
+    },
+    {
+      "id": "a486585101aab0bf5c83c19729934c713975aa699efe2e111e67b5cf99a92a29",
+      "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
+      "url": "https://thenewstack.io/grok-opus-coding-tokens/",
+      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T13:38:00+00:00"
+    },
+    {
+      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
+      "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
+      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+      "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T13:00:50+00:00"
+    },
     {
       "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
       "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
@@ -64,15 +118,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-17T14:15:10+00:00"
-    },
-    {
-      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
-      "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
-      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-      "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T14:04:12+00:00"
     },
     {
       "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
@@ -2206,51 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T13:00:00+00:00"
-    },
-    {
-      "id": "f04dd01e6f771f885da7533038d3e1ea2dd45d0ddfec7d9ceb86e55461245c98",
-      "title": "Marshall Milton ANC headphones aim to combine portability with performance",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-combine-the-portability-of-major-v-with-the-performance-of-monitor-iii/",
-      "summary": "I don't like on-ear headphones, but the new Marshall Milton ANC cans might change my mind due to their cool features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T12:00:38+00:00"
-    },
-    {
-      "id": "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82",
-      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
-      "summary": "Just a year ago, we launched AWS Transform for .NET, Mainframe and VMware workloads, the first agentic AI service purpose-built for modernizing enterprise applications at scale. At re:Invent 2025, we introduced AWS Transform custom, which enables organizations to modernize and transform code at scal",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-18T19:13:20+00:00"
-    },
-    {
-      "id": "97d96fc4f9fdb153bb83f186ac75460c7fe45df957659f410f9b8b2cc9fe79a6",
-      "title": "Bose Lifestyle Ultra vs. Sonos Era 100: I compared both smart speakers, and this one wins",
-      "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
-      "summary": "Smart speakers are all the rage, and Bose's latest entry is a worthy competitor to the established Sonos.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-18T13:00:43+00:00"
-    },
-    {
-      "id": "b26b94c2a10dfdaa346c1200a1363d2e0d5a547e85f6f01dcb7ca26931be91a1",
-      "title": "Roborock vs. Ecovacs: I've tested dozens of robot vacuums from both brands - this one wins",
-      "url": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
-      "summary": "Roborock and Ecovacs models consistently deliver market-leading performance, there are clear reasons to buy one over the other.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-18T00:54:00+00:00"
-    },
-    {
-      "id": "dd7ed30e60aad9602791bbc2925b90edd6112ce043ac50cc803d8bfc18b46467",
-      "title": "Samsung vs. Motorola: I've tested dozens of phones from both brands - here's my choice",
-      "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
-      "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T13:00:45+00:00"
     }
   ]
 }
