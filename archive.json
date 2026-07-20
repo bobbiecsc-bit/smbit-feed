@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-19T19:16:55.428607+00:00",
+  "updated": "2026-07-20T09:29:51.982530+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
+      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-19T21:30:34+00:00"
+    },
     {
       "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
       "title": "How a virtual LAN can better protect your home network - and the best way to get started",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T13:00:45+00:00"
-    },
-    {
-      "id": "2ee62b41963cac5f5aaf9a57d6093b2a110815a7733cbad67e1cb2d82df92057",
-      "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
-      "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-      "summary": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T10:00:00+00:00"
     }
   ]
 }

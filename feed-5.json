@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T19:16:55.428607+00:00",
+  "updated": "2026-07-20T09:29:51.982530+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "582817a8a3eb44ab4c848fb1b2f8b20a65f19e800f2517809dd4ea53313a2a16",
+      "title": "HBK's Vertilocity acquires tech firm",
+      "url": "https://www.accountingtoday.com/news/hbks-vertilocity-acquires-computol",
+      "summary": "Vertilocity, an arm of Top 50 Firm Hill, Barth &amp; King, acquired Toledo, Ohio-based technology firm Computol, effective June 1.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-02T15:20:53+00:00"
+    },
     {
       "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
       "title": "Crete rebrands as Current",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-17T13:00:45+00:00"
-    },
-    {
-      "id": "2ee62b41963cac5f5aaf9a57d6093b2a110815a7733cbad67e1cb2d82df92057",
-      "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
-      "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-      "summary": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-17T10:00:00+00:00"
     }
   ]
 }
