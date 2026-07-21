@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-21T08:40:26.845604+00:00",
+  "updated": "2026-07-21T19:43:03.289550+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
+      "title": "5 gaming accessories I refuse to play without",
+      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
+      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-21T19:30:13+00:00"
+    },
+    {
+      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
+      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T19:30:07+00:00"
+    },
+    {
+      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
+      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
+      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
+      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T17:57:57+00:00"
+    },
+    {
+      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
+      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
+      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-21T17:05:16+00:00"
+    },
+    {
+      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
+      "title": "Block built a Slack for AI agents — and gave each one its own passport",
+      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
+      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-21T16:30:00+00:00"
+    },
+    {
+      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
+      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
+      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
+      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T12:40:00+00:00"
+    },
+    {
+      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
+      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
+      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T10:01:03+00:00"
+    },
     {
       "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
       "title": "Google just bet its inference future on a chip built for one model",
@@ -2188,69 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-21T16:00:51+00:00"
-    },
-    {
-      "id": "f8761dcb76314f415272e1fb3b527075586eb5f218d6d2f73c92e9806f5f1e17",
-      "title": "I wore Google's Android XR glasses again - and my limit-testing should scare Meta and Apple",
-      "url": "https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/",
-      "summary": "My latest demos of the Android XR reference glasses and Project Aura show even more promise for Google's wearable lineup.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T13:32:03+00:00"
-    },
-    {
-      "id": "b34eccf8a8b79b1d9ebdce9d54615566ce26c315d056b39770b3ec146ee2afa2",
-      "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
-      "url": "https://www.zdnet.com/article/tcl-vs-hisense/",
-      "summary": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T12:00:42+00:00"
-    },
-    {
-      "id": "b7738a471d725993778cabb7ca72884efc96c7102e27e573dc4a9339dcc29b7d",
-      "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
-      "url": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
-      "summary": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:30:34+00:00"
-    },
-    {
-      "id": "d6299f24d3c39306bacc494b7774b0ccbbe4ddab54fb523e1b3cd36511dc09ec",
-      "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-travel-vpn/",
-      "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:07:52+00:00"
-    },
-    {
-      "id": "6e5aadd50ebed28dda7b9ebea8f46c80358e0c2c428b051a3fe9a7385a27de6c",
-      "title": "Best VPN services 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-vpn/",
-      "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked the best VPNs in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:07:22+00:00"
-    },
-    {
-      "id": "349068dce408453cf9c85f5543266b0eb3abab57db997ba191b757cf69ce6b41",
-      "title": "We tested the most popular VPNs in New York, London, and Tokyo - this one is the best for traveling",
-      "url": "https://www.zdnet.com/article/fastest-travel-vpn-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the travel VPN with the fasted download speeds.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-20T11:00:45+00:00"
-    },
-    {
-      "id": "0445537ac3eef827e6ef357ce999ec83b1aca8d31f9ba12c9480194f322b5022",
-      "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
-      "url": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
-      "summary": "These two Linux distributions take different approaches to the desktop. One may have an edge for new users.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T19:38:26+00:00"
     }
   ]
 }

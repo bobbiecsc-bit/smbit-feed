@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-21T08:40:26.845604+00:00",
+  "updated": "2026-07-21T19:43:03.289550+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
+      "title": "5 gaming accessories I refuse to play without",
+      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
+      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-21T19:30:13+00:00"
+    },
+    {
+      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
+      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T19:30:07+00:00"
+    },
+    {
+      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
+      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
+      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
+      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T17:57:57+00:00"
+    },
+    {
+      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
+      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
+      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-21T17:05:16+00:00"
+    },
+    {
+      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
+      "title": "Block built a Slack for AI agents — and gave each one its own passport",
+      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
+      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-21T16:30:00+00:00"
+    },
+    {
+      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
+      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
+      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
+      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T12:40:00+00:00"
+    },
+    {
+      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
+      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
+      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T10:01:03+00:00"
+    },
     {
       "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
       "title": "Google just bet its inference future on a chip built for one model",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T10:00:49+00:00"
-    },
-    {
-      "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
-      "title": "The best smart rings of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-smart-ring/",
-      "summary": "I tested several top smart rings including the new Oura Ring 5. These are the ones I recommend.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T09:00:41+00:00"
-    },
-    {
-      "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
-      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
-      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-      "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T08:45:00+00:00"
-    },
-    {
-      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
-      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T18:51:10+00:00"
-    },
-    {
-      "id": "f25648d6e8f6e17c12a2937ed496403ea58ef80100b012e86625deee4a509ff1",
-      "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
-      "url": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
-      "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T17:16:13+00:00"
-    },
-    {
-      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
-      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-notebook/",
-      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T15:34:00+00:00"
-    },
-    {
-      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
-      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
-      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:41:00+00:00"
-    },
-    {
-      "id": "8bef77666e060afe3cb9bac4b687beb159cadc2d57dd8d320209258d8557824d",
-      "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
-      "url": "https://www.zdnet.com/article/how-id-rank-distrowatch-top-10-as-linux-expert/",
-      "summary": "DistroWatch says these are the top Linux distros. I say this order is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:14:07+00:00"
     }
   ]
 }

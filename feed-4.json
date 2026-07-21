@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-21T08:40:26.845604+00:00",
+  "updated": "2026-07-21T19:43:03.289550+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
+      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:00:45+00:00"
+    },
+    {
+      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-06-16T23:13:10+00:00"
+    },
+    {
+      "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
+      "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
+      "url": "https://www.zdnet.com/article/i-tried-anduinos-2-0-easiest-way-to-ditch-windows-for-linux/",
+      "summary": "AnduinOS 2.0 is a speedy, private, Ubuntu-based Linux distro that's all about true distro engineering. And it's laid out like Windows 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T17:07:27+00:00"
+    },
+    {
+      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
+      "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
+      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-16T10:30:51+00:00"
+    },
+    {
+      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
+      "title": "Cost vs. value in the age of AI",
+      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
+      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "product_review",
+      "date": "2026-06-15T18:50:41+00:00"
+    },
+    {
+      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
+      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
+      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T15:45:49+00:00"
+    },
+    {
+      "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
+      "title": "Code is a message to the future",
+      "url": "https://thenewstack.io/code-message-to-future/",
+      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-15T12:00:00+00:00"
+    },
     {
       "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
       "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
@@ -391,69 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-04T20:50:11+00:00"
-    },
-    {
-      "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
-      "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
-      "url": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
-      "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
-      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
-      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
-      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-04T17:45:50+00:00"
-    },
-    {
-      "id": "fce55326d77c184aef151a70de24e38765df1b1580f339bb46786f8ed15bc523",
-      "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
-      "url": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
-      "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:50:23+00:00"
-    },
-    {
-      "id": "2bd419ae305efe632f244f7be721f1703f9c81386743c9b723f0e7516fb049ff",
-      "title": "I flew 2,700 miles with 4 headphones - this pair was the best travel companion",
-      "url": "https://www.zdnet.com/article/i-flew-2700-miles-with-4-headphones-my-best-travel-companion/",
-      "summary": "Air travel is the true test for headphones and earbuds. My multiple journeys revealed all the strengths and weaknesses of these latest models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:24:18+00:00"
-    },
-    {
-      "id": "6d1ae6265d569b4f098c1a3b37c739df009dbcc0f40646dd5e90b97928bf2d5c",
-      "title": "Asana says its new AI “chief of staff” turns your Slack chaos into trackable work",
-      "url": "https://thenewstack.io/asana-dash-ai-teammates/",
-      "summary": "Asana on Thursday unveiled an AI assistant called Dash and a new generation of what the company calls AI &#8220;teammates&#8221; The post Asana says its new AI &#8220;chief of staff&#8221; turns your Slack chaos into trackable work appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-04T16:21:55+00:00"
-    },
-    {
-      "id": "88388d037c05dbbbd7fc80d37a2096b0e7b1134d6638993ebed5423523e02b85",
-      "title": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
-      "url": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
-      "summary": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-04T13:47:00+00:00"
-    },
-    {
-      "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
-      "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
-      "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
-      "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T23:05:00+00:00"
     }
   ]
 }

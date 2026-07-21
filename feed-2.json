@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-21T08:40:26.845604+00:00",
+  "updated": "2026-07-21T19:43:03.289550+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
+      "title": "The best smart rings of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-smart-ring/",
+      "summary": "I tested several top smart rings including the new Oura Ring 5. These are the ones I recommend.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T09:00:41+00:00"
+    },
+    {
+      "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
+      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
+      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
+      "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T08:45:00+00:00"
+    },
+    {
+      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
+      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
+      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
+      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T18:51:10+00:00"
+    },
+    {
+      "id": "f25648d6e8f6e17c12a2937ed496403ea58ef80100b012e86625deee4a509ff1",
+      "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
+      "url": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
+      "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T17:16:13+00:00"
+    },
+    {
+      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
+      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smart-notebook/",
+      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T15:34:00+00:00"
+    },
+    {
+      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
+      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
+      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T14:41:00+00:00"
+    },
+    {
+      "id": "8bef77666e060afe3cb9bac4b687beb159cadc2d57dd8d320209258d8557824d",
+      "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
+      "url": "https://www.zdnet.com/article/how-id-rank-distrowatch-top-10-as-linux-expert/",
+      "summary": "DistroWatch says these are the top Linux distros. I say this order is better.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T14:14:07+00:00"
+    },
     {
       "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
       "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T15:49:11+00:00"
-    },
-    {
-      "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
-      "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
-      "url": "https://www.zdnet.com/article/best-last-minute-smartwatch-deals-amazon-prime-day-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found for the last day of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T15:43:12+00:00"
-    },
-    {
-      "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
-      "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
-      "url": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-prime-day-2026/",
-      "summary": "Small gear, big gain. Snag useful USB-C accessories, Bluetooth gadgets, and more before Amazon Prime Day ends.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-26T09:00:39+00:00"
-    },
-    {
-      "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
-      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
-      "url": "https://thenewstack.io/cloud-costs-private-repatriation/",
-      "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-26T00:09:24+00:00"
-    },
-    {
-      "id": "80fea695725955146d17d74eb4fb156cf1f451fc3a8372610b9da7cd90effbc6",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is officially here. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-25T19:27:07+00:00"
-    },
-    {
-      "id": "629659874c29e05fa42f2f615a83f07cf8da929688477693eb98305786095e12",
-      "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/",
-      "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-25T19:08:00+00:00"
-    },
-    {
-      "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
-      "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
-      "url": "https://www.zdnet.com/article/tiny-iphone-gadgets-amazon-prime-day-2026/",
-      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-25T09:00:44+00:00"
-    },
-    {
-      "id": "a814208c6c8c93013ff2922b3d0af8924003db78b63a63e423fbe1d78bdbdea3",
-      "title": "As an avid reader, these are the Kindle Prime Day deals worth buying (accessories, too)",
-      "url": "https://www.zdnet.com/article/kindle-amazon-prime-day-deals-2026/",
-      "summary": "Kindle and other Amazon devices get the biggest price drops of the year, and here are the best deals you can find right now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-25T00:54:38+00:00"
     }
   ]
 }
