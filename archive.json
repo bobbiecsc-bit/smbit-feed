@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
+      "title": "Google just bet its inference future on a chip built for one model",
+      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
+      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-20T22:14:41+00:00"
+    },
     {
       "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
       "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T19:38:26+00:00"
-    },
-    {
-      "id": "4681d9a3a4322c4e1c6d5d9051bacb52833ccfabbe038b90bc7376cd6997bfa9",
-      "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
-      "url": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
-      "summary": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T13:00:00+00:00"
     }
   ]
 }

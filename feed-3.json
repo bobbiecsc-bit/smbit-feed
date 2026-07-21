@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
+      "title": "The best Prime Day deals under $50 you can grab right now and still be within budget",
+      "url": "https://www.zdnet.com/article/best-deals-under-50-amazon-prime-day-2026/",
+      "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T20:14:41+00:00"
+    },
     {
       "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
       "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-15T12:00:00+00:00"
-    },
-    {
-      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
-      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
-      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-15T11:41:48+00:00"
     }
   ]
 }

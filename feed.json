@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
+      "title": "Google just bet its inference future on a chip built for one model",
+      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
+      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-20T22:14:41+00:00"
+    },
     {
       "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
       "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T14:14:07+00:00"
-    },
-    {
-      "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
-      "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
-      "url": "https://www.zdnet.com/article/norton-antivirus-review/",
-      "summary": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T13:02:00+00:00"
     }
   ]
 }

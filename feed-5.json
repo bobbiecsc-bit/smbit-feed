@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
+      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
+      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
+      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-03T22:46:00+00:00"
+    },
     {
       "id": "814541e868eb3c0e9315b248fd894cc12da128d3535ce18c0193742d62c0701a",
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-19T19:38:26+00:00"
-    },
-    {
-      "id": "4681d9a3a4322c4e1c6d5d9051bacb52833ccfabbe038b90bc7376cd6997bfa9",
-      "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
-      "url": "https://www.zdnet.com/article/microsoft-surface-pro-for-business-review/",
-      "summary": "The 12th-generation Surface Pro for Business features 5G connectivity and a brilliant display.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-19T13:00:00+00:00"
     }
   ]
 }

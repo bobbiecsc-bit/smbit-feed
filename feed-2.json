@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
+      "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
+      "url": "https://www.zdnet.com/article/norton-antivirus-review/",
+      "summary": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T13:02:00+00:00"
+    },
     {
       "id": "df79edd46fd49dc1a1b1065cf31b2de75a911e4e26e7bf0617e25698c3313a2d",
       "title": "Best blood pressure watches: I tested the top models that actually work",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-25T00:54:38+00:00"
-    },
-    {
-      "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
-      "title": "The best Prime Day deals under $50 you can grab right now and still be within budget",
-      "url": "https://www.zdnet.com/article/best-deals-under-50-amazon-prime-day-2026/",
-      "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T20:14:41+00:00"
     }
   ]
 }

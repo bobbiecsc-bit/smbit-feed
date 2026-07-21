@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-20T19:51:30.196143+00:00",
+  "updated": "2026-07-21T08:40:26.845604+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-15T11:41:48+00:00"
+    },
     {
       "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
       "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T23:05:00+00:00"
-    },
-    {
-      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
-      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
-      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T22:46:00+00:00"
     }
   ]
 }
