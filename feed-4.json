@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-22T08:39:51.918349+00:00",
+  "updated": "2026-07-22T19:37:39.524012+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
+      "title": "Google and Apple are finally giving smartwatches the creative freedom they needed",
+      "url": "https://www.zdnet.com/article/apple-and-google-ai-widgets-and-shortcuts/",
+      "summary": "Google's Create My Widget and Apple's new Shortcuts feature prove we're in a DIY era of automation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T17:31:10+00:00"
+    },
+    {
+      "id": "05b2b035baed798d7fa17b54a3e59f532742b43ad55f527f5bb1be2cf37b1351",
+      "title": "Cybersecurity Threat Advisory: Microsoft Teams TURN relay exploit",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-microsoft-teams-turn-relay-exploit/",
+      "summary": "Threat actors are using a custom backdoor to route their command-and-control (C2) traffic through Microsoft Teams’ TURN relay infrastructure. This technique blends malicious traffic with legitimate Teams communications. As a result, attackers can bypass traditional network defenses, maintain covert ",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-17T16:37:48+00:00"
+    },
+    {
+      "id": "2b4b58d7b59b12a775ac610edc9040a86f8f30cf5cf007dfefe3df3b403aa0f6",
+      "title": "How Block manages its fleet of AI coding agents from Slack",
+      "url": "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack/",
+      "summary": "Most AI coding tools work well inside a single repository. But few of them can operate across hundreds of services The post How Block manages its fleet of AI coding agents from Slack appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-17T16:01:00+00:00"
+    },
+    {
+      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
+      "title": "Best early Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
+      "summary": "Prime Day 2026 is next week. Shop our experts' hand-selected early deals on AirPods Pro 3 ($169), Apple Watch 11 ($300), and AirPods Max 2 now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T15:51:16+00:00"
+    },
+    {
+      "id": "bbdec7cefdd5439b931cc7220fb7b86ae146f18e387686586146829130220cc9",
+      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
+      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers c",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-06-17T15:09:20+00:00"
+    },
+    {
+      "id": "5ef2ed5a74d3292d9d6242f0821975ef4dde77ece1fa0a6dd28aa6770a430297",
+      "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe (2026): I tested the budget models - here's my pick",
+      "url": "https://www.zdnet.com/article/amazon-kindle-scribe-2026-vs-remarkable-paper-pure/",
+      "summary": "Amazon's new Kindle Scribe foregoes the front light for a more affordable $429: pitting it against the ReMarkable Paper Pure.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T15:01:00+00:00"
+    },
+    {
+      "id": "3bd36ff5e651a3dea388cfe0c90238957e78e6819d3c238f736b11aa01f07a8f",
+      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedro",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-06-17T15:00:11+00:00"
+    },
+    {
+      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
+      "title": "The best power banks of 2026: Expert and lab tested",
+      "url": "https://www.zdnet.com/article/best-power-banks/",
+      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:06:08+00:00"
+    },
     {
       "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
       "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
@@ -382,78 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-08T20:46:34+00:00"
-    },
-    {
-      "id": "fb67be74490e9bb99a6f34ce7f3eb06f0b34cb5ed9f5fa64bc4563bba06b7274",
-      "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",
-      "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
-      "summary": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T02:00:43+00:00"
-    },
-    {
-      "id": "23f16ddb527a1d30510cad1cc046959e58e2534045d2342032bdffd73808e70d",
-      "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
-      "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
-      "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - with some surprise picks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-07T12:00:40+00:00"
-    },
-    {
-      "id": "86b1ca6e9c0a83d822e7b542e650b800deb64864e42a0770725de74e84d73208",
-      "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
-      "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
-      "summary": "Dell's new 13-inch XPS starts at just $599 with student pricing, making it a direct competitor to the Neo. But is it any better?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-07T11:00:39+00:00"
-    },
-    {
-      "id": "0f78c807964fb977c40c4b3b49facfea4d36db014612d830dc56a7bd3652b194",
-      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
-      "url": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T13:00:48+00:00"
-    },
-    {
-      "id": "7a29056ee049d502b5898a0032c52aa736a51bf1a7fa3fed954624c772f06dcb",
-      "title": "The 7 coolest gadgets I saw at Computex 2026 (and when you can buy each one)",
-      "url": "https://www.zdnet.com/article/computex-2026-coolest-gadgets/",
-      "summary": "Nvidia announced its new RTX Spark processor at Computex 2026, launching a wave of new high-performance ultrabooks.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-06T11:00:53+00:00"
-    },
-    {
-      "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
-      "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
-      "url": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
-      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:52+00:00"
-    },
-    {
-      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
-      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
-      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:37+00:00"
-    },
-    {
-      "id": "47358d671b659bb1df5cdef1688b5473c1f65dd453480c74a94514e9b14802f8",
-      "title": "How Google could turn Siri into the AI health coach my Apple Watch needs",
-      "url": "https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T13:29:05+00:00"
     }
   ]
 }

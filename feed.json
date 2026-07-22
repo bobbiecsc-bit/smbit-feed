@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-22T08:39:51.918349+00:00",
+  "updated": "2026-07-22T19:37:39.524012+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
+      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
+      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
+      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T19:05:45+00:00"
+    },
+    {
+      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
+      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
+      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
+      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:15:00+00:00"
+    },
+    {
+      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: This one is the better value",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "summary": "Which premium phone should you get: the Galaxy Z Fold 8 Ultra or the Razr Ultra? Below, we compare key features to help you choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:11:24+00:00"
+    },
+    {
+      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
+      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T15:43:12+00:00"
+    },
+    {
+      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
+      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-22T15:18:20+00:00"
+    },
+    {
+      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
+      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
+      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:39:14+00:00"
+    },
+    {
+      "id": "5f7a41e8cd6e3132b9c171a5d85f37bd1749e71d33bd63797d03683f1afb77b3",
+      "title": "Everything announced at Samsung Unpacked 2026: New foldables, smartwatches, and smart glasses",
+      "url": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/",
+      "summary": "Samsung just announced its latest-gen foldable smartphones and smartwatches at its Unpacked event. We're on the ground in London - here's the rundown.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
+    {
+      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
+      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
+      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
     {
       "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
       "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
@@ -382,78 +454,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-07-13T19:39:43+00:00"
-    },
-    {
-      "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
-      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick S",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-13T16:18:20+00:00"
-    },
-    {
-      "id": "b9e6f1eae5e3adebd1ef32295b367e79e782866829eb2f491fd07b4ab6baf401",
-      "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-all-in-one-computer/",
-      "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:56:00+00:00"
-    },
-    {
-      "id": "ad1e09ad0e3cf5226496bc212dee3f2279401f174028463142ddd1b31402c142",
-      "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
-      "url": "https://www.zdnet.com/article/alienware-15-review/",
-      "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:37:00+00:00"
-    },
-    {
-      "id": "10bc6ccd71086724a0ea8d1e5d172c01561c9d0db89ecc96c8833d64034759c6",
-      "title": "Ghostcommit attack hides malicious AI instructions in images",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
-      "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-13T13:18:50+00:00"
-    },
-    {
-      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
-      "title": "The best email hosting for small businesses in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
-      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-12T09:00:44+00:00"
-    },
-    {
-      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
-      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
-      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T16:54:00+00:00"
-    },
-    {
-      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
-      "title": "Best wireless chargers of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-wireless-charger/",
-      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T11:00:47+00:00"
-    },
-    {
-      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
-      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
-      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:01:05+00:00"
     }
   ]
 }

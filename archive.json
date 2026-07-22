@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-22T08:39:51.918349+00:00",
+  "updated": "2026-07-22T19:37:39.524012+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
+      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
+      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
+      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T19:05:45+00:00"
+    },
+    {
+      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
+      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
+      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
+      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:15:00+00:00"
+    },
+    {
+      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: This one is the better value",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "summary": "Which premium phone should you get: the Galaxy Z Fold 8 Ultra or the Razr Ultra? Below, we compare key features to help you choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:11:24+00:00"
+    },
+    {
+      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
+      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T15:43:12+00:00"
+    },
+    {
+      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
+      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-22T15:18:20+00:00"
+    },
+    {
+      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
+      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
+      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:39:14+00:00"
+    },
+    {
+      "id": "5f7a41e8cd6e3132b9c171a5d85f37bd1749e71d33bd63797d03683f1afb77b3",
+      "title": "Everything announced at Samsung Unpacked 2026: New foldables, smartwatches, and smart glasses",
+      "url": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/",
+      "summary": "Samsung just announced its latest-gen foldable smartphones and smartwatches at its Unpacked event. We're on the ground in London - here's the rundown.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
+    {
+      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
+      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
+      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
     {
       "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
       "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
@@ -2179,78 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-26T15:38:00+00:00"
-    },
-    {
-      "id": "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f",
-      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
-      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-05-25T20:11:10+00:00"
-    },
-    {
-      "id": "b7376596f29ece387b7bd6e72633baba7b50a873f3f9d47d7f5dd908336e8eca",
-      "title": "The top 10 Memorial Day deals our readers keep buying (No. 3 is tiny yet functional)",
-      "url": "https://www.zdnet.com/article/memorial-day-2026-top-sellers/",
-      "summary": "Memorial Day weekend is wrapping up soon, but these are the deals our readers can't get enough of.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-25T16:47:00+00:00"
-    },
-    {
-      "id": "137e436fb5e5dc571ffb936943b9a701519af058a9852702c131efffab0e1c78",
-      "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
-      "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
-      "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-25T16:24:07+00:00"
-    },
-    {
-      "id": "33c89195f9eb490366e528124673cca73fd7456dffa92c295cc9a553b345dd3e",
-      "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
-      "url": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
-      "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've found.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-25T15:04:29+00:00"
-    },
-    {
-      "id": "3667c198ed365c2dc406a22ecaff3ebba0406681dcb499d84c5bf14ba747c060",
-      "title": "Cybersecurity Threat Advisory: Exchange on-premise OWA vulnerability exploited",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-exchange-on-premise-owa-vulnerability-exploited/",
-      "summary": "A Microsoft Exchange Server Outlook Web Access (OWA) spoofing vulnerability, tracked as CVE‑2026‑42897, is actively being exploited in the wild. This issue affects Exchange Server 2016, Exchange Server 2019, and Exchange Server Subscription Edition across all update levels. Continue reading [&#8230;",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-05-22T22:09:23+00:00"
-    },
-    {
-      "id": "8f548f3de211864aaa56478caf89da183169db5f0ec580b039d75c7977551f0f",
-      "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
-      "url": "https://www.zdnet.com/article/my-favorite-ipad-air-accessories/",
-      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of the tablet.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-05-22T16:20:03+00:00"
-    },
-    {
-      "id": "88097cbec2f647b5dc2d1db6844d7188071984121a8bff5c2535f3599accfba8",
-      "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
-      "url": "https://www.zdnet.com/article/costco-memorial-day-deal-2026/",
-      "summary": "If you've been thinking about joining Costco, the wholesale retailer is offering a gift card of up to $40 for new members, effectively dropping the price of your membership.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-05-22T14:30:00+00:00"
-    },
-    {
-      "id": "1a3ae1417add789885936785ec068e77bb6adaa23bb314dd3b9dab48902fca56",
-      "title": "I buried 20 problems in a fake P&L to see if Claude for Small Business could find them",
-      "url": "https://thenewstack.io/claude-small-business-test/",
-      "summary": "Anthropic launched Claude for Small Business this month, adding native connectors to business tools like QuickBooks, HubSpot, Canva, Google Workspace, The post I buried 20 problems in a fake P&amp;L to see if Claude for Small Business could find them appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-05-22T13:00:00+00:00"
     }
   ]
 }
