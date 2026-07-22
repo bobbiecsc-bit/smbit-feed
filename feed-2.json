@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-21T19:43:03.289550+00:00",
+  "updated": "2026-07-22T08:39:51.918349+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
+      "title": "The best HDMI cables of 2026: Expert reviewed",
+      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
+      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T10:00:49+00:00"
+    },
     {
       "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
       "title": "The best smart rings of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-06-26T16:17:26+00:00"
-    },
-    {
-      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
-      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T15:49:11+00:00"
     }
   ]
 }

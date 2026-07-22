@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-21T19:43:03.289550+00:00",
+  "updated": "2026-07-22T08:39:51.918349+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
+      "title": "Doeren Mayhew adds tech firm",
+      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
+      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-06-04T20:50:11+00:00"
+    },
     {
       "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
       "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-05-22T13:00:00+00:00"
-    },
-    {
-      "id": "eb6cf3d2e0aab99bd09dcfc98bc4f1ddaba6c53d70647365ea3d674459f57b9f",
-      "title": "These Marshall ANC headphones might finally pull me away from Bose and Sony - here's why",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-first-look/",
-      "summary": "I've never been a big on-ear headphones guy, but the new Marshall Milton ANC might change my mind due to their unique connectivity features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-21T16:00:51+00:00"
     }
   ]
 }

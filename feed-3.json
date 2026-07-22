@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-21T19:43:03.289550+00:00",
+  "updated": "2026-07-22T08:39:51.918349+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
+      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
+      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
+      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-26T15:49:11+00:00"
+    },
     {
       "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
       "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T11:06:08+00:00"
-    },
-    {
-      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
-      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
-      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
-      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:01:01+00:00"
     }
   ]
 }

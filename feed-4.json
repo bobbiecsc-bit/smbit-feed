@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-21T19:43:03.289550+00:00",
+  "updated": "2026-07-22T08:39:51.918349+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
+      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
+      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
+      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T11:01:01+00:00"
+    },
     {
       "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
       "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-05T13:29:05+00:00"
-    },
-    {
-      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
-      "title": "Doeren Mayhew adds tech firm",
-      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
-      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-04T20:50:11+00:00"
     }
   ]
 }

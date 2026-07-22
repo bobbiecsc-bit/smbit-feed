@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-21T19:43:03.289550+00:00",
+  "updated": "2026-07-22T08:39:51.918349+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
+      "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
+      "url": "https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/",
+      "summary": "The System76 Thelio Mira Custom is a whisper-quiet 'boutique\" Linux workstation that actually feels practical.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T22:30:40+00:00"
+    },
     {
       "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
       "title": "5 gaming accessories I refuse to play without",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T10:01:05+00:00"
-    },
-    {
-      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
-      "title": "The best HDMI cables of 2026: Expert reviewed",
-      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
-      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:00:49+00:00"
     }
   ]
 }
