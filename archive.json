@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-23T08:41:23.197928+00:00",
+  "updated": "2026-07-23T19:37:31.180149+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
+      "title": "The hidden MSP opportunity in AI-built applications",
+      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
+      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-23T16:55:35+00:00"
+    },
+    {
+      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
+      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
+      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T16:07:00+00:00"
+    },
+    {
+      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
+      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-wifi-router/",
+      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:06:06+00:00"
+    },
+    {
+      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
+      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
+      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
+      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:05:47+00:00"
+    },
+    {
+      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
+      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
+      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:00:50+00:00"
+    },
     {
       "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
       "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
@@ -2206,51 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-28T09:00:00+00:00"
-    },
-    {
-      "id": "eb1f3d60992a10191d0d74d82aeac377c2f901270869762cded34bd3be319ec9",
-      "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
-      "url": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
-      "summary": "The Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how I've been using it.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-28T00:30:00+00:00"
-    },
-    {
-      "id": "fc260ac2a556313f1cff4a320bc5157fb22c4091142cbcb2b4db67627a782a9c",
-      "title": "Whoop vs. Fitbit Air: I've tested both trackers for health and fitness, and this model wins",
-      "url": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-      "summary": "How does the new Fitbit Air stack up against the tried-and-true Whoop band? I've broken down the key differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-27T19:31:20+00:00"
-    },
-    {
-      "id": "9a5ced975027f348eeec6a1c72931c8703898b221d2e41f6d60679d338d58f58",
-      "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
-      "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
-      "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-05-27T14:51:30+00:00"
-    },
-    {
-      "id": "d257189bf4f401bc894beda5eae062a4e3e462a4203c886847851074bfe114fe",
-      "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
-      "url": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
-      "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
-      "source": "Malwarebytes Labs",
-      "category": "cloud_saas",
-      "date": "2026-05-27T11:41:54+00:00"
-    },
-    {
-      "id": "688bb621f92347fbd86e0dad1f91f5e339801c0a5688ba727429848037003faf",
-      "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
-      "url": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
-      "summary": "Replacing your current Linux shell with something way more user-friendly is a lot easier than you think. Let's go Fish!",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-27T01:00:37+00:00"
     }
   ]
 }

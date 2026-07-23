@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-23T08:41:23.197928+00:00",
+  "updated": "2026-07-23T19:37:31.180149+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
+      "title": "The hidden MSP opportunity in AI-built applications",
+      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
+      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-23T16:55:35+00:00"
+    },
+    {
+      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
+      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
+      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T16:07:00+00:00"
+    },
+    {
+      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
+      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-wifi-router/",
+      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:06:06+00:00"
+    },
+    {
+      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
+      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
+      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
+      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:05:47+00:00"
+    },
+    {
+      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
+      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
+      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:00:50+00:00"
+    },
     {
       "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
       "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-14T19:25:00+00:00"
-    },
-    {
-      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
-      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
-      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
-      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-14T14:20:58+00:00"
-    },
-    {
-      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
-      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
-      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
-      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T12:54:00+00:00"
-    },
-    {
-      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
-      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
-      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
-      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-07-14T10:00:00+00:00"
-    },
-    {
-      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
-      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T06:40:33+00:00"
-    },
-    {
-      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
-      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
-      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
-      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T20:59:08+00:00"
     }
   ]
 }

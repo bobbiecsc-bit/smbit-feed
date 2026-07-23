@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-23T08:41:23.197928+00:00",
+  "updated": "2026-07-23T19:37:31.180149+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
+      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
+      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
+      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-14T14:20:58+00:00"
+    },
+    {
+      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
+      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
+      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
+      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T12:54:00+00:00"
+    },
+    {
+      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
+      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
+      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
+      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-07-14T10:00:00+00:00"
+    },
+    {
+      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
+      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
+      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
+      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T06:40:33+00:00"
+    },
+    {
+      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
+      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
+      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
+      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-13T20:59:08+00:00"
+    },
     {
       "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
       "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-30T18:17:00+00:00"
-    },
-    {
-      "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
-      "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
-      "url": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
-      "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-30T09:00:30+00:00"
-    },
-    {
-      "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
-      "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
-      "url": "https://www.zdnet.com/article/i-replaced-iphone-battery-at-apple-store-what-i-learned/",
-      "summary": "A few weeks ago, I replaced my iPhone 14 Pro battery at the Apple store - and was pleasantly surprised by the results.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-29T19:06:00+00:00"
-    },
-    {
-      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
-      "title": "I tried a Windows handheld PC, and its docking system made it my ideal travel companion",
-      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
-      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T17:50:00+00:00"
-    },
-    {
-      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-29T16:30:30+00:00"
-    },
-    {
-      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
-      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
-      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
-      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T14:52:00+00:00"
     }
   ]
 }
