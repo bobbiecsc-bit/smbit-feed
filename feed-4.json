@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-22T19:37:39.524012+00:00",
+  "updated": "2026-07-23T08:41:23.197928+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
+      "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
+      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
+      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T18:02:18+00:00"
+    },
     {
       "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
       "title": "Google and Apple are finally giving smartwatches the creative freedom they needed",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-08T21:27:12+00:00"
-    },
-    {
-      "id": "dfbe373709b13fb616c7e4d676e4006dcc213a57abc08d460acf4e9117465ff4",
-      "title": "WatchOS 27 has arrived: How to download the developer beta now",
-      "url": "https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/",
-      "summary": "Apple's WWDC event just elevated every basic user's experience - even on your smartwatch. Here's how to get WatchOS 27 early.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T20:46:34+00:00"
     }
   ]
 }

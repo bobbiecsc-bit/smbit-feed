@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-22T19:37:39.524012+00:00",
+  "updated": "2026-07-23T08:41:23.197928+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
+      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
+      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T20:22:00+00:00"
+    },
     {
       "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
       "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-13T20:59:08+00:00"
-    },
-    {
-      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
-      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
-      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
-      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-07-13T19:39:43+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-22T19:37:39.524012+00:00",
+  "updated": "2026-07-23T08:41:23.197928+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
+      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
+      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
+      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-07-13T19:39:43+00:00"
+    },
     {
       "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
       "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-29T14:52:00+00:00"
-    },
-    {
-      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
-      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
-      "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T12:00:38+00:00"
     }
   ]
 }

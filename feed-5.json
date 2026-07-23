@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-22T19:37:39.524012+00:00",
+  "updated": "2026-07-23T08:41:23.197928+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dfbe373709b13fb616c7e4d676e4006dcc213a57abc08d460acf4e9117465ff4",
+      "title": "WatchOS 27 has arrived: How to download the developer beta now",
+      "url": "https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/",
+      "summary": "Apple's WWDC event just elevated every basic user's experience - even on your smartwatch. Here's how to get WatchOS 27 early.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-08T20:46:34+00:00"
+    },
     {
       "id": "fb67be74490e9bb99a6f34ce7f3eb06f0b34cb5ed9f5fa64bc4563bba06b7274",
       "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-27T01:00:37+00:00"
-    },
-    {
-      "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
-      "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
-      "url": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
-      "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-26T15:38:00+00:00"
     }
   ]
 }

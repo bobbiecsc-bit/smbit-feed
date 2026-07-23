@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-22T19:37:39.524012+00:00",
+  "updated": "2026-07-23T08:41:23.197928+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
+      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
+      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T20:22:00+00:00"
+    },
     {
       "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
       "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-27T01:00:37+00:00"
-    },
-    {
-      "id": "98414be499a9fec4f61430e57f488ffb0b3a4ba8f740c13df01c4438d2fddc5f",
-      "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
-      "url": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
-      "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-26T15:38:00+00:00"
     }
   ]
 }
