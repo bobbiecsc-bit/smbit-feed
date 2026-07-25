@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-25T08:18:05.894014+00:00",
+  "updated": "2026-07-25T19:19:53.673257+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
     {
       "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
       "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-07-01T19:00:08+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-01T18:30:24+00:00"
     }
   ]
 }

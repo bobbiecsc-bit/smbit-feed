@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-25T08:18:05.894014+00:00",
+  "updated": "2026-07-25T19:19:53.673257+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
+      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
+      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-01T18:30:24+00:00"
+    },
     {
       "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
       "title": "BioShocking: when “gaming” AI agents is no longer a game",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-21T11:00:09+00:00"
-    },
-    {
-      "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
-      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
-      "url": "https://thenewstack.io/gemini-cli-antigravity-replacement/",
-      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-20T16:00:00+00:00"
     }
   ]
 }

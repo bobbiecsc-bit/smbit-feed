@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-25T08:18:05.894014+00:00",
+  "updated": "2026-07-25T19:19:53.673257+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
+      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
+      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
+      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:52:00+00:00"
+    },
     {
       "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
       "title": "The curious case of the disappearing wearable",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-29T01:39:00+00:00"
-    },
-    {
-      "id": "bee5ae513eac1802b9a2981041a7ba44c757cfc8db1da12a0c2b0484cc025a70",
-      "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
-      "url": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
-      "summary": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-05-28T13:10:13+00:00"
     }
   ]
 }
