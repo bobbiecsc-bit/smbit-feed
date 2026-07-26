@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-25T19:19:53.673257+00:00",
+  "updated": "2026-07-26T08:36:13.939055+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-26T08:00:40+00:00"
+    },
     {
       "id": "0f34929c4128ef49b3b0beb2e4783e326a75e62eefccca420ea6ef6b99e25b8c",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
@@ -121,15 +130,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T16:15:00+00:00"
-    },
-    {
-      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: This one is the better value",
-      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
-      "summary": "Which premium phone should you get: the Galaxy Z Fold 8 Ultra or the Razr Ultra? Below, we compare key features to help you choose the right one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T16:11:24+00:00"
     },
     {
       "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
