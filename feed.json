@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-26T08:36:13.939055+00:00",
+  "updated": "2026-07-26T19:22:48.427748+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6a8864c726501aecc1642d7b256494864b7f86baee57ffade0d2bd0e34239a4d",
+      "title": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: How Samsung's two new foldables compare",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
+      "summary": "Samsung's new foldables are impressive, but how different are they really, by the specs? Let's compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-26T11:45:39+00:00"
+    },
     {
       "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-15T13:27:00+00:00"
-    },
-    {
-      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
-      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
-      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
-      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-15T12:51:29+00:00"
     }
   ]
 }

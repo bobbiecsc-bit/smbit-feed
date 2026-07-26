@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-26T08:36:13.939055+00:00",
+  "updated": "2026-07-26T19:22:48.427748+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e30f43282a31551d7f615031d65eb7fde5be88f471455c35ff37e25da7ca0887",
+      "title": "What you give up when you put on a smartwatch or ring",
+      "url": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-09T14:53:00+00:00"
+    },
     {
       "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
       "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-05-29T12:01:00+00:00"
-    },
-    {
-      "id": "a820fbe50f7187c817749ce46b2143b2b7a1a1e52bb1d9c68c67f47c3905fc13",
-      "title": "Sony's most premium ANC headphones yet made luxury audio click for me",
-      "url": "https://www.zdnet.com/article/sony-1000-x-the-collexion-review/",
-      "summary": "The special-edition pair of 1000X-series headphones strikes a balance between modern style and functionality.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-29T01:39:00+00:00"
     }
   ]
 }

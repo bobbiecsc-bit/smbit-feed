@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-26T08:36:13.939055+00:00",
+  "updated": "2026-07-26T19:22:48.427748+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
+      "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
+      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
+      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-07-01T19:00:08+00:00"
+    },
     {
       "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
       "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-22T14:46:17+00:00"
-    },
-    {
-      "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
-      "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
-      "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T11:00:09+00:00"
     }
   ]
 }
