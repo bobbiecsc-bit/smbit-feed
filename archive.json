@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-27T19:46:09.600602+00:00",
+  "updated": "2026-07-28T08:47:06.225738+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
+      "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
+      "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-28T08:30:42+00:00"
+    },
     {
       "id": "ba672506035312ba456c279b1c48bed52d26ce3ffe73757116ed888b77dae881",
       "title": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
@@ -2242,15 +2251,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-05-31T14:00:00+00:00"
-    },
-    {
-      "id": "b4ece367bc95a47051d27f4e31a31ac5391b1b48f7d668378f6b60d53a1d8ea2",
-      "title": "This Lenovo Yoga model I tested may be the most overlooked business laptop in 2026",
-      "url": "https://www.zdnet.com/article/lenovo-yoga-slim-7x-review/",
-      "summary": "The Slim 7x (2026) has impressive performance improvements, but its target user - the modern professional - remains the same.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-05-30T16:00:42+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-27T19:46:09.600602+00:00",
+  "updated": "2026-07-28T08:47:06.225738+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
+      "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
+      "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-28T08:30:42+00:00"
+    },
     {
       "id": "ba672506035312ba456c279b1c48bed52d26ce3ffe73757116ed888b77dae881",
       "title": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-17T07:50:03+00:00"
-    },
-    {
-      "id": "6566e0725302227c9bef6eeda3b9e973dda6b22bc9783e83918397a914cf58d4",
-      "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
-      "url": "https://www.zdnet.com/article/msi-cyborg-15-review/",
-      "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T07:25:49+00:00"
     }
   ]
 }

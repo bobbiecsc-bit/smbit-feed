@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-27T19:46:09.600602+00:00",
+  "updated": "2026-07-28T08:47:06.225738+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6566e0725302227c9bef6eeda3b9e973dda6b22bc9783e83918397a914cf58d4",
+      "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
+      "url": "https://www.zdnet.com/article/msi-cyborg-15-review/",
+      "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-17T07:25:49+00:00"
+    },
     {
       "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
       "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-07-06T15:46:43+00:00"
-    },
-    {
-      "id": "719488ed61fa05d960233173658bbcb8690e25897555ed1e9e7134cb08cd17f3",
-      "title": "I tried the best-looking laptop of 2026, and its battery life was the real surprise",
-      "url": "https://www.zdnet.com/article/hp-omnibook-x-flip-14-review/",
-      "summary": "HP brought aesthetics front and center with the 2026 OmniBook X Flip 14, but thankfully, it didn't stop there.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-06T13:30:05+00:00"
     }
   ]
 }
