@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-30T08:41:38.106073+00:00",
+  "updated": "2026-07-30T19:43:49.448025+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
+      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
+      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
+      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T17:10:00+00:00"
+    },
+    {
+      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
+      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
+      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
+      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T12:30:02+00:00"
+    },
     {
       "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
       "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
@@ -2233,24 +2251,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-06-02T15:20:53+00:00"
-    },
-    {
-      "id": "251761e2dfcc4dad6b170e8eae21f88280a690a1265cee66c006f05c052a644a",
-      "title": "Crete rebrands as Current",
-      "url": "https://www.accountingtoday.com/news/crete-professionalls-alliance-rebrands-as-current",
-      "summary": "The Top 50 Firm is rebranding as Current to reflect the firm's commitment to upgrading local firms with AI to compete with large incumbents.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-02T14:42:38+00:00"
-    },
-    {
-      "id": "1f05b59a92313ed5ff1ad67482fac12c1ca821f696e924586bbe1a154a1ea9b2",
-      "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
-      "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-      "summary": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-06-02T02:30:43+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-30T08:41:38.106073+00:00",
+  "updated": "2026-07-30T19:43:49.448025+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "361d12d7254ebf7dceb93a21d2b209453959aa07facdeb5221ab3ad22e449af3",
+      "title": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
+      "url": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
+      "summary": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T15:09:00+00:00"
+    },
+    {
+      "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
+      "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
+      "url": "https://www.zdnet.com/article/roborock-saros-20-review-robot-vacuum-2026/",
+      "summary": "Roborock took its flagship robot vacuum and really improved it, while keeping the same price. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T14:47:00+00:00"
+    },
     {
       "id": "e861e7b2f9450c952d495e17f21dfa1b43aad11877eb5e1cb6b6d3779c482d77",
       "title": "3 Android Auto automations that make my drives much easier - and how I set them up",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T01:19:02+00:00"
-    },
-    {
-      "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
-      "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
-      "url": "https://www.zdnet.com/article/hp-omnibook-3-2026-review/",
-      "summary": "HP's OmniBook 3 combines decent hardware and exceptional battery life, making it one of the best-value laptops I've tested this year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T00:57:00+00:00"
-    },
-    {
-      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
-      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
-      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
-      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-24T00:51:00+00:00"
     }
   ]
 }

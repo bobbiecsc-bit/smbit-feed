@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-30T08:41:38.106073+00:00",
+  "updated": "2026-07-30T19:43:49.448025+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
+      "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
+      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+      "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T13:00:50+00:00"
+    },
+    {
+      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
+      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-19T21:30:34+00:00"
+    },
     {
       "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
       "title": "How a virtual LAN can better protect your home network - and the best way to get started",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-08T16:14:42+00:00"
-    },
-    {
-      "id": "361d12d7254ebf7dceb93a21d2b209453959aa07facdeb5221ab3ad22e449af3",
-      "title": "I tried Claude Cowork on my Gmail inbox after Gemini choked - and it saved me hours of work",
-      "url": "https://www.zdnet.com/article/claude-cowork-sift-emails-vs-gemini/",
-      "summary": "Gmail's AI failed at a nuanced research task, but Claude Cowork found the right pitches, quotes, and permissions, proving connected AI assistants may finally help tackle some aspects of email overload.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T15:09:00+00:00"
-    },
-    {
-      "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
-      "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
-      "url": "https://www.zdnet.com/article/roborock-saros-20-review-robot-vacuum-2026/",
-      "summary": "Roborock took its flagship robot vacuum and really improved it, while keeping the same price. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T14:47:00+00:00"
     }
   ]
 }

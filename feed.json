@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-30T08:41:38.106073+00:00",
+  "updated": "2026-07-30T19:43:49.448025+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
+      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
+      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
+      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T17:10:00+00:00"
+    },
+    {
+      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
+      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
+      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
+      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T12:30:02+00:00"
+    },
     {
       "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
       "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-07-20T13:38:00+00:00"
-    },
-    {
-      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
-      "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
-      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-      "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T13:00:50+00:00"
-    },
-    {
-      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
-      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-19T21:30:34+00:00"
     }
   ]
 }
