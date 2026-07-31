@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-30T19:43:49.448025+00:00",
+  "updated": "2026-07-31T09:12:32.907657+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
+      "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
+      "url": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
+      "summary": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T20:08:00+00:00"
+    },
     {
       "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
       "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-07-20T16:37:34+00:00"
-    },
-    {
-      "id": "a486585101aab0bf5c83c19729934c713975aa699efe2e111e67b5cf99a92a29",
-      "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
-      "url": "https://thenewstack.io/grok-opus-coding-tokens/",
-      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-20T13:38:00+00:00"
     }
   ]
 }

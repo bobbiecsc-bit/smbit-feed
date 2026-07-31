@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-30T19:43:49.448025+00:00",
+  "updated": "2026-07-31T09:12:32.907657+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a486585101aab0bf5c83c19729934c713975aa699efe2e111e67b5cf99a92a29",
+      "title": "Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet",
+      "url": "https://thenewstack.io/grok-opus-coding-tokens/",
+      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post Grok 4.5 vs. Claude Opus 4.8: Costs and what works, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T13:38:00+00:00"
+    },
     {
       "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
       "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-08T17:23:30+00:00"
-    },
-    {
-      "id": "69c3f2a6c868cd4f0dd0bcd2d2dafaf189b1fa0ac6a2ae461de6687ea977eee4",
-      "title": "I tried DuckDuckGo's new video player, and it blocks YouTube ads for free",
-      "url": "https://www.zdnet.com/article/duckduckgos-new-video-player-blocks-youtube-ads-for-free/",
-      "summary": "Even as Chrome is killing ad blockers, DuckDuckGo's new video player now blocks ads by default on YouTube and elsewhere. Duck Player is available for MacOS, Windows, Android, and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T16:14:42+00:00"
     }
   ]
 }
