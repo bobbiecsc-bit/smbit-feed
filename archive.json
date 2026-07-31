@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-31T09:12:32.907657+00:00",
+  "updated": "2026-07-31T19:45:11.998522+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
+      "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
+      "url": "https://www.zdnet.com/article/onedrive-photos-windows-11/",
+      "summary": "Microsoft has quietly pushed out a new OneDrive Photos app to Windows 11 users. What's it all about?",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-31T18:05:03+00:00"
+    },
+    {
+      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
+      "title": "The best laptop cooling pads of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-31T15:19:00+00:00"
+    },
     {
       "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
       "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
@@ -1938,15 +1956,6 @@
       "date": "2026-06-10T14:00:00+00:00"
     },
     {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-10T09:00:55+00:00"
-    },
-    {
       "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
       "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
       "url": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T09:00:48+00:00"
-    },
-    {
-      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
-      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T01:07:00+00:00"
     }
   ]
 }

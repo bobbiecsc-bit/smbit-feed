@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-31T09:12:32.907657+00:00",
+  "updated": "2026-07-31T19:45:11.998522+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:50+00:00"
+    },
+    {
+      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
+      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
+      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
+      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:35+00:00"
+    },
     {
       "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
       "title": "I recommend these best Garmin Prime Day deals - get up to $500 off right now",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-14T12:30:48+00:00"
-    },
-    {
-      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
-      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
-      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
-      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T17:00:00+00:00"
-    },
-    {
-      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "url": "https://thenewstack.io/fable-5-opus-comparison/",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T15:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-31T09:12:32.907657+00:00",
+  "updated": "2026-07-31T19:45:11.998522+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
+      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
+      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-08T19:30:26+00:00"
+    },
+    {
+      "id": "cebe52f9000bcf340a428da4a4ea02f0b0642c6138536223562931ccbba1fd34",
+      "title": "Cybersecurity Threat Advisory: LSHIY password spray campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-lshiy-password-spray-campaign/",
+      "summary": "This Cybersecurity Threat Advisory covers a large-scale password and token spray campaign targeting Microsoft Azure CLI authentication flows. Researchers linked the campaign to activity originating from the IPv6 range 2a0a:d683::/32. The range is associated with LSHIY LLC / AS32167. Researchers [&#8",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-08T17:23:30+00:00"
+    },
     {
       "id": "69c3f2a6c868cd4f0dd0bcd2d2dafaf189b1fa0ac6a2ae461de6687ea977eee4",
       "title": "I tried DuckDuckGo's new video player, and it blocks YouTube ads for free",
@@ -436,24 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-06-24T15:52:53+00:00"
-    },
-    {
-      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
-      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:50+00:00"
-    },
-    {
-      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
-      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
-      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
-      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:35+00:00"
     }
   ]
 }

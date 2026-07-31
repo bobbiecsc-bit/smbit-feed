@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-31T09:12:32.907657+00:00",
+  "updated": "2026-07-31T19:45:11.998522+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
+      "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
+      "url": "https://www.zdnet.com/article/onedrive-photos-windows-11/",
+      "summary": "Microsoft has quietly pushed out a new OneDrive Photos app to Windows 11 users. What's it all about?",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-31T18:05:03+00:00"
+    },
+    {
+      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
+      "title": "The best laptop cooling pads of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-31T15:19:00+00:00"
+    },
     {
       "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
       "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-20T17:42:00+00:00"
-    },
-    {
-      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
-      "title": "The best rugged phones in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-rugged-phone/",
-      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:07:00+00:00"
-    },
-    {
-      "id": "ff016fbfbc8c22a35fee318a78d08c893e0e8328830d6be51bd51e21086f8634",
-      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-      "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries acros",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-20T16:37:34+00:00"
     }
   ]
 }

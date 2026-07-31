@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-31T09:12:32.907657+00:00",
+  "updated": "2026-07-31T19:45:11.998522+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
+      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
+      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
+      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T17:00:00+00:00"
+    },
+    {
+      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
+      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
+      "url": "https://thenewstack.io/fable-5-opus-comparison/",
+      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-06-13T15:00:00+00:00"
+    },
     {
       "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
       "title": "The wearable health boom is creating a data overload for doctors - what happens next",
@@ -139,15 +157,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-10T14:00:00+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-10T09:00:55+00:00"
     },
     {
       "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T09:00:48+00:00"
-    },
-    {
-      "id": "5c6459a70aff92fd7390f1696c784566120de071ae2db125b673ebfb310144df",
-      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "url": "https://www.zdnet.com/article/claude-opus-4-8-honesty-test/",
-      "summary": "The latest models were pitted against coding, medical, finance, and legal traps, then I cross-checked the results with multiple AIs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T01:07:00+00:00"
     }
   ]
 }
