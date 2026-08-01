@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-01T08:31:26.460743+00:00",
+  "updated": "2026-08-01T19:20:35.637718+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
+      "summary": "Should you update to the Galaxy Fold 8 Ultra if you have a Z Fold 6? I'm familiar with both phones, here's my take.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T09:15:50+00:00"
+    },
+    {
+      "id": "6282a0a055b0a3944bf9687c628971d324773d6d5dc4f21de5a824c501d3d2d5",
+      "title": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
+      "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/",
+      "summary": "These affordable gaming laptops were neck and neck in my testing, but one pulled ahead for me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T08:30:43+00:00"
+    },
     {
       "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
       "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T10:01:03+00:00"
-    },
-    {
-      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
-      "title": "Google just bet its inference future on a chip built for one model",
-      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
-      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-20T22:14:41+00:00"
-    },
-    {
-      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
-      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
-      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
-      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-20T18:07:20+00:00"
     }
   ]
 }

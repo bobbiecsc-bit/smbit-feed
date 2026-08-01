@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-01T08:31:26.460743+00:00",
+  "updated": "2026-08-01T19:20:35.637718+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
+      "summary": "Should you update to the Galaxy Fold 8 Ultra if you have a Z Fold 6? I'm familiar with both phones, here's my take.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T09:15:50+00:00"
+    },
+    {
+      "id": "6282a0a055b0a3944bf9687c628971d324773d6d5dc4f21de5a824c501d3d2d5",
+      "title": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
+      "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/",
+      "summary": "These affordable gaming laptops were neck and neck in my testing, but one pulled ahead for me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T08:30:43+00:00"
+    },
     {
       "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
       "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
@@ -2233,24 +2251,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-06-03T22:37:29+00:00"
-    },
-    {
-      "id": "dce286d9bf4fcc6439dcf626f321ae46ebdfccc2db2b0ebe4e6680950f4e867d",
-      "title": "I tested Microsoft Copilot Health with my real medical records - here's my verdict",
-      "url": "https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/",
-      "summary": "By sharing your health history and records with Copilot, the AI aims to better address your own medical questions. But what are the downsides?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T17:02:07+00:00"
-    },
-    {
-      "id": "88a78e9c448af805dfa79d1dfb695e08b19af9805b35e46527b6db28e2102efc",
-      "title": "I paid Microsoft's premium Copilot agents to do my work - they were confidently bad at it",
-      "url": "https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/",
-      "summary": "Can you get a Copilot agent to do your work for you? I tried, but the AI wasn't ready to play along.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T14:43:00+00:00"
     }
   ]
 }
