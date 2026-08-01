@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-31T19:45:11.998522+00:00",
+  "updated": "2026-08-01T08:31:26.460743+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
+      "title": "More revenue, less waste: Five lessons for MSP growth",
+      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
+      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-24T15:52:53+00:00"
+    },
     {
       "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
       "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-15T10:00:50+00:00"
-    },
-    {
-      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
-      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-14T12:30:48+00:00"
     }
   ]
 }

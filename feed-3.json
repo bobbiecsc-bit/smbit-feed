@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-31T19:45:11.998522+00:00",
+  "updated": "2026-08-01T08:31:26.460743+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
+      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
+      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
+      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T19:41:00+00:00"
+    },
     {
       "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
       "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T18:10:00+00:00"
-    },
-    {
-      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
-      "title": "More revenue, less waste: Five lessons for MSP growth",
-      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
-      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-24T15:52:53+00:00"
     }
   ]
 }

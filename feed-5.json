@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-31T19:45:11.998522+00:00",
+  "updated": "2026-08-01T08:31:26.460743+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
+      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-14T12:30:48+00:00"
+    },
     {
       "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
       "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T14:43:00+00:00"
-    },
-    {
-      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
-      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
-      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
-      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T09:00:48+00:00"
     }
   ]
 }

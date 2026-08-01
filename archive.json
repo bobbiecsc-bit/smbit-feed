@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-31T19:45:11.998522+00:00",
+  "updated": "2026-08-01T08:31:26.460743+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
+      "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-malicious-notepad-plugins/",
+      "summary": "CERT-UA has identified an ongoing campaign in which threat group UAC-0099 distributes trojanized Notepad++ bundles that install malware on Windows systems. The campaign primarily targets organizations in Ukraine and is linked to activity associated with APT44 (Sandworm). What is the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-31T19:55:18+00:00"
+    },
     {
       "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
       "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
@@ -45,7 +54,7 @@
       "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-07-30T12:30:02+00:00"
+      "date": "2026-07-30T12:30:00+00:00"
     },
     {
       "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T14:43:00+00:00"
-    },
-    {
-      "id": "d094e78057f948b346b9b84f7b7b01cd5e66df210df8861c5ea5aee40c8f5e0a",
-      "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
-      "url": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
-      "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desktop.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T09:00:48+00:00"
     }
   ]
 }
