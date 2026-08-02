@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-02T08:33:33.986603+00:00",
+  "updated": "2026-08-02T19:21:37.111668+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
+      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-06-15T11:41:48+00:00"
+    },
     {
       "id": "f536856e24b2efc0ae5c6f9085fc84c8d3bc8c5ebdd97c044408995ac843910b",
       "title": "I compared the Samsung Galaxy S26 Ultra camera to the Vivo X300 Ultra - and it was surprisingly close",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T22:46:00+00:00"
-    },
-    {
-      "id": "814541e868eb3c0e9315b248fd894cc12da128d3535ce18c0193742d62c0701a",
-      "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
-      "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
-      "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys ",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-06-03T22:37:29+00:00"
     }
   ]
 }

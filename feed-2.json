@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-02T08:33:33.986603+00:00",
+  "updated": "2026-08-02T19:21:37.111668+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
+      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
+      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T10:01:03+00:00"
+    },
     {
       "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
       "title": "Google just bet its inference future on a chip built for one model",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T14:14:07+00:00"
-    },
-    {
-      "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
-      "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
-      "url": "https://www.zdnet.com/article/norton-antivirus-review/",
-      "summary": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T13:02:00+00:00"
     }
   ]
 }

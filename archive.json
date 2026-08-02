@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-02T08:33:33.986603+00:00",
+  "updated": "2026-08-02T19:21:37.111668+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d109093da20ffdd81fa9c33afb33bb35d2031e1d6d6d7b4843b03eae911702c9",
+      "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
+      "url": "https://www.zdnet.com/article/uppercase-ghost-cover-review/",
+      "summary": "The best investment I've made for my MacBook Pro only cost me $13 - here's why I recommend it.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-02T10:00:43+00:00"
+    },
+    {
+      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
+      "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "summary": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-02T09:15:52+00:00"
+    },
     {
       "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
@@ -181,15 +199,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-07-27T16:01:10+00:00"
-    },
-    {
-      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
-      "title": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
-      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
-      "summary": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with a haptic touchpad and excellent battery life.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-27T15:00:00+00:00"
     },
     {
       "id": "4ef7d06337916a33dda447f744b3954d0477da7c8548763167b2f9197ff41177",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-03T22:46:00+00:00"
-    },
-    {
-      "id": "814541e868eb3c0e9315b248fd894cc12da128d3535ce18c0193742d62c0701a",
-      "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
-      "url": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
-      "summary": "Amazon Cognito now offers multi-Region replication that automatically synchronizes user data, credentials, and pool configurations to a secondary AWS Region, enabling uninterrupted authentication during regional failovers without forced password resets—plus new support for customer managed KMS keys ",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-06-03T22:37:29+00:00"
     }
   ]
 }
