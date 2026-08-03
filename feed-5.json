@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-03T10:00:54.629688+00:00",
+  "updated": "2026-08-03T19:47:38.362222+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
+      "title": "Cost vs. value in the age of AI",
+      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
+      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "product_review",
+      "date": "2026-06-15T18:50:41+00:00"
+    },
+    {
+      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
+      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
+      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-15T15:45:49+00:00"
+    },
+    {
+      "id": "d902348576c75f8d158100ecce7af8a077396603c45be66ba356bd18248d8e45",
+      "title": "Code is a message to the future",
+      "url": "https://thenewstack.io/code-message-to-future/",
+      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-06-15T12:00:00+00:00"
+    },
     {
       "id": "e5c084988f09e9ede1becdc1c1509bd9820a3572b43d4219d99e5ebb170546a3",
       "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-04T16:21:55+00:00"
-    },
-    {
-      "id": "88388d037c05dbbbd7fc80d37a2096b0e7b1134d6638993ebed5423523e02b85",
-      "title": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
-      "url": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
-      "summary": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-04T13:47:00+00:00"
-    },
-    {
-      "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
-      "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
-      "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
-      "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T23:05:00+00:00"
-    },
-    {
-      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
-      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
-      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T22:46:00+00:00"
     }
   ]
 }

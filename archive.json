@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-03T10:00:54.629688+00:00",
+  "updated": "2026-08-03T19:47:38.362222+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
+      "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
+      "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
+      "summary": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T18:50:00+00:00"
+    },
+    {
+      "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
+      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-03T16:12:30+00:00"
+    },
+    {
+      "id": "f40a195e7c4eadcab6bc86f05c1503743dfaba2ca2e7e1da825e901f0892c8f1",
+      "title": "Best MagSafe wallets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-magsafe-wallets/",
+      "summary": "You don't have to compromise on style or function with these MagSafe wallet picks from brands like Moft, ESR, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T14:38:00+00:00"
+    },
     {
       "id": "d109093da20ffdd81fa9c33afb33bb35d2031e1d6d6d7b4843b03eae911702c9",
       "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
@@ -2224,33 +2251,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-04T16:21:55+00:00"
-    },
-    {
-      "id": "88388d037c05dbbbd7fc80d37a2096b0e7b1134d6638993ebed5423523e02b85",
-      "title": "Is Microsoft 365 Premium worth it? What $20 a month gets you - and how it compares to ChatGPT Plus",
-      "url": "https://www.zdnet.com/article/is-microsoft-365-premium-worth-it-vs-chatgpt-plus/",
-      "summary": "Microsoft is offering a 50% discount to 365 subscribers who want more AI Copilot features. Here's what's included.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-04T13:47:00+00:00"
-    },
-    {
-      "id": "b68b9f33ea70c0b1dc3e33b30c6e1981119b505b2ac7f9f176ce75deb7875eaa",
-      "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
-      "url": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
-      "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in just weeks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T23:05:00+00:00"
-    },
-    {
-      "id": "44c0be445d1ce377180a57ea5c0ac987818cb57f06c96e7d845619a6e6d0d4ba",
-      "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
-      "url": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-      "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketing speak.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-03T22:46:00+00:00"
     }
   ]
 }
