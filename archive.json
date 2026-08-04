@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-04T08:49:55.013069+00:00",
+  "updated": "2026-08-04T19:46:32.322850+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "baa88793820637d56553895fe7f2885e39fd5de3f9ecc5f870eeb534a7da87f1",
+      "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
+      "url": "https://www.zdnet.com/article/marshall-stanmore-4-vs-sonos-era-300/",
+      "summary": "Both Marshall and Sonos speakers play to their strengths, but the right one for you depends on more than their price tags.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T18:13:00+00:00"
+    },
+    {
+      "id": "fd13f411503ba38c158a5a787bb8698a130718ef578fc13c5fda59687ab36151",
+      "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
+      "summary": "The Momentum 5 and the Px7 S3 have similar spec sheets, but their real-life use cases set them apart.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T15:45:46+00:00"
+    },
+    {
+      "id": "b94e7c9f37a037356917ce584a847e7fae963e693064d13554dffafdb1044bd9",
+      "title": "Got an Intel Mac? 6 ways you can repurpose it after support ends",
+      "url": "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/",
+      "summary": "Tahoe is the last update for your Intel Mac, but you can still find creative uses for it when support ends.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-08-04T14:16:00+00:00"
+    },
+    {
+      "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
+      "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
+      "summary": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T11:00:55+00:00"
+    },
+    {
+      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
+      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-garmin-watch/",
+      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:01:07+00:00"
+    },
+    {
+      "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
+      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
+      "url": "https://www.zdnet.com/article/best-hisense-tv/",
+      "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:00:45+00:00"
+    },
     {
       "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
       "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
@@ -2197,60 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-05T13:29:05+00:00"
-    },
-    {
-      "id": "46ff867f83d7b2b408ccb3678e758a727a484ff4950cbc8a55cbd64be5096bec",
-      "title": "Doeren Mayhew adds tech firm",
-      "url": "https://www.accountingtoday.com/news/doeren-mayhew-adds-tech-firm",
-      "summary": "Michigan-based Top 100 Firm Doeren Mayhew has acquired Atlanta-based Griffin Global Technologies.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-04T20:50:11+00:00"
-    },
-    {
-      "id": "10641f265c36f7e990082534c66d2d2a7a723fc1ad9244fc1082778cd5a474b6",
-      "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
-      "url": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
-      "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "2418875ee1e32f801f8b8001293c1ae13a8869fbf0395a2f4b14f1d8096c4760",
-      "title": "The AI-cybersecurity connection MSPs can’t afford to ignore",
-      "url": "https://smartermsp.com/the-ai-cybersecurity-connection-msps-cant-afford-to-ignore/",
-      "summary": "One thing is becoming clear for managed service providers (MSPs): future growth will be driven by artificial intelligence (AI) and cybersecurity. More importantly, AI is accelerating demand for cybersecurity services. A recent survey conducted by the Global Technology Industry Association [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-04T17:45:50+00:00"
-    },
-    {
-      "id": "fce55326d77c184aef151a70de24e38765df1b1580f339bb46786f8ed15bc523",
-      "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
-      "url": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
-      "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:50:23+00:00"
-    },
-    {
-      "id": "2bd419ae305efe632f244f7be721f1703f9c81386743c9b723f0e7516fb049ff",
-      "title": "I flew 2,700 miles with 4 headphones - this pair was the best travel companion",
-      "url": "https://www.zdnet.com/article/i-flew-2700-miles-with-4-headphones-my-best-travel-companion/",
-      "summary": "Air travel is the true test for headphones and earbuds. My multiple journeys revealed all the strengths and weaknesses of these latest models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-04T16:24:18+00:00"
-    },
-    {
-      "id": "6d1ae6265d569b4f098c1a3b37c739df009dbcc0f40646dd5e90b97928bf2d5c",
-      "title": "Asana says its new AI “chief of staff” turns your Slack chaos into trackable work",
-      "url": "https://thenewstack.io/asana-dash-ai-teammates/",
-      "summary": "Asana on Thursday unveiled an AI assistant called Dash and a new generation of what the company calls AI &#8220;teammates&#8221; The post Asana says its new AI &#8220;chief of staff&#8221; turns your Slack chaos into trackable work appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-04T16:21:55+00:00"
     }
   ]
 }
