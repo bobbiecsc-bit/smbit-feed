@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-05T08:47:18.247807+00:00",
+  "updated": "2026-08-05T19:46:35.757998+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
+      "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
+      "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+      "summary": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T13:00:28+00:00"
+    },
+    {
+      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
+      "title": "The accounting lesson Congress still hasn't applied to AI",
+      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
+      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
+      "title": "The best 98-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
+      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T10:00:49+00:00"
+    },
     {
       "id": "baa88793820637d56553895fe7f2885e39fd5de3f9ecc5f870eeb534a7da87f1",
       "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T19:05:45+00:00"
-    },
-    {
-      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
-      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
-      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
-      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T16:15:00+00:00"
-    },
-    {
-      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
-      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T15:43:12+00:00"
-    },
-    {
-      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
-      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
-      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
-      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-22T15:18:20+00:00"
     }
   ]
 }

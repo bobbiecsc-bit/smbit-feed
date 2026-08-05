@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-05T08:47:18.247807+00:00",
+  "updated": "2026-08-05T19:46:35.757998+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
+      "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
+      "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+      "summary": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T13:00:28+00:00"
+    },
+    {
+      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
+      "title": "The accounting lesson Congress still hasn't applied to AI",
+      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
+      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
+      "title": "The best 98-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
+      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T10:00:49+00:00"
+    },
     {
       "id": "baa88793820637d56553895fe7f2885e39fd5de3f9ecc5f870eeb534a7da87f1",
       "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
@@ -2224,33 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-06T11:00:53+00:00"
-    },
-    {
-      "id": "5c473021eb6653979dbb2c9a3ea5ea700156e6ee953f88ee384e5640f42a455f",
-      "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
-      "url": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
-      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:52+00:00"
-    },
-    {
-      "id": "8eacc74be22395ac8ec0d266569cf890e905dd548cdb01c8ac72b347752ee1b1",
-      "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
-      "url": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-      "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-06T11:00:37+00:00"
-    },
-    {
-      "id": "47358d671b659bb1df5cdef1688b5473c1f65dd453480c74a94514e9b14802f8",
-      "title": "How Google could turn Siri into the AI health coach my Apple Watch needs",
-      "url": "https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/",
-      "summary": "Apple's partnership with Google could supercharge its own health suite and wearable. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-05T13:29:05+00:00"
     }
   ]
 }

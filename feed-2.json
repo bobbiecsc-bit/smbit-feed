@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-05T08:47:18.247807+00:00",
+  "updated": "2026-08-05T19:46:35.757998+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
+      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
+      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
+      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:15:00+00:00"
+    },
+    {
+      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
+      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T15:43:12+00:00"
+    },
+    {
+      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
+      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-22T15:18:20+00:00"
+    },
     {
       "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
       "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
@@ -427,33 +454,6 @@
       "source": "Malwarebytes Labs",
       "category": "finance",
       "date": "2026-07-13T13:18:50+00:00"
-    },
-    {
-      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
-      "title": "The best email hosting for small businesses in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
-      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-12T09:00:44+00:00"
-    },
-    {
-      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
-      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
-      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T16:54:00+00:00"
-    },
-    {
-      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
-      "title": "Best wireless chargers of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-wireless-charger/",
-      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T11:00:47+00:00"
     }
   ]
 }
