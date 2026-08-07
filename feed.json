@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-07T00:09:15.205686+00:00",
+  "updated": "2026-08-07T07:35:30.805173+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
+      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-08-06T22:58:00+00:00"
+    },
     {
       "id": "a0138d2e2b24a5ba3d67724bd40db93e0ae13cfdb61754c0f2dc967fed2341e1",
       "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-23T16:55:35+00:00"
-    },
-    {
-      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
-      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
-      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T16:07:00+00:00"
     }
   ]
 }

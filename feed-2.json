@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-07T00:09:15.205686+00:00",
+  "updated": "2026-08-07T07:35:30.805173+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
+      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
+      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T16:07:00+00:00"
+    },
     {
       "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
       "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-14T06:40:33+00:00"
-    },
-    {
-      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
-      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
-      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
-      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T20:59:08+00:00"
     }
   ]
 }

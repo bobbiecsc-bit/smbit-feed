@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-07T00:09:15.205686+00:00",
+  "updated": "2026-08-07T07:35:30.805173+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
+      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
+      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
+      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-17T19:59:00+00:00"
+    },
     {
       "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
       "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-08T21:27:12+00:00"
-    },
-    {
-      "id": "dfbe373709b13fb616c7e4d676e4006dcc213a57abc08d460acf4e9117465ff4",
-      "title": "WatchOS 27 has arrived: How to download the developer beta now",
-      "url": "https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/",
-      "summary": "Apple's WWDC event just elevated every basic user's experience - even on your smartwatch. Here's how to get WatchOS 27 early.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T20:46:34+00:00"
     }
   ]
 }
