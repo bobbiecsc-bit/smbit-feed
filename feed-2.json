@@ -1,10 +1,73 @@
 {
-  "updated": "2026-08-07T07:35:30.805173+00:00",
+  "updated": "2026-08-07T19:06:39.450525+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-26T08:00:40+00:00"
+    },
+    {
+      "id": "0f34929c4128ef49b3b0beb2e4783e326a75e62eefccca420ea6ef6b99e25b8c",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
+      "summary": "Samsung's new Z Fold 8 Ultra brings design and software changes geared toward power users and enthusiasts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-25T10:45:42+00:00"
+    },
+    {
+      "id": "5f7a41e8cd6e3132b9c171a5d85f37bd1749e71d33bd63797d03683f1afb77b3",
+      "title": "Everything announced at Galaxy Unpacked 2026: Can Samsung compete with the rumored foldable iPhone?",
+      "url": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/",
+      "summary": "Samsung took a risk with its latest-gen foldables and smartwatches at Unpacked. We were on the ground in London - here's our analysis.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-25T08:30:43+00:00"
+    },
+    {
+      "id": "dffe5dae1938abb93c4f12e6b72c0eb53ac91241b077148dacd58c8c6c49933b",
+      "title": "Samsung Galaxy Watch 9 vs. Google Pixel Watch 4: I compared both Android flagships, here's what I prefer",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-vs-google-pixel-watch-4-i-compared-both-android-icons-and-heres-the-winner/",
+      "summary": "In a battle of the top Android watches, one does it a little better.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T14:27:00+00:00"
+    },
+    {
+      "id": "64681f262b376142f8d3c1eae890424873dd4920cc133c4e57b30e8e1b4cb803",
+      "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
+      "url": "https://www.zdnet.com/article/dell-14s-review/",
+      "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:53:00+00:00"
+    },
+    {
+      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
+      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
+      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
+      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:31:17+00:00"
+    },
+    {
+      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
+      "title": "The hidden MSP opportunity in AI-built applications",
+      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
+      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-23T16:55:35+00:00"
+    },
     {
       "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
       "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-15T12:51:29+00:00"
-    },
-    {
-      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
-      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
-      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T12:17:00+00:00"
-    },
-    {
-      "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
-      "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
-      "url": "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/",
-      "summary": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T07:45:43+00:00"
-    },
-    {
-      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
-      "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
-      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T07:00:00+00:00"
-    },
-    {
-      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
-      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
-      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
-      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-14T14:20:58+00:00"
-    },
-    {
-      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
-      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
-      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
-      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T12:54:00+00:00"
-    },
-    {
-      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
-      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
-      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
-      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-07-14T10:00:00+00:00"
-    },
-    {
-      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
-      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T06:40:33+00:00"
     }
   ]
 }

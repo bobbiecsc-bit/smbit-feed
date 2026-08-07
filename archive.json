@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-07T07:35:30.805173+00:00",
+  "updated": "2026-08-07T19:06:39.450525+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
+      "title": "Tech Time Warp: How a goodbye party launched DEF CON",
+      "url": "https://smartermsp.com/tech-time-warp-how-a-goodbye-party-launched-def-con/",
+      "summary": "The 34th DEF CON conference takes place Aug. 6–9 in Las Vegas. It&#8217;s no surprise that one of the hacker community&#8217;s most influential events has such a memorable origin story. Whether you&#8217;ve attended DEF CON or its more corporate cousin, [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-08-07T17:16:55+00:00"
+    },
+    {
+      "id": "11bbb5ce9925fdc421863c4ef74ce794d16ac319c816ccd0eba7412c6258a7d9",
+      "title": "Samsung Galaxy Watch 9 review: Health data overload, but built for the future",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-review/",
+      "summary": "Samsung's latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T17:10:00+00:00"
+    },
+    {
+      "id": "81faba6c1ef10af26f20183779ec0e8f611992f75a2085956bc2e61dcc9f982b",
+      "title": "Samsung Galaxy Z Fold 8 review: The compact foldable I've wanted all along",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-review/",
+      "summary": "With its unique size, the Galaxy Z Fold 8 is a refreshing take on foldable phones, and I'm all for it.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T15:16:00+00:00"
+    },
+    {
+      "id": "64337848724cb28b5e6ba754c050bc6fc657fbaf58a4cf4e954c093e5143f4b3",
+      "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
+      "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
+      "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T14:10:00+00:00"
+    },
+    {
+      "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
+      "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
+      "url": "https://www.zdnet.com/article/wifi-7-adoption-in-us-quadrupled-in-year-time-to-upgrade/",
+      "summary": "Wi‑Fi 7 is rapidly moving out of the lab and into American living rooms, with data from Ookla showing US usage is growing fast.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-08-07T12:01:15+00:00"
+    },
+    {
+      "id": "c9385efae371e6d1aa815126dec4a91b191a708fc5cd126eac2d828c14a54406",
+      "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
+      "url": "https://www.zdnet.com/article/10-must-have-back-to-school-accessories/",
+      "summary": "From portable monitors to wireless mice and earbuds, these accessories can help you be more productive this year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:01:10+00:00"
+    },
+    {
+      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
+      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
+      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:00:49+00:00"
+    },
     {
       "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -27,7 +90,7 @@
       "summary": "We asked several experts in the travel industry to share their top picks for gadgets that help them on the go.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-08-06T17:14:48+00:00"
+      "date": "2026-08-06T17:14:00+00:00"
     },
     {
       "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
@@ -2188,69 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-09T14:49:00+00:00"
-    },
-    {
-      "id": "ff853cf0f9a7634b7f0c262b49b4e3e4aae877ea01d70a659109ab548102732f",
-      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
-      "url": "https://thenewstack.io/medium-scylladb-feature-store/",
-      "summary": "&#8220;Keep readers reading&#8221; is the not-so-simple goal of Medium&#8217;s recommendations system. To predict what&#8217;s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-09T14:40:00+00:00"
-    },
-    {
-      "id": "971b854c8ea56ce590ca53a1dc0d02481b9f65e28e7fb9a27c9a11a16e4abb74",
-      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
-      "url": "https://thenewstack.io/revenium-ai-cost-observability/",
-      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-06-09T10:00:00+00:00"
-    },
-    {
-      "id": "2d2eb9abfcbb8f85d7788590ea565acf1926b9af72fbc7b71f45da7e94420eb6",
-      "title": "The best business budgeting tools of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-business-budgeting-tools/",
-      "summary": "Need to control company spend? I tested the best budgeting tools for businesses of all sizes.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T09:01:03+00:00"
-    },
-    {
-      "id": "2fc5c876b8edaad58aaf1864b8dd613a005b93e8298001aa117f7ba81a493cca",
-      "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
-      "url": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
-      "summary": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-09T09:00:44+00:00"
-    },
-    {
-      "id": "272893f928febafbe82ba3f5f3b7b58901bd871d535066d05bac85005a82f585",
-      "title": "MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins",
-      "url": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
-      "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the numbers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T00:57:00+00:00"
-    },
-    {
-      "id": "fe797aadabe00842679326addab62f2020f2c0d4869c87224aa5aba2ebb63e15",
-      "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
-      "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
-      "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-08T23:19:00+00:00"
-    },
-    {
-      "id": "beab180e9828dd1eddd5b32b17b04f243b608bfde9e9586a75b5fb373854aaa2",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
-      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS,",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-08T21:27:12+00:00"
     }
   ]
 }

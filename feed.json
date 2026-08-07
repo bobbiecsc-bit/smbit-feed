@@ -1,10 +1,73 @@
 {
-  "updated": "2026-08-07T07:35:30.805173+00:00",
+  "updated": "2026-08-07T19:06:39.450525+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
+      "title": "Tech Time Warp: How a goodbye party launched DEF CON",
+      "url": "https://smartermsp.com/tech-time-warp-how-a-goodbye-party-launched-def-con/",
+      "summary": "The 34th DEF CON conference takes place Aug. 6–9 in Las Vegas. It&#8217;s no surprise that one of the hacker community&#8217;s most influential events has such a memorable origin story. Whether you&#8217;ve attended DEF CON or its more corporate cousin, [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-08-07T17:16:55+00:00"
+    },
+    {
+      "id": "11bbb5ce9925fdc421863c4ef74ce794d16ac319c816ccd0eba7412c6258a7d9",
+      "title": "Samsung Galaxy Watch 9 review: Health data overload, but built for the future",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-review/",
+      "summary": "Samsung's latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T17:10:00+00:00"
+    },
+    {
+      "id": "81faba6c1ef10af26f20183779ec0e8f611992f75a2085956bc2e61dcc9f982b",
+      "title": "Samsung Galaxy Z Fold 8 review: The compact foldable I've wanted all along",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-review/",
+      "summary": "With its unique size, the Galaxy Z Fold 8 is a refreshing take on foldable phones, and I'm all for it.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T15:16:00+00:00"
+    },
+    {
+      "id": "64337848724cb28b5e6ba754c050bc6fc657fbaf58a4cf4e954c093e5143f4b3",
+      "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
+      "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
+      "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T14:10:00+00:00"
+    },
+    {
+      "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
+      "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
+      "url": "https://www.zdnet.com/article/wifi-7-adoption-in-us-quadrupled-in-year-time-to-upgrade/",
+      "summary": "Wi‑Fi 7 is rapidly moving out of the lab and into American living rooms, with data from Ookla showing US usage is growing fast.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-08-07T12:01:15+00:00"
+    },
+    {
+      "id": "c9385efae371e6d1aa815126dec4a91b191a708fc5cd126eac2d828c14a54406",
+      "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
+      "url": "https://www.zdnet.com/article/10-must-have-back-to-school-accessories/",
+      "summary": "From portable monitors to wireless mice and earbuds, these accessories can help you be more productive this year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:01:10+00:00"
+    },
+    {
+      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
+      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
+      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:00:49+00:00"
+    },
     {
       "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -30,7 +93,7 @@
       "summary": "We asked several experts in the travel industry to share their top picks for gadgets that help them on the go.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-08-06T17:14:48+00:00"
+      "date": "2026-08-06T17:14:00+00:00"
     },
     {
       "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-26T11:45:39+00:00"
-    },
-    {
-      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
-      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
-      "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-26T08:00:40+00:00"
-    },
-    {
-      "id": "0f34929c4128ef49b3b0beb2e4783e326a75e62eefccca420ea6ef6b99e25b8c",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
-      "summary": "Samsung's new Z Fold 8 Ultra brings design and software changes geared toward power users and enthusiasts.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-25T10:45:42+00:00"
-    },
-    {
-      "id": "5f7a41e8cd6e3132b9c171a5d85f37bd1749e71d33bd63797d03683f1afb77b3",
-      "title": "Everything announced at Galaxy Unpacked 2026: Can Samsung compete with the rumored foldable iPhone?",
-      "url": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/",
-      "summary": "Samsung took a risk with its latest-gen foldables and smartwatches at Unpacked. We were on the ground in London - here's our analysis.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-25T08:30:43+00:00"
-    },
-    {
-      "id": "dffe5dae1938abb93c4f12e6b72c0eb53ac91241b077148dacd58c8c6c49933b",
-      "title": "Samsung Galaxy Watch 9 vs. Google Pixel Watch 4: I compared both Android flagships, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-vs-google-pixel-watch-4-i-compared-both-android-icons-and-heres-the-winner/",
-      "summary": "In a battle of the top Android watches, one does it a little better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T14:27:00+00:00"
-    },
-    {
-      "id": "64681f262b376142f8d3c1eae890424873dd4920cc133c4e57b30e8e1b4cb803",
-      "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
-      "url": "https://www.zdnet.com/article/dell-14s-review/",
-      "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T13:53:00+00:00"
-    },
-    {
-      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
-      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
-      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
-      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T13:31:17+00:00"
-    },
-    {
-      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
-      "title": "The hidden MSP opportunity in AI-built applications",
-      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
-      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-23T16:55:35+00:00"
     }
   ]
 }

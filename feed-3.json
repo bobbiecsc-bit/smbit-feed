@@ -1,10 +1,73 @@
 {
-  "updated": "2026-08-07T07:35:30.805173+00:00",
+  "updated": "2026-08-07T19:06:39.450525+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
+    {
+      "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
+      "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
+      "url": "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/",
+      "summary": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T07:45:43+00:00"
+    },
+    {
+      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
+      "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T07:00:00+00:00"
+    },
+    {
+      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
+      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
+      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
+      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-14T14:20:58+00:00"
+    },
+    {
+      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
+      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
+      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
+      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T12:54:00+00:00"
+    },
+    {
+      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
+      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
+      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
+      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-07-14T10:00:00+00:00"
+    },
+    {
+      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
+      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
+      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
+      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T06:40:33+00:00"
+    },
     {
       "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
       "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
@@ -391,69 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-01T18:30:24+00:00"
-    },
-    {
-      "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
-      "title": "BioShocking: when “gaming” AI agents is no longer a game",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
-      "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-01T12:50:59+00:00"
-    },
-    {
-      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
-      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-06-30T20:56:44+00:00"
-    },
-    {
-      "id": "9610cd93bf7602e71d33d202eb4a4e08161b78657298c83e1f07c776a705f053",
-      "title": "Netflix vs. Peacock: I've subscribed to both streaming services for years - this one's more worth it",
-      "url": "https://www.zdnet.com/article/netflix-vs-peacock-streaming-services/",
-      "summary": "Netflix has award-winning originals and a smart algorithm, but Peacock counters with live sports and a lower price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-30T18:17:00+00:00"
-    },
-    {
-      "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
-      "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
-      "url": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
-      "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-30T09:00:30+00:00"
-    },
-    {
-      "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
-      "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
-      "url": "https://www.zdnet.com/article/i-replaced-iphone-battery-at-apple-store-what-i-learned/",
-      "summary": "A few weeks ago, I replaced my iPhone 14 Pro battery at the Apple store - and was pleasantly surprised by the results.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-29T19:06:00+00:00"
-    },
-    {
-      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
-      "title": "I tried a Windows handheld PC, and its docking system made it my ideal travel companion",
-      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
-      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T17:50:00+00:00"
-    },
-    {
-      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-29T16:30:30+00:00"
     }
   ]
 }
