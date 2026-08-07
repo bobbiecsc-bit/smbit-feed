@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-06T08:48:47.720417+00:00",
+  "updated": "2026-08-07T00:09:15.205686+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
+      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-wifi-router/",
+      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:06:06+00:00"
+    },
+    {
+      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
+      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
+      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
+      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:05:47+00:00"
+    },
+    {
+      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
+      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
+      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
+      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:00:50+00:00"
+    },
+    {
+      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
+      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
+      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T20:22:00+00:00"
+    },
+    {
+      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
+      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
+      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
+      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T19:05:45+00:00"
+    },
     {
       "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
       "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-13T20:59:08+00:00"
-    },
-    {
-      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
-      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
-      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
-      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-07-13T19:39:43+00:00"
-    },
-    {
-      "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
-      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick S",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-13T16:18:20+00:00"
-    },
-    {
-      "id": "b9e6f1eae5e3adebd1ef32295b367e79e782866829eb2f491fd07b4ab6baf401",
-      "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-all-in-one-computer/",
-      "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:56:00+00:00"
-    },
-    {
-      "id": "ad1e09ad0e3cf5226496bc212dee3f2279401f174028463142ddd1b31402c142",
-      "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
-      "url": "https://www.zdnet.com/article/alienware-15-review/",
-      "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:37:00+00:00"
-    },
-    {
-      "id": "10bc6ccd71086724a0ea8d1e5d172c01561c9d0db89ecc96c8833d64034759c6",
-      "title": "Ghostcommit attack hides malicious AI instructions in images",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
-      "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-13T13:18:50+00:00"
     }
   ]
 }
