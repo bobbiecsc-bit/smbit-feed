@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-10T07:56:02.116880+00:00",
+  "updated": "2026-08-10T19:06:33.520245+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "38acd96ba6d66becc04b1c8b852b9f1b07456f1c57d8a88a38a371efca62a824",
+      "title": "I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card",
+      "url": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
+      "summary": "The new feature lets you send money to your children without them needing a card or separate account.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-10T16:50:37+00:00"
+    },
+    {
+      "id": "12400cb868e94055f30e5ddfddc5b74fc56628d4e50bc909d21b22ba7eea7767",
+      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+      "summary": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS community. The AWS Heroes Summit, an invite-only annual gathering, brings global experts specializing in fields like AI, serverless, and containers ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-10T15:45:03+00:00"
+    },
+    {
+      "id": "735205dc405ab29a1d4306c8fddd880e28101a06cedfa686efdf791255b6fbf1",
+      "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
+      "url": "https://thenewstack.io/meta-muse-claude-code/",
+      "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-10T15:00:00+00:00"
+    },
+    {
+      "id": "81106a5b637b5bd7442ee75f5263874bfd7b0668cd66aa147e599218e8b82dd5",
+      "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+      "url": "https://www.zdnet.com/article/ugreen-finder-pro-solar-powered-finder-tag-review/",
+      "summary": "This finder tag has excellent range, and it's built for the outdoors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-10T14:25:56+00:00"
+    },
+    {
+      "id": "49748547e5cae2e7d0e507ed99d66a6b07848b7b8983ce4ac811d059a7b64cf1",
+      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true, but not how I expected.",
+      "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
+      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It&#8217;s true, but not how I expected. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-10T12:00:00+00:00"
+    },
     {
       "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
       "title": "Tech Time Warp: How a goodbye party launched DEF CON",
@@ -2206,51 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-10T15:04:30+00:00"
-    },
-    {
-      "id": "de1ac4ae49aab86e142b857c2eebd6bc40c165ac670833b484b51e1fea98f25b",
-      "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
-      "url": "https://thenewstack.io/databricks-opensharing-ai-agents/",
-      "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the &#8220;email me a file&#8221; problem for AI agent skills appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-10T14:00:00+00:00"
-    },
-    {
-      "id": "91363a7196834a1ab71201e8c71b3e1593f1e04ac231c0426fb422cfa7e92f33",
-      "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
-      "url": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
-      "summary": "The new developer beta of iOS 27 offers three AI-powered skills to tweak and enhance your photos. Are they worth using?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T15:19:25+00:00"
-    },
-    {
-      "id": "e30f43282a31551d7f615031d65eb7fde5be88f471455c35ff37e25da7ca0887",
-      "title": "What you give up when you put on a smartwatch or ring",
-      "url": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:53:00+00:00"
-    },
-    {
-      "id": "90aa69af66657e23381b0c571607cc47ea3dbc6e188d479f4dba1d7a26954c92",
-      "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
-      "url": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
-      "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:52:00+00:00"
-    },
-    {
-      "id": "2dee60509ad6fb3b7f7fe30d5e84c9b600916aed7c22e1344a3b4347dd1ddbc7",
-      "title": "The curious case of the disappearing wearable",
-      "url": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
-      "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-09T14:49:00+00:00"
     }
   ]
 }
