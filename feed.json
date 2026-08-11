@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T19:06:33.520245+00:00",
+  "updated": "2026-08-11T07:19:19.369109+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
@@ -7,12 +7,21 @@
   "articles": [
     {
       "id": "38acd96ba6d66becc04b1c8b852b9f1b07456f1c57d8a88a38a371efca62a824",
-      "title": "I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card",
+      "title": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
       "url": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
       "summary": "The new feature lets you send money to your children without them needing a card or separate account.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-08-10T16:50:37+00:00"
+      "date": "2026-08-10T21:57:00+00:00"
+    },
+    {
+      "id": "ff8fe365976ba5681da98e64f773fc6bad33df25e2e383c6350f4c20729bae24",
+      "title": "OpenAI built a model it doesn’t want most people to use",
+      "url": "https://thenewstack.io/openai-gpt56-cyber-daybreak/",
+      "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It&#8217;s now available The post OpenAI built a model it doesn&#8217;t want most people to use appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-08-10T21:15:15+00:00"
     },
     {
       "id": "12400cb868e94055f30e5ddfddc5b74fc56628d4e50bc909d21b22ba7eea7767",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-28T14:00:00+00:00"
-    },
-    {
-      "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
-      "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
-      "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-28T08:30:42+00:00"
     }
   ]
 }
