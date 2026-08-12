@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-12T07:43:00.101485+00:00",
+  "updated": "2026-08-12T19:11:57.886538+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
+      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
+      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "summary": "The two Google and Apple phones go neck to neck against each other, but only one will suit your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
+      "title": "Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+      "summary": "If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
+      "title": "Pixel Watch 4 vs. Pixel Watch 5: Buy the old Android smartwatch or opt for the newest?",
+      "url": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
+      "summary": "Considering an upgrade to the new Pixel Watch 5? It comes down to these factors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "48418a6071ea953fdfa0ed95c959924c5175290d9536feaa42ecf41f0a0c7a38",
+      "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/",
+      "summary": "The Google Pixel Watch 5 is a big upgrade over its predecessor, but is it enough to take on the Apple Watch Series 11?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "773707c29bb3d5992ae8f017a9b2d3cf6d34fcee052f7f8ce2c61e9e01226194",
+      "title": "Google Pixel 11 vs Samsung Galaxy Z Fold 8: I compared the latest flagships - here's my take",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-samsung-galaxy-z-fold-8/",
+      "summary": "The Pixel 11 and the Galaxy Z Fold 8 offer very different user experiences. Which is for you? Here's how they compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:00:00+00:00"
+    },
     {
       "id": "0cf4faf9e2e344b5f3d80285f62e8213dd9a42ba72b52da153b5ea11bfa41e6f",
       "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
@@ -409,51 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-07-29T18:24:08+00:00"
-    },
-    {
-      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
-      "title": "The best smartwatches of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smartwatch/",
-      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T18:20:00+00:00"
-    },
-    {
-      "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
-      "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
-      "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
-      "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T15:00:45+00:00"
-    },
-    {
-      "id": "ef80a674c35080347f59d8cd397f55af7a4c26fadd3bc5b92d4fe90234077d93",
-      "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
-      "url": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
-      "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T13:15:00+00:00"
-    },
-    {
-      "id": "f9a4ac888a7a53601e9ebec001b2b93d937af92174708feeee894815bc6d776a",
-      "title": "I tried ArchEZ to see if it really makes Arch Linux easy for beginners - and it delivered",
-      "url": "https://www.zdnet.com/article/archez-makes-arch-linux-easy/",
-      "summary": "Arch Linux doesn't have to be challenging, and ArchEZ proves that point with point-and-click ease.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T12:25:18+00:00"
-    },
-    {
-      "id": "4003e11e87e443ba41bd4be9b256c51d2b6a51e570dc1181d328f80de5452c1d",
-      "title": "I tested the Ultrahuman Ring Pro: Rich in features, but still a hard sell",
-      "url": "https://www.zdnet.com/article/ultrahuman-ring-pro-review/",
-      "summary": "The latest ring from Ultrahuman is packed with features, but it's both larger and more expensive than its predecessor.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T09:15:40+00:00"
     }
   ]
 }

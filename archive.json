@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-12T07:43:00.101485+00:00",
+  "updated": "2026-08-12T19:11:57.886538+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
+      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
+      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "summary": "The two Google and Apple phones go neck to neck against each other, but only one will suit your needs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
+      "title": "Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+      "summary": "If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
+      "title": "Pixel Watch 4 vs. Pixel Watch 5: Buy the old Android smartwatch or opt for the newest?",
+      "url": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
+      "summary": "Considering an upgrade to the new Pixel Watch 5? It comes down to these factors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "48418a6071ea953fdfa0ed95c959924c5175290d9536feaa42ecf41f0a0c7a38",
+      "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/",
+      "summary": "The Google Pixel Watch 5 is a big upgrade over its predecessor, but is it enough to take on the Apple Watch Series 11?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:01:00+00:00"
+    },
+    {
+      "id": "773707c29bb3d5992ae8f017a9b2d3cf6d34fcee052f7f8ce2c61e9e01226194",
+      "title": "Google Pixel 11 vs Samsung Galaxy Z Fold 8: I compared the latest flagships - here's my take",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-samsung-galaxy-z-fold-8/",
+      "summary": "The Pixel 11 and the Galaxy Z Fold 8 offer very different user experiences. Which is for you? Here's how they compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-12T14:00:00+00:00"
+    },
     {
       "id": "0cf4faf9e2e344b5f3d80285f62e8213dd9a42ba72b52da153b5ea11bfa41e6f",
       "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
@@ -2206,51 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-12T10:54:00+00:00"
-    },
-    {
-      "id": "67e21696a78aa27d6ae7cca46a5af673a91b6fc741bc2ca0e39774b360b4268c",
-      "title": "The cloud vs. clouded leopard: America's data center backlash on display at Nashville Zoo",
-      "url": "https://www.zdnet.com/article/americans-data-center-backlash-nashville-zoo-clouded-leopard/",
-      "summary": "As fights against data centers spring up around the country, the latest showdown in Nashville has a furry face.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T18:52:00+00:00"
-    },
-    {
-      "id": "551ae93854739bfd83084a1990f94dccf9b01b6275feb73537b3298f7bd90db5",
-      "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
-      "url": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-      "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T17:35:00+00:00"
-    },
-    {
-      "id": "3f08a6ad020b1303e0e088f5222b5b93ab27e69227062b6bea01fecc4f4ad852",
-      "title": "Euro-Office 1.0 arrives to open-source infighting: 'Compatibility is not sovereignty'",
-      "url": "https://www.zdnet.com/article/euro-office-is-here-libreoffice-supporters-arent-happy/",
-      "summary": "The new cloud-based, open-source alternative to Microsoft 365 and Google Workspace is here, as LibreOffice backers lambast its reliance on Microsoft document formats.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-11T16:53:16+00:00"
-    },
-    {
-      "id": "220720948743a433eef9ecf2ff1a2800e87654b08e4c599b4f7412d72affae1e",
-      "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
-      "url": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
-      "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T09:30:15+00:00"
-    },
-    {
-      "id": "9aa64c031593dd7803dfb2ac9b77269bc8f026ff17ebb406c729501365f7b18c",
-      "title": "The best time-tracking software of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-time-tracking-software/",
-      "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-11T09:00:43+00:00"
     }
   ]
 }
