@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-13T07:44:57.523634+00:00",
+  "updated": "2026-08-13T19:12:48.300824+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
+      "title": "Rubrik’s lessons from one month with Mythos Preview",
+      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
+      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-13T17:37:33+00:00"
+    },
+    {
+      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
+      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T15:30:00+00:00"
+    },
+    {
+      "id": "267b95a5d175a32513eafc5b1b1eefb7e381317daac27988147a69bcf4badf66",
+      "title": "Intuit announces Intuit Intelligence Chat, other upgrades for Enterprise Suite and QBOA",
+      "url": "https://www.accountingtoday.com/news/intuit-announces-intuit-intelligence-chat-other-upgrades-for-enterprise-suite-and-qboa",
+      "summary": "Intuit announced a host of new upgrades and capacities in Intuit Enterprise Suite and QuickBooks Online Advanced made specifically for mid-market entities.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-13T15:13:17+00:00"
+    },
+    {
+      "id": "f9faa4a56b4d27b1fc7768b03928b3b64acff2d9b096cd35d3bc6720531c4577",
+      "title": "The best password managers of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-password-manager/",
+      "summary": "If you have trouble remembering the passwords for all of your online accounts, we've handpicked the best password manager apps to help you stay protected.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T09:00:43+00:00"
+    },
     {
       "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
       "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
@@ -2215,42 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-13T09:01:02+00:00"
-    },
-    {
-      "id": "074d430eff99e853faf860ec1af300d1790cdd013ab7750b074f632a9fe891df",
-      "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
-      "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
-      "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:00:54+00:00"
-    },
-    {
-      "id": "ccbbc881a22d10015d94782e3607a0156900fac25f3e4403c426d7bcd474c194",
-      "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
-      "url": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
-      "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-12T18:07:00+00:00"
-    },
-    {
-      "id": "cce4f3abf6823b8640446e10e6272e8aae6e79945a7a684a506394de90101138",
-      "title": "40% of enterprises will scrap AI agents - 3 ways to ensure yours don't fail",
-      "url": "https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/",
-      "summary": "How do you create real ROI from autonomous AI? Three digital leaders share lessons they've learned in the field.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-12T16:14:33+00:00"
-    },
-    {
-      "id": "b6840c315a4a86ce2ce45fd86ed2edf751b509a6aa70ddd8c347b27fc366cd4f",
-      "title": "Dell vs. HP: I've tested dozens of laptops from both brands, and here's my buying advice",
-      "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
-      "summary": "Dell and HP both make excellent laptops, but each excels in different areas. Here are the key differences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-12T10:54:00+00:00"
     }
   ]
 }

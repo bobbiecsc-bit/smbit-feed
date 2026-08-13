@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-13T07:44:57.523634+00:00",
+  "updated": "2026-08-13T19:12:48.300824+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
+      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-19T21:30:34+00:00"
+    },
+    {
+      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
+      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
+      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
+      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-07-19T10:00:43+00:00"
+    },
+    {
+      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
+      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
+      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
+      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-18T10:00:39+00:00"
+    },
+    {
+      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
+      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
+      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
+      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-18T09:30:41+00:00"
+    },
     {
       "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
       "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-08T15:09:00+00:00"
-    },
-    {
-      "id": "3ec7510c65e3ef86d135867b9b633223c633fb7ffc28627da0d5a1b5b09259e4",
-      "title": "I tested the Roborock Saros 20, and I'd trust it for the next decade",
-      "url": "https://www.zdnet.com/article/roborock-saros-20-review-robot-vacuum-2026/",
-      "summary": "Roborock took its flagship robot vacuum and really improved it, while keeping the same price. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T14:47:00+00:00"
-    },
-    {
-      "id": "e861e7b2f9450c952d495e17f21dfa1b43aad11877eb5e1cb6b6d3779c482d77",
-      "title": "3 Android Auto automations that make my drives much easier - and how I set them up",
-      "url": "https://www.zdnet.com/article/3-android-auto-automations-i-use-to-make-my-life-easier/",
-      "summary": "Android automations are nothing new, but incorporating them into you car can change your drive.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-07-08T11:00:40+00:00"
-    },
-    {
-      "id": "a1d092e893a2e9c5b4a46e511c5d13d827331f977befc6996120b54af5603cbb",
-      "title": "The best robot vacuums for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-robot-vacuum/",
-      "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T17:01:00+00:00"
-    },
-    {
-      "id": "793fb82cf6f60e3219a8f7c0dbbf95fcb4bdfcba8e00843ad936d268d35eaf2a",
-      "title": "Linux Mint vs. RefreshOS: I compared the two best distros for new users - this one's better",
-      "url": "https://www.zdnet.com/article/linux-mint-vs-refreshos-best-distro-for-new-users/",
-      "summary": "These two user-friendly distributions take different routes to the 'best Linux' crown. The winner comes down to this.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T16:30:39+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-13T07:44:57.523634+00:00",
+  "updated": "2026-08-13T19:12:48.300824+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
+      "title": "Rubrik’s lessons from one month with Mythos Preview",
+      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
+      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-13T17:37:33+00:00"
+    },
+    {
+      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
+      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T15:30:00+00:00"
+    },
+    {
+      "id": "267b95a5d175a32513eafc5b1b1eefb7e381317daac27988147a69bcf4badf66",
+      "title": "Intuit announces Intuit Intelligence Chat, other upgrades for Enterprise Suite and QBOA",
+      "url": "https://www.accountingtoday.com/news/intuit-announces-intuit-intelligence-chat-other-upgrades-for-enterprise-suite-and-qboa",
+      "summary": "Intuit announced a host of new upgrades and capacities in Intuit Enterprise Suite and QuickBooks Online Advanced made specifically for mid-market entities.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-13T15:13:17+00:00"
+    },
+    {
+      "id": "f9faa4a56b4d27b1fc7768b03928b3b64acff2d9b096cd35d3bc6720531c4577",
+      "title": "The best password managers of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-password-manager/",
+      "summary": "If you have trouble remembering the passwords for all of your online accounts, we've handpicked the best password manager apps to help you stay protected.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T09:00:43+00:00"
+    },
     {
       "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
       "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-30T20:08:00+00:00"
-    },
-    {
-      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
-      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
-      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
-      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T17:10:00+00:00"
-    },
-    {
-      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
-      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
-      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
-      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T12:30:00+00:00"
-    },
-    {
-      "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
-      "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
-      "url": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
-      "summary": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T18:25:00+00:00"
-    },
-    {
-      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
-      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
-      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
-      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-29T18:24:08+00:00"
     }
   ]
 }
