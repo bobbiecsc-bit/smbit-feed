@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-13T19:12:48.300824+00:00",
+  "updated": "2026-08-14T07:42:43.778861+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
+      "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
+      "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+      "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T20:46:54+00:00"
+    },
     {
       "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
       "title": "Rubrik’s lessons from one month with Mythos Preview",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-13T13:00:58+00:00"
-    },
-    {
-      "id": "01cdc261c9fb44dfb86babad2b5c28515dcfb4f1b4948c829caef2d345f8597e",
-      "title": "The best VPN routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vpn-router/",
-      "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T09:01:02+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-13T19:12:48.300824+00:00",
+  "updated": "2026-08-14T07:42:43.778861+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
+      "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
+      "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+      "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T20:46:54+00:00"
+    },
     {
       "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
       "title": "Rubrik’s lessons from one month with Mythos Preview",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-31T15:19:00+00:00"
-    },
-    {
-      "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
-      "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
-      "url": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
-      "summary": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T20:08:00+00:00"
     }
   ]
 }
