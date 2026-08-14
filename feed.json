@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-14T07:42:43.778861+00:00",
+  "updated": "2026-08-14T19:03:54.404736+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
+      "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
+      "url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
+      "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:15:34+00:00"
+    },
+    {
+      "id": "1fd2f8e15dc517f614c5898815dbc4ad0e6f27d7319cb8cf74f47132f9917933",
+      "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
+      "url": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
+      "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:00:00+00:00"
+    },
     {
       "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
       "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
@@ -12,7 +30,7 @@
       "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-08-13T20:46:54+00:00"
+      "date": "2026-08-13T20:46:00+00:00"
     },
     {
       "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
@@ -436,24 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-31T19:55:18+00:00"
-    },
-    {
-      "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
-      "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
-      "url": "https://www.zdnet.com/article/onedrive-photos-windows-11/",
-      "summary": "Microsoft has quietly pushed out a new OneDrive Photos app to Windows 11 users. What's it all about?",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-31T18:05:03+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-31T15:19:00+00:00"
     }
   ]
 }

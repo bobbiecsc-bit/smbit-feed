@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-14T07:42:43.778861+00:00",
+  "updated": "2026-08-14T19:03:54.404736+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
+      "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
+      "url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
+      "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:15:34+00:00"
+    },
+    {
+      "id": "1fd2f8e15dc517f614c5898815dbc4ad0e6f27d7319cb8cf74f47132f9917933",
+      "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
+      "url": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
+      "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:00:00+00:00"
+    },
     {
       "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
       "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
@@ -9,7 +27,7 @@
       "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
       "source": "ZDNet Business",
       "category": "product_review",
-      "date": "2026-08-13T20:46:54+00:00"
+      "date": "2026-08-13T20:46:00+00:00"
     },
     {
       "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
@@ -2233,24 +2251,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-06-13T17:00:00+00:00"
-    },
-    {
-      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "url": "https://thenewstack.io/fable-5-opus-comparison/",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T15:00:00+00:00"
-    },
-    {
-      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
-      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
-      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
-      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T13:00:58+00:00"
     }
   ]
 }

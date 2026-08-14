@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-14T07:42:43.778861+00:00",
+  "updated": "2026-08-14T19:03:54.404736+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
+      "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
+      "url": "https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/",
+      "summary": "A prominent AI expert says that forward-deployed engineers are limited, and that the broader emerging category of AI engineers has the greatest career potential. Is he right?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:35+00:00"
+    },
+    {
+      "id": "70b53c82cf9b26fe52323be81a6d6243576ca4c32655dd51050ec67ee27e4a20",
+      "title": "I recommend these best Garmin Prime Day deals - get up to $500 off right now",
+      "url": "https://www.zdnet.com/article/garmin-smartwatch-deals-amazon-prime-day-2026/",
+      "summary": "Many of Garmin's signature smartwatches are on sale for Prime Day, including Forerunner, Fenix, and Venu models that we've tested.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T01:19:02+00:00"
+    },
     {
       "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
       "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-06-13T17:00:00+00:00"
-    },
-    {
-      "id": "7611cf11c03409946c3237d77c812ebdb381295d46240c64451140c0e2e8dbc5",
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "url": "https://thenewstack.io/fable-5-opus-comparison/",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T15:00:00+00:00"
-    },
-    {
-      "id": "7be7dd95ad227db9c9726a119ec74e76d123dfdd4fddd6c96dacd34c5f08b071",
-      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
-      "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
-      "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-13T13:00:58+00:00"
     }
   ]
 }
