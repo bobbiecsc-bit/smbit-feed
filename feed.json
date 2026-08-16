@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-16T06:52:07.655362+00:00",
+  "updated": "2026-08-16T18:38:41.316732+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
+      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
+      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "summary": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:45:00+00:00"
+    },
+    {
+      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
+      "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+      "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:15:45+00:00"
+    },
     {
       "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
       "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
@@ -67,24 +85,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-13T09:00:43+00:00"
-    },
-    {
-      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
-      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
-      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
-      "summary": "The two Google and Apple phones go neck to neck against each other, but only one will suit your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-12T14:01:00+00:00"
-    },
-    {
-      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
-      "title": "Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading",
-      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
-      "summary": "If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-12T14:01:00+00:00"
     },
     {
       "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
