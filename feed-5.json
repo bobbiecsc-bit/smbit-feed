@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-17T07:08:49.997163+00:00",
+  "updated": "2026-08-17T18:50:12.944246+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
+      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
+      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
+      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T18:10:00+00:00"
+    },
+    {
+      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
+      "title": "More revenue, less waste: Five lessons for MSP growth",
+      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
+      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-06-24T15:52:53+00:00"
+    },
+    {
+      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
+      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
+      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-24T09:00:50+00:00"
+    },
     {
       "id": "3433c858505a66bb9d9d003bc6ccae0a8d1ebd0198d5c406334e5c7061fa1306",
       "title": "AI engineer vs. forward deployed engineer: Which role delivers the most business value?",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-15T11:15:41+00:00"
-    },
-    {
-      "id": "119a111f26130a7d8f3d5aa48f525681bf485df7630d24698837c40d0bf96a94",
-      "title": "I found popular student discounts that can save you up to $25 per month",
-      "url": "https://www.zdnet.com/article/best-student-discounts-2026/",
-      "summary": "A student status can unlock a lot of savings if you know where to look. Here are my top picks you don't want to miss.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T10:00:50+00:00"
-    },
-    {
-      "id": "ed9856f40aa0335c4a6cde288f1c1d7af6a99217aba90b6d3fcb0406e571bf7a",
-      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-      "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-      "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-14T12:30:48+00:00"
-    },
-    {
-      "id": "e747f1ccc2805de9d7a6acc217dcb7457e28c735d70f33e39451133ad19cd76a",
-      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
-      "url": "https://thenewstack.io/jetbrains-course-creators-program/",
-      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-13T17:00:00+00:00"
     }
   ]
 }

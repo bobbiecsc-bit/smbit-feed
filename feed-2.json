@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-17T07:08:49.997163+00:00",
+  "updated": "2026-08-17T18:50:12.944246+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
+      "summary": "Should you update to the Galaxy Fold 8 Ultra if you have a Z Fold 6? I'm familiar with both phones, here's my take.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T09:15:50+00:00"
+    },
+    {
+      "id": "6282a0a055b0a3944bf9687c628971d324773d6d5dc4f21de5a824c501d3d2d5",
+      "title": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
+      "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/",
+      "summary": "These affordable gaming laptops were neck and neck in my testing, but one pulled ahead for me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T08:30:43+00:00"
+    },
+    {
+      "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
+      "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-malicious-notepad-plugins/",
+      "summary": "CERT-UA has identified an ongoing campaign in which threat group UAC-0099 distributes trojanized Notepad++ bundles that install malware on Windows systems. The campaign primarily targets organizations in Ukraine and is linked to activity associated with APT44 (Sandworm). What is the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-31T19:55:18+00:00"
+    },
     {
       "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
       "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-20T22:14:41+00:00"
-    },
-    {
-      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
-      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
-      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
-      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-20T18:07:20+00:00"
-    },
-    {
-      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
-      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
-      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
-      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:42:00+00:00"
-    },
-    {
-      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
-      "title": "The best rugged phones in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-rugged-phone/",
-      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:07:00+00:00"
     }
   ]
 }

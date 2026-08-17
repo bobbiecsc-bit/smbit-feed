@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-17T07:08:49.997163+00:00",
+  "updated": "2026-08-17T18:50:12.944246+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T18:07:20+00:00"
+    },
+    {
+      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
+      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
+      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
+      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:42:00+00:00"
+    },
+    {
+      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
+      "title": "The best rugged phones in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-rugged-phone/",
+      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:07:00+00:00"
+    },
     {
       "id": "ff016fbfbc8c22a35fee318a78d08c893e0e8328830d6be51bd51e21086f8634",
       "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
-      "title": "The best malware removal software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
-      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T09:00:59+00:00"
-    },
-    {
-      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
-      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
-      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T19:41:00+00:00"
-    },
-    {
-      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
-      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
-      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-08T19:30:26+00:00"
     }
   ]
 }

@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-17T07:08:49.997163+00:00",
+  "updated": "2026-08-17T18:50:12.944246+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
+      "title": "The best malware removal software of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
+      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T09:00:59+00:00"
+    },
+    {
+      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
+      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
+      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
+      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-08T19:41:00+00:00"
+    },
+    {
+      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
+      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
+      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-08T19:30:26+00:00"
+    },
     {
       "id": "cebe52f9000bcf340a428da4a4ea02f0b0642c6138536223562931ccbba1fd34",
       "title": "Cybersecurity Threat Advisory: LSHIY password spray campaign",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "finance",
       "date": "2026-06-24T18:52:17+00:00"
-    },
-    {
-      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
-      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
-      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
-      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T18:10:00+00:00"
-    },
-    {
-      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
-      "title": "More revenue, less waste: Five lessons for MSP growth",
-      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
-      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-24T15:52:53+00:00"
-    },
-    {
-      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
-      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:50+00:00"
     }
   ]
 }

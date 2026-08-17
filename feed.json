@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-17T07:08:49.997163+00:00",
+  "updated": "2026-08-17T18:50:12.944246+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f64062c41c84e8c653f70057a6fbe053e096d69ba0aac2750b63f6cd2d89bad0",
+      "title": "You can turn an old Android into a Raspberry Pi alternative - but know this first",
+      "url": "https://www.zdnet.com/article/turn-old-android-into-raspberry-pi-alternative/",
+      "summary": "With AI-driven RAM shortages pushing Raspberry Pi prices sky high, here's how to repurpose your old handset into a portable powerhouse for your projects.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-08-17T17:11:41+00:00"
+    },
+    {
+      "id": "f1d4d22e0ae3bde343759aeb6e1c38215ddda6f4d976690282f29b299d1416b3",
+      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-17T16:02:36+00:00"
+    },
+    {
+      "id": "21140e09bf31ec9b8298cc15e4f7873b5bb7939a73f43be5d0ad47fd91328973",
+      "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+      "url": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-17T11:38:51+00:00"
+    },
     {
       "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
       "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-02T09:15:52+00:00"
-    },
-    {
-      "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
-      "summary": "Should you update to the Galaxy Fold 8 Ultra if you have a Z Fold 6? I'm familiar with both phones, here's my take.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-01T09:15:50+00:00"
-    },
-    {
-      "id": "6282a0a055b0a3944bf9687c628971d324773d6d5dc4f21de5a824c501d3d2d5",
-      "title": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
-      "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/",
-      "summary": "These affordable gaming laptops were neck and neck in my testing, but one pulled ahead for me.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-01T08:30:43+00:00"
-    },
-    {
-      "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
-      "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-malicious-notepad-plugins/",
-      "summary": "CERT-UA has identified an ongoing campaign in which threat group UAC-0099 distributes trojanized Notepad++ bundles that install malware on Windows systems. The campaign primarily targets organizations in Ukraine and is linked to activity associated with APT44 (Sandworm). What is the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-31T19:55:18+00:00"
     }
   ]
 }
