@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-18T06:56:01.622457+00:00",
+  "updated": "2026-08-18T18:49:15.679856+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f40a195e7c4eadcab6bc86f05c1503743dfaba2ca2e7e1da825e901f0892c8f1",
+      "title": "Best MagSafe wallets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-magsafe-wallets/",
+      "summary": "You don't have to compromise on style or function with these MagSafe wallet picks from brands like Moft, ESR, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T14:38:00+00:00"
+    },
+    {
+      "id": "d109093da20ffdd81fa9c33afb33bb35d2031e1d6d6d7b4843b03eae911702c9",
+      "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
+      "url": "https://www.zdnet.com/article/uppercase-ghost-cover-review/",
+      "summary": "The best investment I've made for my MacBook Pro only cost me $13 - here's why I recommend it.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-02T10:00:43+00:00"
+    },
+    {
+      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
+      "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "summary": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-02T09:15:52+00:00"
+    },
     {
       "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
-      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
-      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
-      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T12:40:00+00:00"
-    },
-    {
-      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
-      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
-      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T10:01:03+00:00"
-    },
-    {
-      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
-      "title": "Google just bet its inference future on a chip built for one model",
-      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
-      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-20T22:14:41+00:00"
     }
   ]
 }

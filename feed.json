@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-18T06:56:01.622457+00:00",
+  "updated": "2026-08-18T18:49:15.679856+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f53d727288bc47055323d921bfd9618e712ddfb3497897bef3fafab9ead2e8c7",
+      "title": "The 3-2-1 backup rule isn’t enough anymore",
+      "url": "https://smartermsp.com/the-3-2-1-backup-rule-isnt-enough-anymore/",
+      "summary": "For decades, the 3-2-1 backup rule has been the mainstay of data protection: keep three copies of your data, on two different types of media, with one copy stored offsite. It was a sound framework for a world where the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-08-18T18:16:22+00:00"
+    },
+    {
+      "id": "71143694810931d883223ea7a1f3c0cd5f8792d1be3747aa3e867f9488145664",
+      "title": "I tested Omarchy Quattro, one of the first Linux distros to go all in on AI - and I didn't hate it",
+      "url": "https://www.zdnet.com/article/omarchy-quattro-linux-distro-power-users-ai/",
+      "summary": "Omarchy made me fall in love with Hyprland - can it do the same for AI?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-18T15:51:37+00:00"
+    },
+    {
+      "id": "370942f10639207e8e267e188dc3f3cf41189909946f715e5de228675c2b8363",
+      "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
+      "url": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
+      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-18T15:11:00+00:00"
+    },
     {
       "id": "f64062c41c84e8c653f70057a6fbe053e096d69ba0aac2750b63f6cd2d89bad0",
       "title": "You can turn an old Android into a Raspberry Pi alternative - but know this first",
@@ -427,33 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-08-03T16:12:30+00:00"
-    },
-    {
-      "id": "f40a195e7c4eadcab6bc86f05c1503743dfaba2ca2e7e1da825e901f0892c8f1",
-      "title": "Best MagSafe wallets of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-magsafe-wallets/",
-      "summary": "You don't have to compromise on style or function with these MagSafe wallet picks from brands like Moft, ESR, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-03T14:38:00+00:00"
-    },
-    {
-      "id": "d109093da20ffdd81fa9c33afb33bb35d2031e1d6d6d7b4843b03eae911702c9",
-      "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
-      "url": "https://www.zdnet.com/article/uppercase-ghost-cover-review/",
-      "summary": "The best investment I've made for my MacBook Pro only cost me $13 - here's why I recommend it.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-02T10:00:43+00:00"
-    },
-    {
-      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
-      "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
-      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
-      "summary": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-02T09:15:52+00:00"
     }
   ]
 }
