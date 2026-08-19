@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-19T06:56:20.628635+00:00",
+  "updated": "2026-08-19T18:45:26.362494+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
+      "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
+      "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+      "summary": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T13:00:28+00:00"
+    },
+    {
+      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
+      "title": "The accounting lesson Congress still hasn't applied to AI",
+      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
+      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
+      "title": "The best 98-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
+      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-05T10:00:49+00:00"
+    },
+    {
+      "id": "baa88793820637d56553895fe7f2885e39fd5de3f9ecc5f870eeb534a7da87f1",
+      "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
+      "url": "https://www.zdnet.com/article/marshall-stanmore-4-vs-sonos-era-300/",
+      "summary": "Both Marshall and Sonos speakers play to their strengths, but the right one for you depends on more than their price tags.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T18:13:00+00:00"
+    },
+    {
+      "id": "fd13f411503ba38c158a5a787bb8698a130718ef578fc13c5fda59687ab36151",
+      "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
+      "summary": "The Momentum 5 and the Px7 S3 have similar spec sheets, but their real-life use cases set them apart.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T15:45:46+00:00"
+    },
+    {
+      "id": "b94e7c9f37a037356917ce584a847e7fae963e693064d13554dffafdb1044bd9",
+      "title": "Got an Intel Mac? 6 ways you can repurpose it after support ends",
+      "url": "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/",
+      "summary": "Tahoe is the last update for your Intel Mac, but you can still find creative uses for it when support ends.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-08-04T14:16:00+00:00"
+    },
+    {
+      "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
+      "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
+      "summary": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T11:00:55+00:00"
+    },
+    {
+      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
+      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-garmin-watch/",
+      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:01:07+00:00"
+    },
+    {
+      "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
+      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
+      "url": "https://www.zdnet.com/article/best-hisense-tv/",
+      "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:00:45+00:00"
+    },
     {
       "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
       "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
@@ -373,87 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T19:05:45+00:00"
-    },
-    {
-      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
-      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
-      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
-      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T16:15:00+00:00"
-    },
-    {
-      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
-      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T15:43:12+00:00"
-    },
-    {
-      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
-      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
-      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
-      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-22T15:18:20+00:00"
-    },
-    {
-      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
-      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
-      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T13:39:14+00:00"
-    },
-    {
-      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
-      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
-      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T13:01:00+00:00"
-    },
-    {
-      "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
-      "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
-      "url": "https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/",
-      "summary": "The System76 Thelio Mira Custom is a whisper-quiet 'boutique\" Linux workstation that actually feels practical.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T22:30:40+00:00"
-    },
-    {
-      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
-      "title": "5 gaming accessories I refuse to play without",
-      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
-      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-21T19:30:13+00:00"
-    },
-    {
-      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
-      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
-      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
-      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T19:30:07+00:00"
-    },
-    {
-      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
-      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
-      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
-      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T17:57:57+00:00"
     }
   ]
 }

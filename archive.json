@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-19T06:56:20.628635+00:00",
+  "updated": "2026-08-19T18:45:26.362494+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
+      "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+      "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+      "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T17:20:50+00:00"
+    },
+    {
+      "id": "5c5b5192170d9d60a3f6d0a16c1508c8ca097c0093252109b034925c53ba4b0e",
+      "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+      "url": "https://www.zdnet.com/article/suunto-core-2-review/",
+      "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T16:01:00+00:00"
+    },
+    {
+      "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
+      "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
+      "url": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
+      "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T15:53:08+00:00"
+    },
+    {
+      "id": "60d213c9925fce97d1a63fb8c71dca0fed27efa34057c80f69c990a675653c5e",
+      "title": "The best Android phones of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-android-phone/",
+      "summary": "We tested the latest Android phones on the market, from the Samsung Galaxy Z Fold 8 to the Google Pixel 11 series. Here's how they stack up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T14:19:00+00:00"
+    },
+    {
+      "id": "25acac397ee8964b70dd5ad15ec56194f200a471362d476440b6f311b74a0a60",
+      "title": "Best robot vacuum mops of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-robot-vacuum-mop/",
+      "summary": "We've tested over 50 top robot vacuum-and-mop combos from brands like Roborock, Eufy, Ecovacs, and Dreame to choose the best to keep a home clean.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T14:12:00+00:00"
+    },
+    {
+      "id": "15229311901ac19e05c086489448d60120d0375610647687bf64da1f78a1d0b1",
+      "title": "The best TVs of 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-tv/",
+      "summary": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Samsung, and Hisense.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:36:00+00:00"
+    },
+    {
+      "id": "37cf91aeaff69a1252c18ce3855e8c8f7b3d2f55406e7a5c9d8cd3cf822d060b",
+      "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
+      "summary": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:30:50+00:00"
+    },
+    {
+      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
+      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
+      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
+      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and it won a ZDNET Lab Award for the most accurate color reproduction.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T11:06:15+00:00"
+    },
+    {
+      "id": "c4e00a646f7a4debd3f5a0c36d465ebe147cfa081f99a4e91e134fe355908db8",
+      "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
+      "url": "https://thenewstack.io/glm-5-3-anthropic-distillation/",
+      "summary": "Chinese frontier model outfit Z.ai released GLM-5.3 on Friday, a model hewn from the same codebase as its predecessor GLM-5.2, The post An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3 appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-19T08:00:00+00:00"
+    },
     {
       "id": "7f2509f5ce16d6c7e1dc62e7133724b667db30f86d52e547a1f32a2b2f353581",
       "title": "I tested GNOME's glassy new look - and it's simply spectacular",
@@ -1560,15 +1641,6 @@
       "date": "2026-07-02T14:30:41+00:00"
     },
     {
-      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
-      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
-      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
-      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-02T13:53:00+00:00"
-    },
-    {
       "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
       "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
       "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
@@ -2179,78 +2251,6 @@
       "source": "AWS News Blog",
       "category": "finance",
       "date": "2026-06-17T15:09:20+00:00"
-    },
-    {
-      "id": "5ef2ed5a74d3292d9d6242f0821975ef4dde77ece1fa0a6dd28aa6770a430297",
-      "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe (2026): I tested the budget models - here's my pick",
-      "url": "https://www.zdnet.com/article/amazon-kindle-scribe-2026-vs-remarkable-paper-pure/",
-      "summary": "Amazon's new Kindle Scribe foregoes the front light for a more affordable $429: pitting it against the ReMarkable Paper Pure.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:01:00+00:00"
-    },
-    {
-      "id": "3bd36ff5e651a3dea388cfe0c90238957e78e6819d3c238f736b11aa01f07a8f",
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
-      "summary": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedro",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-06-17T15:00:11+00:00"
-    },
-    {
-      "id": "2a9879d1ce49e75008ed4fea729f06156cdcd8ba09f3db9d9225d6372d2a6b49",
-      "title": "The best power banks of 2026: Expert and lab tested",
-      "url": "https://www.zdnet.com/article/best-power-banks/",
-      "summary": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:06:08+00:00"
-    },
-    {
-      "id": "4188a130d1cafbf52467c37e48ca91977428ea5945ae4385024468d3a03dac64",
-      "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
-      "url": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
-      "summary": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:01:01+00:00"
-    },
-    {
-      "id": "d5fd64b2b1354d95bf84b416261fc3348b099236ddbc92ba3e471df63384605d",
-      "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
-      "url": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T11:00:45+00:00"
-    },
-    {
-      "id": "404bd2db0711aa46f933ae74a39208236f8d070ec970c52e431650dab9f1baef",
-      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
-      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-06-16T23:13:10+00:00"
-    },
-    {
-      "id": "9f90077509c3c71b57ada65f6f42afbc01cc3ce3caf85ef3daca5f276de5f972",
-      "title": "I tried AnduinOS 2.0, and it may be the easiest way to ditch Windows for Linux",
-      "url": "https://www.zdnet.com/article/i-tried-anduinos-2-0-easiest-way-to-ditch-windows-for-linux/",
-      "summary": "AnduinOS 2.0 is a speedy, private, Ubuntu-based Linux distro that's all about true distro engineering. And it's laid out like Windows 11.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-16T17:07:27+00:00"
-    },
-    {
-      "id": "48ae7c68685c2f964d111f6ed4207f5df18edd1716b5188ea44c4788bdc48cb1",
-      "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
-      "url": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
-      "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-16T10:30:51+00:00"
     }
   ]
 }

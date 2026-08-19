@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-19T06:56:20.628635+00:00",
+  "updated": "2026-08-19T18:45:26.362494+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
+      "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+      "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+      "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T17:20:50+00:00"
+    },
+    {
+      "id": "5c5b5192170d9d60a3f6d0a16c1508c8ca097c0093252109b034925c53ba4b0e",
+      "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+      "url": "https://www.zdnet.com/article/suunto-core-2-review/",
+      "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T16:01:00+00:00"
+    },
+    {
+      "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
+      "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
+      "url": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
+      "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T15:53:08+00:00"
+    },
+    {
+      "id": "60d213c9925fce97d1a63fb8c71dca0fed27efa34057c80f69c990a675653c5e",
+      "title": "The best Android phones of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-android-phone/",
+      "summary": "We tested the latest Android phones on the market, from the Samsung Galaxy Z Fold 8 to the Google Pixel 11 series. Here's how they stack up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T14:19:00+00:00"
+    },
+    {
+      "id": "25acac397ee8964b70dd5ad15ec56194f200a471362d476440b6f311b74a0a60",
+      "title": "Best robot vacuum mops of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-robot-vacuum-mop/",
+      "summary": "We've tested over 50 top robot vacuum-and-mop combos from brands like Roborock, Eufy, Ecovacs, and Dreame to choose the best to keep a home clean.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T14:12:00+00:00"
+    },
+    {
+      "id": "15229311901ac19e05c086489448d60120d0375610647687bf64da1f78a1d0b1",
+      "title": "The best TVs of 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-tv/",
+      "summary": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Samsung, and Hisense.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:36:00+00:00"
+    },
+    {
+      "id": "37cf91aeaff69a1252c18ce3855e8c8f7b3d2f55406e7a5c9d8cd3cf822d060b",
+      "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
+      "summary": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:30:50+00:00"
+    },
+    {
+      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
+      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
+      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
+      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and it won a ZDNET Lab Award for the most accurate color reproduction.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T11:06:15+00:00"
+    },
+    {
+      "id": "c4e00a646f7a4debd3f5a0c36d465ebe147cfa081f99a4e91e134fe355908db8",
+      "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
+      "url": "https://thenewstack.io/glm-5-3-anthropic-distillation/",
+      "summary": "Chinese frontier model outfit Z.ai released GLM-5.3 on Friday, a model hewn from the same codebase as its predecessor GLM-5.2, The post An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3 appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-19T08:00:00+00:00"
+    },
     {
       "id": "7f2509f5ce16d6c7e1dc62e7133724b667db30f86d52e547a1f32a2b2f353581",
       "title": "I tested GNOME's glassy new look - and it's simply spectacular",
@@ -373,87 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-06T09:00:49+00:00"
-    },
-    {
-      "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
-      "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
-      "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
-      "summary": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-05T13:00:28+00:00"
-    },
-    {
-      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
-      "title": "The accounting lesson Congress still hasn't applied to AI",
-      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
-      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
-      "title": "The best 98-inch TVs of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
-      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-05T10:00:49+00:00"
-    },
-    {
-      "id": "baa88793820637d56553895fe7f2885e39fd5de3f9ecc5f870eeb534a7da87f1",
-      "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
-      "url": "https://www.zdnet.com/article/marshall-stanmore-4-vs-sonos-era-300/",
-      "summary": "Both Marshall and Sonos speakers play to their strengths, but the right one for you depends on more than their price tags.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T18:13:00+00:00"
-    },
-    {
-      "id": "fd13f411503ba38c158a5a787bb8698a130718ef578fc13c5fda59687ab36151",
-      "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
-      "summary": "The Momentum 5 and the Px7 S3 have similar spec sheets, but their real-life use cases set them apart.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T15:45:46+00:00"
-    },
-    {
-      "id": "b94e7c9f37a037356917ce584a847e7fae963e693064d13554dffafdb1044bd9",
-      "title": "Got an Intel Mac? 6 ways you can repurpose it after support ends",
-      "url": "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/",
-      "summary": "Tahoe is the last update for your Intel Mac, but you can still find creative uses for it when support ends.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-08-04T14:16:00+00:00"
-    },
-    {
-      "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
-      "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
-      "summary": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T11:00:55+00:00"
-    },
-    {
-      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
-      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-garmin-watch/",
-      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T10:01:07+00:00"
-    },
-    {
-      "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
-      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
-      "url": "https://www.zdnet.com/article/best-hisense-tv/",
-      "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T10:00:45+00:00"
     }
   ]
 }

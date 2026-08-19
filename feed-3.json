@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-19T06:56:20.628635+00:00",
+  "updated": "2026-08-19T18:45:26.362494+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
+      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
+      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
+      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T16:15:00+00:00"
+    },
+    {
+      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
+      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T15:43:12+00:00"
+    },
+    {
+      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
+      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-22T15:18:20+00:00"
+    },
+    {
+      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
+      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
+      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:39:14+00:00"
+    },
+    {
+      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
+      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
+      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
+    {
+      "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
+      "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
+      "url": "https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/",
+      "summary": "The System76 Thelio Mira Custom is a whisper-quiet 'boutique\" Linux workstation that actually feels practical.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T22:30:40+00:00"
+    },
+    {
+      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
+      "title": "5 gaming accessories I refuse to play without",
+      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
+      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-21T19:30:13+00:00"
+    },
+    {
+      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
+      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T19:30:07+00:00"
+    },
+    {
+      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
+      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
+      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
+      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T17:57:57+00:00"
+    },
     {
       "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
       "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
@@ -373,87 +454,6 @@
       "source": "Malwarebytes Labs",
       "category": "finance",
       "date": "2026-07-13T13:18:50+00:00"
-    },
-    {
-      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
-      "title": "The best email hosting for small businesses in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
-      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-12T09:00:44+00:00"
-    },
-    {
-      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
-      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
-      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T16:54:00+00:00"
-    },
-    {
-      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
-      "title": "Best wireless chargers of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-wireless-charger/",
-      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T11:00:47+00:00"
-    },
-    {
-      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
-      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
-      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:01:05+00:00"
-    },
-    {
-      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
-      "title": "The best HDMI cables of 2026: Expert reviewed",
-      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
-      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:00:49+00:00"
-    },
-    {
-      "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
-      "title": "The best smart rings of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-smart-ring/",
-      "summary": "I tested several top smart rings including the new Oura Ring 5. These are the ones I recommend.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T09:00:41+00:00"
-    },
-    {
-      "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
-      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
-      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-      "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T08:45:00+00:00"
-    },
-    {
-      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
-      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T18:51:10+00:00"
-    },
-    {
-      "id": "f25648d6e8f6e17c12a2937ed496403ea58ef80100b012e86625deee4a509ff1",
-      "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
-      "url": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
-      "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T17:16:13+00:00"
     }
   ]
 }
