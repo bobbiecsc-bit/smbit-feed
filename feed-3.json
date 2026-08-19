@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-18T18:49:15.679856+00:00",
+  "updated": "2026-08-19T06:56:20.628635+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
+      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
+      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-21T17:05:16+00:00"
+    },
+    {
+      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
+      "title": "Block built a Slack for AI agents — and gave each one its own passport",
+      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
+      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-21T16:30:00+00:00"
+    },
     {
       "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
       "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T17:16:13+00:00"
-    },
-    {
-      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
-      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-notebook/",
-      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T15:34:00+00:00"
-    },
-    {
-      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
-      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
-      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:41:00+00:00"
     }
   ]
 }

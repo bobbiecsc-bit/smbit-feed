@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-18T18:49:15.679856+00:00",
+  "updated": "2026-08-19T06:56:20.628635+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7f2509f5ce16d6c7e1dc62e7133724b667db30f86d52e547a1f32a2b2f353581",
+      "title": "I tested GNOME's glassy new look - and it's simply spectacular",
+      "url": "https://www.zdnet.com/article/gnome-desktop-liquid-glass-aura-glass/",
+      "summary": "GNOME is finally catching up to other desktop environments, thanks to Aura Glass, a fluid, modern desktop inspired by Apple's Liquid Glass.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-18T20:32:12+00:00"
+    },
+    {
+      "id": "3b89e921fec720a58765b9dd3d69cc022ba3019c1a473a70b5f5c7abf70f002e",
+      "title": "What happens to your indexed data when Mistral flips the switch?",
+      "url": "https://thenewstack.io/mistral-mcp-connector-migration/",
+      "summary": "Mistral is giving enterprise customers until August 31 to replace the Google Drive and Microsoft SharePoint Knowledge Connectors they use The post What happens to your indexed data when Mistral flips the switch? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-18T20:07:55+00:00"
+    },
     {
       "id": "f53d727288bc47055323d921bfd9618e712ddfb3497897bef3fafab9ead2e8c7",
       "title": "The 3-2-1 backup rule isn’t enough anymore",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-16T10:30:51+00:00"
-    },
-    {
-      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
-      "title": "Cost vs. value in the age of AI",
-      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
-      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "product_review",
-      "date": "2026-06-15T18:50:41+00:00"
-    },
-    {
-      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
-      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
-      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
-      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T15:45:49+00:00"
     }
   ]
 }

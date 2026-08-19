@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-18T18:49:15.679856+00:00",
+  "updated": "2026-08-19T06:56:20.628635+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
+      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smart-notebook/",
+      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T15:34:00+00:00"
+    },
+    {
+      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
+      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
+      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-09T14:41:00+00:00"
+    },
     {
       "id": "8bef77666e060afe3cb9bac4b687beb159cadc2d57dd8d320209258d8557824d",
       "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-25T19:27:07+00:00"
-    },
-    {
-      "id": "629659874c29e05fa42f2f615a83f07cf8da929688477693eb98305786095e12",
-      "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/",
-      "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-25T19:08:00+00:00"
-    },
-    {
-      "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
-      "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
-      "url": "https://www.zdnet.com/article/tiny-iphone-gadgets-amazon-prime-day-2026/",
-      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-25T09:00:44+00:00"
     }
   ]
 }

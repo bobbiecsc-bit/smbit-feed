@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-18T18:49:15.679856+00:00",
+  "updated": "2026-08-19T06:56:20.628635+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "629659874c29e05fa42f2f615a83f07cf8da929688477693eb98305786095e12",
+      "title": "I wore the best Garmin and Amazfit smartwatches for a month - is the $250 price gap noticeable?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-garmin-fenix-8/",
+      "summary": "How does the latest Amazfit Cheetah 2 Ultra stack up against the Garmin Fenix 8? Here's what I discovered after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-06-25T19:08:00+00:00"
+    },
+    {
+      "id": "a5929bccc833b2e42a27a9be45cfec4f2dd1e02b992e0a4e03c21bf5e8268e13",
+      "title": "7 tiny gadgets that give your iPhone useful superpowers (and they're cheap)",
+      "url": "https://www.zdnet.com/article/tiny-iphone-gadgets-amazon-prime-day-2026/",
+      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-06-25T09:00:44+00:00"
+    },
     {
       "id": "a814208c6c8c93013ff2922b3d0af8924003db78b63a63e423fbe1d78bdbdea3",
       "title": "As an avid reader, these are the Kindle Prime Day deals worth buying (accessories, too)",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-16T10:30:51+00:00"
-    },
-    {
-      "id": "46b060ef998720cc0ba9e5916be149e51904593d8b9210e13f306e9287c99a90",
-      "title": "Cost vs. value in the age of AI",
-      "url": "https://smartermsp.com/cost-vs-value-in-the-age-of-ai/",
-      "summary": "One of the most common causes of churn in the MSP world is a customer’s perception that they are not receiving real value. There are many reasons for this, and the challenge is only becoming more pronounced as AI continues [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "product_review",
-      "date": "2026-06-15T18:50:41+00:00"
-    },
-    {
-      "id": "35576eb690e0e9d132c0820e51250442640ebe286c9cdd86077789e573325724",
-      "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
-      "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
-      "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-15T15:45:49+00:00"
     }
   ]
 }

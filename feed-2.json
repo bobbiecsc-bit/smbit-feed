@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-18T18:49:15.679856+00:00",
+  "updated": "2026-08-19T06:56:20.628635+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
+      "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
+      "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
+      "summary": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T18:50:00+00:00"
+    },
+    {
+      "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
+      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-03T16:12:30+00:00"
+    },
     {
       "id": "f40a195e7c4eadcab6bc86f05c1503743dfaba2ca2e7e1da825e901f0892c8f1",
       "title": "Best MagSafe wallets of 2026: Expert tested and reviewed",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T17:57:57+00:00"
-    },
-    {
-      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
-      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
-      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-21T17:05:16+00:00"
-    },
-    {
-      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
-      "title": "Block built a Slack for AI agents — and gave each one its own passport",
-      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
-      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-21T16:30:00+00:00"
     }
   ]
 }
