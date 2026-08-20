@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-20T06:57:17.803154+00:00",
+  "updated": "2026-08-20T18:50:57.324672+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
+      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
+      "source": "AWS News Blog",
+      "category": "finance",
+      "date": "2026-08-06T22:58:00+00:00"
+    },
+    {
+      "id": "a0138d2e2b24a5ba3d67724bd40db93e0ae13cfdb61754c0f2dc967fed2341e1",
+      "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
+      "url": "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/",
+      "summary": "The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T17:45:00+00:00"
+    },
+    {
+      "id": "ae3e4c0abe4abccfd0340aa34105f3a98177569c3efb890dc642f01389d61627",
+      "title": "6 must-have travel gadgets, according to industry experts",
+      "url": "https://www.zdnet.com/article/must-have-travel-gadgets-expert-picks/",
+      "summary": "We asked several experts in the travel industry to share their top picks for gadgets that help them on the go.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T17:14:00+00:00"
+    },
+    {
+      "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
+      "title": "I've been using the Galaxy Z Fold 8 for two weeks - these two accessories perfect the experience",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-perfect-accessories/",
+      "summary": "With the Galaxy Z Fold 8 as my main driver, these two accessories are must-haves (and one isn't even made by Samsung).",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-06T14:27:00+00:00"
+    },
+    {
+      "id": "7b1d212720de767bc5a3a91afa645f95e9b2d76736959e763ebbd78a685834a9",
+      "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/",
+      "summary": "The QuietComfort Headphones (2nd Gen) will debut with several audio and noise-canceling features once exclusive to its premium counterparts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "id": "625dda3cd4d849d86bdff4df9ac4650c14a41b1ce20c348c1d1275634b334c87",
+      "title": "The best 75-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-75-inch-tv/",
+      "summary": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you find the right fit for your budget.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T09:00:49+00:00"
+    },
     {
       "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
       "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
@@ -400,60 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-23T16:55:35+00:00"
-    },
-    {
-      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
-      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
-      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T16:07:00+00:00"
-    },
-    {
-      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
-      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-wifi-router/",
-      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:06:06+00:00"
-    },
-    {
-      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
-      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
-      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
-      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:05:47+00:00"
-    },
-    {
-      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
-      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
-      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:00:50+00:00"
-    },
-    {
-      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
-      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
-      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T20:22:00+00:00"
-    },
-    {
-      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
-      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
-      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
-      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T19:05:45+00:00"
     }
   ]
 }

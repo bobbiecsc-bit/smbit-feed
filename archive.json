@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-20T06:57:17.803154+00:00",
+  "updated": "2026-08-20T18:50:57.324672+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
+      "title": "Slack makes it easier to install agents built with third-party tools",
+      "url": "https://thenewstack.io/add-to-slack-agents/",
+      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they&#8217;ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-20T18:30:00+00:00"
+    },
+    {
+      "id": "62e082e32437c33953b2941e6fe6e1b651f493d4f7e3cf1bc89a1fe1c37e6d77",
+      "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
+      "url": "https://www.zdnet.com/article/wispr-flow-better-than-built-in-voice-text-tool-how-to-try-it/",
+      "summary": "Designed for Windows, MacOS, iOS, and Android, Wispr Flow is a pleasure to use compared with other voice dictation apps. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T17:08:14+00:00"
+    },
+    {
+      "id": "14a6fc000d13a1a5219f30316b113d78a319eb69a965969c8d4632df9bfbd66d",
+      "title": "Slack has a new channel type — but only agents can create one",
+      "url": "https://thenewstack.io/slack-code-agent-channels/",
+      "summary": "Slack on Thursday launched Slack Code, a new kind of Slack channel that&#8217;s built for coding agents and the developers The post Slack has a new channel type &#8212; but only agents can create one appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-20T16:50:07+00:00"
+    },
+    {
+      "id": "6498937e562dc63f4908df87294d23c65db08e17696b71379648680152c70fb7",
+      "title": "Roborock Q7 M5+ review: A capable budget robot vacuum that nails the fundamentals",
+      "url": "https://www.zdnet.com/article/roborock-q7-m5-review/",
+      "summary": "The Q7 M5+ is a strong value robot vacuum for households that want reliable mapping and an auto-empty dock without flagship pricing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T16:00:55+00:00"
+    },
+    {
+      "id": "b5d13308d456224354c675f6e6e1ac845d8b445dee13537281268db65ef731ad",
+      "title": "4 iPad accessories I swear by (including a cheaper Apple Pencil alternative)",
+      "url": "https://www.zdnet.com/article/4-ipad-accessories-i-swear-by-including-a-cheaper-apple-pencil-alternative/",
+      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of my tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-20T11:00:55+00:00"
+    },
+    {
+      "id": "19aead908df340c4da96692a902b7546e9ce1f7fc5dc45be3b8db78f7eef0d39",
+      "title": "The TCL QM8L proves it's worth the upgrade in our lab testing",
+      "url": "https://www.zdnet.com/article/tcl-qm8l-lab-test-data-byte/",
+      "summary": "Data Byte: The TCL QM8L is the runner-up in best color accuracy in our lab testing of 7 TVs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T11:00:39+00:00"
+    },
     {
       "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
       "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
@@ -2197,60 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-17T19:59:00+00:00"
-    },
-    {
-      "id": "cf88f5a7aeed7f78fe0ba05a4e3d3f0fa19eed3ffcbe6fd0c45ce6b32803eece",
-      "title": "The best early Prime Day smartwatch and fitness tracker deals I'd recommend to optimize my health",
-      "url": "https://www.zdnet.com/article/early-prime-day-smartwatch-deals-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found ahead of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T18:02:18+00:00"
-    },
-    {
-      "id": "4ca539f18ff15439cc024845aab2460e55b0e4eed8d872badcb24d3d48f4a2ba",
-      "title": "Google and Apple are finally giving smartwatches the creative freedom they needed",
-      "url": "https://www.zdnet.com/article/apple-and-google-ai-widgets-and-shortcuts/",
-      "summary": "Google's Create My Widget and Apple's new Shortcuts feature prove we're in a DIY era of automation.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T17:31:10+00:00"
-    },
-    {
-      "id": "05b2b035baed798d7fa17b54a3e59f532742b43ad55f527f5bb1be2cf37b1351",
-      "title": "Cybersecurity Threat Advisory: Microsoft Teams TURN relay exploit",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-microsoft-teams-turn-relay-exploit/",
-      "summary": "Threat actors are using a custom backdoor to route their command-and-control (C2) traffic through Microsoft Teams’ TURN relay infrastructure. This technique blends malicious traffic with legitimate Teams communications. As a result, attackers can bypass traditional network defenses, maintain covert ",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:37:48+00:00"
-    },
-    {
-      "id": "2b4b58d7b59b12a775ac610edc9040a86f8f30cf5cf007dfefe3df3b403aa0f6",
-      "title": "How Block manages its fleet of AI coding agents from Slack",
-      "url": "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack/",
-      "summary": "Most AI coding tools work well inside a single repository. But few of them can operate across hundreds of services The post How Block manages its fleet of AI coding agents from Slack appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-17T16:01:00+00:00"
-    },
-    {
-      "id": "274bfc18b40c5b15ad5c54833217da7cdca89cc803f303b15fca035e66c601c6",
-      "title": "Best early Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-early-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is next week. Shop our experts' hand-selected early deals on AirPods Pro 3 ($169), Apple Watch 11 ($300), and AirPods Max 2 now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T15:51:16+00:00"
-    },
-    {
-      "id": "bbdec7cefdd5439b931cc7220fb7b86ae146f18e387686586146829130220cc9",
-      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-      "summary": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers c",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-06-17T15:09:20+00:00"
     }
   ]
 }
