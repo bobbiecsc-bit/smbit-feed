@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-20T18:50:57.324672+00:00",
+  "updated": "2026-08-21T06:58:31.537138+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
+      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
+      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
+      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:31:17+00:00"
+    },
+    {
+      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
+      "title": "The hidden MSP opportunity in AI-built applications",
+      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
+      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-23T16:55:35+00:00"
+    },
     {
       "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
       "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-14T12:54:00+00:00"
-    },
-    {
-      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
-      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
-      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
-      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-07-14T10:00:00+00:00"
-    },
-    {
-      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
-      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T06:40:33+00:00"
     }
   ]
 }

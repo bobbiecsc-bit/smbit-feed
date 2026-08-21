@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-20T18:50:57.324672+00:00",
+  "updated": "2026-08-21T06:58:31.537138+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "94cd2bd4870e2ddf2dd4726f93b0fc5ec50c2e81b38de3669fbfa454a667d685",
+      "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
+      "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T21:00:46+00:00"
+    },
+    {
+      "id": "c148279103afdbba2be03edb4032bea3027f7449788828760345849efeedcf32",
+      "title": "After one week wearing the Pixel Watch 5, here's what I want most",
+      "url": "https://www.zdnet.com/article/5-takeaways-after-wearing-the-pixel-watch-5-for-a-week/",
+      "summary": "The Google Pixel Watch 5 is a faster, intelligent smartwatch with some helpful health and wellness features under the hood.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T20:01:00+00:00"
+    },
     {
       "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
       "title": "Slack makes it easier to install agents built with third-party tools",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-18T15:00:48+00:00"
-    },
-    {
-      "id": "c109db000d8bed10e674c1d72de0bf5ea53710aa87d37e6328a3099c039a0ffe",
-      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
-      "url": "https://thenewstack.io/debugging-probabilistic-ai-systems/",
-      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don&#8217;t know it appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-06-18T13:00:00+00:00"
-    },
-    {
-      "id": "7b393e9d26fcfe29dfd34353ce03346df7f36a2ec98a7de035fa59a67952e00f",
-      "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
-      "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
-      "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-17T19:59:00+00:00"
     }
   ]
 }

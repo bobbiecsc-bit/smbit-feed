@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-20T18:50:57.324672+00:00",
+  "updated": "2026-08-21T06:58:31.537138+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "94cd2bd4870e2ddf2dd4726f93b0fc5ec50c2e81b38de3669fbfa454a667d685",
+      "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
+      "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T21:00:46+00:00"
+    },
+    {
+      "id": "c148279103afdbba2be03edb4032bea3027f7449788828760345849efeedcf32",
+      "title": "After one week wearing the Pixel Watch 5, here's what I want most",
+      "url": "https://www.zdnet.com/article/5-takeaways-after-wearing-the-pixel-watch-5-for-a-week/",
+      "summary": "The Google Pixel Watch 5 is a faster, intelligent smartwatch with some helpful health and wellness features under the hood.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T20:01:00+00:00"
+    },
     {
       "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
       "title": "Slack makes it easier to install agents built with third-party tools",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "infrastructure",
       "date": "2026-08-07T12:01:15+00:00"
-    },
-    {
-      "id": "c9385efae371e6d1aa815126dec4a91b191a708fc5cd126eac2d828c14a54406",
-      "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
-      "url": "https://www.zdnet.com/article/10-must-have-back-to-school-accessories/",
-      "summary": "From portable monitors to wireless mice and earbuds, these accessories can help you be more productive this year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T09:01:10+00:00"
-    },
-    {
-      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
-      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
-      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T09:00:49+00:00"
     }
   ]
 }

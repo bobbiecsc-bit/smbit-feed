@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-20T18:50:57.324672+00:00",
+  "updated": "2026-08-21T06:58:31.537138+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c9385efae371e6d1aa815126dec4a91b191a708fc5cd126eac2d828c14a54406",
+      "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
+      "url": "https://www.zdnet.com/article/10-must-have-back-to-school-accessories/",
+      "summary": "From portable monitors to wireless mice and earbuds, these accessories can help you be more productive this year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:01:10+00:00"
+    },
+    {
+      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
+      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
+      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:00:49+00:00"
+    },
     {
       "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-24T13:53:00+00:00"
-    },
-    {
-      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
-      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
-      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
-      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T13:31:17+00:00"
-    },
-    {
-      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
-      "title": "The hidden MSP opportunity in AI-built applications",
-      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
-      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-23T16:55:35+00:00"
     }
   ]
 }
