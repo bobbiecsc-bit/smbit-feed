@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-21T06:58:31.537138+00:00",
+  "updated": "2026-08-21T18:47:55.085284+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8f629c9a63ebd7dfe9533134937fdc6e496e69fcee50c047a31babfe87b7b82e",
+      "title": "I tried the free Wispr Flow voice dictation tool everyone's talking about - and I'm hooked",
+      "url": "https://www.zdnet.com/article/i-tried-wispr-flow-voice-dictation-free-ai-tool/",
+      "summary": "Designed for Windows, MacOS, iOS, and Android, Wispr Flow is a pleasure to use compared with other voice dictation apps. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-21T13:42:00+00:00"
+    },
+    {
+      "id": "4072e47f8f400be6060d5bdeac97ad7a699438b1a6cf1b5b3ae683e739a09b42",
+      "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+      "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
+      "summary": "Nvidia first introduced its Agentic Variation Operators (AVO) general-purpose coding agent system in late March 2026. The company has now The post Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia&#8217;s AVO, it hit 100%. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-08-21T13:00:00+00:00"
+    },
+    {
+      "id": "21610f6ad475453d45e5c0ee3b4454f0c65c1fccad635459d11ecbef1accd1ed",
+      "title": "The best large tablets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-large-tablet/",
+      "summary": "We tested the best big-screen tablets from Apple, Samsung, Microsoft, and more, to help you choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-21T11:30:45+00:00"
+    },
+    {
+      "id": "12329cbd239318519d31ea4b1b9608b23997ec23dfc8fd359e61584230c7c7df",
+      "title": "The best small tablets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-small-tablet/",
+      "summary": "Looking for a small tablet to take with you on your next trip, one that you can throw in your bag before the workday begins, or a kid-friendly option? Check out our tried and tested favorites.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-21T11:00:43+00:00"
+    },
     {
       "id": "94cd2bd4870e2ddf2dd4726f93b0fc5ec50c2e81b38de3669fbfa454a667d685",
       "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
@@ -418,42 +454,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-08-07T17:16:55+00:00"
-    },
-    {
-      "id": "11bbb5ce9925fdc421863c4ef74ce794d16ac319c816ccd0eba7412c6258a7d9",
-      "title": "Samsung Galaxy Watch 9 review: Health data overload, but built for the future",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-review/",
-      "summary": "Samsung's latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T17:10:00+00:00"
-    },
-    {
-      "id": "81faba6c1ef10af26f20183779ec0e8f611992f75a2085956bc2e61dcc9f982b",
-      "title": "Samsung Galaxy Z Fold 8 review: The compact foldable I've wanted all along",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-review/",
-      "summary": "With its unique size, the Galaxy Z Fold 8 is a refreshing take on foldable phones, and I'm all for it.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T15:16:00+00:00"
-    },
-    {
-      "id": "64337848724cb28b5e6ba754c050bc6fc657fbaf58a4cf4e954c093e5143f4b3",
-      "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
-      "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
-      "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T14:10:00+00:00"
-    },
-    {
-      "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
-      "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
-      "url": "https://www.zdnet.com/article/wifi-7-adoption-in-us-quadrupled-in-year-time-to-upgrade/",
-      "summary": "Wi‑Fi 7 is rapidly moving out of the lab and into American living rooms, with data from Ookla showing US usage is growing fast.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-08-07T12:01:15+00:00"
     }
   ]
 }
