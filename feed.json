@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-22T06:52:19.372819+00:00",
+  "updated": "2026-08-22T18:40:09.075304+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
+      "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
+      "url": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
+      "summary": "Google's latest smartwatch costs the same as the previous generation for now, but the upgrade could be worth it for a certain user.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-22T11:45:34+00:00"
+    },
     {
       "id": "8f629c9a63ebd7dfe9533134937fdc6e496e69fcee50c047a31babfe87b7b82e",
       "title": "I tried the free Wispr Flow voice dictation tool everyone's talking about - and I'm hooked",
@@ -346,15 +355,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-13T09:00:43+00:00"
-    },
-    {
-      "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
-      "title": "Pixel Watch 4 vs. Pixel Watch 5: Buy the old Android smartwatch or opt for the newest?",
-      "url": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
-      "summary": "Considering an upgrade to the new Pixel Watch 5? It comes down to these factors.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-12T14:01:00+00:00"
     },
     {
       "id": "48418a6071ea953fdfa0ed95c959924c5175290d9536feaa42ecf41f0a0c7a38",
