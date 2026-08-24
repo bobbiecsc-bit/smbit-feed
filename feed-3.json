@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-24T07:12:27.092597+00:00",
+  "updated": "2026-08-24T18:50:47.842912+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bdd5dd7389f570126fe88c665f863fba897c014131ec3433531cdbffa5e21132",
+      "title": "Costco will take your old tech and gift you a gift card - here's what to know",
+      "url": "https://www.zdnet.com/article/costco-trade-in-offer-old-tech/",
+      "summary": "Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-07-27T16:01:10+00:00"
+    },
+    {
+      "id": "4ef7d06337916a33dda447f744b3954d0477da7c8548763167b2f9197ff41177",
+      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+      "summary": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-07-27T14:54:41+00:00"
+    },
+    {
+      "id": "0d9e1874defbadcccf6060cf5947525f9853d69ea261be37e85cb21fb1437f3b",
+      "title": "The best laptop docking stations you can buy: Expert tested",
+      "url": "https://www.zdnet.com/article/best-laptop-docking-station/",
+      "summary": "Organize your workspace with our top picks for the best laptop docking stations available now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-27T14:49:24+00:00"
+    },
+    {
+      "id": "6a8864c726501aecc1642d7b256494864b7f86baee57ffade0d2bd0e34239a4d",
+      "title": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: How Samsung's two new foldables compare",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
+      "summary": "Samsung's new foldables are impressive, but how different are they really, by the specs? Let's compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-26T11:45:39+00:00"
+    },
+    {
+      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-26T08:00:40+00:00"
+    },
     {
       "id": "0f34929c4128ef49b3b0beb2e4783e326a75e62eefccca420ea6ef6b99e25b8c",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
@@ -409,51 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-07-15T17:38:10+00:00"
-    },
-    {
-      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
-      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
-      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
-      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T17:00:46+00:00"
-    },
-    {
-      "id": "134f412affe3a211f86095a96c1a9a215388708db594aedadabe53f1639e50cd",
-      "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
-      "url": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
-      "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T13:39:00+00:00"
-    },
-    {
-      "id": "2087cffe654791aab37cd4bdad4f61e5ae4c456fb017fe6ff42415d0f6385d3a",
-      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
-      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
-      "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T13:27:00+00:00"
-    },
-    {
-      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
-      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
-      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
-      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-15T12:51:29+00:00"
-    },
-    {
-      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
-      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
-      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T12:17:00+00:00"
     }
   ]
 }

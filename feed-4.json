@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-24T07:12:27.092597+00:00",
+  "updated": "2026-08-24T18:50:47.842912+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
+      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
+      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
+      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T17:00:46+00:00"
+    },
+    {
+      "id": "134f412affe3a211f86095a96c1a9a215388708db594aedadabe53f1639e50cd",
+      "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
+      "url": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
+      "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:39:00+00:00"
+    },
+    {
+      "id": "2087cffe654791aab37cd4bdad4f61e5ae4c456fb017fe6ff42415d0f6385d3a",
+      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
+      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
+      "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T13:27:00+00:00"
+    },
+    {
+      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
+      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
+      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
+      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-15T12:51:29+00:00"
+    },
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
     {
       "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
       "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-02T10:00:56+00:00"
-    },
-    {
-      "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
-      "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
-      "url": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
-      "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-01T19:51:00+00:00"
-    },
-    {
-      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
-      "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
-      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
-      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-07-01T19:00:08+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-01T18:30:24+00:00"
-    },
-    {
-      "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
-      "title": "BioShocking: when “gaming” AI agents is no longer a game",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
-      "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-01T12:50:59+00:00"
-    },
-    {
-      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
-      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-06-30T20:56:44+00:00"
     }
   ]
 }

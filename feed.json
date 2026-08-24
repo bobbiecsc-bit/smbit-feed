@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-24T07:12:27.092597+00:00",
+  "updated": "2026-08-24T18:50:47.842912+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
+      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+      "url": "https://thenewstack.io/ai-agent-security-boundaries/",
+      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T17:39:15+00:00"
+    },
+    {
+      "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
+      "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
+      "url": "https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/",
+      "summary": "You can now code your own mini games and 'gizmos' with no experience. Creating is just half the fun.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T17:17:23+00:00"
+    },
+    {
+      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
+      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
+      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T15:39:09+00:00"
+    },
+    {
+      "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
+      "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
+      "url": "https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/",
+      "summary": "The Pebble Time 2 is a no-frills smartwatch that helps you disconnect from the digital world.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T14:51:00+00:00"
+    },
+    {
+      "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
+      "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
+      "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T11:59:05+00:00"
+    },
     {
       "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
       "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
@@ -409,51 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-08-10T21:15:15+00:00"
-    },
-    {
-      "id": "12400cb868e94055f30e5ddfddc5b74fc56628d4e50bc909d21b22ba7eea7767",
-      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
-      "summary": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS community. The AWS Heroes Summit, an invite-only annual gathering, brings global experts specializing in fields like AI, serverless, and containers ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-10T15:45:03+00:00"
-    },
-    {
-      "id": "735205dc405ab29a1d4306c8fddd880e28101a06cedfa686efdf791255b6fbf1",
-      "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
-      "url": "https://thenewstack.io/meta-muse-claude-code/",
-      "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-10T15:00:00+00:00"
-    },
-    {
-      "id": "81106a5b637b5bd7442ee75f5263874bfd7b0668cd66aa147e599218e8b82dd5",
-      "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
-      "url": "https://www.zdnet.com/article/ugreen-finder-pro-solar-powered-finder-tag-review/",
-      "summary": "This finder tag has excellent range, and it's built for the outdoors.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-10T14:25:56+00:00"
-    },
-    {
-      "id": "49748547e5cae2e7d0e507ed99d66a6b07848b7b8983ce4ac811d059a7b64cf1",
-      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true, but not how I expected.",
-      "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
-      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It&#8217;s true, but not how I expected. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-10T12:00:00+00:00"
-    },
-    {
-      "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
-      "title": "Tech Time Warp: How a goodbye party launched DEF CON",
-      "url": "https://smartermsp.com/tech-time-warp-how-a-goodbye-party-launched-def-con/",
-      "summary": "The 34th DEF CON conference takes place Aug. 6–9 in Las Vegas. It&#8217;s no surprise that one of the hacker community&#8217;s most influential events has such a memorable origin story. Whether you&#8217;ve attended DEF CON or its more corporate cousin, [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-08-07T17:16:55+00:00"
     }
   ]
 }

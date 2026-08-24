@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-24T07:12:27.092597+00:00",
+  "updated": "2026-08-24T18:50:47.842912+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
+      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+      "url": "https://thenewstack.io/ai-agent-security-boundaries/",
+      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T17:39:15+00:00"
+    },
+    {
+      "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
+      "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
+      "url": "https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/",
+      "summary": "You can now code your own mini games and 'gizmos' with no experience. Creating is just half the fun.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T17:17:23+00:00"
+    },
+    {
+      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
+      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
+      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T15:39:09+00:00"
+    },
+    {
+      "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
+      "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
+      "url": "https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/",
+      "summary": "The Pebble Time 2 is a no-frills smartwatch that helps you disconnect from the digital world.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T14:51:00+00:00"
+    },
+    {
+      "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
+      "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
+      "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T11:59:05+00:00"
+    },
     {
       "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
       "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
@@ -2206,51 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T16:29:57+00:00"
-    },
-    {
-      "id": "742e22a96bbd16f211a861ffe0a6d5625821d2ebcdc9a34feac94ba760de5c7f",
-      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
-      "summary": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesi",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-22T14:46:17+00:00"
-    },
-    {
-      "id": "bdf2851b59b6520169881f851c17efd181ea948a4ea46248380f7094ec3e0af0",
-      "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
-      "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-21T11:00:09+00:00"
-    },
-    {
-      "id": "3bf7266529035f57c955704fb0c5ae8461420df853ff79d539565bcc4ba8302e",
-      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
-      "url": "https://thenewstack.io/gemini-cli-antigravity-replacement/",
-      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-20T16:00:00+00:00"
-    },
-    {
-      "id": "d78df3130576c9dfd18334b74b65241e87ee48c2223c424121c8d3886ba55b9a",
-      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
-      "url": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
-      "summary": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed key strengths and weaknesses of the latest models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-19T12:00:54+00:00"
-    },
-    {
-      "id": "a4527781c94951fecea5fd940f6afde30a86fef0760a94785692a0fa0075e777",
-      "title": "Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap",
-      "url": "https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap",
-      "summary": "Apple has patched a year-old Bluetooth vulnerability that could have let nearby attackers listen through Beats Studio Buds' microphone.",
-      "source": "Malwarebytes Labs",
-      "category": "product_review",
-      "date": "2026-06-19T11:47:16+00:00"
     }
   ]
 }
