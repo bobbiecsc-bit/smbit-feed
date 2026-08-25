@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-24T18:50:47.842912+00:00",
+  "updated": "2026-08-25T06:59:46.518940+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0f92dae74439baf52986c14417513d83981d96a4aa485c6cd243e6e63140a61d",
+      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+      "url": "https://thenewstack.io/anthropic-openai-playground-comparison/",
+      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T19:30:57+00:00"
+    },
     {
       "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
       "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
@@ -19,6 +28,15 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-24T17:17:23+00:00"
+    },
+    {
+      "id": "a9c130abb19aced19cedd58e4064334e883889c11a1e52b955e1c58bf5e8de2e",
+      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+      "summary": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-24T16:20:15+00:00"
     },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T16:58:00+00:00"
-    },
-    {
-      "id": "b3605439c2255e95d555563d4d54d37664e2bd19850b3ed1ecf3a0da4af5c9d1",
-      "title": "Cybersecurity Threat Advisory: PAN-OS GlobalProtect exploit",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-pan-os-globalprotect-exploit/",
-      "summary": "Palo Alto Networks has confirmed that attackers are actively exploiting a security flaw in PAN-OS GlobalProtect, tracked as CVE-2026-0257 with a CVSS score of 7.8. The vulnerability affects both on-premises firewalls and Prisma Access. Review the Cybersecurity Threat Advisory for [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-06-22T16:35:49+00:00"
-    },
-    {
-      "id": "eb8d31ba42083b53ad5db61fabf1821a1084cc0f2c168443d224244b44046b59",
-      "title": "This is the smartwatch most iPhone users should buy (and it's $120 off)",
-      "url": "https://www.zdnet.com/article/apple-watch-series-11-prime-day-deal-2026/",
-      "summary": "The Apple Watch Series 11 arrived last year with a full suite of health-tracking features and an extended battery life. It's on sale one day before Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T16:29:57+00:00"
     }
   ]
 }

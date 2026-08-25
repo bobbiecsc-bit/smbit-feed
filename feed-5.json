@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-24T18:50:47.842912+00:00",
+  "updated": "2026-08-25T06:59:46.518940+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f29261b6c901bd5bd82ba6d4f29005eb0690a61fab5e0f2bf2b8d281b8c013d",
+      "title": "Finally, I found a robot vacuum that leaves my two-year-old model in the dust",
+      "url": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+      "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-02T14:30:41+00:00"
+    },
+    {
+      "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
+      "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
+      "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
+      "summary": "If you like the idea of Brave's browser security, but all of the other features just get in your way, the developers have created a solution for you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-02T10:00:56+00:00"
+    },
     {
       "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
       "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T16:58:00+00:00"
-    },
-    {
-      "id": "b3605439c2255e95d555563d4d54d37664e2bd19850b3ed1ecf3a0da4af5c9d1",
-      "title": "Cybersecurity Threat Advisory: PAN-OS GlobalProtect exploit",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-pan-os-globalprotect-exploit/",
-      "summary": "Palo Alto Networks has confirmed that attackers are actively exploiting a security flaw in PAN-OS GlobalProtect, tracked as CVE-2026-0257 with a CVSS score of 7.8. The vulnerability affects both on-premises firewalls and Prisma Access. Review the Cybersecurity Threat Advisory for [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-06-22T16:35:49+00:00"
-    },
-    {
-      "id": "eb8d31ba42083b53ad5db61fabf1821a1084cc0f2c168443d224244b44046b59",
-      "title": "This is the smartwatch most iPhone users should buy (and it's $120 off)",
-      "url": "https://www.zdnet.com/article/apple-watch-series-11-prime-day-deal-2026/",
-      "summary": "The Apple Watch Series 11 arrived last year with a full suite of health-tracking features and an extended battery life. It's on sale one day before Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T16:29:57+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-24T18:50:47.842912+00:00",
+  "updated": "2026-08-25T06:59:46.518940+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
+      "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
+      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
+      "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-28T08:30:42+00:00"
+    },
+    {
+      "id": "ba672506035312ba456c279b1c48bed52d26ce3ffe73757116ed888b77dae881",
+      "title": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
+      "url": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
+      "summary": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-27T16:53:13+00:00"
+    },
     {
       "id": "bdd5dd7389f570126fe88c665f863fba897c014131ec3433531cdbffa5e21132",
       "title": "Costco will take your old tech and gift you a gift card - here's what to know",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-17T07:25:49+00:00"
-    },
-    {
-      "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
-      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
-      "url": "https://thenewstack.io/ai-agents-no-laws/",
-      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post &#8220;There are no laws, only suggestions&#8221;: What AI agents do with your instructions appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-16T13:00:00+00:00"
-    },
-    {
-      "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
-      "title": "Prosperity flips PE partners",
-      "url": "https://www.accountingtoday.com/news/prosperity-flips-private-equity-partners",
-      "summary": "The Top 100 Firm is getting a majority investment from Lightyear Capital, while its previous investor, Unity Partners, will maintain a minority position in the firm.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-07-15T17:38:10+00:00"
     }
   ]
 }
