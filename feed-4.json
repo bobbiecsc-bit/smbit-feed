@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-25T18:49:19.189010+00:00",
+  "updated": "2026-08-26T07:00:36.077881+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
+      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+      "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
+      "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-17T13:03:00+00:00"
+    },
+    {
+      "id": "69b626580a1700e41199b220af9406cde0c98c6a5b5780a69b246f5bf0978234",
+      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
+      "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
+      "summary": "Kubernetes controllers are what make the platform&#8217;s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-17T12:00:00+00:00"
+    },
     {
       "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
       "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-06T19:55:46+00:00"
-    },
-    {
-      "id": "af1d804bccbfde1e82fd1e525584bd1a97b14fb3b049dfdfdd7f4e857e9f535f",
-      "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
-      "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
-      "summary": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-06T16:05:00+00:00"
-    },
-    {
-      "id": "b540a46dae2c7a1dbae9dcd35534f451656d8c3b57bcedc4d220c47c223d6bd4",
-      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
-      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-06T15:46:43+00:00"
     }
   ]
 }

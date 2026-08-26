@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-25T18:49:19.189010+00:00",
+  "updated": "2026-08-26T07:00:36.077881+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8c76a49318b2650e77ff14ea36fa16689ec632499aee5b1e990387b147a30f13",
+      "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
+      "url": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
+      "summary": "These are two different products, but consumers end up confused because of misinformation and poor marketing copy.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-25T22:45:00+00:00"
+    },
+    {
+      "id": "675e21d3f9d326204d83070328edacc92ed12fdb44dd1c2d8e81939a9134a26f",
+      "title": "Garmin's new Fenix 9 Pro smartwatch is twice as bright as the previous gen - here's how they compare",
+      "url": "https://www.zdnet.com/article/garmin-fenix-9-vs-garmin-fenix-8/",
+      "summary": "Garmin's new flagship Fenix 9 epitomizes the premium rugged smartwatch - but how much of an upgrade is it from the Fenix 8?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-25T20:05:00+00:00"
+    },
     {
       "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
       "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-22T20:53:34+00:00"
-    },
-    {
-      "id": "2b131c9ee34c33440f5d811c09970d0139cd5fab74b9f723434f68f73afe8071",
-      "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T19:31:57+00:00"
-    },
-    {
-      "id": "bd389c180f5427eb26a5e493717cfe6717a7602ab97cef6bb9f93ca57ce42e2e",
-      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
-      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T19:10:46+00:00"
     }
   ]
 }
