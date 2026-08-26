@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-26T07:00:36.077881+00:00",
+  "updated": "2026-08-26T19:55:12.957298+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
+      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T15:30:00+00:00"
+    },
+    {
+      "id": "267b95a5d175a32513eafc5b1b1eefb7e381317daac27988147a69bcf4badf66",
+      "title": "Intuit announces Intuit Intelligence Chat, other upgrades for Enterprise Suite and QBOA",
+      "url": "https://www.accountingtoday.com/news/intuit-announces-intuit-intelligence-chat-other-upgrades-for-enterprise-suite-and-qboa",
+      "summary": "Intuit announced a host of new upgrades and capacities in Intuit Enterprise Suite and QuickBooks Online Advanced made specifically for mid-market entities.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-13T15:13:17+00:00"
+    },
+    {
+      "id": "f9faa4a56b4d27b1fc7768b03928b3b64acff2d9b096cd35d3bc6720531c4577",
+      "title": "The best password managers of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-password-manager/",
+      "summary": "If you have trouble remembering the passwords for all of your online accounts, we've handpicked the best password manager apps to help you stay protected.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T09:00:43+00:00"
+    },
     {
       "id": "48418a6071ea953fdfa0ed95c959924c5175290d9536feaa42ecf41f0a0c7a38",
       "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-07-29T18:24:08+00:00"
-    },
-    {
-      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
-      "title": "The best smartwatches of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smartwatch/",
-      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T18:20:00+00:00"
-    },
-    {
-      "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
-      "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
-      "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
-      "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T15:00:45+00:00"
-    },
-    {
-      "id": "ef80a674c35080347f59d8cd397f55af7a4c26fadd3bc5b92d4fe90234077d93",
-      "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
-      "url": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
-      "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T13:15:00+00:00"
     }
   ]
 }

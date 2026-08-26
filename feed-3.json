@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-26T07:00:36.077881+00:00",
+  "updated": "2026-08-26T19:55:12.957298+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
+      "title": "The best smartwatches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smartwatch/",
+      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T18:20:00+00:00"
+    },
+    {
+      "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
+      "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+      "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+      "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T15:00:45+00:00"
+    },
+    {
+      "id": "ef80a674c35080347f59d8cd397f55af7a4c26fadd3bc5b92d4fe90234077d93",
+      "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
+      "url": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
+      "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T13:15:00+00:00"
+    },
     {
       "id": "f9a4ac888a7a53601e9ebec001b2b93d937af92174708feeee894815bc6d776a",
       "title": "I tried ArchEZ to see if it really makes Arch Linux easy for beginners - and it delivered",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-18T09:30:41+00:00"
-    },
-    {
-      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
-      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
-      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
-      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T16:36:19+00:00"
-    },
-    {
-      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
-      "title": "Tech News: Blue J offers accounting professors free access",
-      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
-      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-07-17T15:16:55+00:00"
-    },
-    {
-      "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
-      "title": "I tested this backup power station during a real blackout - don't make my mistakes",
-      "url": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
-      "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T14:15:10+00:00"
     }
   ]
 }

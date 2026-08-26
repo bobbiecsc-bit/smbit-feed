@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-26T07:00:36.077881+00:00",
+  "updated": "2026-08-26T19:55:12.957298+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d5be96e15cce5b930bae8e37597814d42bb443374071bbd223fb882ab91a2109",
+      "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+      "url": "https://thenewstack.io/google-thomson-specialized-ai/",
+      "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-08-26T16:33:23+00:00"
+    },
+    {
+      "id": "e3a68d07b601fa0160a471b6134e2d413d95b1d93176c6663cb8a81a4d225145",
+      "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
+      "url": "https://www.zdnet.com/article/google-pixel-11-review/",
+      "summary": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-26T15:55:00+00:00"
+    },
+    {
+      "id": "f2a1bb7e1fa5cde8fb969ce93b2349b02f6b4f702d4d381505af0ca82fa718fd",
+      "title": "The best reading tablets of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-reading-tablet/",
+      "summary": "We rounded up the best reading tablets of the year that you can take with you anywhere.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-26T11:00:46+00:00"
+    },
     {
       "id": "8c76a49318b2650e77ff14ea36fa16689ec632499aee5b1e990387b147a30f13",
       "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
@@ -2224,33 +2251,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-06-23T18:50:18+00:00"
-    },
-    {
-      "id": "82820d5b663687411f94b60913af86bd5e31a35b2b2549f257911ec051783c99",
-      "title": "Walmart's Prime Day sale is here: Up to 50% off laptops, TVs, smart glasses, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-2026/",
-      "summary": "It's Walmart vs. Amazon this Prime Day: Walmart's massive rival sale is here, with great deals on 4K smart TVs, Apple tech, and laptops - some of which are better than Amazon's prices.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T17:32:04+00:00"
-    },
-    {
-      "id": "632d16833d3991be30cda1da5a77ed8f988a924c6d5bc3e03b118495dcec1984",
-      "title": "Gmail's genius Gemini Flows feature fixes filters - but only for your first 2000 emails a month",
-      "url": "https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/",
-      "summary": "I tried Gmail's new Gemini Flows feature and it's a huge filter improvement with one big catch for power users.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T08:00:40+00:00"
-    },
-    {
-      "id": "b2b66777a2651afe34f80660496d24b899dc67bd6f33597ad803eb71dfdb3f77",
-      "title": "I tested Android 17 on my Pixel 9 Pro - its app bubbles are a multitasker's dream",
-      "url": "https://www.zdnet.com/article/the-android-17-features-that-im-most-excited-about/",
-      "summary": "These are the 6 new Android 17 features I'm most excited about.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-22T20:53:34+00:00"
     }
   ]
 }
