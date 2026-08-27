@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-26T19:55:12.957298+00:00",
+  "updated": "2026-08-27T17:34:10.033346+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
+      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
+      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T14:44:00+00:00"
+    },
+    {
+      "id": "e94f9b29d3f640d1fa25d69b946c69e5535bf35e6891c1874554889adc0d169d",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "source": "Ars Technica",
+      "category": "continuity",
+      "date": "2026-08-27T14:00:13+00:00"
+    },
+    {
+      "id": "9f4ed443bfc09d4f50f12fc338a9555c60768389aa9bab0a59cd9428965cd50d",
+      "title": "Plaud's first AI earbuds have arrived - what they can do",
+      "url": "https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/",
+      "summary": "Can these new wearables deliver on the long-anticipated promises of AI earbuds?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:42+00:00"
+    },
+    {
+      "id": "1da7ab2f27c4403c40508985e0f249e97842f62f3a073f6e1812ec0b99dee84b",
+      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
+      "url": "https://thenewstack.io/anthropic-files-api-costs/",
+      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic&#8217;s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:00+00:00"
+    },
+    {
+      "id": "7139f62e5c44a7d0224d88e8a6c29e6d884ac524ffa2f477dc7f3ecaba7fca6e",
+      "title": "The best iPad Air cases of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-ipad-air-case/",
+      "summary": "The right case can take your iPad Air to the next level. These are our favorite iPad Air cases from brands like Apple, Burga, and Logitech.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T09:00:47+00:00"
+    },
     {
       "id": "d5be96e15cce5b930bae8e37597814d42bb443374071bbd223fb882ab91a2109",
       "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
@@ -100,15 +145,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-08-24T16:20:15+00:00"
-    },
-    {
-      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
-      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
-      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-24T15:39:09+00:00"
     },
     {
       "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
@@ -2215,42 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-24T00:51:00+00:00"
-    },
-    {
-      "id": "c12566a091814a4899d8a7f2b451fffa40719469083e5252c13fad3d33f84be0",
-      "title": "Sony's WH-1000XM6 headphones just dropped to their lowest price yet for Amazon Prime Day",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm6-amazon-prime-day-deal-2026/",
-      "summary": "Sony's WH-1000XM6 headphones bring best-in-class ANC and refined audio output.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T00:51:00+00:00"
-    },
-    {
-      "id": "36b69c1e752726ddbf7f834cfa2f677cfab1954363f7f0d5fd1e985e0771cee2",
-      "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-costco-deals-2026/",
-      "summary": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-23T19:38:55+00:00"
-    },
-    {
-      "id": "225b39ba9c21a807b57e138098bcb0c0069243a9053a8270a08788be39082ca4",
-      "title": "Hourly billing very rare in tax prep",
-      "url": "https://www.accountingtoday.com/news/hourly-billing-very-rare-in-tax-prep",
-      "summary": "Firms that rely on the old-fashioned billable hour are in the minority compared to fixed fee, value pricing and other models.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-06-23T19:00:00+00:00"
-    },
-    {
-      "id": "6c1787612aa96c0e546fd00223f1387455da5549d315d5b6fa82a977542fb4fe",
-      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
-      "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
-      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-06-23T18:50:18+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-26T19:55:12.957298+00:00",
+  "updated": "2026-08-27T17:34:10.033346+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
+      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
+      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
+      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T17:10:00+00:00"
+    },
+    {
+      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
+      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
+      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
+      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T12:30:00+00:00"
+    },
+    {
+      "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
+      "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
+      "url": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
+      "summary": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T18:25:00+00:00"
+    },
+    {
+      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
+      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
+      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-29T18:24:08+00:00"
+    },
     {
       "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
       "title": "The best smartwatches of 2026: Expert tested and reviewed",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-20T13:00:50+00:00"
-    },
-    {
-      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
-      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-19T21:30:34+00:00"
-    },
-    {
-      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
-      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
-      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
-      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-07-19T10:00:43+00:00"
-    },
-    {
-      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
-      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
-      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
-      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-18T10:00:39+00:00"
-    },
-    {
-      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
-      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
-      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
-      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-18T09:30:41+00:00"
     }
   ]
 }

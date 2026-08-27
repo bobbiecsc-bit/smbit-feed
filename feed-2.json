@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-26T19:55:12.957298+00:00",
+  "updated": "2026-08-27T17:34:10.033346+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
+      "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
+      "url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
+      "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:15:34+00:00"
+    },
+    {
+      "id": "1fd2f8e15dc517f614c5898815dbc4ad0e6f27d7319cb8cf74f47132f9917933",
+      "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
+      "url": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
+      "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
+      "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
+      "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+      "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T20:46:00+00:00"
+    },
+    {
+      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
+      "title": "Rubrik’s lessons from one month with Mythos Preview",
+      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
+      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-13T17:37:33+00:00"
+    },
     {
       "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
       "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-30T20:08:00+00:00"
-    },
-    {
-      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
-      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
-      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
-      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T17:10:00+00:00"
-    },
-    {
-      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
-      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
-      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
-      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T12:30:00+00:00"
-    },
-    {
-      "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
-      "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
-      "url": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
-      "summary": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T18:25:00+00:00"
-    },
-    {
-      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
-      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
-      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
-      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-29T18:24:08+00:00"
     }
   ]
 }
