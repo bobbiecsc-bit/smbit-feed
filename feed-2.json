@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-28T02:07:43.119519+00:00",
+  "updated": "2026-08-28T18:31:32.985402+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
+      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
+      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "summary": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:45:00+00:00"
+    },
+    {
+      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
+      "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+      "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:15:45+00:00"
+    },
     {
       "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
       "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-31T18:05:03+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-31T15:19:00+00:00"
-    },
-    {
-      "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
-      "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
-      "url": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
-      "summary": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T20:08:00+00:00"
     }
   ]
 }

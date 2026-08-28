@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-28T02:07:43.119519+00:00",
+  "updated": "2026-08-28T18:31:32.985402+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
+      "title": "QBO API update could lead to strange formatting for the unprepared",
+      "url": "https://www.accountingtoday.com/news/qbo-api-update-could-lead-to-strange-formatting-for-the-unprepared",
+      "summary": "Starting Sept. 1, Intuit will be updating the QuickBooks Online Reports API, which could lead to strange presentation issues.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-28T17:49:24+00:00"
+    },
+    {
+      "id": "ef3a95a6797e448d2e18d8eaa51256ca06354ec322a1d09dff9ce98b48e8b32f",
+      "title": "RSM launches AI-guided internal audit platform \"Beacon\" with Andera",
+      "url": "https://www.accountingtoday.com/news/rsm-launches-ai-guided-internal-audit-platform-beacon-with-andera",
+      "summary": "Top 10 firm RSM, in cooperation with AI-powered audit technology Andera, announced an AI-driven control testing platform for internal audit, RSM Beacon.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-08-28T16:18:00+00:00"
+    },
+    {
+      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
+      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-28T15:15:05+00:00"
+    },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
       "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
@@ -94,15 +121,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-25T20:05:00+00:00"
-    },
-    {
-      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
-      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
-      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T16:57:55+00:00"
     },
     {
       "id": "1c2098524a32cb7947ff49a136bfc79ddf02ca2ad42131f836675d97c46d0552",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-08-17T11:38:51+00:00"
-    },
-    {
-      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
-      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
-      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
-      "summary": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-16T10:45:00+00:00"
-    },
-    {
-      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
-      "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
-      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
-      "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-16T10:15:45+00:00"
     }
   ]
 }

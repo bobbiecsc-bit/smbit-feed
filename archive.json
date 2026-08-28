@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-28T02:07:43.119519+00:00",
+  "updated": "2026-08-28T18:31:32.985402+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
+      "title": "QBO API update could lead to strange formatting for the unprepared",
+      "url": "https://www.accountingtoday.com/news/qbo-api-update-could-lead-to-strange-formatting-for-the-unprepared",
+      "summary": "Starting Sept. 1, Intuit will be updating the QuickBooks Online Reports API, which could lead to strange presentation issues.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-28T17:49:24+00:00"
+    },
+    {
+      "id": "ef3a95a6797e448d2e18d8eaa51256ca06354ec322a1d09dff9ce98b48e8b32f",
+      "title": "RSM launches AI-guided internal audit platform \"Beacon\" with Andera",
+      "url": "https://www.accountingtoday.com/news/rsm-launches-ai-guided-internal-audit-platform-beacon-with-andera",
+      "summary": "Top 10 firm RSM, in cooperation with AI-powered audit technology Andera, announced an AI-driven control testing platform for internal audit, RSM Beacon.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-08-28T16:18:00+00:00"
+    },
+    {
+      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
+      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-28T15:15:05+00:00"
+    },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
       "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
@@ -91,15 +118,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-25T20:05:00+00:00"
-    },
-    {
-      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
-      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
-      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T16:57:55+00:00"
     },
     {
       "id": "1c2098524a32cb7947ff49a136bfc79ddf02ca2ad42131f836675d97c46d0552",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-24T01:19:02+00:00"
-    },
-    {
-      "id": "8eafc48d840a500f24a8c0cbd3c7d7bb85d15a0a914eca3317fc54610319809f",
-      "title": "I tried HP's $500 MacBook Neo alternative, and it's a better budget laptop in two ways",
-      "url": "https://www.zdnet.com/article/hp-omnibook-3-2026-review/",
-      "summary": "HP's OmniBook 3 combines decent hardware and exceptional battery life, making it one of the best-value laptops I've tested this year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T00:57:00+00:00"
-    },
-    {
-      "id": "b9eac3b82e9302862149a97f0fcc8942771ded7bcaceeae9171c461c8aa365cf",
-      "title": "Amazon is selling Pokémon Chaos Rising Elite Trainer Boxes for $20 off during Prime Day",
-      "url": "https://www.zdnet.com/article/pokemon-tcg-rising-chaos-trainer-box-deal-amazon-prime-day-2026/",
-      "summary": "This latest Pokémon Elite Trainer Box includes 9 booster packs and many competitive accessories for less than $100 during Prime Day.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-24T00:51:00+00:00"
     }
   ]
 }
