@@ -1,10 +1,73 @@
 {
-  "updated": "2026-08-31T13:28:20.619457+00:00",
+  "updated": "2026-08-31T22:44:07.260494+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "658388d808e06b0c314ba9bcd6691c90d3ea07272d2abcfd96ecc2181310b305",
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-08-31T19:53:34+00:00"
+    },
+    {
+      "id": "0f3b34dd9347d095e21ae1010c89ac8bea832909ef70d1ead74cfee46a4cf107",
+      "title": "How an $80 accessory turned my tablet from mouse pad to productivity powerhouse",
+      "url": "https://www.zdnet.com/article/satechi-onthego-foldable-stand-hub/",
+      "summary": "I never realized how revolutionary a simple stand could be. And the Satechi OntheGo Foldable Stand Hub does so much more than hold my tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-31T18:57:39+00:00"
+    },
+    {
+      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
+      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:48:00+00:00"
+    },
+    {
+      "id": "312c4c4399257441d3a09f8199ffb8d3b133e8fcd2bcf36f47b23a2927af9528",
+      "title": "Amazon just dropped the Sony WH-1000XM5 headphones down to 50% off - the lowest price yet",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm5-headphones-amazon-labor-day-sale-2026/",
+      "summary": "Sony's excellent noise-canceling headphones just hit an all-time low price ahead of Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:07:37+00:00"
+    },
+    {
+      "id": "e15fd9ca169adbb0108a295178f5d77c790d93f84cbd6bac377d936a1ef3ea88",
+      "title": "I compared the cameras on the Galaxy Z Fold 8 and Pixel 11 Pro Fold - and one pulled ahead",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-camera-vs-pixel-11-pro-fold-camera/",
+      "summary": "I put the two phones' cameras to the test on a recent trip to Germany. It was close, but one phone edged out the other.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T15:50:00+00:00"
+    },
+    {
+      "id": "1b054ba442b8e76c384d32f65c6eecb22ed6ea15ba066b99042dd41eed3ec381",
+      "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft",
+      "url": "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft",
+      "summary": "Healthcare company McKesson acknowledged a data breach. ShinyHunters claims to have stolen hundred of millions of records",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-08-31T14:46:50+00:00"
+    },
+    {
+      "id": "1bab5080114f2e220333f8ed6cf4c0b19d4b45aaf6b0c88f938a4b143dd62234",
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CS",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-31T14:45:25+00:00"
+    },
     {
       "id": "8f49b6d9ed20d513381d9bb9f9403227ffb8a655318d61f7ad1a984409ed7357",
       "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
@@ -40,15 +103,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-08-28T16:18:00+00:00"
-    },
-    {
-      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
-      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
-      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-28T15:15:05+00:00"
     },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
@@ -400,60 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-08-19T08:00:00+00:00"
-    },
-    {
-      "id": "7f2509f5ce16d6c7e1dc62e7133724b667db30f86d52e547a1f32a2b2f353581",
-      "title": "I tested GNOME's glassy new look - and it's simply spectacular",
-      "url": "https://www.zdnet.com/article/gnome-desktop-liquid-glass-aura-glass/",
-      "summary": "GNOME is finally catching up to other desktop environments, thanks to Aura Glass, a fluid, modern desktop inspired by Apple's Liquid Glass.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-18T20:32:12+00:00"
-    },
-    {
-      "id": "3b89e921fec720a58765b9dd3d69cc022ba3019c1a473a70b5f5c7abf70f002e",
-      "title": "What happens to your indexed data when Mistral flips the switch?",
-      "url": "https://thenewstack.io/mistral-mcp-connector-migration/",
-      "summary": "Mistral is giving enterprise customers until August 31 to replace the Google Drive and Microsoft SharePoint Knowledge Connectors they use The post What happens to your indexed data when Mistral flips the switch? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-18T20:07:55+00:00"
-    },
-    {
-      "id": "f53d727288bc47055323d921bfd9618e712ddfb3497897bef3fafab9ead2e8c7",
-      "title": "The 3-2-1 backup rule isn’t enough anymore",
-      "url": "https://smartermsp.com/the-3-2-1-backup-rule-isnt-enough-anymore/",
-      "summary": "For decades, the 3-2-1 backup rule has been the mainstay of data protection: keep three copies of your data, on two different types of media, with one copy stored offsite. It was a sound framework for a world where the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-08-18T18:16:22+00:00"
-    },
-    {
-      "id": "71143694810931d883223ea7a1f3c0cd5f8792d1be3747aa3e867f9488145664",
-      "title": "I tested Omarchy Quattro, one of the first Linux distros to go all in on AI - and I didn't hate it",
-      "url": "https://www.zdnet.com/article/omarchy-quattro-linux-distro-power-users-ai/",
-      "summary": "Omarchy made me fall in love with Hyprland - can it do the same for AI?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-18T15:51:37+00:00"
-    },
-    {
-      "id": "370942f10639207e8e267e188dc3f3cf41189909946f715e5de228675c2b8363",
-      "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
-      "url": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
-      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-18T15:11:00+00:00"
-    },
-    {
-      "id": "f64062c41c84e8c653f70057a6fbe053e096d69ba0aac2750b63f6cd2d89bad0",
-      "title": "You can turn an old Android into a Raspberry Pi alternative - but know this first",
-      "url": "https://www.zdnet.com/article/turn-old-android-into-raspberry-pi-alternative/",
-      "summary": "With AI-driven RAM shortages pushing Raspberry Pi prices sky high, here's how to repurpose your old handset into a portable powerhouse for your projects.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-08-17T17:11:41+00:00"
     }
   ]
 }

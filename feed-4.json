@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-31T13:28:20.619457+00:00",
+  "updated": "2026-08-31T22:44:07.260494+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
+      "title": "Block built a Slack for AI agents — and gave each one its own passport",
+      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
+      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-07-21T16:30:00+00:00"
+    },
+    {
+      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
+      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
+      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
+      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T12:40:00+00:00"
+    },
+    {
+      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
+      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
+      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T10:01:03+00:00"
+    },
+    {
+      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
+      "title": "Google just bet its inference future on a chip built for one model",
+      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
+      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-20T22:14:41+00:00"
+    },
+    {
+      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-20T18:07:20+00:00"
+    },
+    {
+      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
+      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
+      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
+      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-20T17:42:00+00:00"
+    },
     {
       "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
       "title": "The best rugged phones in 2026: Expert tested",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T15:34:00+00:00"
-    },
-    {
-      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
-      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
-      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:41:00+00:00"
-    },
-    {
-      "id": "8bef77666e060afe3cb9bac4b687beb159cadc2d57dd8d320209258d8557824d",
-      "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
-      "url": "https://www.zdnet.com/article/how-id-rank-distrowatch-top-10-as-linux-expert/",
-      "summary": "DistroWatch says these are the top Linux distros. I say this order is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:14:07+00:00"
-    },
-    {
-      "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
-      "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
-      "url": "https://www.zdnet.com/article/norton-antivirus-review/",
-      "summary": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T13:02:00+00:00"
-    },
-    {
-      "id": "df79edd46fd49dc1a1b1065cf31b2de75a911e4e26e7bf0617e25698c3313a2d",
-      "title": "Best blood pressure watches: I tested the top models that actually work",
-      "url": "https://www.zdnet.com/article/best-blood-pressure-watch/",
-      "summary": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
-      "title": "The best malware removal software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
-      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T09:00:59+00:00"
-    },
-    {
-      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
-      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
-      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T19:41:00+00:00"
     }
   ]
 }

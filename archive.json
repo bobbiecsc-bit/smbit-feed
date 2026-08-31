@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-31T13:28:20.619457+00:00",
+  "updated": "2026-08-31T22:44:07.260494+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "658388d808e06b0c314ba9bcd6691c90d3ea07272d2abcfd96ecc2181310b305",
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-08-31T19:53:34+00:00"
+    },
+    {
+      "id": "0f3b34dd9347d095e21ae1010c89ac8bea832909ef70d1ead74cfee46a4cf107",
+      "title": "How an $80 accessory turned my tablet from mouse pad to productivity powerhouse",
+      "url": "https://www.zdnet.com/article/satechi-onthego-foldable-stand-hub/",
+      "summary": "I never realized how revolutionary a simple stand could be. And the Satechi OntheGo Foldable Stand Hub does so much more than hold my tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-31T18:57:39+00:00"
+    },
+    {
+      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
+      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:48:00+00:00"
+    },
+    {
+      "id": "312c4c4399257441d3a09f8199ffb8d3b133e8fcd2bcf36f47b23a2927af9528",
+      "title": "Amazon just dropped the Sony WH-1000XM5 headphones down to 50% off - the lowest price yet",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm5-headphones-amazon-labor-day-sale-2026/",
+      "summary": "Sony's excellent noise-canceling headphones just hit an all-time low price ahead of Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:07:37+00:00"
+    },
+    {
+      "id": "e15fd9ca169adbb0108a295178f5d77c790d93f84cbd6bac377d936a1ef3ea88",
+      "title": "I compared the cameras on the Galaxy Z Fold 8 and Pixel 11 Pro Fold - and one pulled ahead",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-camera-vs-pixel-11-pro-fold-camera/",
+      "summary": "I put the two phones' cameras to the test on a recent trip to Germany. It was close, but one phone edged out the other.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T15:50:00+00:00"
+    },
+    {
+      "id": "1b054ba442b8e76c384d32f65c6eecb22ed6ea15ba066b99042dd41eed3ec381",
+      "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft",
+      "url": "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft",
+      "summary": "Healthcare company McKesson acknowledged a data breach. ShinyHunters claims to have stolen hundred of millions of records",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-08-31T14:46:50+00:00"
+    },
+    {
+      "id": "1bab5080114f2e220333f8ed6cf4c0b19d4b45aaf6b0c88f938a4b143dd62234",
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CS",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-31T14:45:25+00:00"
+    },
     {
       "id": "8f49b6d9ed20d513381d9bb9f9403227ffb8a655318d61f7ad1a984409ed7357",
       "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
@@ -37,15 +100,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-08-28T16:18:00+00:00"
-    },
-    {
-      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
-      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
-      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-28T15:15:05+00:00"
     },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
@@ -2197,60 +2251,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-06-25T09:00:44+00:00"
-    },
-    {
-      "id": "a814208c6c8c93013ff2922b3d0af8924003db78b63a63e423fbe1d78bdbdea3",
-      "title": "As an avid reader, these are the Kindle Prime Day deals worth buying (accessories, too)",
-      "url": "https://www.zdnet.com/article/kindle-amazon-prime-day-deals-2026/",
-      "summary": "Kindle and other Amazon devices get the biggest price drops of the year, and here are the best deals you can find right now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-25T00:54:38+00:00"
-    },
-    {
-      "id": "f28972c25389856263f7fb506e647ba1a347a0554c1a944d39282f40bd82a88f",
-      "title": "The best Prime Day deals under $50 you can grab right now and still be within budget",
-      "url": "https://www.zdnet.com/article/best-deals-under-50-amazon-prime-day-2026/",
-      "summary": "Upgrade your tech setup for less. Check out our curated list of the best Prime Day 2026 deals under $50 on streaming sticks, chargers, and headphones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T20:14:41+00:00"
-    },
-    {
-      "id": "b549ca6d0236702b1608e9dfbaf46c173ed95d97725ae631538124e6f8c2a285",
-      "title": "70% of companies deploying customer service AI agents see ROI in 60 days",
-      "url": "https://www.zdnet.com/article/agentic-ai-in-customer-service/",
-      "summary": "Outcome-based resolution pricing means companies pay only when the AI agent resolves an issue autonomously, without human intervention.",
-      "source": "ZDNet Business",
-      "category": "finance",
-      "date": "2026-06-24T18:52:17+00:00"
-    },
-    {
-      "id": "fa5a111bd9d46ae53b9b4667d987c434ed48f5b011453262328a0d4f1f69056f",
-      "title": "Google's Fitbit Air is a $99 screenless wearable that I can actually take seriously",
-      "url": "https://www.zdnet.com/article/google-fitbit-air-review/",
-      "summary": "The latest health tracker is hidden inside a slick fitness band, and it delivers.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T18:10:00+00:00"
-    },
-    {
-      "id": "6bbd000cd51875008f5df0b3cb6c516e531b4370bab1be4844352eb6ad5063fa",
-      "title": "More revenue, less waste: Five lessons for MSP growth",
-      "url": "https://smartermsp.com/more-revenue-less-waste-five-lessons-for-msp-growth/",
-      "summary": "The core of effective marketing isn’t complex: Focus on a few activities that support visibility, credibility, and business development. Don’t believe me? Consider one of the IT services companies we work with. They followed the simple approach outlined below and [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-06-24T15:52:53+00:00"
-    },
-    {
-      "id": "d1382a831fb9529ea6fae4b5bd6673c5905c4d96ba17eea064c025948c88524f",
-      "title": "Apple Maps vs. Google Maps: I used both navigation apps for years, and one is much better",
-      "url": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-      "summary": "Apple Maps has improved over the years, but how does it stack up to Google Maps today? Here's my verdict after extended use.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-24T09:00:50+00:00"
     }
   ]
 }

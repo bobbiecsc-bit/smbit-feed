@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-31T13:28:20.619457+00:00",
+  "updated": "2026-08-31T22:44:07.260494+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
+      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-03T16:12:30+00:00"
+    },
+    {
+      "id": "f40a195e7c4eadcab6bc86f05c1503743dfaba2ca2e7e1da825e901f0892c8f1",
+      "title": "Best MagSafe wallets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-magsafe-wallets/",
+      "summary": "You don't have to compromise on style or function with these MagSafe wallet picks from brands like Moft, ESR, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T14:38:00+00:00"
+    },
+    {
+      "id": "d109093da20ffdd81fa9c33afb33bb35d2031e1d6d6d7b4843b03eae911702c9",
+      "title": "My favorite MacBook accessory gives my keyboard a simple but useful upgrade for cheap",
+      "url": "https://www.zdnet.com/article/uppercase-ghost-cover-review/",
+      "summary": "The best investment I've made for my MacBook Pro only cost me $13 - here's why I recommend it.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-02T10:00:43+00:00"
+    },
+    {
+      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
+      "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "summary": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-02T09:15:52+00:00"
+    },
+    {
+      "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
+      "summary": "Should you update to the Galaxy Fold 8 Ultra if you have a Z Fold 6? I'm familiar with both phones, here's my take.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T09:15:50+00:00"
+    },
+    {
+      "id": "6282a0a055b0a3944bf9687c628971d324773d6d5dc4f21de5a824c501d3d2d5",
+      "title": "Alienware 15 vs. LOQ Essential 15: I compared both budget gaming laptops - it was close",
+      "url": "https://www.zdnet.com/article/alienware-15-vs-loq-essential-15/",
+      "summary": "These affordable gaming laptops were neck and neck in my testing, but one pulled ahead for me.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-01T08:30:43+00:00"
+    },
     {
       "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
       "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
@@ -400,60 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-21T17:05:16+00:00"
-    },
-    {
-      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
-      "title": "Block built a Slack for AI agents — and gave each one its own passport",
-      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
-      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
-      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
-      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
-      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T12:40:00+00:00"
-    },
-    {
-      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
-      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
-      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T10:01:03+00:00"
-    },
-    {
-      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
-      "title": "Google just bet its inference future on a chip built for one model",
-      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
-      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-20T22:14:41+00:00"
-    },
-    {
-      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
-      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
-      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
-      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-20T18:07:20+00:00"
-    },
-    {
-      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
-      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
-      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
-      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:42:00+00:00"
     }
   ]
 }
