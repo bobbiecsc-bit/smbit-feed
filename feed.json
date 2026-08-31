@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-30T20:56:12.836140+00:00",
+  "updated": "2026-08-31T13:28:20.619457+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8f49b6d9ed20d513381d9bb9f9403227ffb8a655318d61f7ad1a984409ed7357",
+      "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
+      "url": "https://thenewstack.io/deepseek-gemini-vision-comparison/",
+      "summary": "DeepSeek released V4 Flash Vision Exp on August 21, its first model that accepts image input. Image input means a The post DeepSeek&#8217;s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-31T12:00:00+00:00"
+    },
+    {
+      "id": "ec5ab19260fdd12943c6e11a4c63844b3e6d77dfafe2e68574f5309650ff550d",
+      "title": "Tech Time Warp: Intel recalls its 1.13GHz Pentium III processor",
+      "url": "https://smartermsp.com/tech-time-warp-intel-recalls-its-1-13ghz-pentium-iii-processor/",
+      "summary": "It was billed as the “fastest x86 processor” ever manufactured, and maybe it was — when it worked properly. Twenty-six years ago, Intel had to pull its 1.13GHz Pentium III processor off the market only four weeks after its first [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-08-28T19:42:00+00:00"
+    },
     {
       "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
       "title": "QBO API update could lead to strange formatting for the unprepared",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-08-17T17:11:41+00:00"
-    },
-    {
-      "id": "f1d4d22e0ae3bde343759aeb6e1c38215ddda6f4d976690282f29b299d1416b3",
-      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
-      "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-17T16:02:36+00:00"
-    },
-    {
-      "id": "21140e09bf31ec9b8298cc15e4f7873b5bb7939a73f43be5d0ad47fd91328973",
-      "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
-      "url": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
-      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-17T11:38:51+00:00"
     }
   ]
 }
