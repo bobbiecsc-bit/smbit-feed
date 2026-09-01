@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-01T11:31:55.943918+00:00",
+  "updated": "2026-09-01T20:56:13.301458+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
+      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T19:30:07+00:00"
+    },
+    {
+      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
+      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
+      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
+      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T17:57:57+00:00"
+    },
+    {
+      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
+      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
+      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
+      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-07-21T17:05:16+00:00"
+    },
     {
       "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
       "title": "Block built a Slack for AI agents — and gave each one its own passport",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T08:45:00+00:00"
-    },
-    {
-      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
-      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T18:51:10+00:00"
-    },
-    {
-      "id": "f25648d6e8f6e17c12a2937ed496403ea58ef80100b012e86625deee4a509ff1",
-      "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
-      "url": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
-      "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T17:16:13+00:00"
-    },
-    {
-      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
-      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-notebook/",
-      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T15:34:00+00:00"
     }
   ]
 }

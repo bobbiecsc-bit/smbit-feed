@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-01T11:31:55.943918+00:00",
+  "updated": "2026-09-01T20:56:13.301458+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
+      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-garmin-watch/",
+      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:01:07+00:00"
+    },
+    {
+      "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
+      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
+      "url": "https://www.zdnet.com/article/best-hisense-tv/",
+      "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:00:45+00:00"
+    },
+    {
+      "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
+      "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
+      "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
+      "summary": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T18:50:00+00:00"
+    },
     {
       "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
       "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-21T19:30:13+00:00"
-    },
-    {
-      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
-      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
-      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
-      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T19:30:07+00:00"
-    },
-    {
-      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
-      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
-      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
-      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T17:57:57+00:00"
-    },
-    {
-      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
-      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
-      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-21T17:05:16+00:00"
     }
   ]
 }
