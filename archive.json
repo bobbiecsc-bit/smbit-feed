@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-03T11:03:53.189738+00:00",
+  "updated": "2026-09-03T20:54:23.507769+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
+      "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
+      "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
+      "summary": "AI agents are multiplying as corporations adopt the technology in record numbers. Smarter underlying models, better tool use, and improved The post Want to scale AI agents without breaking anything? Retrieval engineering is the answer. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-09-03T15:38:20+00:00"
+    },
     {
       "id": "8f0f4d509a4b5eba4be478ca2a3aad3c2505370f790aad4efffb9602efb50daf",
       "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-26T09:00:39+00:00"
-    },
-    {
-      "id": "199cf0d79517a8c72914667cbb77f9b627a4b7d73f97de2f24d27ef32ab9bc17",
-      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
-      "url": "https://thenewstack.io/cloud-costs-private-repatriation/",
-      "summary": "We&#8217;re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-06-26T00:09:24+00:00"
     }
   ]
 }

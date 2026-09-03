@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-03T11:03:53.189738+00:00",
+  "updated": "2026-09-03T20:54:23.507769+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
+      "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
+      "summary": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T11:00:55+00:00"
+    },
     {
       "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
       "title": "The best Garmin watches of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T22:30:40+00:00"
-    },
-    {
-      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
-      "title": "5 gaming accessories I refuse to play without",
-      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
-      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-21T19:30:13+00:00"
     }
   ]
 }

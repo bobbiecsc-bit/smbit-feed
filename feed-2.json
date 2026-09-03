@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-03T11:03:53.189738+00:00",
+  "updated": "2026-09-03T20:54:23.507769+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "15229311901ac19e05c086489448d60120d0375610647687bf64da1f78a1d0b1",
+      "title": "The best TVs of 2026: Expert tested and recommended",
+      "url": "https://www.zdnet.com/article/best-tv/",
+      "summary": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Samsung, and Hisense.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:36:00+00:00"
+    },
     {
       "id": "37cf91aeaff69a1252c18ce3855e8c8f7b3d2f55406e7a5c9d8cd3cf822d060b",
       "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-08-04T14:16:00+00:00"
-    },
-    {
-      "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
-      "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
-      "summary": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T11:00:55+00:00"
     }
   ]
 }
