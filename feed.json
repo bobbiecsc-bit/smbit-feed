@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-04T11:05:25.286590+00:00",
+  "updated": "2026-09-04T20:40:50.049486+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
+      "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-synkloader-teams-phishing-campaign/",
+      "summary": "Security researchers have identified a phishing campaign that uses Microsoft Teams messages impersonating IT support staff to distribute a newly discovered malware known as SynkLoader. Read this Cybersecurity Threat Advisory to understand the risks associated with SynkLoader, identify potential expo",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-09-04T18:15:26+00:00"
+    },
+    {
+      "id": "064856a472d798aeaa3042a0e2170b76c95f9eebc46b895b81f76af88f84bb03",
+      "title": "Tech news: New Deloitte practice incorporates open source AI models",
+      "url": "https://www.accountingtoday.com/list/tech-news-new-deloitte-practice-incorporates-open-source-ai-models",
+      "summary": "Plus, LogicGate 2026 release include GRC agents, lifecycle management solution; Deel launches retirement solution; and other accounting tech news.",
+      "source": "Accounting Today Tech",
+      "category": "continuity",
+      "date": "2026-09-04T16:54:58+00:00"
+    },
     {
       "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
       "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T15:53:08+00:00"
-    },
-    {
-      "id": "60d213c9925fce97d1a63fb8c71dca0fed27efa34057c80f69c990a675653c5e",
-      "title": "The best Android phones of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-android-phone/",
-      "summary": "We tested the latest Android phones on the market, from the Samsung Galaxy Z Fold 8 to the Google Pixel 11 series. Here's how they stack up.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T14:19:00+00:00"
-    },
-    {
-      "id": "25acac397ee8964b70dd5ad15ec56194f200a471362d476440b6f311b74a0a60",
-      "title": "Best robot vacuum mops of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-robot-vacuum-mop/",
-      "summary": "We've tested over 50 top robot vacuum-and-mop combos from brands like Roborock, Eufy, Ecovacs, and Dreame to choose the best to keep a home clean.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T14:12:00+00:00"
     }
   ]
 }

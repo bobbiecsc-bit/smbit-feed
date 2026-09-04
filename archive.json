@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-04T11:05:25.286590+00:00",
+  "updated": "2026-09-04T20:40:50.049486+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
+      "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-synkloader-teams-phishing-campaign/",
+      "summary": "Security researchers have identified a phishing campaign that uses Microsoft Teams messages impersonating IT support staff to distribute a newly discovered malware known as SynkLoader. Read this Cybersecurity Threat Advisory to understand the risks associated with SynkLoader, identify potential expo",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-09-04T18:15:26+00:00"
+    },
+    {
+      "id": "064856a472d798aeaa3042a0e2170b76c95f9eebc46b895b81f76af88f84bb03",
+      "title": "Tech news: New Deloitte practice incorporates open source AI models",
+      "url": "https://www.accountingtoday.com/list/tech-news-new-deloitte-practice-incorporates-open-source-ai-models",
+      "summary": "Plus, LogicGate 2026 release include GRC agents, lifecycle management solution; Deel launches retirement solution; and other accounting tech news.",
+      "source": "Accounting Today Tech",
+      "category": "continuity",
+      "date": "2026-09-04T16:54:58+00:00"
+    },
     {
       "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
       "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T15:49:11+00:00"
-    },
-    {
-      "id": "9689776dea5254c0d338b20827bb24855228a437acffa78e34fc16b4c67437e7",
-      "title": "The best last minute Prime Day smartwatch and fitness tracker deals I recommend right now",
-      "url": "https://www.zdnet.com/article/best-last-minute-smartwatch-deals-amazon-prime-day-2026/",
-      "summary": "I'm a health and wearables editor, and these are some of the top smartwatch, smart ring, and wellness deals I've found for the last day of Prime Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T15:43:12+00:00"
-    },
-    {
-      "id": "2b7779b74b7557c091f7072713107cb1695c556259fcafa9ea19350a9acaacc4",
-      "title": "I can't recommend these 20+ pocket-sized gadgets enough (and they're cheap)",
-      "url": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-prime-day-2026/",
-      "summary": "Small gear, big gain. Snag useful USB-C accessories, Bluetooth gadgets, and more before Amazon Prime Day ends.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-26T09:00:39+00:00"
     }
   ]
 }

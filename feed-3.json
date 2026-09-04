@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-04T11:05:25.286590+00:00",
+  "updated": "2026-09-04T20:40:50.049486+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fd13f411503ba38c158a5a787bb8698a130718ef578fc13c5fda59687ab36151",
+      "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
+      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
+      "summary": "The Momentum 5 and the Px7 S3 have similar spec sheets, but their real-life use cases set them apart.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T15:45:46+00:00"
+    },
+    {
+      "id": "b94e7c9f37a037356917ce584a847e7fae963e693064d13554dffafdb1044bd9",
+      "title": "Got an Intel Mac? 6 ways you can repurpose it after support ends",
+      "url": "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/",
+      "summary": "Tahoe is the last update for your Intel Mac, but you can still find creative uses for it when support ends.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-08-04T14:16:00+00:00"
+    },
     {
       "id": "fb8fc5634712cd74f1a40d5274704ee40efbb804f3f957651cc00e548f470cf7",
       "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T13:39:14+00:00"
-    },
-    {
-      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
-      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
-      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T13:01:00+00:00"
-    },
-    {
-      "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
-      "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
-      "url": "https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/",
-      "summary": "The System76 Thelio Mira Custom is a whisper-quiet 'boutique\" Linux workstation that actually feels practical.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T22:30:40+00:00"
     }
   ]
 }
