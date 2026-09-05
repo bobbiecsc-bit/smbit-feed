@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-05T10:26:59.666987+00:00",
+  "updated": "2026-09-05T20:14:19.998793+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
+      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
+      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:39:14+00:00"
+    },
     {
       "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
       "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T11:00:47+00:00"
-    },
-    {
-      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
-      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
-      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:01:05+00:00"
     }
   ]
 }

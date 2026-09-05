@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-05T10:26:59.666987+00:00",
+  "updated": "2026-09-05T20:14:19.998793+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "80fefb72dfa50ca40802e8a351ac42882cfba9b3790fb09638ed3400540cc8df",
+      "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+      "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
+      "summary": "Anthropic launched Claude Fable 5.1 this week, calling it “our most advanced model for coding and knowledge work.” There was The post Claude Fable 5.1 vs. Fable 5: On real work, I couldn&#8217;t tell them apart. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-05T15:00:00+00:00"
+    },
     {
       "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
       "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T16:01:00+00:00"
-    },
-    {
-      "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
-      "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
-      "url": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
-      "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T15:53:08+00:00"
     }
   ]
 }

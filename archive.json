@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-05T10:26:59.666987+00:00",
+  "updated": "2026-09-05T20:14:19.998793+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "80fefb72dfa50ca40802e8a351ac42882cfba9b3790fb09638ed3400540cc8df",
+      "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+      "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
+      "summary": "Anthropic launched Claude Fable 5.1 this week, calling it “our most advanced model for coding and knowledge work.” There was The post Claude Fable 5.1 vs. Fable 5: On real work, I couldn&#8217;t tell them apart. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-05T15:00:00+00:00"
+    },
     {
       "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
       "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "continuity",
       "date": "2026-06-26T16:17:26+00:00"
-    },
-    {
-      "id": "05dd488b0565a63736aef48f6b785f075eafd20787a59cb09d4c886e172727ec",
-      "title": "Best last minute Prime Day Apple deals I found for MacBooks, iPads, AirPods, and more",
-      "url": "https://www.zdnet.com/article/best-last-minute-prime-day-apple-deals-2026/",
-      "summary": "Prime Day 2026 is almost over. Shop our experts' hand-selected deals on AirPods Pro 3, Apple Watch 11, and AirPods Max 2 now while they're live.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T15:49:11+00:00"
     }
   ]
 }
