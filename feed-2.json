@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-07T12:16:20.669925+00:00",
+  "updated": "2026-09-07T21:25:45.260307+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5c5b5192170d9d60a3f6d0a16c1508c8ca097c0093252109b034925c53ba4b0e",
+      "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+      "url": "https://www.zdnet.com/article/suunto-core-2-review/",
+      "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T16:01:00+00:00"
+    },
     {
       "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
       "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
-      "title": "The best 98-inch TVs of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
-      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-05T10:00:49+00:00"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-07T12:16:20.669925+00:00",
+  "updated": "2026-09-07T21:25:45.260307+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
+      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+      "summary": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans ma",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-07T14:24:08+00:00"
+    },
     {
       "id": "80fefb72dfa50ca40802e8a351ac42882cfba9b3790fb09638ed3400540cc8df",
       "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T17:54:00+00:00"
-    },
-    {
-      "id": "a30787c36cbd92c9d50e7ce0175a7702d136b5e9172bfbbada97bb63898ff707",
-      "title": "10 gadgets that can give your iPhone useful superpowers (and they're cheaper than you think)",
-      "url": "https://www.zdnet.com/article/iphone-gadgets-amazon-prime-day-2026/",
-      "summary": "These teeny gadgets add massive oomph to your iPhone - and some are on sale for Prime Day.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-06-26T16:17:26+00:00"
     }
   ]
 }
