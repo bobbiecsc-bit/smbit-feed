@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T11:06:29.789708+00:00",
+  "updated": "2026-09-10T20:45:27.080823+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
+      "title": "The accounting lesson Congress still hasn't applied to AI",
+      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
+      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
     {
       "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
       "title": "The best 98-inch TVs of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T16:15:00+00:00"
-    },
-    {
-      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
-      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T15:43:12+00:00"
     }
   ]
 }

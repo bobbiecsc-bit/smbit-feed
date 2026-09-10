@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-10T11:06:29.789708+00:00",
+  "updated": "2026-09-10T20:45:27.080823+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
+      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
+      "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
+      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-10T14:00:00+00:00"
+    },
     {
       "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T18:03:29+00:00"
-    },
-    {
-      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
-      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
-      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T17:54:00+00:00"
     }
   ]
 }

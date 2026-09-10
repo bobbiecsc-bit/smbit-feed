@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T11:06:29.789708+00:00",
+  "updated": "2026-09-10T20:45:27.080823+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
+      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
+      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
+      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-10T16:54:00+00:00"
+    },
     {
       "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
       "title": "Best wireless chargers of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T18:03:29+00:00"
-    },
-    {
-      "id": "b7dbff2cb885cecb8eeb49dc2c8eb654a70048701838f9f330b13486a1b1a694",
-      "title": "Garmin Fenix 8 Pro vs. Apple Watch Ultra 3: How I'm deciding between the two smartwatches",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-vs-apple-watch-ultra-3/",
-      "summary": "Both feature best-in-class builds, standalone satellite communications, and durable designs. The right choice depends on what you want.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T17:54:00+00:00"
     }
   ]
 }

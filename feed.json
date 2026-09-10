@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T11:06:29.789708+00:00",
+  "updated": "2026-09-10T20:45:27.080823+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
+      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
+      "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
+      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-10T14:00:00+00:00"
+    },
     {
       "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-20T11:00:39+00:00"
-    },
-    {
-      "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
-      "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
-      "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
-      "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T17:20:50+00:00"
     }
   ]
 }

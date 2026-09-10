@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T11:06:29.789708+00:00",
+  "updated": "2026-09-10T20:45:27.080823+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
+      "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+      "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+      "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T17:20:50+00:00"
+    },
     {
       "id": "5c5b5192170d9d60a3f6d0a16c1508c8ca097c0093252109b034925c53ba4b0e",
       "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-05T13:00:28+00:00"
-    },
-    {
-      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
-      "title": "The accounting lesson Congress still hasn't applied to AI",
-      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
-      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-08-05T13:00:00+00:00"
     }
   ]
 }
