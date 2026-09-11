@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T20:45:27.080823+00:00",
+  "updated": "2026-09-11T11:05:32.995921+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "19aead908df340c4da96692a902b7546e9ce1f7fc5dc45be3b8db78f7eef0d39",
+      "title": "The TCL QM8L proves it's worth the upgrade in our lab testing",
+      "url": "https://www.zdnet.com/article/tcl-qm8l-lab-test-data-byte/",
+      "summary": "Data Byte: The TCL QM8L is the runner-up in best color accuracy in our lab testing of 7 TVs.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T11:00:39+00:00"
+    },
     {
       "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
       "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-06T09:00:49+00:00"
-    },
-    {
-      "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
-      "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
-      "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
-      "summary": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-05T13:00:28+00:00"
     }
   ]
 }

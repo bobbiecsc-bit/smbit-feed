@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T20:45:27.080823+00:00",
+  "updated": "2026-09-11T11:05:32.995921+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
+      "title": "The best email hosting for small businesses in 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
+      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-12T09:00:44+00:00"
+    },
     {
       "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-26T18:36:11+00:00"
-    },
-    {
-      "id": "b4b7be15673e2de74f5ce4f61b0025e86530441b4f890f010323be1563ac1be1",
-      "title": "The best Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
-      "url": "https://www.zdnet.com/article/best-last-minute-amazon-prime-day-samsung-deals-2026/",
-      "summary": "Prime Day is almost over. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T18:03:29+00:00"
     }
   ]
 }

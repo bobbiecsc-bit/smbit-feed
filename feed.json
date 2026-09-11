@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-10T20:45:27.080823+00:00",
+  "updated": "2026-09-11T11:05:32.995921+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3af3078ac29fc8865596fe0a1bc3fb709806f260e65938cd5017e4eedcb54ee7",
+      "title": "In age of AI, partners focus on relationships vs. productivity",
+      "url": "https://www.accountingtoday.com/news/in-age-of-ai-partners-expected-to-focus-on-relationships-versus-productivity",
+      "summary": "With AI taking on a growing share of routine tasks, accounting firms want more than just productivity from their partners.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-09-10T20:43:55+00:00"
+    },
     {
       "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
       "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-08-20T11:00:55+00:00"
-    },
-    {
-      "id": "19aead908df340c4da96692a902b7546e9ce1f7fc5dc45be3b8db78f7eef0d39",
-      "title": "The TCL QM8L proves it's worth the upgrade in our lab testing",
-      "url": "https://www.zdnet.com/article/tcl-qm8l-lab-test-data-byte/",
-      "summary": "Data Byte: The TCL QM8L is the runner-up in best color accuracy in our lab testing of 7 TVs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-20T11:00:39+00:00"
     }
   ]
 }
