@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-14T12:31:31.035488+00:00",
+  "updated": "2026-09-14T21:44:04.034848+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0e23b61bc647d7f7f1f0a446c2ce09132f63eaa35205a91e978371d4084e34cc",
+      "title": "Cybersecurity Threat Advisory: ScreenConnect file-transfer issue",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-screenconnect-file-transfer-issue/",
+      "summary": "ConnectWise has issued a security advisory for an undisclosed file-transfer issue affecting ScreenConnect cloud-hosted and on-premises deployments. The company recommends immediate temporary mitigations while it develops a permanent fix and awaits a CVE assignment. What is the threat? This issue [&#",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-09-14T19:35:01+00:00"
+    },
+    {
+      "id": "438b3b431878f6252b07a548bcf1507f8d89afbe58981653e69469bb183b99e6",
+      "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+      "summary": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The city is back at full speed, and so is the AWS launch calendar. This week that energy showed up in a new frontier model on Amazon Bedrock, a desk",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-14T15:56:33+00:00"
+    },
+    {
+      "id": "b95da21fc4a00e959dba4d7c20d1e7f9bb4729ca01f13843d2c9f25142a1f1a0",
+      "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+      "url": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+      "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-09-11T18:57:47+00:00"
+    },
     {
       "id": "3af3078ac29fc8865596fe0a1bc3fb709806f260e65938cd5017e4eedcb54ee7",
       "title": "In age of AI, partners focus on relationships vs. productivity",
@@ -22,6 +49,24 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-10T14:00:00+00:00"
+    },
+    {
+      "id": "3f153032e7a594c3b3b2dda2d71a14b790bbec9b71b011c5186ab2cf4a403d47",
+      "title": "5 biggest Apple announcements from the iPhone Duo event",
+      "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+      "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-09T20:54:09+00:00"
+    },
+    {
+      "id": "3bee0e03b870a7880ce236fe63c208a68d9924efc4adeffad5aa065668f2a29d",
+      "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
+      "url": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
+      "summary": "Sony’s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-08T12:27:18+00:00"
     },
     {
       "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
@@ -58,6 +103,15 @@
       "source": "Accounting Today Tech",
       "category": "continuity",
       "date": "2026-09-04T16:54:58+00:00"
+    },
+    {
+      "id": "914aae45a6b01a775a4acbe5e5aca86905f3fc894f6d98507627f873ca933763",
+      "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
+      "url": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+      "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-03T16:00:00+00:00"
     },
     {
       "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
@@ -400,60 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-20T21:00:46+00:00"
-    },
-    {
-      "id": "c148279103afdbba2be03edb4032bea3027f7449788828760345849efeedcf32",
-      "title": "After one week wearing the Pixel Watch 5, here's what I want most",
-      "url": "https://www.zdnet.com/article/5-takeaways-after-wearing-the-pixel-watch-5-for-a-week/",
-      "summary": "The Google Pixel Watch 5 is a faster, intelligent smartwatch with some helpful health and wellness features under the hood.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-20T20:01:00+00:00"
-    },
-    {
-      "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
-      "title": "Slack makes it easier to install agents built with third-party tools",
-      "url": "https://thenewstack.io/add-to-slack-agents/",
-      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they&#8217;ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-20T18:30:00+00:00"
-    },
-    {
-      "id": "62e082e32437c33953b2941e6fe6e1b651f493d4f7e3cf1bc89a1fe1c37e6d77",
-      "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
-      "url": "https://www.zdnet.com/article/wispr-flow-better-than-built-in-voice-text-tool-how-to-try-it/",
-      "summary": "Designed for Windows, MacOS, iOS, and Android, Wispr Flow is a pleasure to use compared with other voice dictation apps. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-20T17:08:14+00:00"
-    },
-    {
-      "id": "14a6fc000d13a1a5219f30316b113d78a319eb69a965969c8d4632df9bfbd66d",
-      "title": "Slack has a new channel type — but only agents can create one",
-      "url": "https://thenewstack.io/slack-code-agent-channels/",
-      "summary": "Slack on Thursday launched Slack Code, a new kind of Slack channel that&#8217;s built for coding agents and the developers The post Slack has a new channel type &#8212; but only agents can create one appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-20T16:50:07+00:00"
-    },
-    {
-      "id": "6498937e562dc63f4908df87294d23c65db08e17696b71379648680152c70fb7",
-      "title": "Roborock Q7 M5+ review: A capable budget robot vacuum that nails the fundamentals",
-      "url": "https://www.zdnet.com/article/roborock-q7-m5-review/",
-      "summary": "The Q7 M5+ is a strong value robot vacuum for households that want reliable mapping and an auto-empty dock without flagship pricing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-20T16:00:55+00:00"
-    },
-    {
-      "id": "b5d13308d456224354c675f6e6e1ac845d8b445dee13537281268db65ef731ad",
-      "title": "4 iPad accessories I swear by (including a cheaper Apple Pencil alternative)",
-      "url": "https://www.zdnet.com/article/4-ipad-accessories-i-swear-by-including-a-cheaper-apple-pencil-alternative/",
-      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of my tablet.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-20T11:00:55+00:00"
     }
   ]
 }

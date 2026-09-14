@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-14T12:31:31.035488+00:00",
+  "updated": "2026-09-14T21:44:04.034848+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0e23b61bc647d7f7f1f0a446c2ce09132f63eaa35205a91e978371d4084e34cc",
+      "title": "Cybersecurity Threat Advisory: ScreenConnect file-transfer issue",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-screenconnect-file-transfer-issue/",
+      "summary": "ConnectWise has issued a security advisory for an undisclosed file-transfer issue affecting ScreenConnect cloud-hosted and on-premises deployments. The company recommends immediate temporary mitigations while it develops a permanent fix and awaits a CVE assignment. What is the threat? This issue [&#",
+      "source": "Smarter MSP",
+      "category": "infrastructure",
+      "date": "2026-09-14T19:35:01+00:00"
+    },
+    {
+      "id": "438b3b431878f6252b07a548bcf1507f8d89afbe58981653e69469bb183b99e6",
+      "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+      "summary": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The city is back at full speed, and so is the AWS launch calendar. This week that energy showed up in a new frontier model on Amazon Bedrock, a desk",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-14T15:56:33+00:00"
+    },
+    {
+      "id": "b95da21fc4a00e959dba4d7c20d1e7f9bb4729ca01f13843d2c9f25142a1f1a0",
+      "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+      "url": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+      "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-09-11T18:57:47+00:00"
+    },
     {
       "id": "3af3078ac29fc8865596fe0a1bc3fb709806f260e65938cd5017e4eedcb54ee7",
       "title": "In age of AI, partners focus on relationships vs. productivity",
@@ -19,6 +46,24 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-10T14:00:00+00:00"
+    },
+    {
+      "id": "3f153032e7a594c3b3b2dda2d71a14b790bbec9b71b011c5186ab2cf4a403d47",
+      "title": "5 biggest Apple announcements from the iPhone Duo event",
+      "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+      "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-09T20:54:09+00:00"
+    },
+    {
+      "id": "3bee0e03b870a7880ce236fe63c208a68d9924efc4adeffad5aa065668f2a29d",
+      "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
+      "url": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
+      "summary": "Sony’s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-08T12:27:18+00:00"
     },
     {
       "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
@@ -55,6 +100,15 @@
       "source": "Accounting Today Tech",
       "category": "continuity",
       "date": "2026-09-04T16:54:58+00:00"
+    },
+    {
+      "id": "914aae45a6b01a775a4acbe5e5aca86905f3fc894f6d98507627f873ca933763",
+      "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
+      "url": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+      "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-03T16:00:00+00:00"
     },
     {
       "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
@@ -2197,60 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-29T14:52:00+00:00"
-    },
-    {
-      "id": "2cbc43e92b2dccd5f3a4f2df8b96e5a9910af8b32a33dd69615cd8d32754b35d",
-      "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I wore both pairs for months, and prefer this one",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
-      "summary": "Sony's and Sennheiser's flagship headphones are best in their class, but how you plan to use them determines whether they're top one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T12:00:38+00:00"
-    },
-    {
-      "id": "5ed21e9c69b743e1f4ab08dcffa25d5c5ccc01dff059808f23c2e23b6c1a2e23",
-      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
-      "url": "https://thenewstack.io/okta-ai-agents-fedramp/",
-      "summary": "Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "policy",
-      "date": "2026-06-28T13:49:00+00:00"
-    },
-    {
-      "id": "8522b5381a142ec0ef0654ec190e0f9611e0c483e1cc42dcfdf8ca72f302ed78",
-      "title": "I tested two of the best location-sharing apps for a month - this one was most accurate",
-      "url": "https://www.zdnet.com/article/heypolo-vs-life360-location-sharing-apps/",
-      "summary": "Surfshark's HeyPolo is taking on the popular Life360. Here's how this latest contender in the location-sharing space competes.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-28T11:00:41+00:00"
-    },
-    {
-      "id": "545dd55f8734efa63324e326fa864baaaee852368e659a8d24eb614638c67962",
-      "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
-      "url": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
-      "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price, even though Prime Day is over.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-27T13:37:34+00:00"
-    },
-    {
-      "id": "a022aa44b8c9d5902efcfee9a2a1379d2573caa68917b2d0476e74c92a480896",
-      "title": "This Garmin Epix Pro Gen 2 smartwatch is 50% off on Amazon - while supplies lasts",
-      "url": "https://www.zdnet.com/article/garmin-epix-pro-smartwatch-prime-deal-2026/",
-      "summary": "The Garmin Epix Pro Gen 2 smartwatch is half off during Prime Day. Grab it before the sale ends.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T20:58:00+00:00"
-    },
-    {
-      "id": "4aefa65682873fa2d713ddee92bc2a549a796de4eab3473017c7186a50105755",
-      "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
-      "url": "https://www.zdnet.com/article/jabra-evolve3-75-amazon-prime-day-2026/",
-      "summary": "Jabra's Evolve3 75 boomless headphones is one of the most comfortable business headsets I've ever worn.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-26T18:36:11+00:00"
     }
   ]
 }
