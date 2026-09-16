@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-16T11:20:43.043252+00:00",
+  "updated": "2026-09-16T21:12:06.895483+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
+      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
+      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T09:00:49+00:00"
+    },
     {
       "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-24T13:31:17+00:00"
-    },
-    {
-      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
-      "title": "The hidden MSP opportunity in AI-built applications",
-      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
-      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-23T16:55:35+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-16T11:20:43.043252+00:00",
+  "updated": "2026-09-16T21:12:06.895483+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
+      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
+      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
+      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T06:40:33+00:00"
+    },
     {
       "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
       "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-29T16:30:30+00:00"
-    },
-    {
-      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
-      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
-      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
-      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T14:52:00+00:00"
     }
   ]
 }

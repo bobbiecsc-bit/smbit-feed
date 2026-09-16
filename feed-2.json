@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-16T11:20:43.043252+00:00",
+  "updated": "2026-09-16T21:12:06.895483+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "94cd2bd4870e2ddf2dd4726f93b0fc5ec50c2e81b38de3669fbfa454a667d685",
+      "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
+      "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T21:00:46+00:00"
+    },
     {
       "id": "c148279103afdbba2be03edb4032bea3027f7449788828760345849efeedcf32",
       "title": "After one week wearing the Pixel Watch 5, here's what I want most",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-07T09:01:10+00:00"
-    },
-    {
-      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
-      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
-      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T09:00:49+00:00"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-16T11:20:43.043252+00:00",
+  "updated": "2026-09-16T21:12:06.895483+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "27f822e6a62f206322aacb0b9c66db30938c1d9cfd033300695719cd0edd678b",
+      "title": "The MSP Advantage: Leading with business outcomes",
+      "url": "https://smartermsp.com/the-msp-advantage-leading-with-business-outcomes/",
+      "summary": "Managed service providers are under increasing pressure to deliver more value to customers while managing growing cybersecurity risks, rising expectations, and expanding technology stacks. Businesses expect their MSP to provide strategic guidance, improve security outcomes, and simplify operations, ",
+      "source": "Smarter MSP",
+      "category": "finance",
+      "date": "2026-09-16T17:07:14+00:00"
+    },
     {
       "id": "0e23b61bc647d7f7f1f0a446c2ce09132f63eaa35205a91e978371d4084e34cc",
       "title": "Cybersecurity Threat Advisory: ScreenConnect file-transfer issue",
@@ -2242,15 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-06-29T16:30:30+00:00"
-    },
-    {
-      "id": "7f81e647d78234fc0ae2575f90612c45784d392ca2102edee350feb4671cb525",
-      "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
-      "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
-      "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T14:52:00+00:00"
     }
   ]
 }
