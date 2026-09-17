@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T11:29:00.298668+00:00",
+  "updated": "2026-09-17T21:13:55.069778+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
+      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
+      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
+      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:31:17+00:00"
+    },
     {
       "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
       "title": "The hidden MSP opportunity in AI-built applications",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-14T12:54:00+00:00"
-    },
-    {
-      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
-      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
-      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
-      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-07-14T10:00:00+00:00"
     }
   ]
 }

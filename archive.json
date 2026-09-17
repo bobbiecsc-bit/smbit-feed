@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-17T11:29:00.298668+00:00",
+  "updated": "2026-09-17T21:13:55.069778+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "dd773c5ca210bcaddd24ec0971fa1540107d959567e275c9d441e3ce7e5e6f2c",
+      "title": "Bose returns with new open earbuds (and a refreshed favorite)",
+      "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
+      "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-17T13:00:19+00:00"
+    },
     {
       "id": "27f822e6a62f206322aacb0b9c66db30938c1d9cfd033300695719cd0edd678b",
       "title": "The MSP Advantage: Leading with business outcomes",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-06-29T17:50:00+00:00"
-    },
-    {
-      "id": "19b151afaf62f8c7f2d77dcd988a3a32f16301e94d797ae35355edbb7dd79e11",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I a",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-06-29T16:30:30+00:00"
     }
   ]
 }

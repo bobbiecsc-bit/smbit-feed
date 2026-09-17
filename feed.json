@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T11:29:00.298668+00:00",
+  "updated": "2026-09-17T21:13:55.069778+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dd773c5ca210bcaddd24ec0971fa1540107d959567e275c9d441e3ce7e5e6f2c",
+      "title": "Bose returns with new open earbuds (and a refreshed favorite)",
+      "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
+      "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-17T13:00:19+00:00"
+    },
     {
       "id": "27f822e6a62f206322aacb0b9c66db30938c1d9cfd033300695719cd0edd678b",
       "title": "The MSP Advantage: Leading with business outcomes",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-21T11:30:45+00:00"
-    },
-    {
-      "id": "12329cbd239318519d31ea4b1b9608b23997ec23dfc8fd359e61584230c7c7df",
-      "title": "The best small tablets of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-small-tablet/",
-      "summary": "Looking for a small tablet to take with you on your next trip, one that you can throw in your bag before the workday begins, or a kid-friendly option? Check out our tried and tested favorites.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-21T11:00:43+00:00"
     }
   ]
 }
