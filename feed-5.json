@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T21:13:55.069778+00:00",
+  "updated": "2026-09-18T11:02:18.570038+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
+      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
+      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
+      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-14T12:54:00+00:00"
+    },
     {
       "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
       "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-06-29T19:06:00+00:00"
-    },
-    {
-      "id": "9ca33d89ed112bab92b5501197533865b5a0ec26ea5a4743a655a5fa245958ee",
-      "title": "I tried a Windows handheld PC, and its docking system made it my ideal travel companion",
-      "url": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
-      "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-29T17:50:00+00:00"
     }
   ]
 }

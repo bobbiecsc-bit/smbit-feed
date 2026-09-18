@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T21:13:55.069778+00:00",
+  "updated": "2026-09-18T11:02:18.570038+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "21610f6ad475453d45e5c0ee3b4454f0c65c1fccad635459d11ecbef1accd1ed",
+      "title": "The best large tablets of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-large-tablet/",
+      "summary": "We tested the best big-screen tablets from Apple, Samsung, Microsoft, and more, to help you choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-21T11:30:45+00:00"
+    },
     {
       "id": "12329cbd239318519d31ea4b1b9608b23997ec23dfc8fd359e61584230c7c7df",
       "title": "The best small tablets of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-07T14:10:00+00:00"
-    },
-    {
-      "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
-      "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
-      "url": "https://www.zdnet.com/article/wifi-7-adoption-in-us-quadrupled-in-year-time-to-upgrade/",
-      "summary": "Wi‑Fi 7 is rapidly moving out of the lab and into American living rooms, with data from Ookla showing US usage is growing fast.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-08-07T12:01:15+00:00"
     }
   ]
 }

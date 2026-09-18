@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T21:13:55.069778+00:00",
+  "updated": "2026-09-18T11:02:18.570038+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
+      "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
+      "url": "https://www.zdnet.com/article/wifi-7-adoption-in-us-quadrupled-in-year-time-to-upgrade/",
+      "summary": "Wi‑Fi 7 is rapidly moving out of the lab and into American living rooms, with data from Ookla showing US usage is growing fast.",
+      "source": "ZDNet Business",
+      "category": "infrastructure",
+      "date": "2026-08-07T12:01:15+00:00"
+    },
     {
       "id": "c9385efae371e6d1aa815126dec4a91b191a708fc5cd126eac2d828c14a54406",
       "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-24T14:27:00+00:00"
-    },
-    {
-      "id": "64681f262b376142f8d3c1eae890424873dd4920cc133c4e57b30e8e1b4cb803",
-      "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
-      "url": "https://www.zdnet.com/article/dell-14s-review/",
-      "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T13:53:00+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-17T21:13:55.069778+00:00",
+  "updated": "2026-09-18T11:02:18.570038+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da8ef8ae8b2ef2d6d9b6c3119a887c0fd2997285c555646f0d5dcb338fd657a0",
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+      "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "summary": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS. T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 i",
+      "source": "AWS News Blog",
+      "category": "cloud_saas",
+      "date": "2026-09-17T21:11:48+00:00"
+    },
     {
       "id": "dd773c5ca210bcaddd24ec0971fa1540107d959567e275c9d441e3ce7e5e6f2c",
       "title": "Bose returns with new open earbuds (and a refreshed favorite)",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-08-21T13:00:00+00:00"
-    },
-    {
-      "id": "21610f6ad475453d45e5c0ee3b4454f0c65c1fccad635459d11ecbef1accd1ed",
-      "title": "The best large tablets of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-large-tablet/",
-      "summary": "We tested the best big-screen tablets from Apple, Samsung, Microsoft, and more, to help you choose the right one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-21T11:30:45+00:00"
     }
   ]
 }
