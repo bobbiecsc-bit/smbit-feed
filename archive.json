@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-21T12:37:39.437939+00:00",
+  "updated": "2026-09-21T21:55:00.761974+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5928f61284c44b5ee0e1480da37e427226540e18f37d2d618320509b5ae0d50c",
+      "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+      "url": "https://thenewstack.io/grok-build-vs-claude-code-memory/",
+      "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-21T20:04:18+00:00"
+    },
+    {
+      "id": "c08055bbf312bb9e53ab4677a4dc4092e851d8c2d31727b49c25a1bfaa1cdfa7",
+      "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+      "url": "https://thenewstack.io/aws-strands-harness-agent/",
+      "summary": "Amazon Web Services (AWS) is lifting the lid on a new open source, general-purpose AI agent, designed to give developers The post AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-09-21T18:30:16+00:00"
+    },
+    {
+      "id": "d4efdc247bb2701651ef92c5d81870b6185323e5eabaeadcfd55fecb058d27ce",
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checki",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-21T16:11:24+00:00"
+    },
     {
       "id": "da8ef8ae8b2ef2d6d9b6c3119a887c0fd2997285c555646f0d5dcb338fd657a0",
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
@@ -2224,33 +2251,6 @@
       "source": "AWS News Blog",
       "category": "cloud_saas",
       "date": "2026-06-30T20:56:44+00:00"
-    },
-    {
-      "id": "9610cd93bf7602e71d33d202eb4a4e08161b78657298c83e1f07c776a705f053",
-      "title": "Netflix vs. Peacock: I've subscribed to both streaming services for years - this one's more worth it",
-      "url": "https://www.zdnet.com/article/netflix-vs-peacock-streaming-services/",
-      "summary": "Netflix has award-winning originals and a smart algorithm, but Peacock counters with live sports and a lower price.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-30T18:17:00+00:00"
-    },
-    {
-      "id": "646bd2c5c28811460efefe5581773bc4f77759aa9179f738a9969b29b5385a0b",
-      "title": "I tried the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's what happened",
-      "url": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
-      "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-06-30T09:00:30+00:00"
-    },
-    {
-      "id": "09b44527326daf7220a6480227b0d1d23f7718076361df28b2d7d0fb8ddb71cd",
-      "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
-      "url": "https://www.zdnet.com/article/i-replaced-iphone-battery-at-apple-store-what-i-learned/",
-      "summary": "A few weeks ago, I replaced my iPhone 14 Pro battery at the Apple store - and was pleasantly surprised by the results.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-06-29T19:06:00+00:00"
     }
   ]
 }
