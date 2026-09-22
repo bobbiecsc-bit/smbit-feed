@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T11:24:17.888583+00:00",
+  "updated": "2026-09-22T21:11:13.435923+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
+      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-15T12:17:00+00:00"
+    },
     {
       "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
       "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
@@ -445,15 +454,6 @@
       "source": "Malwarebytes Labs",
       "category": "finance",
       "date": "2026-07-01T12:50:59+00:00"
-    },
-    {
-      "id": "b950286cda7b90964c84060fe75584f83a38905d9b9401ab89268a6549532cb5",
-      "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-      "summary": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-06-30T20:56:44+00:00"
     }
   ]
 }

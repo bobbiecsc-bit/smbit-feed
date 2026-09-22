@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T11:24:17.888583+00:00",
+  "updated": "2026-09-22T21:11:13.435923+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
+      "title": "Tech Time Warp: How a goodbye party launched DEF CON",
+      "url": "https://smartermsp.com/tech-time-warp-how-a-goodbye-party-launched-def-con/",
+      "summary": "The 34th DEF CON conference takes place Aug. 6–9 in Las Vegas. It&#8217;s no surprise that one of the hacker community&#8217;s most influential events has such a memorable origin story. Whether you&#8217;ve attended DEF CON or its more corporate cousin, [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-08-07T17:16:55+00:00"
+    },
     {
       "id": "11bbb5ce9925fdc421863c4ef74ce794d16ac319c816ccd0eba7412c6258a7d9",
       "title": "Samsung Galaxy Watch 9 review: Health data overload, but built for the future",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-26T11:45:39+00:00"
-    },
-    {
-      "id": "a61a58190ada9a77e1ef66917ca5e3224870dce6f63b98bc1076eb5a53d56640",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
-      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
-      "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-26T08:00:40+00:00"
     }
   ]
 }

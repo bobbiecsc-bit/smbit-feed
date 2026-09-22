@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T11:24:17.888583+00:00",
+  "updated": "2026-09-22T21:11:13.435923+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed6695870820e54d9bc94bad9ea3aca7f4732e98463f8cd779ee0cba41b8601f",
+      "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
+      "url": "https://thenewstack.io/claude-cowork-vs-chatgpt-work-benchmark/",
+      "summary": "When Anthropic merged Claude chat and Cowork into a single interface last week, it removed an increasingly irrelevant decision users The post Claude&#8217;s merged chat and Cowork vs. ChatGPT&#8217;s Work mode: ChatGPT is faster, Claude is more thorough appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-22T17:45:46+00:00"
+    },
     {
       "id": "5928f61284c44b5ee0e1480da37e427226540e18f37d2d618320509b5ae0d50c",
       "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-24T14:51:00+00:00"
-    },
-    {
-      "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
-      "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
-      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
-      "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-24T11:59:05+00:00"
     }
   ]
 }

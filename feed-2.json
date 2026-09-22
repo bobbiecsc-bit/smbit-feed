@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T11:24:17.888583+00:00",
+  "updated": "2026-09-22T21:11:13.435923+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
+      "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
+      "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T11:59:05+00:00"
+    },
     {
       "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
       "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-08-10T12:00:00+00:00"
-    },
-    {
-      "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
-      "title": "Tech Time Warp: How a goodbye party launched DEF CON",
-      "url": "https://smartermsp.com/tech-time-warp-how-a-goodbye-party-launched-def-con/",
-      "summary": "The 34th DEF CON conference takes place Aug. 6–9 in Las Vegas. It&#8217;s no surprise that one of the hacker community&#8217;s most influential events has such a memorable origin story. Whether you&#8217;ve attended DEF CON or its more corporate cousin, [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-08-07T17:16:55+00:00"
     }
   ]
 }
