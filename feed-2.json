@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T21:11:13.435923+00:00",
+  "updated": "2026-09-23T11:21:20.075443+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
+      "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
+      "url": "https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/",
+      "summary": "The Pebble Time 2 is a no-frills smartwatch that helps you disconnect from the digital world.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T14:51:00+00:00"
+    },
     {
       "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
       "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-10T14:25:56+00:00"
-    },
-    {
-      "id": "49748547e5cae2e7d0e507ed99d66a6b07848b7b8983ce4ac811d059a7b64cf1",
-      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true, but not how I expected.",
-      "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
-      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It&#8217;s true, but not how I expected. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-10T12:00:00+00:00"
     }
   ]
 }

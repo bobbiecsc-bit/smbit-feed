@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T21:11:13.435923+00:00",
+  "updated": "2026-09-23T11:21:20.075443+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0e38f69b6f205c558bf44dfc15a76dbc4195f8a735f4f3cc79f6c50cf9d3495f",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-09-22T22:21:13+00:00"
+    },
     {
       "id": "ed6695870820e54d9bc94bad9ea3aca7f4732e98463f8cd779ee0cba41b8601f",
       "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-08-24T16:20:15+00:00"
-    },
-    {
-      "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
-      "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
-      "url": "https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/",
-      "summary": "The Pebble Time 2 is a no-frills smartwatch that helps you disconnect from the digital world.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-24T14:51:00+00:00"
     }
   ]
 }

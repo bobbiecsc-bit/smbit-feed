@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-22T21:11:13.435923+00:00",
+  "updated": "2026-09-23T11:21:20.075443+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0e38f69b6f205c558bf44dfc15a76dbc4195f8a735f4f3cc79f6c50cf9d3495f",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality",
+      "source": "AWS News Blog",
+      "category": "continuity",
+      "date": "2026-09-22T22:21:13+00:00"
+    },
     {
       "id": "ed6695870820e54d9bc94bad9ea3aca7f4732e98463f8cd779ee0cba41b8601f",
       "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-01T18:30:24+00:00"
-    },
-    {
-      "id": "bf535c4c8686aab3759811a87215d35b3a501dda9c40665d10497bd264f9baf2",
-      "title": "BioShocking: when “gaming” AI agents is no longer a game",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
-      "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-01T12:50:59+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-22T21:11:13.435923+00:00",
+  "updated": "2026-09-23T11:21:20.075443+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "49748547e5cae2e7d0e507ed99d66a6b07848b7b8983ce4ac811d059a7b64cf1",
+      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true, but not how I expected.",
+      "url": "https://thenewstack.io/deepseek-flash-pro-benchmark/",
+      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It&#8217;s true, but not how I expected. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-10T12:00:00+00:00"
+    },
     {
       "id": "71f4a186ea9cd29a2c22a1e402bd5fdae50e727d683d0e6f06a18ea456adf22b",
       "title": "Tech Time Warp: How a goodbye party launched DEF CON",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-27T14:49:24+00:00"
-    },
-    {
-      "id": "6a8864c726501aecc1642d7b256494864b7f86baee57ffade0d2bd0e34239a4d",
-      "title": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: How Samsung's two new foldables compare",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
-      "summary": "Samsung's new foldables are impressive, but how different are they really, by the specs? Let's compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-26T11:45:39+00:00"
     }
   ]
 }
