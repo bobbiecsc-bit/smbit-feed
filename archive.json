@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-23T11:21:20.075443+00:00",
+  "updated": "2026-09-23T21:24:44.707075+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "db60d5783bfa64cdb13b214d8b4906d0aab74ad20419cf81db2f88872d1b7573",
+      "title": "Ramp launches AR product to pair with payment capacities",
+      "url": "https://www.accountingtoday.com/news/ramp-launches-ar-product-to-pair-with-payment-capacities",
+      "summary": "Financial operations platform Ramp, traditionally associated with outbound payments, now has a solution for inbound payments via the new Ramp Accounts Receivable product.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-09-23T20:46:37+00:00"
+    },
+    {
+      "id": "eef61e008e525c88a8b68122ebf944a3006d2b85170da5c32d6b3912d7f76671",
+      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
+      "url": "https://thenewstack.io/claude-opus-agent-migration/",
+      "summary": "Anthropic made Claude Opus 5.5, released on Tuesday, cheaper than its predecessor, cutting the price from $5 to $4 per The post Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-09-23T12:00:00+00:00"
+    },
     {
       "id": "0e38f69b6f205c558bf44dfc15a76dbc4195f8a735f4f3cc79f6c50cf9d3495f",
       "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-01T19:51:00+00:00"
-    },
-    {
-      "id": "1e3e9331ff961ba957a3107173e96101891b92be7614b65213096b13e0ec031e",
-      "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
-      "url": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
-      "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-07-01T19:00:08+00:00"
-    },
-    {
-      "id": "a85d49a26d069c3c4659add7022cdfead43a7f9352ecc8ea7474c4b2e57a9d60",
-      "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
-      "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
-      "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-01T18:30:24+00:00"
     }
   ]
 }

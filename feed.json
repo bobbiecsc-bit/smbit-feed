@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-23T11:21:20.075443+00:00",
+  "updated": "2026-09-23T21:24:44.707075+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "db60d5783bfa64cdb13b214d8b4906d0aab74ad20419cf81db2f88872d1b7573",
+      "title": "Ramp launches AR product to pair with payment capacities",
+      "url": "https://www.accountingtoday.com/news/ramp-launches-ar-product-to-pair-with-payment-capacities",
+      "summary": "Financial operations platform Ramp, traditionally associated with outbound payments, now has a solution for inbound payments via the new Ramp Accounts Receivable product.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-09-23T20:46:37+00:00"
+    },
+    {
+      "id": "eef61e008e525c88a8b68122ebf944a3006d2b85170da5c32d6b3912d7f76671",
+      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
+      "url": "https://thenewstack.io/claude-opus-agent-migration/",
+      "summary": "Anthropic made Claude Opus 5.5, released on Tuesday, cheaper than its predecessor, cutting the price from $5 to $4 per The post Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-09-23T12:00:00+00:00"
+    },
     {
       "id": "0e38f69b6f205c558bf44dfc15a76dbc4195f8a735f4f3cc79f6c50cf9d3495f",
       "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-08-24T17:39:15+00:00"
-    },
-    {
-      "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
-      "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
-      "url": "https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/",
-      "summary": "You can now code your own mini games and 'gizmos' with no experience. Creating is just half the fun.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-24T17:17:23+00:00"
-    },
-    {
-      "id": "a9c130abb19aced19cedd58e4064334e883889c11a1e52b955e1c58bf5e8de2e",
-      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
-      "summary": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-24T16:20:15+00:00"
     }
   ]
 }

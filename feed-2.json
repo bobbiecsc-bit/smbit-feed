@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-23T11:21:20.075443+00:00",
+  "updated": "2026-09-23T21:24:44.707075+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
+      "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
+      "url": "https://www.zdnet.com/article/i-tried-metas-vibe-coding-app-to-make-own-games/",
+      "summary": "You can now code your own mini games and 'gizmos' with no experience. Creating is just half the fun.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-24T17:17:23+00:00"
+    },
+    {
+      "id": "a9c130abb19aced19cedd58e4064334e883889c11a1e52b955e1c58bf5e8de2e",
+      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+      "summary": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-24T16:20:15+00:00"
+    },
     {
       "id": "f826a5662484a18bf7d9750a117b2d126dd529c85f1ca755e2fb36862682db84",
       "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
@@ -436,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-08-10T15:45:03+00:00"
-    },
-    {
-      "id": "735205dc405ab29a1d4306c8fddd880e28101a06cedfa686efdf791255b6fbf1",
-      "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
-      "url": "https://thenewstack.io/meta-muse-claude-code/",
-      "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-10T15:00:00+00:00"
-    },
-    {
-      "id": "81106a5b637b5bd7442ee75f5263874bfd7b0668cd66aa147e599218e8b82dd5",
-      "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
-      "url": "https://www.zdnet.com/article/ugreen-finder-pro-solar-powered-finder-tag-review/",
-      "summary": "This finder tag has excellent range, and it's built for the outdoors.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-10T14:25:56+00:00"
     }
   ]
 }
