@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-23T21:24:44.707075+00:00",
+  "updated": "2026-09-24T11:33:46.891591+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
+      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
+      "url": "https://thenewstack.io/q-ant-open-sources-cuda/",
+      "summary": "Q.ANT, a startup out of Stuttgart, Germany, builds processors that use light instead of electricity to do some of the The post Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-09-23T22:23:45+00:00"
+    },
     {
       "id": "db60d5783bfa64cdb13b214d8b4906d0aab74ad20419cf81db2f88872d1b7573",
       "title": "Ramp launches AR product to pair with payment capacities",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-02T10:00:56+00:00"
-    },
-    {
-      "id": "a1d6e443ae7005672160db9d9cf3408ffcb6421e290ae1043caf4120af69df16",
-      "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
-      "url": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
-      "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-01T19:51:00+00:00"
     }
   ]
 }

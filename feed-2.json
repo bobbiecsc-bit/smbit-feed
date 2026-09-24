@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-23T21:24:44.707075+00:00",
+  "updated": "2026-09-24T11:33:46.891591+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
+      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+      "url": "https://thenewstack.io/ai-agent-security-boundaries/",
+      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T17:39:15+00:00"
+    },
     {
       "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
       "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-08-10T21:15:15+00:00"
-    },
-    {
-      "id": "12400cb868e94055f30e5ddfddc5b74fc56628d4e50bc909d21b22ba7eea7767",
-      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
-      "summary": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS community. The AWS Heroes Summit, an invite-only annual gathering, brings global experts specializing in fields like AI, serverless, and containers ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-10T15:45:03+00:00"
     }
   ]
 }

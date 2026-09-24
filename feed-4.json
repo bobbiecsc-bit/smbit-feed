@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-23T21:24:44.707075+00:00",
+  "updated": "2026-09-24T11:33:46.891591+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bdd5dd7389f570126fe88c665f863fba897c014131ec3433531cdbffa5e21132",
+      "title": "Costco will take your old tech and gift you a gift card - here's what to know",
+      "url": "https://www.zdnet.com/article/costco-trade-in-offer-old-tech/",
+      "summary": "Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.",
+      "source": "ZDNet Business",
+      "category": "finance",
+      "date": "2026-07-27T16:01:10+00:00"
+    },
     {
       "id": "4ef7d06337916a33dda447f744b3954d0477da7c8548763167b2f9197ff41177",
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-07-15T17:38:10+00:00"
-    },
-    {
-      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
-      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
-      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
-      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T17:00:46+00:00"
     }
   ]
 }
