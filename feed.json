@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-26T11:13:56.512379+00:00",
+  "updated": "2026-09-26T20:58:49.877783+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2765a7a4b250fd5888045cbff4ec81bf97c7f8772f4e35db958a96d86d4ac8e2",
+      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+      "url": "https://thenewstack.io/claude-opus-5-5-vs-opus-5/",
+      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-26T13:00:00+00:00"
+    },
     {
       "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
       "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-08-25T16:11:02+00:00"
-    },
-    {
-      "id": "0f92dae74439baf52986c14417513d83981d96a4aa485c6cd243e6e63140a61d",
-      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
-      "url": "https://thenewstack.io/anthropic-openai-playground-comparison/",
-      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-24T19:30:57+00:00"
     }
   ]
 }

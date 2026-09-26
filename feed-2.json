@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-26T11:13:56.512379+00:00",
+  "updated": "2026-09-26T20:58:49.877783+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f92dae74439baf52986c14417513d83981d96a4aa485c6cd243e6e63140a61d",
+      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+      "url": "https://thenewstack.io/anthropic-openai-playground-comparison/",
+      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T19:30:57+00:00"
+    },
     {
       "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
       "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-10T21:57:00+00:00"
-    },
-    {
-      "id": "ff8fe365976ba5681da98e64f773fc6bad33df25e2e383c6350f4c20729bae24",
-      "title": "OpenAI built a model it doesn’t want most people to use",
-      "url": "https://thenewstack.io/openai-gpt56-cyber-daybreak/",
-      "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It&#8217;s now available The post OpenAI built a model it doesn&#8217;t want most people to use appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-08-10T21:15:15+00:00"
     }
   ]
 }

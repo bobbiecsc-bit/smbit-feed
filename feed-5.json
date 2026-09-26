@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-26T11:13:56.512379+00:00",
+  "updated": "2026-09-26T20:58:49.877783+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
+      "title": "Prosperity flips PE partners",
+      "url": "https://www.accountingtoday.com/news/prosperity-flips-private-equity-partners",
+      "summary": "The Top 100 Firm is getting a majority investment from Lightyear Capital, while its previous investor, Unity Partners, will maintain a minority position in the firm.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-07-15T17:38:10+00:00"
+    },
     {
       "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
       "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-02T14:30:41+00:00"
-    },
-    {
-      "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
-      "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
-      "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
-      "summary": "If you like the idea of Brave's browser security, but all of the other features just get in your way, the developers have created a solution for you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-02T10:00:56+00:00"
     }
   ]
 }

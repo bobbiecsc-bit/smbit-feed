@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-26T11:13:56.512379+00:00",
+  "updated": "2026-09-26T20:58:49.877783+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2765a7a4b250fd5888045cbff4ec81bf97c7f8772f4e35db958a96d86d4ac8e2",
+      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+      "url": "https://thenewstack.io/claude-opus-5-5-vs-opus-5/",
+      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-26T13:00:00+00:00"
+    },
     {
       "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
       "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-02T14:30:41+00:00"
-    },
-    {
-      "id": "428868efda10c8025635431d788e97afba6a8384d7d0c9908fbc56a3ec3857d7",
-      "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
-      "url": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
-      "summary": "If you like the idea of Brave's browser security, but all of the other features just get in your way, the developers have created a solution for you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-02T10:00:56+00:00"
     }
   ]
 }
