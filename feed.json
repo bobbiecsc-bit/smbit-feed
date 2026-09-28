@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:14:49.952925+00:00",
+  "updated": "2026-09-28T13:39:36.064507+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
@@ -13,6 +13,15 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-26T13:00:00+00:00"
+    },
+    {
+      "id": "c504a7900daa1e2cf1b906ab4fc41d07edafd2664415230ae59bd3615cb2b4ef",
+      "title": "Tech Time Warp: Lessons learned from the Yahoo breaches of the early 2010s",
+      "url": "https://smartermsp.com/tech-time-warp-lessons-learned-from-the-yahoo-breaches-of-the-early-2010s/",
+      "summary": "Ten years ago, Yahoo announced a massive security breach—the largest of its time. Account information for 500 million Yahoo users had been stolen in a hybrid state-sponsored and criminal hacker attack. When cyber espionage reached Yahoo The details sound straight [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-09-25T18:26:39+00:00"
     },
     {
       "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-25T20:05:00+00:00"
-    },
-    {
-      "id": "1c2098524a32cb7947ff49a136bfc79ddf02ca2ad42131f836675d97c46d0552",
-      "title": "Happy 20th Birthday, Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
-      "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-08-25T16:11:02+00:00"
     }
   ]
 }

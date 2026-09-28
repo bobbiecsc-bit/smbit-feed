@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-27T21:14:49.952925+00:00",
+  "updated": "2026-09-28T13:39:36.064507+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "38acd96ba6d66becc04b1c8b852b9f1b07456f1c57d8a88a38a371efca62a824",
+      "title": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+      "url": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
+      "summary": "The new feature lets you send money to your children without them needing a card or separate account.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-10T21:57:00+00:00"
+    },
     {
       "id": "ff8fe365976ba5681da98e64f773fc6bad33df25e2e383c6350f4c20729bae24",
       "title": "OpenAI built a model it doesn’t want most people to use",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-28T14:00:00+00:00"
-    },
-    {
-      "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
-      "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
-      "url": "https://www.zdnet.com/article/amazfit-cheetah-2-ultra-vs-amazfit-balance-3/",
-      "summary": "Is the Amazfit Cheetah 2 Ultra worth the extra cost versus the Amazfit Balance 3? Here's what I found after living with both for a month.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-28T08:30:42+00:00"
     }
   ]
 }
