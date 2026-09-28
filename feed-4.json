@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-28T13:39:36.064507+00:00",
+  "updated": "2026-09-28T23:10:40.879900+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ef80a674c35080347f59d8cd397f55af7a4c26fadd3bc5b92d4fe90234077d93",
+      "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
+      "url": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
+      "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T13:15:00+00:00"
+    },
+    {
+      "id": "f9a4ac888a7a53601e9ebec001b2b93d937af92174708feeee894815bc6d776a",
+      "title": "I tried ArchEZ to see if it really makes Arch Linux easy for beginners - and it delivered",
+      "url": "https://www.zdnet.com/article/archez-makes-arch-linux-easy/",
+      "summary": "Arch Linux doesn't have to be challenging, and ArchEZ proves that point with point-and-click ease.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T12:25:18+00:00"
+    },
+    {
+      "id": "4003e11e87e443ba41bd4be9b256c51d2b6a51e570dc1181d328f80de5452c1d",
+      "title": "I tested the Ultrahuman Ring Pro: Rich in features, but still a hard sell",
+      "url": "https://www.zdnet.com/article/ultrahuman-ring-pro-review/",
+      "summary": "The latest ring from Ultrahuman is packed with features, but it's both larger and more expensive than its predecessor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T09:15:40+00:00"
+    },
+    {
+      "id": "b9a38107dfe0d035973e949b11598eea0b2ef709ed6f29da84ed25af5f2e1895",
+      "title": "12 keychain gadgets worth carrying every day (and why they're worth it)",
+      "url": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
+      "summary": "We test dozens of gadgets each year - these are some of our favorite keychain accessories we're still using.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-07-28T19:27:39+00:00"
+    },
+    {
+      "id": "d63294b25c1146ab213e321832124261986be57e4798e10c4a708484fd744d46",
+      "title": "I tested Sonos' new beta features on iOS and Android - how to opt in and what to expect",
+      "url": "https://www.zdnet.com/article/how-to-get-sonos-app-beta-ios-android/",
+      "summary": "Sonos's software comeback is nearly complete, with small but mighty fixes. Here's everything you need to know.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-28T14:00:00+00:00"
+    },
     {
       "id": "777fd107c2d9c88e0559b6e3d6c93f656901c44288a246dfbe7022d3eeb03aa7",
       "title": "I wore the two best Amazfit smartwatches for a month - Is the flagship worth $230 more?",
@@ -409,51 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-07-17T15:16:55+00:00"
-    },
-    {
-      "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
-      "title": "I tested this backup power station during a real blackout - don't make my mistakes",
-      "url": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
-      "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T14:15:10+00:00"
-    },
-    {
-      "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
-      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-      "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
-      "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-17T13:03:00+00:00"
-    },
-    {
-      "id": "69b626580a1700e41199b220af9406cde0c98c6a5b5780a69b246f5bf0978234",
-      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
-      "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
-      "summary": "Kubernetes controllers are what make the platform&#8217;s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
-      "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
-      "url": "https://thenewstack.io/microsoft-comic-chat-open-source/",
-      "summary": "Comic Sans has been mocked, memed, and muzzled from corporate communications since time immemorial, but most people won&#8217;t know that The post Microsoft just open-sourced the app that put Comic Sans on the map appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-17T07:50:03+00:00"
-    },
-    {
-      "id": "6566e0725302227c9bef6eeda3b9e973dda6b22bc9783e83918397a914cf58d4",
-      "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
-      "url": "https://www.zdnet.com/article/msi-cyborg-15-review/",
-      "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T07:25:49+00:00"
     }
   ]
 }

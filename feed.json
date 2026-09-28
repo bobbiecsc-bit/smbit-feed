@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-28T13:39:36.064507+00:00",
+  "updated": "2026-09-28T23:10:40.879900+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4c8e8fcd9ee64aa887d655d7f527683f13ba879979128dfa7bb15354afc570ad",
+      "title": "Think you need a better reranker? Check your retrieval first.",
+      "url": "https://thenewstack.io/search-retrieval-reranking-funnel/",
+      "summary": "You built a search system using the latest, greatest models, and maybe you were thrilled with the outcome. But what The post Think you need a better reranker? Check your retrieval first. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-09-28T17:01:45+00:00"
+    },
+    {
+      "id": "395f60ebe8bc5cfd3c2d65fdbc31c69041b02765049cfdf619f078629503e5fb",
+      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
+      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
+      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-28T16:15:17+00:00"
+    },
+    {
+      "id": "09d1d4b21b6cf8f2e3436214d6eb6b2437eb3751774c8df64b0f288799eaf4f7",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 S",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-28T16:14:54+00:00"
+    },
+    {
+      "id": "b26e2369138d7c2924eb938d11991fb86276b7dfa00acdddd1e64822c8751134",
+      "title": "GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent?",
+      "url": "https://thenewstack.io/gpt-6-sol-vs-opus-5-5/",
+      "summary": "OpenAI launched GPT-6 Sol on September 22, claiming it scores higher than Claude Opus 5 on business workflow tasks at The post GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-28T16:04:38+00:00"
+    },
+    {
+      "id": "53910454fc90735a17ec033f2b2ca5e258cf00fb0a932413877733f7aaab0516",
+      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
+      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
+      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-28T14:40:43+00:00"
+    },
     {
       "id": "2765a7a4b250fd5888045cbff4ec81bf97c7f8772f4e35db958a96d86d4ac8e2",
       "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
@@ -409,51 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-27T09:00:47+00:00"
-    },
-    {
-      "id": "d5be96e15cce5b930bae8e37597814d42bb443374071bbd223fb882ab91a2109",
-      "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
-      "url": "https://thenewstack.io/google-thomson-specialized-ai/",
-      "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-08-26T16:33:23+00:00"
-    },
-    {
-      "id": "e3a68d07b601fa0160a471b6134e2d413d95b1d93176c6663cb8a81a4d225145",
-      "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
-      "url": "https://www.zdnet.com/article/google-pixel-11-review/",
-      "summary": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-26T15:55:00+00:00"
-    },
-    {
-      "id": "f2a1bb7e1fa5cde8fb969ce93b2349b02f6b4f702d4d381505af0ca82fa718fd",
-      "title": "The best reading tablets of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-reading-tablet/",
-      "summary": "We rounded up the best reading tablets of the year that you can take with you anywhere.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-26T11:00:46+00:00"
-    },
-    {
-      "id": "8c76a49318b2650e77ff14ea36fa16689ec632499aee5b1e990387b147a30f13",
-      "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
-      "url": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
-      "summary": "These are two different products, but consumers end up confused because of misinformation and poor marketing copy.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T22:45:00+00:00"
-    },
-    {
-      "id": "675e21d3f9d326204d83070328edacc92ed12fdb44dd1c2d8e81939a9134a26f",
-      "title": "Garmin's new Fenix 9 Pro smartwatch is twice as bright as the previous gen - here's how they compare",
-      "url": "https://www.zdnet.com/article/garmin-fenix-9-vs-garmin-fenix-8/",
-      "summary": "Garmin's new flagship Fenix 9 epitomizes the premium rugged smartwatch - but how much of an upgrade is it from the Fenix 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T20:05:00+00:00"
     }
   ]
 }
