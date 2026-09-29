@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-28T23:10:40.879900+00:00",
+  "updated": "2026-09-29T12:38:24.871447+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "267b95a5d175a32513eafc5b1b1eefb7e381317daac27988147a69bcf4badf66",
+      "title": "Intuit announces Intuit Intelligence Chat, other upgrades for Enterprise Suite and QBOA",
+      "url": "https://www.accountingtoday.com/news/intuit-announces-intuit-intelligence-chat-other-upgrades-for-enterprise-suite-and-qboa",
+      "summary": "Intuit announced a host of new upgrades and capacities in Intuit Enterprise Suite and QuickBooks Online Advanced made specifically for mid-market entities.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-13T15:13:17+00:00"
+    },
     {
       "id": "f9faa4a56b4d27b1fc7768b03928b3b64acff2d9b096cd35d3bc6720531c4577",
       "title": "The best password managers of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-29T18:20:00+00:00"
-    },
-    {
-      "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
-      "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
-      "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
-      "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T15:00:45+00:00"
     }
   ]
 }

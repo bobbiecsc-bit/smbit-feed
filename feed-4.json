@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-28T23:10:40.879900+00:00",
+  "updated": "2026-09-29T12:38:24.871447+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
+      "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+      "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+      "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T15:00:45+00:00"
+    },
     {
       "id": "ef80a674c35080347f59d8cd397f55af7a4c26fadd3bc5b92d4fe90234077d93",
       "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-17T16:36:19+00:00"
-    },
-    {
-      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
-      "title": "Tech News: Blue J offers accounting professors free access",
-      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
-      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-07-17T15:16:55+00:00"
     }
   ]
 }

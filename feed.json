@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-28T23:10:40.879900+00:00",
+  "updated": "2026-09-29T12:38:24.871447+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "71f11047238cd93964cf002a8d0b110dad6443f06b393c393a9572c26c4052e1",
+      "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
+      "url": "https://thenewstack.io/ember1-kimik3-speed-comparison/",
+      "summary": "Fireworks Research launched Ember-1 on September 23 as a research preview. Built on Moonshot’s open-weight model, Kimi K3, it claims The post Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-29T12:00:00+00:00"
+    },
     {
       "id": "4c8e8fcd9ee64aa887d655d7f527683f13ba879979128dfa7bb15354afc570ad",
       "title": "Think you need a better reranker? Check your retrieval first.",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-08-27T13:00:00+00:00"
-    },
-    {
-      "id": "7139f62e5c44a7d0224d88e8a6c29e6d884ac524ffa2f477dc7f3ecaba7fca6e",
-      "title": "The best iPad Air cases of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-ipad-air-case/",
-      "summary": "The right case can take your iPad Air to the next level. These are our favorite iPad Air cases from brands like Apple, Burga, and Logitech.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-27T09:00:47+00:00"
     }
   ]
 }

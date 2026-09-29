@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-28T23:10:40.879900+00:00",
+  "updated": "2026-09-29T12:38:24.871447+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "71f11047238cd93964cf002a8d0b110dad6443f06b393c393a9572c26c4052e1",
+      "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
+      "url": "https://thenewstack.io/ember1-kimik3-speed-comparison/",
+      "summary": "Fireworks Research launched Ember-1 on September 23 as a research preview. Built on Moonshot’s open-weight model, Kimi K3, it claims The post Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-29T12:00:00+00:00"
+    },
     {
       "id": "4c8e8fcd9ee64aa887d655d7f527683f13ba879979128dfa7bb15354afc570ad",
       "title": "Think you need a better reranker? Check your retrieval first.",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-07T16:20:00+00:00"
-    },
-    {
-      "id": "858b1331e5d117a663cc75984430f5db470875a67f592d2fb663804d190ae330",
-      "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/",
-      "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T09:00:38+00:00"
     }
   ]
 }

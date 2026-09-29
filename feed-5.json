@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-28T23:10:40.879900+00:00",
+  "updated": "2026-09-29T12:38:24.871447+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
+      "title": "Tech News: Blue J offers accounting professors free access",
+      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
+      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-07-17T15:16:55+00:00"
+    },
     {
       "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
       "title": "I tested this backup power station during a real blackout - don't make my mistakes",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-07T16:20:00+00:00"
-    },
-    {
-      "id": "858b1331e5d117a663cc75984430f5db470875a67f592d2fb663804d190ae330",
-      "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/",
-      "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-07T09:00:38+00:00"
     }
   ]
 }
