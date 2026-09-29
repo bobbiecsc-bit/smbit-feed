@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-29T12:38:24.871447+00:00",
+  "updated": "2026-09-29T22:08:57.176667+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2289724ef82beb1f7c81bd7f5cabf8af60252dd4c64bce40ed32b3f232a74905",
+      "title": "CFOs spending heavily on AI",
+      "url": "https://www.accountingtoday.com/news/cfos-spending-heavily-on-ai",
+      "summary": "Corporate finance leaders are feeling bullish about their business's financial prospects, but many are worried are going over budget on artificial intelligence.",
+      "source": "Accounting Today Tech",
+      "category": "continuity",
+      "date": "2026-09-29T18:57:09+00:00"
+    },
+    {
+      "id": "2968221e1119b6380fbed209c8dc6f2b28eb381667a3283bb056d064a5915f4a",
+      "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+      "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+      "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-09-29T17:58:37+00:00"
+    },
+    {
+      "id": "98c8b8d038b12694bd7eb106b5f41c2b0ebc33327966ddd9f01572d7b1adfa06",
+      "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
+      "url": "https://thenewstack.io/claude-opus-5-5-vs-fable-5-1/",
+      "summary": "Anthropic released Claude Opus 5.5 on September 22, saying it performs at the level of Claude Fable 5.1 on most The post Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-29T15:00:00+00:00"
+    },
+    {
+      "id": "ff8f379d71ef16313797de68426e3376232d7135d3c396a076ba20d3db8d1fea",
+      "title": "2026 AI Guide for Tax Professionals",
+      "url": "https://www.accountingtoday.com/2026-ai-guide-for-tax-professionals",
+      "summary": "See how your corporate tax department can implement AI responsibly and effectively with new guidance from Bloomberg Tax.",
+      "source": "Accounting Today Tech",
+      "category": "continuity",
+      "date": "2026-09-29T14:47:42+00:00"
+    },
     {
       "id": "71f11047238cd93964cf002a8d0b110dad6443f06b393c393a9572c26c4052e1",
       "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
@@ -418,42 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-08-28T16:18:00+00:00"
-    },
-    {
-      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
-      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
-      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-27T14:44:00+00:00"
-    },
-    {
-      "id": "e94f9b29d3f640d1fa25d69b946c69e5535bf35e6891c1874554889adc0d169d",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "source": "Ars Technica",
-      "category": "continuity",
-      "date": "2026-08-27T14:00:13+00:00"
-    },
-    {
-      "id": "9f4ed443bfc09d4f50f12fc338a9555c60768389aa9bab0a59cd9428965cd50d",
-      "title": "Plaud's first AI earbuds have arrived - what they can do",
-      "url": "https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/",
-      "summary": "Can these new wearables deliver on the long-anticipated promises of AI earbuds?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-27T13:00:42+00:00"
-    },
-    {
-      "id": "1da7ab2f27c4403c40508985e0f249e97842f62f3a073f6e1812ec0b99dee84b",
-      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
-      "url": "https://thenewstack.io/anthropic-files-api-costs/",
-      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic&#8217;s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-27T13:00:00+00:00"
     }
   ]
 }

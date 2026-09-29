@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-29T12:38:24.871447+00:00",
+  "updated": "2026-09-29T22:08:57.176667+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
+      "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-walmart-deals-2026/",
+      "summary": "Summer may be almost over, but you can find solid Walmart deals on headphones, TVs, laptops, and more for Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T14:44:00+00:00"
+    },
+    {
+      "id": "e94f9b29d3f640d1fa25d69b946c69e5535bf35e6891c1874554889adc0d169d",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "source": "Ars Technica",
+      "category": "continuity",
+      "date": "2026-08-27T14:00:13+00:00"
+    },
+    {
+      "id": "9f4ed443bfc09d4f50f12fc338a9555c60768389aa9bab0a59cd9428965cd50d",
+      "title": "Plaud's first AI earbuds have arrived - what they can do",
+      "url": "https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/",
+      "summary": "Can these new wearables deliver on the long-anticipated promises of AI earbuds?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:42+00:00"
+    },
+    {
+      "id": "1da7ab2f27c4403c40508985e0f249e97842f62f3a073f6e1812ec0b99dee84b",
+      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
+      "url": "https://thenewstack.io/anthropic-files-api-costs/",
+      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic&#8217;s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:00+00:00"
+    },
     {
       "id": "7139f62e5c44a7d0224d88e8a6c29e6d884ac524ffa2f477dc7f3ecaba7fca6e",
       "title": "The best iPad Air cases of 2026: Expert tested",
@@ -418,42 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-14T16:15:34+00:00"
-    },
-    {
-      "id": "1fd2f8e15dc517f614c5898815dbc4ad0e6f27d7319cb8cf74f47132f9917933",
-      "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
-      "url": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
-      "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-14T16:00:00+00:00"
-    },
-    {
-      "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
-      "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
-      "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
-      "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-13T20:46:00+00:00"
-    },
-    {
-      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
-      "title": "Rubrik’s lessons from one month with Mythos Preview",
-      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
-      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-13T17:37:33+00:00"
-    },
-    {
-      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
-      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
-      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-13T15:30:00+00:00"
     }
   ]
 }

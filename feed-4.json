@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-29T12:38:24.871447+00:00",
+  "updated": "2026-09-29T22:08:57.176667+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "83aa5e9d375275b1cce6033910501e1cd43bb73ad97c2043ea5b33f9398db4f7",
+      "title": "Google Earth added Nano Banana, and I immediately reimagined Philly with zombies and evil clowns",
+      "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
+      "summary": "Can Google Earth's new AI accurately redesign homes, recreate history, and imagine the future? I tested Nano Banana across several locations, and the results ranged from useful to gloriously absurd.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-30T12:30:00+00:00"
+    },
+    {
+      "id": "1f602a66cde8af3b25be5ced5df79847ed9729001fecb7b126663202432b601c",
+      "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
+      "url": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
+      "summary": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T18:25:00+00:00"
+    },
+    {
+      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
+      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
+      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-29T18:24:08+00:00"
+    },
+    {
+      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
+      "title": "The best smartwatches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smartwatch/",
+      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T18:20:00+00:00"
+    },
     {
       "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
       "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
@@ -418,42 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-19T21:30:34+00:00"
-    },
-    {
-      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
-      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
-      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
-      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-07-19T10:00:43+00:00"
-    },
-    {
-      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
-      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
-      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
-      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-18T10:00:39+00:00"
-    },
-    {
-      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
-      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
-      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
-      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-18T09:30:41+00:00"
-    },
-    {
-      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
-      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
-      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
-      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T16:36:19+00:00"
     }
   ]
 }
