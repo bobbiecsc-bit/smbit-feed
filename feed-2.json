@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-02T12:20:49.699562+00:00",
+  "updated": "2026-10-02T22:04:49.439816+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
+      "title": "QBO API update could lead to strange formatting for the unprepared",
+      "url": "https://www.accountingtoday.com/news/qbo-api-update-could-lead-to-strange-formatting-for-the-unprepared",
+      "summary": "Starting Sept. 1, Intuit will be updating the QuickBooks Online Reports API, which could lead to strange presentation issues.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-08-28T17:49:24+00:00"
+    },
+    {
+      "id": "ef3a95a6797e448d2e18d8eaa51256ca06354ec322a1d09dff9ce98b48e8b32f",
+      "title": "RSM launches AI-guided internal audit platform \"Beacon\" with Andera",
+      "url": "https://www.accountingtoday.com/news/rsm-launches-ai-guided-internal-audit-platform-beacon-with-andera",
+      "summary": "Top 10 firm RSM, in cooperation with AI-powered audit technology Andera, announced an AI-driven control testing platform for internal audit, RSM Beacon.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-08-28T16:18:00+00:00"
+    },
     {
       "id": "4fa63fed30e0915f21c1ac0bc12218cafd570800bd8d3d982962ab8add366b0a",
       "title": "I found the best early Labor Day Walmart deals: Save on Apple, Samsung, and more",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-16T10:45:00+00:00"
-    },
-    {
-      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
-      "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
-      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
-      "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-16T10:15:45+00:00"
-    },
-    {
-      "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
-      "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
-      "url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
-      "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-14T16:15:34+00:00"
     }
   ]
 }

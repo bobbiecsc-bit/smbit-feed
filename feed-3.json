@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-02T12:20:49.699562+00:00",
+  "updated": "2026-10-02T22:04:49.439816+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
+      "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
+      "url": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+      "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:15:45+00:00"
+    },
+    {
+      "id": "a9be7f34aaa00af380fb6794b3b720ade7e36d8b0857f3618e8160d6814acb00",
+      "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
+      "url": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
+      "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-14T16:15:34+00:00"
+    },
     {
       "id": "1fd2f8e15dc517f614c5898815dbc4ad0e6f27d7319cb8cf74f47132f9917933",
       "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-31T15:19:00+00:00"
-    },
-    {
-      "id": "476c9c7cc10a9cf86fc9790a6101057a2c0c08c7a5cf387d48a26aceac807047",
-      "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
-      "url": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
-      "summary": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T20:08:00+00:00"
-    },
-    {
-      "id": "1bf340c7d91614a098a5ff8975efb6732d25e26be134c6e93183d60e64247666",
-      "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
-      "url": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
-      "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-30T17:10:00+00:00"
     }
   ]
 }

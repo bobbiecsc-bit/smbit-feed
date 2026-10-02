@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-02T12:20:49.699562+00:00",
+  "updated": "2026-10-02T22:04:49.439816+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ec72419acabf147eaca73e5e4feb8b8ed41ba0715b2e8ac0442a723ba006aae2",
+      "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+      "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+      "summary": "Welcome to another edition of Road to KubeCon, your source for everything Kubernetes and cloud-native as we count down the The post What Kubernetes’ &#8220;monolith&#8221; lesson means for AI agent harnesses appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-02T16:31:26+00:00"
+    },
+    {
+      "id": "e4e4ce89e8758ded2a6304990037f757958de483d2455691f2c99fb66ba072b1",
+      "title": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t)",
+      "url": "https://thenewstack.io/k3s-vs-k8s-comparison/",
+      "summary": "The Kubernetes ecosystem has a complexity problem, and most teams already know it. Standard Kubernetes (K8s) is extraordinarily powerful, but The post K3s vs. K8s: When lightweight Kubernetes distros win (and when they don&#8217;t) appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-02T13:00:00+00:00"
+    },
     {
       "id": "2289724ef82beb1f7c81bd7f5cabf8af60252dd4c64bce40ed32b3f232a74905",
       "title": "CFOs spending heavily on AI",
@@ -436,24 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-08-28T19:42:00+00:00"
-    },
-    {
-      "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
-      "title": "QBO API update could lead to strange formatting for the unprepared",
-      "url": "https://www.accountingtoday.com/news/qbo-api-update-could-lead-to-strange-formatting-for-the-unprepared",
-      "summary": "Starting Sept. 1, Intuit will be updating the QuickBooks Online Reports API, which could lead to strange presentation issues.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-08-28T17:49:24+00:00"
-    },
-    {
-      "id": "ef3a95a6797e448d2e18d8eaa51256ca06354ec322a1d09dff9ce98b48e8b32f",
-      "title": "RSM launches AI-guided internal audit platform \"Beacon\" with Andera",
-      "url": "https://www.accountingtoday.com/news/rsm-launches-ai-guided-internal-audit-platform-beacon-with-andera",
-      "summary": "Top 10 firm RSM, in cooperation with AI-powered audit technology Andera, announced an AI-driven control testing platform for internal audit, RSM Beacon.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-08-28T16:18:00+00:00"
     }
   ]
 }
