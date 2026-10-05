@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-05T14:22:51.421732+00:00",
+  "updated": "2026-10-05T23:57:54.804005+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4d6fd0a364887ae2808f0f60fed6d25ffc2463e52969321803d110a3e587f2a",
+      "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
+      "url": "https://thenewstack.io/red-hat-guardrail-benchmark/",
+      "summary": "Guardrail selection has typically meant choosing between a purpose-built classifier and an LLM acting as a judge. Decision models such The post The AI safety check that runs on a laptop and nearly matched a 35B model appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-10-05T18:36:28+00:00"
+    },
+    {
+      "id": "d6b53ab877ada73829ef535f3dfead4d4b64c7ebc1817b42118b670187ced79d",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "summary": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources. You can now build agents optimized for OpenAI models that run entirely inside AWS with the ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-05T15:41:19+00:00"
+    },
     {
       "id": "ec72419acabf147eaca73e5e4feb8b8ed41ba0715b2e8ac0442a723ba006aae2",
       "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
@@ -436,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-08-31T14:45:25+00:00"
-    },
-    {
-      "id": "8f49b6d9ed20d513381d9bb9f9403227ffb8a655318d61f7ad1a984409ed7357",
-      "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
-      "url": "https://thenewstack.io/deepseek-gemini-vision-comparison/",
-      "summary": "DeepSeek released V4 Flash Vision Exp on August 21, its first model that accepts image input. Image input means a The post DeepSeek&#8217;s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-31T12:00:00+00:00"
-    },
-    {
-      "id": "ec5ab19260fdd12943c6e11a4c63844b3e6d77dfafe2e68574f5309650ff550d",
-      "title": "Tech Time Warp: Intel recalls its 1.13GHz Pentium III processor",
-      "url": "https://smartermsp.com/tech-time-warp-intel-recalls-its-1-13ghz-pentium-iii-processor/",
-      "summary": "It was billed as the “fastest x86 processor” ever manufactured, and maybe it was — when it worked properly. Twenty-six years ago, Intel had to pull its 1.13GHz Pentium III processor off the market only four weeks after its first [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-08-28T19:42:00+00:00"
     }
   ]
 }

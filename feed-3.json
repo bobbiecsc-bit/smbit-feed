@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-05T14:22:51.421732+00:00",
+  "updated": "2026-10-05T23:57:54.804005+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "21140e09bf31ec9b8298cc15e4f7873b5bb7939a73f43be5d0ad47fd91328973",
+      "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+      "url": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-17T11:38:51+00:00"
+    },
+    {
+      "id": "e9e32e5ca447542c0a87e92d4af42a73a16451d63679359e836c9452b1ce0606",
+      "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
+      "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "summary": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-16T10:45:00+00:00"
+    },
     {
       "id": "15d3e7ce901a80d66d4433d38742f663adc001a8c94173e09b30ac45cb40b8ec",
       "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
@@ -436,24 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-31T19:55:18+00:00"
-    },
-    {
-      "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
-      "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
-      "url": "https://www.zdnet.com/article/onedrive-photos-windows-11/",
-      "summary": "Microsoft has quietly pushed out a new OneDrive Photos app to Windows 11 users. What's it all about?",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-31T18:05:03+00:00"
-    },
-    {
-      "id": "71a1111bc769cdc4a30fb25f2169d96d455940a496599ff0083652b1ea58f836",
-      "title": "The best laptop cooling pads of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
-      "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-31T15:19:00+00:00"
     }
   ]
 }

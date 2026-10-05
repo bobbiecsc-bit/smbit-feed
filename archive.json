@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-05T14:22:51.421732+00:00",
+  "updated": "2026-10-05T23:57:54.804005+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b4d6fd0a364887ae2808f0f60fed6d25ffc2463e52969321803d110a3e587f2a",
+      "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
+      "url": "https://thenewstack.io/red-hat-guardrail-benchmark/",
+      "summary": "Guardrail selection has typically meant choosing between a purpose-built classifier and an LLM acting as a judge. Decision models such The post The AI safety check that runs on a laptop and nearly matched a 35B model appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-10-05T18:36:28+00:00"
+    },
+    {
+      "id": "d6b53ab877ada73829ef535f3dfead4d4b64c7ebc1817b42118b670187ced79d",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "summary": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI, built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources. You can now build agents optimized for OpenAI models that run entirely inside AWS with the ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-05T15:41:19+00:00"
+    },
     {
       "id": "ec72419acabf147eaca73e5e4feb8b8ed41ba0715b2e8ac0442a723ba006aae2",
       "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
@@ -2233,24 +2251,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-07-08T19:30:26+00:00"
-    },
-    {
-      "id": "cebe52f9000bcf340a428da4a4ea02f0b0642c6138536223562931ccbba1fd34",
-      "title": "Cybersecurity Threat Advisory: LSHIY password spray campaign",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-lshiy-password-spray-campaign/",
-      "summary": "This Cybersecurity Threat Advisory covers a large-scale password and token spray campaign targeting Microsoft Azure CLI authentication flows. Researchers linked the campaign to activity originating from the IPv6 range 2a0a:d683::/32. The range is associated with LSHIY LLC / AS32167. Researchers [&#8",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-08T17:23:30+00:00"
-    },
-    {
-      "id": "69c3f2a6c868cd4f0dd0bcd2d2dafaf189b1fa0ac6a2ae461de6687ea977eee4",
-      "title": "I tried DuckDuckGo's new video player, and it blocks YouTube ads for free",
-      "url": "https://www.zdnet.com/article/duckduckgos-new-video-player-blocks-youtube-ads-for-free/",
-      "summary": "Even as Chrome is killing ad blockers, DuckDuckGo's new video player now blocks ads by default on YouTube and elsewhere. Duck Player is available for MacOS, Windows, Android, and iOS.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T16:14:42+00:00"
     }
   ]
 }
