@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-06T13:11:36.228860+00:00",
+  "updated": "2026-10-06T22:35:07.955875+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4b22eb153d889aa74c331a9d3211e78a89efabe27a74022d5fae78f85c2385f",
+      "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+      "url": "https://thenewstack.io/mistral-large-4-weights/",
+      "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-06T17:26:01+00:00"
+    },
     {
       "id": "b4d6fd0a364887ae2808f0f60fed6d25ffc2463e52969321803d110a3e587f2a",
       "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
@@ -445,15 +454,6 @@
       "source": "Malwarebytes Labs",
       "category": "cloud_saas",
       "date": "2026-08-31T14:46:50+00:00"
-    },
-    {
-      "id": "1bab5080114f2e220333f8ed6cf4c0b19d4b45aaf6b0c88f938a4b143dd62234",
-      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
-      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CS",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-31T14:45:25+00:00"
     }
   ]
 }

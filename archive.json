@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-06T13:11:36.228860+00:00",
+  "updated": "2026-10-06T22:35:07.955875+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b4b22eb153d889aa74c331a9d3211e78a89efabe27a74022d5fae78f85c2385f",
+      "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+      "url": "https://thenewstack.io/mistral-large-4-weights/",
+      "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-06T17:26:01+00:00"
+    },
     {
       "id": "b4d6fd0a364887ae2808f0f60fed6d25ffc2463e52969321803d110a3e587f2a",
       "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-08T19:41:00+00:00"
-    },
-    {
-      "id": "83ce6869971314808af982c2bfab8d0cc2656fa0979cc783211ace840558b654",
-      "title": "Cybersecurity Threat Advisory: EvilTokens targets Microsoft 365",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-eviltokens-targets-microsoft-365/",
-      "summary": "Recent research describes a phishing kit called EvilTokens. It is actively targeting organizations in the U.S. and Europe, especially those in finance and other high-value sectors. Barracuda recommends deploying browser-aware phishing analysis and strengthening Microsoft 365 OAuth and device-code co",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-08T19:30:26+00:00"
     }
   ]
 }

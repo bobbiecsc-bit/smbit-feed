@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-06T13:11:36.228860+00:00",
+  "updated": "2026-10-06T22:35:07.955875+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
+      "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-malicious-notepad-plugins/",
+      "summary": "CERT-UA has identified an ongoing campaign in which threat group UAC-0099 distributes trojanized Notepad++ bundles that install malware on Windows systems. The campaign primarily targets organizations in Ukraine and is linked to activity associated with APT44 (Sandworm). What is the [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-31T19:55:18+00:00"
+    },
     {
       "id": "150ae8f47a7e135e69aa1bf22477893dca74ca1da7ad29e254ee58cc365e3647",
       "title": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-20T17:42:00+00:00"
-    },
-    {
-      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
-      "title": "The best rugged phones in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-rugged-phone/",
-      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:07:00+00:00"
     }
   ]
 }

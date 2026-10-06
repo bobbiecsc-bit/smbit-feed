@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-06T13:11:36.228860+00:00",
+  "updated": "2026-10-06T22:35:07.955875+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f1d4d22e0ae3bde343759aeb6e1c38215ddda6f4d976690282f29b299d1416b3",
+      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-08-17T16:02:36+00:00"
+    },
     {
       "id": "21140e09bf31ec9b8298cc15e4f7873b5bb7939a73f43be5d0ad47fd91328973",
       "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-01T08:30:43+00:00"
-    },
-    {
-      "id": "51b163dba4859f7aefc1c6b5432518866d9ceac5c998a319e22b071b3c5608b4",
-      "title": "Cybersecurity Threat Advisory: Malicious Notepad++ plugins",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-malicious-notepad-plugins/",
-      "summary": "CERT-UA has identified an ongoing campaign in which threat group UAC-0099 distributes trojanized Notepad++ bundles that install malware on Windows systems. The campaign primarily targets organizations in Ukraine and is linked to activity associated with APT44 (Sandworm). What is the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-31T19:55:18+00:00"
     }
   ]
 }
