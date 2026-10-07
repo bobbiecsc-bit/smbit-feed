@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-07T13:09:03.436598+00:00",
+  "updated": "2026-10-07T22:59:41.269653+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e15fd9ca169adbb0108a295178f5d77c790d93f84cbd6bac377d936a1ef3ea88",
+      "title": "I compared the cameras on the Galaxy Z Fold 8 and Pixel 11 Pro Fold - and one pulled ahead",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-camera-vs-pixel-11-pro-fold-camera/",
+      "summary": "I put the two phones' cameras to the test on a recent trip to Germany. It was close, but one phone edged out the other.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T15:50:00+00:00"
+    },
+    {
+      "id": "1b054ba442b8e76c384d32f65c6eecb22ed6ea15ba066b99042dd41eed3ec381",
+      "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft",
+      "url": "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft",
+      "summary": "Healthcare company McKesson acknowledged a data breach. ShinyHunters claims to have stolen hundred of millions of records",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-08-31T14:46:50+00:00"
+    },
     {
       "id": "1bab5080114f2e220333f8ed6cf4c0b19d4b45aaf6b0c88f938a4b143dd62234",
       "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-18T15:51:37+00:00"
-    },
-    {
-      "id": "370942f10639207e8e267e188dc3f3cf41189909946f715e5de228675c2b8363",
-      "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
-      "url": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
-      "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-18T15:11:00+00:00"
-    },
-    {
-      "id": "f64062c41c84e8c653f70057a6fbe053e096d69ba0aac2750b63f6cd2d89bad0",
-      "title": "You can turn an old Android into a Raspberry Pi alternative - but know this first",
-      "url": "https://www.zdnet.com/article/turn-old-android-into-raspberry-pi-alternative/",
-      "summary": "With AI-driven RAM shortages pushing Raspberry Pi prices sky high, here's how to repurpose your old handset into a portable powerhouse for your projects.",
-      "source": "ZDNet Business",
-      "category": "continuity",
-      "date": "2026-08-17T17:11:41+00:00"
     }
   ]
 }

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-07T13:09:03.436598+00:00",
+  "updated": "2026-10-07T22:59:41.269653+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3b4d79a0f93351dd63c3329c153cecf688ac1c74fa57c181819e8997bf6e07c5",
+      "title": "Advise clients on AI and SaaS spend: 2026 benchmarks from 70,000+ businesses",
+      "url": "https://www.accountingtoday.com/report/advise-clients-on-ai-and-saas-spend-2026-benchmarks-from-70-000-businesses",
+      "summary": "Firm leaders and advisors: see how AI and SaaS spend is shifting so you can guide clients with real data.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-10-07T16:19:40+00:00"
+    },
+    {
+      "id": "5d812f7db32162ab1f142f2f46440d640dc7e0309ed64a77a6762dd284b192b3",
+      "title": "GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost",
+      "url": "https://thenewstack.io/gpt-6-1-sol-vs-gpt-6-astra/",
+      "summary": "OpenAI launched GPT-6.1 Sol on September 29, just a week after it launched GPT-6 Sol. OpenAI marketed 6.1 as an The post GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-07T14:17:13+00:00"
+    },
     {
       "id": "b4b22eb153d889aa74c331a9d3211e78a89efabe27a74022d5fae78f85c2385f",
       "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "ca4718a70a699fa91f8d36a841205ae169c63cdb0d53f47aa3ceb87f497de3e6",
-      "title": "The best malware removal software of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-malware-removal-software/",
-      "summary": "Think your device is infected? Try out our favorite software to remove malware and restore your security.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T09:00:59+00:00"
-    },
-    {
-      "id": "1ebb6a98f0fa747a70be44523ead620cbccda6cd4fc9f3c75ecdd154ceed4959",
-      "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
-      "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-      "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-08T19:41:00+00:00"
     }
   ]
 }
