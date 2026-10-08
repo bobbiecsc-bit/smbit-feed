@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-08T13:16:16.118386+00:00",
+  "updated": "2026-10-08T23:14:12.796893+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7a9fee0b87d5d4d2361c6ec5778e3abba9c892f213c69a142412476d93b28d04",
+      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+      "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+      "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-08T18:56:22+00:00"
+    },
     {
       "id": "978c3692a05479b5d36e84e295d2ff20599e04420b6e587fceff428a70ec03fb",
       "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T14:14:07+00:00"
-    },
-    {
-      "id": "15993f59cddce00c9507235a7d8e0cd14723fb4ec73ee4c3f31cdd786a9960ac",
-      "title": "I tested Norton Antivirus on my PC - and it found a hidden Trojan in 15 minutes",
-      "url": "https://www.zdnet.com/article/norton-antivirus-review/",
-      "summary": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T13:02:00+00:00"
     }
   ]
 }

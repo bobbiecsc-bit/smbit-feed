@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-08T13:16:16.118386+00:00",
+  "updated": "2026-10-08T23:14:12.796893+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7a9fee0b87d5d4d2361c6ec5778e3abba9c892f213c69a142412476d93b28d04",
+      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+      "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+      "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-08T18:56:22+00:00"
+    },
     {
       "id": "978c3692a05479b5d36e84e295d2ff20599e04420b6e587fceff428a70ec03fb",
       "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-08-31T18:57:39+00:00"
-    },
-    {
-      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
-      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
-      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
-      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-31T16:48:00+00:00"
     }
   ]
 }

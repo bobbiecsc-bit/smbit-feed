@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-08T13:16:16.118386+00:00",
+  "updated": "2026-10-08T23:14:12.796893+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "059e1986e8b2d940cdbe86650b41a3944b8fa5332b427b76d7aba8a098d58d02",
+      "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
+      "url": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
+      "summary": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:48:00+00:00"
+    },
     {
       "id": "312c4c4399257441d3a09f8199ffb8d3b133e8fcd2bcf36f47b23a2927af9528",
       "title": "Amazon just dropped the Sony WH-1000XM5 headphones down to 50% off - the lowest price yet",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-08-18T20:07:55+00:00"
-    },
-    {
-      "id": "f53d727288bc47055323d921bfd9618e712ddfb3497897bef3fafab9ead2e8c7",
-      "title": "The 3-2-1 backup rule isn’t enough anymore",
-      "url": "https://smartermsp.com/the-3-2-1-backup-rule-isnt-enough-anymore/",
-      "summary": "For decades, the 3-2-1 backup rule has been the mainstay of data protection: keep three copies of your data, on two different types of media, with one copy stored offsite. It was a sound framework for a world where the [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-08-18T18:16:22+00:00"
     }
   ]
 }
