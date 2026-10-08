@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-07T22:59:41.269653+00:00",
+  "updated": "2026-10-08T13:16:16.118386+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "978c3692a05479b5d36e84e295d2ff20599e04420b6e587fceff428a70ec03fb",
+      "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
+      "url": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5/",
+      "summary": "Anthropic launched Sonnet 5.5 six days after Opus 5.5. The company says it scores 70.6% on Terminal-Bench 4.0, ahead of The post Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-08T12:00:00+00:00"
+    },
     {
       "id": "3b4d79a0f93351dd63c3329c153cecf688ac1c74fa57c181819e8997bf6e07c5",
       "title": "Advise clients on AI and SaaS spend: 2026 benchmarks from 70,000+ businesses",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T13:02:00+00:00"
-    },
-    {
-      "id": "df79edd46fd49dc1a1b1065cf31b2de75a911e4e26e7bf0617e25698c3313a2d",
-      "title": "Best blood pressure watches: I tested the top models that actually work",
-      "url": "https://www.zdnet.com/article/best-blood-pressure-watch/",
-      "summary": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one for your needs.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T10:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-07T22:59:41.269653+00:00",
+  "updated": "2026-10-08T13:16:16.118386+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ce5a8b387ed2cb8b02222876fe000b47f567013b3be751f9ad80ce6e705daa3a",
+      "title": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
+      "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "summary": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-02T09:15:52+00:00"
+    },
     {
       "id": "90cddb101a54a6926822385bcb903a8e2acb95d2511d7e842309dfe7fd8656e5",
       "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: One is better in every way that matters",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T10:01:03+00:00"
-    },
-    {
-      "id": "b026f317b235b7253ce1ba0da2c50edcc19040e400296cd7024a3467e274973c",
-      "title": "Google just bet its inference future on a chip built for one model",
-      "url": "https://thenewstack.io/google-frozen-gemini-chip/",
-      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We&#8217;re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-20T22:14:41+00:00"
     }
   ]
 }

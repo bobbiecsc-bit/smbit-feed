@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-07T22:59:41.269653+00:00",
+  "updated": "2026-10-08T13:16:16.118386+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "312c4c4399257441d3a09f8199ffb8d3b133e8fcd2bcf36f47b23a2927af9528",
+      "title": "Amazon just dropped the Sony WH-1000XM5 headphones down to 50% off - the lowest price yet",
+      "url": "https://www.zdnet.com/article/sony-wh-1000xm5-headphones-amazon-labor-day-sale-2026/",
+      "summary": "Sony's excellent noise-canceling headphones just hit an all-time low price ahead of Labor Day.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-31T16:07:37+00:00"
+    },
     {
       "id": "e15fd9ca169adbb0108a295178f5d77c790d93f84cbd6bac377d936a1ef3ea88",
       "title": "I compared the cameras on the Galaxy Z Fold 8 and Pixel 11 Pro Fold - and one pulled ahead",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-08-18T18:16:22+00:00"
-    },
-    {
-      "id": "71143694810931d883223ea7a1f3c0cd5f8792d1be3747aa3e867f9488145664",
-      "title": "I tested Omarchy Quattro, one of the first Linux distros to go all in on AI - and I didn't hate it",
-      "url": "https://www.zdnet.com/article/omarchy-quattro-linux-distro-power-users-ai/",
-      "summary": "Omarchy made me fall in love with Hyprland - can it do the same for AI?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-18T15:51:37+00:00"
     }
   ]
 }

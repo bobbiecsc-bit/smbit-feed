@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-07T22:59:41.269653+00:00",
+  "updated": "2026-10-08T13:16:16.118386+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "978c3692a05479b5d36e84e295d2ff20599e04420b6e587fceff428a70ec03fb",
+      "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
+      "url": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5/",
+      "summary": "Anthropic launched Sonnet 5.5 six days after Opus 5.5. The company says it scores 70.6% on Terminal-Bench 4.0, ahead of The post Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-08T12:00:00+00:00"
+    },
     {
       "id": "3b4d79a0f93351dd63c3329c153cecf688ac1c74fa57c181819e8997bf6e07c5",
       "title": "Advise clients on AI and SaaS spend: 2026 benchmarks from 70,000+ businesses",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-31T16:48:00+00:00"
-    },
-    {
-      "id": "312c4c4399257441d3a09f8199ffb8d3b133e8fcd2bcf36f47b23a2927af9528",
-      "title": "Amazon just dropped the Sony WH-1000XM5 headphones down to 50% off - the lowest price yet",
-      "url": "https://www.zdnet.com/article/sony-wh-1000xm5-headphones-amazon-labor-day-sale-2026/",
-      "summary": "Sony's excellent noise-canceling headphones just hit an all-time low price ahead of Labor Day.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-31T16:07:37+00:00"
     }
   ]
 }
