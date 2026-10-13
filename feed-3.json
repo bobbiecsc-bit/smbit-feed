@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-13T14:01:52.328426+00:00",
+  "updated": "2026-10-13T22:34:10.734165+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
+      "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
+      "url": "https://www.zdnet.com/article/lg-c6-oled-review/",
+      "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and it won a ZDNET Lab Award for the most accurate color reproduction.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T11:06:15+00:00"
+    },
+    {
+      "id": "c4e00a646f7a4debd3f5a0c36d465ebe147cfa081f99a4e91e134fe355908db8",
+      "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
+      "url": "https://thenewstack.io/glm-5-3-anthropic-distillation/",
+      "summary": "Chinese frontier model outfit Z.ai released GLM-5.3 on Friday, a model hewn from the same codebase as its predecessor GLM-5.2, The post An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3 appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-19T08:00:00+00:00"
+    },
+    {
+      "id": "7f2509f5ce16d6c7e1dc62e7133724b667db30f86d52e547a1f32a2b2f353581",
+      "title": "I tested GNOME's glassy new look - and it's simply spectacular",
+      "url": "https://www.zdnet.com/article/gnome-desktop-liquid-glass-aura-glass/",
+      "summary": "GNOME is finally catching up to other desktop environments, thanks to Aura Glass, a fluid, modern desktop inspired by Apple's Liquid Glass.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-18T20:32:12+00:00"
+    },
     {
       "id": "3b89e921fec720a58765b9dd3d69cc022ba3019c1a473a70b5f5c7abf70f002e",
       "title": "What happens to your indexed data when Mistral flips the switch?",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-04T10:01:07+00:00"
-    },
-    {
-      "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
-      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
-      "url": "https://www.zdnet.com/article/best-hisense-tv/",
-      "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T10:00:45+00:00"
-    },
-    {
-      "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
-      "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
-      "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
-      "summary": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-03T18:50:00+00:00"
-    },
-    {
-      "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
-      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
-      "summary": "Last week I had the joy of participating in Amazon’s “Bring Your Kids to Work Day” with my 7 year old son. We commuted together into the New York City office, his first real rush hour train ride, and spent the day exploring how Amazon uses AI, machine learning, and robotics to deliver packages to […",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-03T16:12:30+00:00"
     }
   ]
 }

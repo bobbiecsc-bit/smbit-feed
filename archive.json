@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-13T14:01:52.328426+00:00",
+  "updated": "2026-10-13T22:34:10.734165+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bdd2ead3a6c434b3f216a85d6e318565fb3889555972b42a11c0fc62dee5b3d7",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-13T15:59:06+00:00"
+    },
+    {
+      "id": "0a86ce08365a3837086327b802e2a38dd240c60554388de8200533ad3b017d42",
+      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+      "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:28:12+00:00"
+    },
+    {
+      "id": "1324b2d0e2b4ed1d533b57a85342a9e212663565f4147d0db05985e00d6c4d5c",
+      "title": "AI didn't invent audit risk, so what actually changed?",
+      "url": "https://www.accountingtoday.com/opinion/ai-didnt-invent-audit-risk-so-what-actually-changed",
+      "summary": "Here are some lessons from investment auditing in the age of generative AI.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:05:31+00:00"
+    },
     {
       "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
       "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
@@ -2224,33 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T18:51:10+00:00"
-    },
-    {
-      "id": "f25648d6e8f6e17c12a2937ed496403ea58ef80100b012e86625deee4a509ff1",
-      "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
-      "url": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
-      "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T17:16:13+00:00"
-    },
-    {
-      "id": "d436367f5a5f80602f3ce85aa78e6cb4cdc302b8e2df8d183447536bd1bfd4c9",
-      "title": "The best digital notebooks of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smart-notebook/",
-      "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T15:34:00+00:00"
-    },
-    {
-      "id": "b9ed5f1790bb3ad1ceab8433f3a0eb937685add4f812945bcbef6763ed4ec1e9",
-      "title": "The best 15-inch laptops of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-15-inch-laptop/",
-      "summary": "Looking for a new 15-inch laptop? We've tested the best ones this year from Apple, Lenovo, Asus, and Samsung.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:41:00+00:00"
     }
   ]
 }

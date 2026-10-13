@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-13T14:01:52.328426+00:00",
+  "updated": "2026-10-13T22:34:10.734165+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bdd2ead3a6c434b3f216a85d6e318565fb3889555972b42a11c0fc62dee5b3d7",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-13T15:59:06+00:00"
+    },
+    {
+      "id": "0a86ce08365a3837086327b802e2a38dd240c60554388de8200533ad3b017d42",
+      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+      "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:28:12+00:00"
+    },
+    {
+      "id": "1324b2d0e2b4ed1d533b57a85342a9e212663565f4147d0db05985e00d6c4d5c",
+      "title": "AI didn't invent audit risk, so what actually changed?",
+      "url": "https://www.accountingtoday.com/opinion/ai-didnt-invent-audit-risk-so-what-actually-changed",
+      "summary": "Here are some lessons from investment auditing in the age of generative AI.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:05:31+00:00"
+    },
     {
       "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
       "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-01T18:51:56+00:00"
-    },
-    {
-      "id": "09c7682b37b7ba731b42f63e5d15c9cb1757938ed42c6a78fc40067936873711",
-      "title": "Decluttering financial decision-making",
-      "url": "https://www.accountingtoday.com/opinion/decluttering-financial-decision-making-how-new-tools-and-processes-can-automate-the-process",
-      "summary": "Fragmented data and manual processes are CFO kryptonite. Unfortunately, some corporate headquarters seem to be sitting on kryptonite mines.",
-      "source": "Accounting Today Tech",
-      "category": "continuity",
-      "date": "2026-09-01T15:02:24+00:00"
-    },
-    {
-      "id": "7e51716f6afe16b9b577ab8686434afa01cab75f5ce2f73279b0e4910508623d",
-      "title": "Vibe-coded apps are the new shadow IT",
-      "url": "https://thenewstack.io/vibe-coded-shadow-it/",
-      "summary": "Shadow IT used to be a SaaS problem. Someone on the marketing team signed up for a tool, connected it The post Vibe-coded apps are the new shadow IT appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-09-01T15:00:00+00:00"
-    },
-    {
-      "id": "658388d808e06b0c314ba9bcd6691c90d3ea07272d2abcfd96ecc2181310b305",
-      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
-      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-08-31T19:53:34+00:00"
     }
   ]
 }
