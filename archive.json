@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-13T00:30:20.883742+00:00",
+  "updated": "2026-10-13T14:01:52.328426+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T11:50:35+00:00"
+    },
     {
       "id": "7a9fee0b87d5d4d2361c6ec5778e3abba9c892f213c69a142412476d93b28d04",
       "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-09T14:41:00+00:00"
-    },
-    {
-      "id": "8bef77666e060afe3cb9bac4b687beb159cadc2d57dd8d320209258d8557824d",
-      "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
-      "url": "https://www.zdnet.com/article/how-id-rank-distrowatch-top-10-as-linux-expert/",
-      "summary": "DistroWatch says these are the top Linux distros. I say this order is better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T14:14:07+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-13T00:30:20.883742+00:00",
+  "updated": "2026-10-13T14:01:52.328426+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T11:50:35+00:00"
+    },
     {
       "id": "7a9fee0b87d5d4d2361c6ec5778e3abba9c892f213c69a142412476d93b28d04",
       "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "cloud_saas",
       "date": "2026-08-31T19:53:34+00:00"
-    },
-    {
-      "id": "0f3b34dd9347d095e21ae1010c89ac8bea832909ef70d1ead74cfee46a4cf107",
-      "title": "How an $80 accessory turned my tablet from mouse pad to productivity powerhouse",
-      "url": "https://www.zdnet.com/article/satechi-onthego-foldable-stand-hub/",
-      "summary": "I never realized how revolutionary a simple stand could be. And the Satechi OntheGo Foldable Stand Hub does so much more than hold my tablet.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-31T18:57:39+00:00"
     }
   ]
 }
