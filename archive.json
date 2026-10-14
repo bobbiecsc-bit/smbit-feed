@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:38:27.237258+00:00",
+  "updated": "2026-10-14T21:32:20.167506+00:00",
   "total": 250,
   "articles": [
     {
@@ -28,6 +28,15 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-10-13T15:05:31+00:00"
+    },
+    {
+      "id": "2b548a20e5654e81116605841fefc9824d97fe7e13ee4cd2faa6e2f0e1a02c4b",
+      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T13:00:00+00:00"
     },
     {
       "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T08:45:00+00:00"
-    },
-    {
-      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
-      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T18:51:10+00:00"
     }
   ]
 }

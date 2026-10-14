@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-14T11:38:27.237258+00:00",
+  "updated": "2026-10-14T21:32:20.167506+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
+      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-21T19:30:07+00:00"
+    },
     {
       "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
       "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T08:45:00+00:00"
-    },
-    {
-      "id": "83c124dca8d3f6e31d48758b5693f68227aa409d18067e590800645b76612f47",
-      "title": "I tested ChatGPT's Live Voice upgrade, and it almost felt human - how to try it",
-      "url": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
-      "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real person? Almost.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-09T18:51:10+00:00"
     }
   ]
 }

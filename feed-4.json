@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-14T11:38:27.237258+00:00",
+  "updated": "2026-10-14T21:32:20.167506+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
+      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-garmin-watch/",
+      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-04T10:01:07+00:00"
+    },
     {
       "id": "4575543ed7e6ae01dfa332bf3097cb118ac1904200c26ac7dc992324eea3a619",
       "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-21T19:30:13+00:00"
-    },
-    {
-      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
-      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
-      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
-      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T19:30:07+00:00"
     }
   ]
 }

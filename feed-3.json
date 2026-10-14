@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-14T11:38:27.237258+00:00",
+  "updated": "2026-10-14T21:32:20.167506+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "37cf91aeaff69a1252c18ce3855e8c8f7b3d2f55406e7a5c9d8cd3cf822d060b",
+      "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
+      "summary": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T13:30:50+00:00"
+    },
     {
       "id": "466e1e380487ba5bf9913dc6b27353b6c864d319d7d6db51491be32aadfe8c27",
       "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-04T11:00:55+00:00"
-    },
-    {
-      "id": "31e3dedaa3dab55b5f760c8947029ac5101a35c5e83ddf79f1bb96464b58846d",
-      "title": "The best Garmin watches of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-garmin-watch/",
-      "summary": "I tested the best Garmin watches to help you decide which smartwatch is the right option for you as we enter marathon season.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T10:01:07+00:00"
     }
   ]
 }

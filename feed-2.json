@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-14T11:38:27.237258+00:00",
+  "updated": "2026-10-14T21:32:20.167506+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8f0f4d509a4b5eba4be478ca2a3aad3c2505370f790aad4efffb9602efb50daf",
+      "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
+      "url": "https://thenewstack.io/glm-flash-flagship-benchmark/",
+      "summary": "I always wonder about the end goal when companies launch products so close together and undercut each other by claiming The post GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-01T18:51:56+00:00"
+    },
     {
       "id": "09c7682b37b7ba731b42f63e5d15c9cb1757938ed42c6a78fc40067936873711",
       "title": "Decluttering financial decision-making",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T13:36:00+00:00"
-    },
-    {
-      "id": "37cf91aeaff69a1252c18ce3855e8c8f7b3d2f55406e7a5c9d8cd3cf822d060b",
-      "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
-      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
-      "summary": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T13:30:50+00:00"
     }
   ]
 }
