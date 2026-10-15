@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-15T11:17:04.812591+00:00",
+  "updated": "2026-10-15T21:14:03.213386+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "914aae45a6b01a775a4acbe5e5aca86905f3fc894f6d98507627f873ca933763",
+      "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
+      "url": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+      "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
+      "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
+      "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
+      "summary": "AI agents are multiplying as corporations adopt the technology in record numbers. Smarter underlying models, better tool use, and improved The post Want to scale AI agents without breaking anything? Retrieval engineering is the answer. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-09-03T15:38:20+00:00"
+    },
     {
       "id": "8f0f4d509a4b5eba4be478ca2a3aad3c2505370f790aad4efffb9602efb50daf",
       "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T14:19:00+00:00"
-    },
-    {
-      "id": "25acac397ee8964b70dd5ad15ec56194f200a471362d476440b6f311b74a0a60",
-      "title": "Best robot vacuum mops of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-robot-vacuum-mop/",
-      "summary": "We've tested over 50 top robot vacuum-and-mop combos from brands like Roborock, Eufy, Ecovacs, and Dreame to choose the best to keep a home clean.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T14:12:00+00:00"
-    },
-    {
-      "id": "15229311901ac19e05c086489448d60120d0375610647687bf64da1f78a1d0b1",
-      "title": "The best TVs of 2026: Expert tested and recommended",
-      "url": "https://www.zdnet.com/article/best-tv/",
-      "summary": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Samsung, and Hisense.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T13:36:00+00:00"
     }
   ]
 }

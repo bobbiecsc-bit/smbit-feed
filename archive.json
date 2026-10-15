@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-15T11:17:04.812591+00:00",
+  "updated": "2026-10-15T21:14:03.213386+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8a80bbf955d366a9764ef402bf6451f9a577edf3a74ab758d37d2e68c689568c",
+      "title": "What it takes to become an AI company: Four lessons from the top",
+      "url": "https://thenewstack.io/becoming-an-ai-company/",
+      "summary": "Every company is under pressure to become &#8220;an AI company.&#8221; Over the past several months, we&#8217;ve been undertaking that transformation The post What it takes to become an AI company: Four lessons from the top appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-15T15:00:00+00:00"
+    },
+    {
+      "id": "1804159a489f54c7d6ac60c64ffd4c93fa4fcfa1b9cac2dc92f124114a12d85b",
+      "title": "Sextortion “help” firm took $60 million from victims, FTC alleges",
+      "url": "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges",
+      "summary": "The FTC accuses Digital Forensics Corporation and affiliated companies of exploiting people seeking help with intimate-image blackmail.",
+      "source": "Malwarebytes Labs",
+      "category": "continuity",
+      "date": "2026-10-15T11:48:26+00:00"
+    },
     {
       "id": "bdd2ead3a6c434b3f216a85d6e318565fb3889555972b42a11c0fc62dee5b3d7",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T10:00:49+00:00"
-    },
-    {
-      "id": "6a154b47a253a53b5716802cbfd76f879bec0b02811cba6cdb6653ccd252d415",
-      "title": "The best smart rings of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-smart-ring/",
-      "summary": "I tested several top smart rings including the new Oura Ring 5. These are the ones I recommend.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T09:00:41+00:00"
-    },
-    {
-      "id": "6b2691182de7305c66366d782cbe105a5d7e08e0212de60defb4fa59113ee07c",
-      "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
-      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-      "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T08:45:00+00:00"
     }
   ]
 }

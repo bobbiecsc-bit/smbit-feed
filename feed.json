@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-15T11:17:04.812591+00:00",
+  "updated": "2026-10-15T21:14:03.213386+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8a80bbf955d366a9764ef402bf6451f9a577edf3a74ab758d37d2e68c689568c",
+      "title": "What it takes to become an AI company: Four lessons from the top",
+      "url": "https://thenewstack.io/becoming-an-ai-company/",
+      "summary": "Every company is under pressure to become &#8220;an AI company.&#8221; Over the past several months, we&#8217;ve been undertaking that transformation The post What it takes to become an AI company: Four lessons from the top appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-15T15:00:00+00:00"
+    },
+    {
+      "id": "1804159a489f54c7d6ac60c64ffd4c93fa4fcfa1b9cac2dc92f124114a12d85b",
+      "title": "Sextortion “help” firm took $60 million from victims, FTC alleges",
+      "url": "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges",
+      "summary": "The FTC accuses Digital Forensics Corporation and affiliated companies of exploiting people seeking help with intimate-image blackmail.",
+      "source": "Malwarebytes Labs",
+      "category": "continuity",
+      "date": "2026-10-15T11:48:26+00:00"
+    },
     {
       "id": "bdd2ead3a6c434b3f216a85d6e318565fb3889555972b42a11c0fc62dee5b3d7",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "continuity",
       "date": "2026-09-04T16:54:58+00:00"
-    },
-    {
-      "id": "914aae45a6b01a775a4acbe5e5aca86905f3fc894f6d98507627f873ca933763",
-      "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
-      "url": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
-      "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
-      "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
-      "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
-      "summary": "AI agents are multiplying as corporations adopt the technology in record numbers. Smarter underlying models, better tool use, and improved The post Want to scale AI agents without breaking anything? Retrieval engineering is the answer. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-09-03T15:38:20+00:00"
     }
   ]
 }
