@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-15T21:14:03.213386+00:00",
+  "updated": "2026-10-16T11:11:44.212207+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d27185843c2e2eb3125969d78379930f7e74963937974f6afa6aad0e9476edb2",
+      "title": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
+      "summary": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-22T13:01:00+00:00"
+    },
     {
       "id": "b9b2217d77c667f2ac3c75bd0b9ef192f866d47365b11f81c448b84a24e1bef0",
       "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T10:01:05+00:00"
-    },
-    {
-      "id": "ed23d4fef82f4ad47508aa698e71d731d08f4cc2e571dfeef924edf4807ce45d",
-      "title": "The best HDMI cables of 2026: Expert reviewed",
-      "url": "https://www.zdnet.com/article/best-hdmi-cable/",
-      "summary": "I tested the top HDMI cables from leading brands to find the most dependable options for clear audio and video.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:00:49+00:00"
     }
   ]
 }

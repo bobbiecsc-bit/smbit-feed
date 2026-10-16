@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-15T21:14:03.213386+00:00",
+  "updated": "2026-10-16T11:11:44.212207+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "60d213c9925fce97d1a63fb8c71dca0fed27efa34057c80f69c990a675653c5e",
+      "title": "The best Android phones of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-android-phone/",
+      "summary": "We tested the latest Android phones on the market, from the Samsung Galaxy Z Fold 8 to the Google Pixel 11 series. Here's how they stack up.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T14:19:00+00:00"
+    },
     {
       "id": "25acac397ee8964b70dd5ad15ec56194f200a471362d476440b6f311b74a0a60",
       "title": "Best robot vacuum mops of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-04T18:13:00+00:00"
-    },
-    {
-      "id": "fd13f411503ba38c158a5a787bb8698a130718ef578fc13c5fda59687ab36151",
-      "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
-      "url": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
-      "summary": "The Momentum 5 and the Px7 S3 have similar spec sheets, but their real-life use cases set them apart.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-04T15:45:46+00:00"
     }
   ]
 }

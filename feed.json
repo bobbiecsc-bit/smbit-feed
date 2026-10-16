@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-15T21:14:03.213386+00:00",
+  "updated": "2026-10-16T11:11:44.212207+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e95f6084d4b10d78a3b0b10cb8972695d25758557c05b539143fa671d63abd0e",
+      "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
+      "url": "https://thenewstack.io/uvi-ai-agent-context/",
+      "summary": "Every time an AI agent has to trawl Slack threads, Jira tickets and old pull requests to piece together something The post “Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-16T11:00:00+00:00"
+    },
     {
       "id": "8a80bbf955d366a9764ef402bf6451f9a577edf3a74ab758d37d2e68c689568c",
       "title": "What it takes to become an AI company: Four lessons from the top",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-09-04T18:15:26+00:00"
-    },
-    {
-      "id": "064856a472d798aeaa3042a0e2170b76c95f9eebc46b895b81f76af88f84bb03",
-      "title": "Tech news: New Deloitte practice incorporates open source AI models",
-      "url": "https://www.accountingtoday.com/list/tech-news-new-deloitte-practice-incorporates-open-source-ai-models",
-      "summary": "Plus, LogicGate 2026 release include GRC agents, lifecycle management solution; Deel launches retirement solution; and other accounting tech news.",
-      "source": "Accounting Today Tech",
-      "category": "continuity",
-      "date": "2026-09-04T16:54:58+00:00"
     }
   ]
 }
