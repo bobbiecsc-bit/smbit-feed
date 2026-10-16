@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-16T11:11:44.212207+00:00",
+  "updated": "2026-10-16T20:53:14.769237+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6df0e96f36e43cfc5b660ffc9120a35f586313490c08de272729f9aea3d87b53",
+      "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+      "url": "https://thenewstack.io/muse-wonder-claude-fable/",
+      "summary": "Meta launched Muse Wonder on October 12, about three months after Muse Spark 1.1 opened Meta’s paid Model API. Meta The post Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-16T12:00:00+00:00"
+    },
     {
       "id": "e95f6084d4b10d78a3b0b10cb8972695d25758557c05b539143fa671d63abd0e",
       "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-10T11:00:47+00:00"
-    },
-    {
-      "id": "c9170b8a769ed04d8166d5a3846d22a126f01c70233299703cc7431fdfed607e",
-      "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-vps-hosting-service/",
-      "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability needed to push your project to the next level.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T10:01:05+00:00"
     }
   ]
 }

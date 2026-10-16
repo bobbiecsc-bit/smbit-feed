@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-16T11:11:44.212207+00:00",
+  "updated": "2026-10-16T20:53:14.769237+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
+      "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-synkloader-teams-phishing-campaign/",
+      "summary": "Security researchers have identified a phishing campaign that uses Microsoft Teams messages impersonating IT support staff to distribute a newly discovered malware known as SynkLoader. Read this Cybersecurity Threat Advisory to understand the risks associated with SynkLoader, identify potential expo",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-09-04T18:15:26+00:00"
+    },
     {
       "id": "064856a472d798aeaa3042a0e2170b76c95f9eebc46b895b81f76af88f84bb03",
       "title": "Tech news: New Deloitte practice incorporates open source AI models",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T16:01:00+00:00"
-    },
-    {
-      "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
-      "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
-      "url": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
-      "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-19T15:53:08+00:00"
     }
   ]
 }

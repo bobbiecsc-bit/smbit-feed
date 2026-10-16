@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-16T11:11:44.212207+00:00",
+  "updated": "2026-10-16T20:53:14.769237+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6df0e96f36e43cfc5b660ffc9120a35f586313490c08de272729f9aea3d87b53",
+      "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+      "url": "https://thenewstack.io/muse-wonder-claude-fable/",
+      "summary": "Meta launched Muse Wonder on October 12, about three months after Muse Spark 1.1 opened Meta’s paid Model API. Meta The post Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-16T12:00:00+00:00"
+    },
     {
       "id": "e95f6084d4b10d78a3b0b10cb8972695d25758557c05b539143fa671d63abd0e",
       "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-05T15:00:00+00:00"
-    },
-    {
-      "id": "561b914b05253069fdfdd37aa15caa92d4907746f7b8fb8e4e3810fa2788e1a7",
-      "title": "Cybersecurity Threat Advisory: SynkLoader Teams phishing campaign",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-synkloader-teams-phishing-campaign/",
-      "summary": "Security researchers have identified a phishing campaign that uses Microsoft Teams messages impersonating IT support staff to distribute a newly discovered malware known as SynkLoader. Read this Cybersecurity Threat Advisory to understand the risks associated with SynkLoader, identify potential expo",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-09-04T18:15:26+00:00"
     }
   ]
 }
