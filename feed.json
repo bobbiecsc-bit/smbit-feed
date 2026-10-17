@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-17T10:30:34.011804+00:00",
+  "updated": "2026-10-17T20:26:45.656296+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bdea59931bc490522c554cc68f04d2939c5fcd59d2b3663aaed0faf4db1fe1b8",
+      "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+      "url": "https://thenewstack.io/live-streaming-engineering-lessons/",
+      "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-17T16:00:00+00:00"
+    },
+    {
+      "id": "bff0e66af546d083f13a9a08eb2dc0455e64051cf56727548f951a60b559966f",
+      "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+      "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+      "summary": "Kubernetes has always relied on agents, just not the kind dominating today&#8217;s AI conversations. A controller watches the current state, The post AI agents vs. Kubernetes: where each belongs in the control loop appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-17T14:00:00+00:00"
+    },
     {
       "id": "6df0e96f36e43cfc5b660ffc9120a35f586313490c08de272729f9aea3d87b53",
       "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-09-08T12:27:18+00:00"
-    },
-    {
-      "id": "5503c00c093893c1b4e79db89bd307d30a809ef3a259602a20caad1fe8a07032",
-      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-      "summary": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans ma",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-09-07T14:24:08+00:00"
-    },
-    {
-      "id": "80fefb72dfa50ca40802e8a351ac42882cfba9b3790fb09638ed3400540cc8df",
-      "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
-      "url": "https://thenewstack.io/claude-fable-upgrade-tested/",
-      "summary": "Anthropic launched Claude Fable 5.1 this week, calling it “our most advanced model for coding and knowledge work.” There was The post Claude Fable 5.1 vs. Fable 5: On real work, I couldn&#8217;t tell them apart. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-05T15:00:00+00:00"
     }
   ]
 }

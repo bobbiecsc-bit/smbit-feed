@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-17T10:30:34.011804+00:00",
+  "updated": "2026-10-17T20:26:45.656296+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "02c5823fcaabe7d58700c99482aeddea7a5f925e4080b6cb8328d5552a5adb63",
+      "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+      "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+      "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T17:20:50+00:00"
+    },
+    {
+      "id": "5c5b5192170d9d60a3f6d0a16c1508c8ca097c0093252109b034925c53ba4b0e",
+      "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+      "url": "https://www.zdnet.com/article/suunto-core-2-review/",
+      "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-19T16:01:00+00:00"
+    },
     {
       "id": "c9fe4a9a189b702243653d24f35b10ec8cc35f38501ed76d7a47548ca39ddaeb",
       "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-05T13:00:28+00:00"
-    },
-    {
-      "id": "96dd978b9f16fc4ee2302c4cb3853692ef0c9df0d17b32a1cab537d89bce8cc9",
-      "title": "The accounting lesson Congress still hasn't applied to AI",
-      "url": "https://www.accountingtoday.com/opinion/the-accounting-lesson-congress-still-hasnt-applied-to-ai",
-      "summary": "The FRONTIER Act is a meaningful step forward. But without contemporaneous records and truly independent verification, oversight begins too late",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "50c5d6532f72854e67cdd87341cb72b62f67cdd733ba801f4bc5ae37db01c3c0",
-      "title": "The best 98-inch TVs of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-98-inch-tv/",
-      "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-05T10:00:49+00:00"
     }
   ]
 }

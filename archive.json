@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-17T10:30:34.011804+00:00",
+  "updated": "2026-10-17T20:26:45.656296+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bdea59931bc490522c554cc68f04d2939c5fcd59d2b3663aaed0faf4db1fe1b8",
+      "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+      "url": "https://thenewstack.io/live-streaming-engineering-lessons/",
+      "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-17T16:00:00+00:00"
+    },
+    {
+      "id": "bff0e66af546d083f13a9a08eb2dc0455e64051cf56727548f951a60b559966f",
+      "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+      "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+      "summary": "Kubernetes has always relied on agents, just not the kind dominating today&#8217;s AI conversations. A controller watches the current state, The post AI agents vs. Kubernetes: where each belongs in the control loop appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-17T14:00:00+00:00"
+    },
     {
       "id": "6df0e96f36e43cfc5b660ffc9120a35f586313490c08de272729f9aea3d87b53",
       "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-12T09:00:44+00:00"
-    },
-    {
-      "id": "da4c9501f57868f32bb2a097f09c4e96de0e327a9fd1f0386154959cfbe7057a",
-      "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
-      "url": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
-      "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T16:54:00+00:00"
-    },
-    {
-      "id": "13fb2e60db1b7f70ac957697da4a792ca4ef74764ab37cc318fca93dce0064fe",
-      "title": "Best wireless chargers of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-wireless-charger/",
-      "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-10T11:00:47+00:00"
     }
   ]
 }
