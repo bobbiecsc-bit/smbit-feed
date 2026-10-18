@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-18T10:51:11.497627+00:00",
+  "updated": "2026-10-18T20:27:58.264119+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f5b7be003c7999b42487ec5ae200b67a230cf88cf27c2cc4ac53bc155fa3075b",
+      "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+      "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+      "summary": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-18T15:30:00+00:00"
+    },
     {
       "id": "bdea59931bc490522c554cc68f04d2939c5fcd59d2b3663aaed0faf4db1fe1b8",
       "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-09-09T20:54:09+00:00"
-    },
-    {
-      "id": "3bee0e03b870a7880ce236fe63c208a68d9924efc4adeffad5aa065668f2a29d",
-      "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
-      "url": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
-      "summary": "Sony’s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-09-08T12:27:18+00:00"
     }
   ]
 }

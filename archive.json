@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-18T10:51:11.497627+00:00",
+  "updated": "2026-10-18T20:27:58.264119+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f5b7be003c7999b42487ec5ae200b67a230cf88cf27c2cc4ac53bc155fa3075b",
+      "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+      "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+      "summary": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-18T15:30:00+00:00"
+    },
     {
       "id": "bdea59931bc490522c554cc68f04d2939c5fcd59d2b3663aaed0faf4db1fe1b8",
       "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
@@ -2242,15 +2251,6 @@
       "source": "Malwarebytes Labs",
       "category": "finance",
       "date": "2026-07-13T13:18:50+00:00"
-    },
-    {
-      "id": "603678e46d89ce5b1000d116cf5bdbb9626f1ea027ba27a32c69d17b657f0b8c",
-      "title": "The best email hosting for small businesses in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
-      "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-12T09:00:44+00:00"
     }
   ]
 }
