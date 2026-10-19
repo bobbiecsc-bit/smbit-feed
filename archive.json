@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-19T12:52:42.625186+00:00",
+  "updated": "2026-10-19T22:15:01.243219+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6478e5f5ec3e33824598d27bd4a40cacd8472b22c12389a9bb89c17c8bad45c9",
+      "title": "New AI assurance certification combines SOC 2, AIUC-1",
+      "url": "https://www.accountingtoday.com/news/new-ai-assurance-certification-combines-soc-2-aiuc-1",
+      "summary": "The AICPA and AIUC announced a joint assurance certification combining their examination processes into a single independent review of AI safety and effectiveness.",
+      "source": "Accounting Today Tech",
+      "category": "policy",
+      "date": "2026-10-19T21:16:22+00:00"
+    },
+    {
+      "id": "676c2e12f6bf2a53c768b4bb5d7ee55e50758ed3ec71fff0090471c3f0a745bd",
+      "title": "Cybersecurity Threat Advisory: ConnectWise Cloud Backup compromise",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-connectwise-cloud-backup-compromise/",
+      "summary": "ConnectWise Cloud Backup (formerly SkyKick) has confirmed unauthorized access to application credentials used by its backup platform. Attackers reportedly used the compromised credentials to access Microsoft 365 tenants where the application was installed. As a result, they may have gained [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-10-19T17:07:20+00:00"
+    },
+    {
+      "id": "b33bad1bd24386b876c57d30aa0e865229fc684a94b28b443387ac8948f1f6f9",
+      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-19T15:34:59+00:00"
+    },
     {
       "id": "f5b7be003c7999b42487ec5ae200b67a230cf88cf27c2cc4ac53bc155fa3075b",
       "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
@@ -2224,33 +2251,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-07-13T16:18:20+00:00"
-    },
-    {
-      "id": "b9e6f1eae5e3adebd1ef32295b367e79e782866829eb2f491fd07b4ab6baf401",
-      "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-all-in-one-computer/",
-      "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:56:00+00:00"
-    },
-    {
-      "id": "ad1e09ad0e3cf5226496bc212dee3f2279401f174028463142ddd1b31402c142",
-      "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
-      "url": "https://www.zdnet.com/article/alienware-15-review/",
-      "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T14:37:00+00:00"
-    },
-    {
-      "id": "10bc6ccd71086724a0ea8d1e5d172c01561c9d0db89ecc96c8833d64034759c6",
-      "title": "Ghostcommit attack hides malicious AI instructions in images",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
-      "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
-      "source": "Malwarebytes Labs",
-      "category": "finance",
-      "date": "2026-07-13T13:18:50+00:00"
     }
   ]
 }

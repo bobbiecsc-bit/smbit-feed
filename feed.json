@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-19T12:52:42.625186+00:00",
+  "updated": "2026-10-19T22:15:01.243219+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6478e5f5ec3e33824598d27bd4a40cacd8472b22c12389a9bb89c17c8bad45c9",
+      "title": "New AI assurance certification combines SOC 2, AIUC-1",
+      "url": "https://www.accountingtoday.com/news/new-ai-assurance-certification-combines-soc-2-aiuc-1",
+      "summary": "The AICPA and AIUC announced a joint assurance certification combining their examination processes into a single independent review of AI safety and effectiveness.",
+      "source": "Accounting Today Tech",
+      "category": "policy",
+      "date": "2026-10-19T21:16:22+00:00"
+    },
+    {
+      "id": "676c2e12f6bf2a53c768b4bb5d7ee55e50758ed3ec71fff0090471c3f0a745bd",
+      "title": "Cybersecurity Threat Advisory: ConnectWise Cloud Backup compromise",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-connectwise-cloud-backup-compromise/",
+      "summary": "ConnectWise Cloud Backup (formerly SkyKick) has confirmed unauthorized access to application credentials used by its backup platform. Attackers reportedly used the compromised credentials to access Microsoft 365 tenants where the application was installed. As a result, they may have gained [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-10-19T17:07:20+00:00"
+    },
+    {
+      "id": "b33bad1bd24386b876c57d30aa0e865229fc684a94b28b443387ac8948f1f6f9",
+      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-19T15:34:59+00:00"
+    },
     {
       "id": "f5b7be003c7999b42487ec5ae200b67a230cf88cf27c2cc4ac53bc155fa3075b",
       "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-09-11T18:57:47+00:00"
-    },
-    {
-      "id": "3af3078ac29fc8865596fe0a1bc3fb709806f260e65938cd5017e4eedcb54ee7",
-      "title": "In age of AI, partners focus on relationships vs. productivity",
-      "url": "https://www.accountingtoday.com/news/in-age-of-ai-partners-expected-to-focus-on-relationships-versus-productivity",
-      "summary": "With AI taking on a growing share of routine tasks, accounting firms want more than just productivity from their partners.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-09-10T20:43:55+00:00"
-    },
-    {
-      "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
-      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
-      "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
-      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-10T14:00:00+00:00"
-    },
-    {
-      "id": "3f153032e7a594c3b3b2dda2d71a14b790bbec9b71b011c5186ab2cf4a403d47",
-      "title": "5 biggest Apple announcements from the iPhone Duo event",
-      "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
-      "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-09-09T20:54:09+00:00"
     }
   ]
 }

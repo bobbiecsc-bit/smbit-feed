@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-19T12:52:42.625186+00:00",
+  "updated": "2026-10-19T22:15:01.243219+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
+      "title": "I've been using the Galaxy Z Fold 8 for two weeks - these two accessories perfect the experience",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-perfect-accessories/",
+      "summary": "With the Galaxy Z Fold 8 as my main driver, these two accessories are must-haves (and one isn't even made by Samsung).",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-06T14:27:00+00:00"
+    },
+    {
+      "id": "7b1d212720de767bc5a3a91afa645f95e9b2d76736959e763ebbd78a685834a9",
+      "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/",
+      "summary": "The QuietComfort Headphones (2nd Gen) will debut with several audio and noise-canceling features once exclusive to its premium counterparts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "id": "625dda3cd4d849d86bdff4df9ac4650c14a41b1ce20c348c1d1275634b334c87",
+      "title": "The best 75-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-75-inch-tv/",
+      "summary": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you find the right fit for your budget.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T09:00:49+00:00"
+    },
     {
       "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
       "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:05:47+00:00"
-    },
-    {
-      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
-      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
-      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:00:50+00:00"
-    },
-    {
-      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
-      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
-      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T20:22:00+00:00"
-    },
-    {
-      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
-      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
-      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
-      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T19:05:45+00:00"
     }
   ]
 }
