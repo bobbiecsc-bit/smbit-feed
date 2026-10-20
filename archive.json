@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-20T11:21:42.680139+00:00",
+  "updated": "2026-10-20T21:29:28.230548+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7d03f579a028c8b827ec0a568afdf30edced51708ec61f3dc370cb83769076b6",
+      "title": "Assess the entire inference stack — not just open model benchmarks",
+      "url": "https://thenewstack.io/open-model-benchmarks-production/",
+      "summary": "Impressive benchmark results should make it easy for engineers to select the right open model for the outcome they are The post Assess the entire inference stack — not just open model benchmarks appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-10-20T20:44:17+00:00"
+    },
     {
       "id": "6478e5f5ec3e33824598d27bd4a40cacd8472b22c12389a9bb89c17c8bad45c9",
       "title": "New AI assurance certification combines SOC 2, AIUC-1",
@@ -2242,15 +2251,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-07-13T19:39:43+00:00"
-    },
-    {
-      "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
-      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick S",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-13T16:18:20+00:00"
     }
   ]
 }

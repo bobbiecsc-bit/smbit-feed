@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-20T11:21:42.680139+00:00",
+  "updated": "2026-10-20T21:29:28.230548+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
+      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
+      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
+      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:05:47+00:00"
+    },
     {
       "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
       "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "continuity",
       "date": "2026-07-13T19:39:43+00:00"
-    },
-    {
-      "id": "084c50da8d95887e1a924319b48a619016833e8d9879b28f9156850d700a6f0d",
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
-      "summary": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick S",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-13T16:18:20+00:00"
     }
   ]
 }

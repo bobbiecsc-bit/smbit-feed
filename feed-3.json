@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-20T11:21:42.680139+00:00",
+  "updated": "2026-10-20T21:29:28.230548+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "62e082e32437c33953b2941e6fe6e1b651f493d4f7e3cf1bc89a1fe1c37e6d77",
+      "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
+      "url": "https://www.zdnet.com/article/wispr-flow-better-than-built-in-voice-text-tool-how-to-try-it/",
+      "summary": "Designed for Windows, MacOS, iOS, and Android, Wispr Flow is a pleasure to use compared with other voice dictation apps. Here's how.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T17:08:14+00:00"
+    },
     {
       "id": "14a6fc000d13a1a5219f30316b113d78a319eb69a965969c8d4632df9bfbd66d",
       "title": "Slack has a new channel type — but only agents can create one",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-06T17:45:00+00:00"
-    },
-    {
-      "id": "ae3e4c0abe4abccfd0340aa34105f3a98177569c3efb890dc642f01389d61627",
-      "title": "6 must-have travel gadgets, according to industry experts",
-      "url": "https://www.zdnet.com/article/must-have-travel-gadgets-expert-picks/",
-      "summary": "We asked several experts in the travel industry to share their top picks for gadgets that help them on the go.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-06T17:14:00+00:00"
     }
   ]
 }

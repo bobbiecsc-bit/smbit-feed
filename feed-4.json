@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-20T11:21:42.680139+00:00",
+  "updated": "2026-10-20T21:29:28.230548+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ae3e4c0abe4abccfd0340aa34105f3a98177569c3efb890dc642f01389d61627",
+      "title": "6 must-have travel gadgets, according to industry experts",
+      "url": "https://www.zdnet.com/article/must-have-travel-gadgets-expert-picks/",
+      "summary": "We asked several experts in the travel industry to share their top picks for gadgets that help them on the go.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T17:14:00+00:00"
+    },
     {
       "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
       "title": "I've been using the Galaxy Z Fold 8 for two weeks - these two accessories perfect the experience",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:06:06+00:00"
-    },
-    {
-      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
-      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
-      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
-      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:05:47+00:00"
     }
   ]
 }

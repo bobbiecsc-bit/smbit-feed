@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-20T11:21:42.680139+00:00",
+  "updated": "2026-10-20T21:29:28.230548+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7d03f579a028c8b827ec0a568afdf30edced51708ec61f3dc370cb83769076b6",
+      "title": "Assess the entire inference stack — not just open model benchmarks",
+      "url": "https://thenewstack.io/open-model-benchmarks-production/",
+      "summary": "Impressive benchmark results should make it easy for engineers to select the right open model for the outcome they are The post Assess the entire inference stack — not just open model benchmarks appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-10-20T20:44:17+00:00"
+    },
     {
       "id": "6478e5f5ec3e33824598d27bd4a40cacd8472b22c12389a9bb89c17c8bad45c9",
       "title": "New AI assurance certification combines SOC 2, AIUC-1",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-09-14T15:56:33+00:00"
-    },
-    {
-      "id": "b95da21fc4a00e959dba4d7c20d1e7f9bb4729ca01f13843d2c9f25142a1f1a0",
-      "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
-      "url": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
-      "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-09-11T18:57:47+00:00"
     }
   ]
 }
