@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-22T11:36:49.799323+00:00",
+  "updated": "2026-10-22T21:26:24.228532+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
+      "title": "The hidden MSP opportunity in AI-built applications",
+      "url": "https://smartermsp.com/the-hidden-msp-opportunity-in-ai-built-applications/",
+      "summary": "There’s a lot of chatter these days about a so-called “SaaSpocalypse” that could have significant consequences for IT services providers. As more organizations embrace artificial intelligence (AI), they are deploying more custom applications created with AI-powered coding tools. The rise [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-07-23T16:55:35+00:00"
+    },
+    {
+      "id": "861676b8dcfb3f6d04d7b6a0e84cd65e4ea2fb718fa802c1ee92f1e08f24db5d",
+      "title": "Samsung Galaxy Z Flip 8 vs. Z Flip 7: Is the new flip phone worth the upgrade?",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-z-flip-7-unpacked-2026/",
+      "summary": "Comparing the Samsung Galaxy Z Flip 8 to the Z Flip 7 will largely come down to refinement and value for money.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T16:07:00+00:00"
+    },
+    {
+      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
+      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-wifi-router/",
+      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-23T11:06:06+00:00"
+    },
     {
       "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
       "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "finance",
       "date": "2026-07-14T10:00:00+00:00"
-    },
-    {
-      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
-      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T06:40:33+00:00"
-    },
-    {
-      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
-      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
-      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
-      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T20:59:08+00:00"
-    },
-    {
-      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
-      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
-      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
-      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-07-13T19:39:43+00:00"
     }
   ]
 }

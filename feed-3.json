@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-22T11:36:49.799323+00:00",
+  "updated": "2026-10-22T21:26:24.228532+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "94cd2bd4870e2ddf2dd4726f93b0fc5ec50c2e81b38de3669fbfa454a667d685",
+      "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
+      "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
+      "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T21:00:46+00:00"
+    },
+    {
+      "id": "c148279103afdbba2be03edb4032bea3027f7449788828760345849efeedcf32",
+      "title": "After one week wearing the Pixel Watch 5, here's what I want most",
+      "url": "https://www.zdnet.com/article/5-takeaways-after-wearing-the-pixel-watch-5-for-a-week/",
+      "summary": "The Google Pixel Watch 5 is a faster, intelligent smartwatch with some helpful health and wellness features under the hood.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-20T20:01:00+00:00"
+    },
+    {
+      "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
+      "title": "Slack makes it easier to install agents built with third-party tools",
+      "url": "https://thenewstack.io/add-to-slack-agents/",
+      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they&#8217;ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-20T18:30:00+00:00"
+    },
     {
       "id": "62e082e32437c33953b2941e6fe6e1b651f493d4f7e3cf1bc89a1fe1c37e6d77",
       "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-07T09:01:10+00:00"
-    },
-    {
-      "id": "a129dd8aba13a8a0f7300ff1027671950c50f7f8111c7590ebe7b2dbd95d1e93",
-      "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
-      "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T09:00:49+00:00"
-    },
-    {
-      "id": "64c1f39c8e600a06a746812fbca686c6eb150c856a601dd573ab3b1b97f105ef",
-      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
-      "summary": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
-      "source": "AWS News Blog",
-      "category": "finance",
-      "date": "2026-08-06T22:58:00+00:00"
-    },
-    {
-      "id": "a0138d2e2b24a5ba3d67724bd40db93e0ae13cfdb61754c0f2dc967fed2341e1",
-      "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
-      "url": "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/",
-      "summary": "The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-06T17:45:00+00:00"
     }
   ]
 }

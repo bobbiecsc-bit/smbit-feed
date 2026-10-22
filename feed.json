@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-22T11:36:49.799323+00:00",
+  "updated": "2026-10-22T21:26:24.228532+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "54d21c5e0efa9ffa1b60313a19814891eeb864cf4149e82e81a45a311d1e7beb",
+      "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+      "url": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+      "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-10-22T15:17:56+00:00"
+    },
+    {
+      "id": "8d03bfeb14b04406cb49df9e0b7c352100ee41e85f4a75478382b5c646e7511a",
+      "title": "Why many MSPs aren’t seeing returns from AI",
+      "url": "https://smartermsp.com/why-many-msps-arent-seeing-returns-from-ai/",
+      "summary": "A survey of 153 decision-makers at managed service providers (MSPs) that manage Microsoft 365 and Azure cloud services found that 32 percent use AI internally. However, only 12 percent reported measurable productivity gains. The survey, conducted by market research firm [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-10-22T14:55:49+00:00"
+    },
+    {
+      "id": "ceb14f164057b511fa41a258de0538bb2ebc7fe0fa30387a4211c3648f903798",
+      "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
+      "url": "https://thenewstack.io/deepseek-flash-haiku-test/",
+      "summary": "DeepSeek released V4.1-Flash-1017 on October 17 as an update to its Flash model. Its change log says the update cuts The post DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-22T14:22:50+00:00"
+    },
     {
       "id": "7d03f579a028c8b827ec0a568afdf30edced51708ec61f3dc370cb83769076b6",
       "title": "Assess the entire inference stack — not just open model benchmarks",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-09-17T13:00:19+00:00"
-    },
-    {
-      "id": "27f822e6a62f206322aacb0b9c66db30938c1d9cfd033300695719cd0edd678b",
-      "title": "The MSP Advantage: Leading with business outcomes",
-      "url": "https://smartermsp.com/the-msp-advantage-leading-with-business-outcomes/",
-      "summary": "Managed service providers are under increasing pressure to deliver more value to customers while managing growing cybersecurity risks, rising expectations, and expanding technology stacks. Businesses expect their MSP to provide strategic guidance, improve security outcomes, and simplify operations, ",
-      "source": "Smarter MSP",
-      "category": "finance",
-      "date": "2026-09-16T17:07:14+00:00"
-    },
-    {
-      "id": "0e23b61bc647d7f7f1f0a446c2ce09132f63eaa35205a91e978371d4084e34cc",
-      "title": "Cybersecurity Threat Advisory: ScreenConnect file-transfer issue",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-screenconnect-file-transfer-issue/",
-      "summary": "ConnectWise has issued a security advisory for an undisclosed file-transfer issue affecting ScreenConnect cloud-hosted and on-premises deployments. The company recommends immediate temporary mitigations while it develops a permanent fix and awaits a CVE assignment. What is the threat? This issue [&#",
-      "source": "Smarter MSP",
-      "category": "infrastructure",
-      "date": "2026-09-14T19:35:01+00:00"
-    },
-    {
-      "id": "438b3b431878f6252b07a548bcf1507f8d89afbe58981653e69469bb183b99e6",
-      "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
-      "summary": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The city is back at full speed, and so is the AWS launch calendar. This week that energy showed up in a new frontier model on Amazon Bedrock, a desk",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-09-14T15:56:33+00:00"
     }
   ]
 }

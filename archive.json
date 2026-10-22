@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-22T11:36:49.799323+00:00",
+  "updated": "2026-10-22T21:26:24.228532+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "54d21c5e0efa9ffa1b60313a19814891eeb864cf4149e82e81a45a311d1e7beb",
+      "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+      "url": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+      "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-10-22T15:17:56+00:00"
+    },
+    {
+      "id": "8d03bfeb14b04406cb49df9e0b7c352100ee41e85f4a75478382b5c646e7511a",
+      "title": "Why many MSPs aren’t seeing returns from AI",
+      "url": "https://smartermsp.com/why-many-msps-arent-seeing-returns-from-ai/",
+      "summary": "A survey of 153 decision-makers at managed service providers (MSPs) that manage Microsoft 365 and Azure cloud services found that 32 percent use AI internally. However, only 12 percent reported measurable productivity gains. The survey, conducted by market research firm [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-10-22T14:55:49+00:00"
+    },
+    {
+      "id": "ceb14f164057b511fa41a258de0538bb2ebc7fe0fa30387a4211c3648f903798",
+      "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
+      "url": "https://thenewstack.io/deepseek-flash-haiku-test/",
+      "summary": "DeepSeek released V4.1-Flash-1017 on October 17 as an update to its Flash model. Its change log says the update cuts The post DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-22T14:22:50+00:00"
+    },
     {
       "id": "7d03f579a028c8b827ec0a568afdf30edced51708ec61f3dc370cb83769076b6",
       "title": "Assess the entire inference stack — not just open model benchmarks",
@@ -2224,33 +2251,6 @@
       "source": "The New Stack",
       "category": "finance",
       "date": "2026-07-14T10:00:00+00:00"
-    },
-    {
-      "id": "7d179d4a527a2c68f73c669c17b10fcff262429acf1864d0c3d8e3b28d51b55a",
-      "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-      "url": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-      "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T06:40:33+00:00"
-    },
-    {
-      "id": "cd409bd771f8f5c89ece9df373fca34aae36f4133723a7f89cac368900344b59",
-      "title": "I tested COSMIC's new Frosted Glass effect, and it's way better than MacOS' Liquid Glass",
-      "url": "https://www.zdnet.com/article/cosmic-desktop-frosted-glass-linux-liquid-glass/",
-      "summary": "This simply gorgeous Linux desktop just stole the UI crown from Apple's Liquid Glass.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-13T20:59:08+00:00"
-    },
-    {
-      "id": "b92da2eec13ac71f6b41ded17504ee73abab043fe4edb63799f453cf37b2971b",
-      "title": "Barracuda acquires Evo Security, purpose-built identity and access management for MSPs",
-      "url": "https://smartermsp.com/barracuda-acquires-evo-security-purpose-built-identity-and-access-management-for-msps/",
-      "summary": "Cybersecurity has traditionally focused on protecting devices, networks, applications, and email. Today, however, identity has become one of the most critical attack surfaces. Instead of breaking through defenses, attackers are increasingly logging in with stolen credentials, using AI-powered techni",
-      "source": "Smarter MSP",
-      "category": "continuity",
-      "date": "2026-07-13T19:39:43+00:00"
     }
   ]
 }
