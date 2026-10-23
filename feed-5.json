@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-23T11:26:08.888499+00:00",
+  "updated": "2026-10-23T21:17:50.449881+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "64681f262b376142f8d3c1eae890424873dd4920cc133c4e57b30e8e1b4cb803",
+      "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
+      "url": "https://www.zdnet.com/article/dell-14s-review/",
+      "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:53:00+00:00"
+    },
+    {
+      "id": "921048aecd55fffb20aa2fbbe2f196f465d348d1bc0e7179963343acd8339a10",
+      "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
+      "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
+      "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T13:31:17+00:00"
+    },
     {
       "id": "0b89333a2c45cf8da73b50c35b27d6578c85c70b5df8b8f8370a801f895626bb",
       "title": "The hidden MSP opportunity in AI-built applications",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-14T14:20:58+00:00"
-    },
-    {
-      "id": "41292653660822fb47d4683a2df2c56f36118c8829a8420b71d3c3f55ef2c70a",
-      "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
-      "url": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
-      "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-14T12:54:00+00:00"
-    },
-    {
-      "id": "b0becf305979acd2c83afcc2d14fd816b0fbe8f4edf6ebfefbd8bd2fa250ab7f",
-      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
-      "url": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model/",
-      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it&#8217;s not the model. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-07-14T10:00:00+00:00"
     }
   ]
 }
