@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4072e47f8f400be6060d5bdeac97ad7a699438b1a6cf1b5b3ae683e739a09b42",
+      "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
+      "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
+      "summary": "Nvidia first introduced its Agentic Variation Operators (AVO) general-purpose coding agent system in late March 2026. The company has now The post Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia&#8217;s AVO, it hit 100%. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-08-21T13:00:00+00:00"
+    },
     {
       "id": "21610f6ad475453d45e5c0ee3b4454f0c65c1fccad635459d11ecbef1accd1ed",
       "title": "The best large tablets of 2026: Expert tested and reviewed",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-07T15:16:00+00:00"
-    },
-    {
-      "id": "64337848724cb28b5e6ba754c050bc6fc657fbaf58a4cf4e954c093e5143f4b3",
-      "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
-      "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
-      "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-07T14:10:00+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dffe5dae1938abb93c4f12e6b72c0eb53ac91241b077148dacd58c8c6c49933b",
+      "title": "Samsung Galaxy Watch 9 vs. Google Pixel Watch 4: I compared both Android flagships, here's what I prefer",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-vs-google-pixel-watch-4-i-compared-both-android-icons-and-heres-the-winner/",
+      "summary": "In a battle of the top Android watches, one does it a little better.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-24T14:27:00+00:00"
+    },
     {
       "id": "64681f262b376142f8d3c1eae890424873dd4920cc133c4e57b30e8e1b4cb803",
       "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-15T07:00:00+00:00"
-    },
-    {
-      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
-      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
-      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
-      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-14T14:20:58+00:00"
     }
   ]
 }

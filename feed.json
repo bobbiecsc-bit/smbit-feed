@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fdf0260de90a90fe186c9f8cffbc104093c15c4d0804e5fa86c12888ed6dd808",
+      "title": "Before you expand your GPU pool, measure the outcome",
+      "url": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
+      "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-10-24T12:00:00+00:00"
+    },
     {
       "id": "04926bf776e97a1cdd3ab2b4e75945ba112a3c58e5bda073f854a3e03af8d539",
       "title": "Tech Time Warp: The long goodbye to Windows XP",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-09-21T18:30:16+00:00"
-    },
-    {
-      "id": "d4efdc247bb2701651ef92c5d81870b6185323e5eabaeadcfd55fecb058d27ce",
-      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checki",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-09-21T16:11:24+00:00"
     }
   ]
 }

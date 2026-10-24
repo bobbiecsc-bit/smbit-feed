@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "64337848724cb28b5e6ba754c050bc6fc657fbaf58a4cf4e954c093e5143f4b3",
+      "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
+      "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
+      "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-07T14:10:00+00:00"
+    },
     {
       "id": "e84008c00c954951cd03cef7836202ddc1b94852a6169c4bf3e13ac2a79819c7",
       "title": "Wi-Fi 7 adoption in the US quadrupled in a year - is it time to upgrade?",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-25T08:30:43+00:00"
-    },
-    {
-      "id": "dffe5dae1938abb93c4f12e6b72c0eb53ac91241b077148dacd58c8c6c49933b",
-      "title": "Samsung Galaxy Watch 9 vs. Google Pixel Watch 4: I compared both Android flagships, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-9-vs-google-pixel-watch-4-i-compared-both-android-icons-and-heres-the-winner/",
-      "summary": "In a battle of the top Android watches, one does it a little better.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-24T14:27:00+00:00"
     }
   ]
 }

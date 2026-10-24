@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d4efdc247bb2701651ef92c5d81870b6185323e5eabaeadcfd55fecb058d27ce",
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checki",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-21T16:11:24+00:00"
+    },
     {
       "id": "da8ef8ae8b2ef2d6d9b6c3119a887c0fd2997285c555646f0d5dcb338fd657a0",
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-21T13:42:00+00:00"
-    },
-    {
-      "id": "4072e47f8f400be6060d5bdeac97ad7a699438b1a6cf1b5b3ae683e739a09b42",
-      "title": "Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia’s AVO, it hit 100%.",
-      "url": "https://thenewstack.io/nvidia-avo-arcagi3-benchmark/",
-      "summary": "Nvidia first introduced its Agentic Variation Operators (AVO) general-purpose coding agent system in late March 2026. The company has now The post Claude Opus 5 scored 30% on ARC-AGI-3. Wrapped in Nvidia&#8217;s AVO, it hit 100%. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-08-21T13:00:00+00:00"
     }
   ]
 }

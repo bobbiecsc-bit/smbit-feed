@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-24T10:45:00.512450+00:00",
+  "updated": "2026-10-24T20:35:46.914234+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "fdf0260de90a90fe186c9f8cffbc104093c15c4d0804e5fa86c12888ed6dd808",
+      "title": "Before you expand your GPU pool, measure the outcome",
+      "url": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
+      "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-10-24T12:00:00+00:00"
+    },
     {
       "id": "04926bf776e97a1cdd3ab2b4e75945ba112a3c58e5bda073f854a3e03af8d539",
       "title": "Tech Time Warp: The long goodbye to Windows XP",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-15T07:00:00+00:00"
-    },
-    {
-      "id": "4db9c8cd9887248e0361635677fc70e2b5609ab7766cfdcb2adadc95d75cc56f",
-      "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
-      "url": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
-      "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-14T14:20:58+00:00"
     }
   ]
 }
