@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-26T12:44:41.216117+00:00",
+  "updated": "2026-10-26T22:34:03.037511+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f9c579d144253248dabc7f547d3887a3bef946c0559345d5895c939edfa4fde5",
+      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+      "summary": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran through where generative AI fits across the different stages of an agribusiness operation, and the point I kept returning to is that the markets w",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-10-26T15:02:24+00:00"
+    },
+    {
+      "id": "519561fdffdde0a5faf859035e025090b83c4d16c0174a480ee4f2ef0ea7e72f",
+      "title": "Mandatory vs. optional platforms: Mandates deliver twice as often, and teams are dropping them anyway",
+      "url": "https://thenewstack.io/mandatory-vs-optional-platforms/",
+      "summary": "Platform teams that mandated their internal platform were more than twice as likely to say it delivered most or all The post Mandatory vs. optional platforms: Mandates deliver twice as often, and teams are dropping them anyway appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-26T14:30:00+00:00"
+    },
+    {
+      "id": "436bf0a5cd35dde83c4becec0c79076fc3d25e31d535f61561741ba9c6fdc3a7",
+      "title": "MiniMax M3.1 Flash vs. MiniMax M3: One is cheaper, but not faster or better",
+      "url": "https://thenewstack.io/minimax-flash-agent-tests/",
+      "summary": "MiniMax released M3.1 Flash on October 19, 2026, and says it cuts the overall cost of agentic tasks by 70% The post MiniMax M3.1 Flash vs. MiniMax M3: One is cheaper, but not faster or better appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-26T13:30:00+00:00"
+    },
     {
       "id": "fdf0260de90a90fe186c9f8cffbc104093c15c4d0804e5fa86c12888ed6dd808",
       "title": "Before you expand your GPU pool, measure the outcome",
@@ -2224,33 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-15T12:51:29+00:00"
-    },
-    {
-      "id": "da0fdc46ceeff171896bc99043f37d20f08746547c79e54324e18a2b8ad8ef35",
-      "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
-      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T12:17:00+00:00"
-    },
-    {
-      "id": "5159f4302ef73abfb882b3ee659fe2be15226558f1428efb1e9a4f276ecd6b41",
-      "title": "I tested my USB-C cables with this free Mac app - some weren't what they claimed",
-      "url": "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/",
-      "summary": "WhatCable is a free Mac app that gives you all the information you could need for your USB-C cables.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T07:45:43+00:00"
-    },
-    {
-      "id": "7a714e5063c6697fe74e4559bfbd37c617d263c5bb775cd7211d5f76541181a1",
-      "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
-      "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T07:00:00+00:00"
     }
   ]
 }

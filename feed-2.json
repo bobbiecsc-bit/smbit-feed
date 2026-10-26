@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-26T12:44:41.216117+00:00",
+  "updated": "2026-10-26T22:34:03.037511+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed6695870820e54d9bc94bad9ea3aca7f4732e98463f8cd779ee0cba41b8601f",
+      "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
+      "url": "https://thenewstack.io/claude-cowork-vs-chatgpt-work-benchmark/",
+      "summary": "When Anthropic merged Claude chat and Cowork into a single interface last week, it removed an increasingly irrelevant decision users The post Claude&#8217;s merged chat and Cowork vs. ChatGPT&#8217;s Work mode: ChatGPT is faster, Claude is more thorough appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-22T17:45:46+00:00"
+    },
+    {
+      "id": "5928f61284c44b5ee0e1480da37e427226540e18f37d2d618320509b5ae0d50c",
+      "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+      "url": "https://thenewstack.io/grok-build-vs-claude-code-memory/",
+      "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-21T20:04:18+00:00"
+    },
+    {
+      "id": "c08055bbf312bb9e53ab4677a4dc4092e851d8c2d31727b49c25a1bfaa1cdfa7",
+      "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+      "url": "https://thenewstack.io/aws-strands-harness-agent/",
+      "summary": "Amazon Web Services (AWS) is lifting the lid on a new open source, general-purpose AI agent, designed to give developers The post AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-09-21T18:30:16+00:00"
+    },
     {
       "id": "d4efdc247bb2701651ef92c5d81870b6185323e5eabaeadcfd55fecb058d27ce",
       "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-24T14:51:00+00:00"
-    },
-    {
-      "id": "a5d53cda4b973994fb9408949befe7d270b79edbf186b2ea91f31ef673a85bb0",
-      "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
-      "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
-      "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-24T11:59:05+00:00"
-    },
-    {
-      "id": "62ff8862e2f6bb9ac6bd483be824980b7bd4902f74ce8261cf99e3c45ce8ee7a",
-      "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
-      "url": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
-      "summary": "Google's latest smartwatch costs the same as the previous generation for now, but the upgrade could be worth it for a certain user.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-22T11:45:34+00:00"
-    },
-    {
-      "id": "8f629c9a63ebd7dfe9533134937fdc6e496e69fcee50c047a31babfe87b7b82e",
-      "title": "I tried the free Wispr Flow voice dictation tool everyone's talking about - and I'm hooked",
-      "url": "https://www.zdnet.com/article/i-tried-wispr-flow-voice-dictation-free-ai-tool/",
-      "summary": "Designed for Windows, MacOS, iOS, and Android, Wispr Flow is a pleasure to use compared with other voice dictation apps. Here's how.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-21T13:42:00+00:00"
     }
   ]
 }
