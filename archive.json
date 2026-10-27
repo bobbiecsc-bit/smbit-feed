@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-27T11:58:56.941020+00:00",
+  "updated": "2026-10-27T22:04:35.172694+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3323ef606845f0df5a03211327751219c9e304fcfd85bad164856a7715544cdd",
+      "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
+      "url": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
+      "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-10-27T12:17:55+00:00"
+    },
     {
       "id": "f9c579d144253248dabc7f547d3887a3bef946c0559345d5895c939edfa4fde5",
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-15T13:27:00+00:00"
-    },
-    {
-      "id": "f4525ee90d4438619c4edb98ae75d0cffbf4694548bf3b542ac2d886d8e07b67",
-      "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
-      "url": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
-      "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-15T12:51:29+00:00"
     }
   ]
 }

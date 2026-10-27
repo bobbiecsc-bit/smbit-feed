@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-27T11:58:56.941020+00:00",
+  "updated": "2026-10-27T22:04:35.172694+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3323ef606845f0df5a03211327751219c9e304fcfd85bad164856a7715544cdd",
+      "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
+      "url": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
+      "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-10-27T12:17:55+00:00"
+    },
     {
       "id": "f9c579d144253248dabc7f547d3887a3bef946c0559345d5895c939edfa4fde5",
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-09-23T12:00:00+00:00"
-    },
-    {
-      "id": "0e38f69b6f205c558bf44dfc15a76dbc4195f8a735f4f3cc79f6c50cf9d3495f",
-      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-09-22T22:21:13+00:00"
     }
   ]
 }
