@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-29T12:47:13.670875+00:00",
+  "updated": "2026-10-29T22:40:14.810406+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f576c5f156d565955ce35725be0429bbf89c3f351c73327e8104dc1fc6563086",
+      "title": "Your headphones have hidden LE Audio features you’ll want to know about",
+      "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+      "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-10-29T17:45:05+00:00"
+    },
+    {
+      "id": "831640c5e1e6853fb7062e1e46a66aa436829fb80aefeb9df163f842a194f669",
+      "title": "Collective raises $100M in new funding for AI finops system",
+      "url": "https://www.accountingtoday.com/news/collective-raises-100-million-in-new-funding-for-ai-finops-system",
+      "summary": "Collective raised $100 million in funding, including a $40 million Series B led by General Catalyst, QED, and Gradient Ventures, along with Intuit Ventures, FT Partners, and SemperVirens, plus $60 million from General Catalyst's Customer Value Fund.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-10-29T15:21:55+00:00"
+    },
     {
       "id": "3323ef606845f0df5a03211327751219c9e304fcfd85bad164856a7715544cdd",
       "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-09-23T22:23:45+00:00"
-    },
-    {
-      "id": "db60d5783bfa64cdb13b214d8b4906d0aab74ad20419cf81db2f88872d1b7573",
-      "title": "Ramp launches AR product to pair with payment capacities",
-      "url": "https://www.accountingtoday.com/news/ramp-launches-ar-product-to-pair-with-payment-capacities",
-      "summary": "Financial operations platform Ramp, traditionally associated with outbound payments, now has a solution for inbound payments via the new Ramp Accounts Receivable product.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-09-23T20:46:37+00:00"
-    },
-    {
-      "id": "eef61e008e525c88a8b68122ebf944a3006d2b85170da5c32d6b3912d7f76671",
-      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
-      "url": "https://thenewstack.io/claude-opus-agent-migration/",
-      "summary": "Anthropic made Claude Opus 5.5, released on Tuesday, cheaper than its predecessor, cutting the price from $5 to $4 per The post Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-09-23T12:00:00+00:00"
     }
   ]
 }

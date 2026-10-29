@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-29T12:47:13.670875+00:00",
+  "updated": "2026-10-29T22:40:14.810406+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f576c5f156d565955ce35725be0429bbf89c3f351c73327e8104dc1fc6563086",
+      "title": "Your headphones have hidden LE Audio features you’ll want to know about",
+      "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+      "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-10-29T17:45:05+00:00"
+    },
+    {
+      "id": "831640c5e1e6853fb7062e1e46a66aa436829fb80aefeb9df163f842a194f669",
+      "title": "Collective raises $100M in new funding for AI finops system",
+      "url": "https://www.accountingtoday.com/news/collective-raises-100-million-in-new-funding-for-ai-finops-system",
+      "summary": "Collective raised $100 million in funding, including a $40 million Series B led by General Catalyst, QED, and Gradient Ventures, along with Intuit Ventures, FT Partners, and SemperVirens, plus $60 million from General Catalyst's Customer Value Fund.",
+      "source": "Accounting Today Tech",
+      "category": "finance",
+      "date": "2026-10-29T15:21:55+00:00"
+    },
     {
       "id": "3323ef606845f0df5a03211327751219c9e304fcfd85bad164856a7715544cdd",
       "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-15T17:00:46+00:00"
-    },
-    {
-      "id": "134f412affe3a211f86095a96c1a9a215388708db594aedadabe53f1639e50cd",
-      "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
-      "url": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
-      "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T13:39:00+00:00"
-    },
-    {
-      "id": "2087cffe654791aab37cd4bdad4f61e5ae4c456fb017fe6ff42415d0f6385d3a",
-      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
-      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
-      "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T13:27:00+00:00"
     }
   ]
 }
