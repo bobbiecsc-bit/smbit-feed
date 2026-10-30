@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-30T12:39:09.103002+00:00",
+  "updated": "2026-10-30T22:11:14.540229+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f92dae74439baf52986c14417513d83981d96a4aa485c6cd243e6e63140a61d",
+      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+      "url": "https://thenewstack.io/anthropic-openai-playground-comparison/",
+      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T19:30:57+00:00"
+    },
+    {
+      "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
+      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+      "url": "https://thenewstack.io/ai-agent-security-boundaries/",
+      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-24T17:39:15+00:00"
+    },
     {
       "id": "0e3c795a36fa6d9e4c7ad641fb2de5a6d5847b5ce934544b477418bb34618173",
       "title": "I tried Meta's new free vibe coding app to make my own games, and it was surprisingly fun",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-10T21:57:00+00:00"
-    },
-    {
-      "id": "ff8fe365976ba5681da98e64f773fc6bad33df25e2e383c6350f4c20729bae24",
-      "title": "OpenAI built a model it doesn’t want most people to use",
-      "url": "https://thenewstack.io/openai-gpt56-cyber-daybreak/",
-      "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It&#8217;s now available The post OpenAI built a model it doesn&#8217;t want most people to use appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-08-10T21:15:15+00:00"
-    },
-    {
-      "id": "12400cb868e94055f30e5ddfddc5b74fc56628d4e50bc909d21b22ba7eea7767",
-      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
-      "summary": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS community. The AWS Heroes Summit, an invite-only annual gathering, brings global experts specializing in fields like AI, serverless, and containers ",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-08-10T15:45:03+00:00"
     }
   ]
 }

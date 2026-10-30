@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-30T12:39:09.103002+00:00",
+  "updated": "2026-10-30T22:11:14.540229+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c504a7900daa1e2cf1b906ab4fc41d07edafd2664415230ae59bd3615cb2b4ef",
+      "title": "Tech Time Warp: Lessons learned from the Yahoo breaches of the early 2010s",
+      "url": "https://smartermsp.com/tech-time-warp-lessons-learned-from-the-yahoo-breaches-of-the-early-2010s/",
+      "summary": "Ten years ago, Yahoo announced a massive security breach—the largest of its time. Account information for 500 million Yahoo users had been stolen in a hybrid state-sponsored and criminal hacker attack. When cyber espionage reached Yahoo The details sound straight [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-09-25T18:26:39+00:00"
+    },
+    {
+      "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
+      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
+      "url": "https://thenewstack.io/q-ant-open-sources-cuda/",
+      "summary": "Q.ANT, a startup out of Stuttgart, Germany, builds processors that use light instead of electricity to do some of the The post Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-09-23T22:23:45+00:00"
+    },
     {
       "id": "db60d5783bfa64cdb13b214d8b4906d0aab74ad20419cf81db2f88872d1b7573",
       "title": "Ramp launches AR product to pair with payment capacities",
@@ -436,24 +454,6 @@
       "source": "AWS News Blog",
       "category": "continuity",
       "date": "2026-08-25T16:11:02+00:00"
-    },
-    {
-      "id": "0f92dae74439baf52986c14417513d83981d96a4aa485c6cd243e6e63140a61d",
-      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
-      "url": "https://thenewstack.io/anthropic-openai-playground-comparison/",
-      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic&#8217;s Playground vs. OpenAI&#8217;s: The week-old tool beat the six-year incumbent appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-24T19:30:57+00:00"
-    },
-    {
-      "id": "377a6e354901edd826226e63f3c46464a570a38bbc5a10fd52b6867ace4bfc51",
-      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
-      "url": "https://thenewstack.io/ai-agent-security-boundaries/",
-      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-08-24T17:39:15+00:00"
     }
   ]
 }

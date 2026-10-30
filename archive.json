@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T12:39:09.103002+00:00",
+  "updated": "2026-10-30T22:11:14.540229+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b0d9b518e1b4ff65758e8a958bafb885b17156819ae98846b716f5d0fdf46267",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "category": "product_review",
+      "date": "2026-10-30T21:09:54+00:00"
+    },
+    {
+      "id": "0d74b6b1ddbff1aa25593ba863d6693faa397496e1d1fdaa8fa1890c0127dae5",
+      "title": "GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort",
+      "url": "https://thenewstack.io/gpt-6-1-terra-vs-gpt-6-astra/",
+      "summary": "OpenAI released GPT-6.1 Terra on October 26, marketing it as a cheap, fast model for high-volume everyday work, priced at The post GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-30T14:59:35+00:00"
+    },
     {
       "id": "f576c5f156d565955ce35725be0429bbf89c3f351c73327e8104dc1fc6563086",
       "title": "Your headphones have hidden LE Audio features you’ll want to know about",
@@ -2233,24 +2251,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-07-16T13:00:00+00:00"
-    },
-    {
-      "id": "beeaa4efe5ec65591b26420a68581db8925c29167f8f6c9273d165290edb9531",
-      "title": "Prosperity flips PE partners",
-      "url": "https://www.accountingtoday.com/news/prosperity-flips-private-equity-partners",
-      "summary": "The Top 100 Firm is getting a majority investment from Lightyear Capital, while its previous investor, Unity Partners, will maintain a minority position in the firm.",
-      "source": "Accounting Today Tech",
-      "category": "product_review",
-      "date": "2026-07-15T17:38:10+00:00"
-    },
-    {
-      "id": "60db330b5b585a1b1f866c922ceb653a915d42df7cd9f68870a0082b4a175981",
-      "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
-      "url": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
-      "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-15T17:00:46+00:00"
     }
   ]
 }

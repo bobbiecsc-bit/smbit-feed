@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-30T12:39:09.103002+00:00",
+  "updated": "2026-10-30T22:11:14.540229+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b0d9b518e1b4ff65758e8a958bafb885b17156819ae98846b716f5d0fdf46267",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "category": "product_review",
+      "date": "2026-10-30T21:09:54+00:00"
+    },
+    {
+      "id": "0d74b6b1ddbff1aa25593ba863d6693faa397496e1d1fdaa8fa1890c0127dae5",
+      "title": "GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort",
+      "url": "https://thenewstack.io/gpt-6-1-terra-vs-gpt-6-astra/",
+      "summary": "OpenAI released GPT-6.1 Terra on October 26, marketing it as a cheap, fast model for high-volume everyday work, priced at The post GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-30T14:59:35+00:00"
+    },
     {
       "id": "f576c5f156d565955ce35725be0429bbf89c3f351c73327e8104dc1fc6563086",
       "title": "Your headphones have hidden LE Audio features you’ll want to know about",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-26T13:00:00+00:00"
-    },
-    {
-      "id": "c504a7900daa1e2cf1b906ab4fc41d07edafd2664415230ae59bd3615cb2b4ef",
-      "title": "Tech Time Warp: Lessons learned from the Yahoo breaches of the early 2010s",
-      "url": "https://smartermsp.com/tech-time-warp-lessons-learned-from-the-yahoo-breaches-of-the-early-2010s/",
-      "summary": "Ten years ago, Yahoo announced a massive security breach—the largest of its time. Account information for 500 million Yahoo users had been stolen in a hybrid state-sponsored and criminal hacker attack. When cyber espionage reached Yahoo The details sound straight [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-09-25T18:26:39+00:00"
-    },
-    {
-      "id": "c95b53501032e49f6fbb0e3f73a7907c35cf89c571c744a07cc853bebc416e64",
-      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
-      "url": "https://thenewstack.io/q-ant-open-sources-cuda/",
-      "summary": "Q.ANT, a startup out of Stuttgart, Germany, builds processors that use light instead of electricity to do some of the The post Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-09-23T22:23:45+00:00"
     }
   ]
 }
