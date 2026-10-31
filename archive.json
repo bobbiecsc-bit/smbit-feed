@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-31T12:07:45.952909+00:00",
+  "updated": "2026-10-31T21:21:56.904169+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b0fadd8e76cc279b625a6bcb234c2f7a7c0ea2a01b15cd7de24bdb2fa82cc8d9",
+      "title": "The context problem: How Docusign built agents that understand the business behind contracts",
+      "url": "https://thenewstack.io/docusign-contract-ai-agents/",
+      "summary": "Ask a general-purpose language model to summarize a contract, and it will probably do a reasonable job. Ask it to The post The context problem: How Docusign built agents that understand the business behind contracts appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-10-31T16:13:35+00:00"
+    },
+    {
+      "id": "410ecc62e2468f907fd3d0854c62751e83d48ff8e8b096ee4d0f8e5d5dd0e72a",
+      "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+      "url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+      "summary": "OpenAI launched GPT-6.1 Terra on October 26, and included two direct comparisons with Opus 5.5 in its marketing materials. It The post GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-31T14:00:00+00:00"
+    },
     {
       "id": "b0d9b518e1b4ff65758e8a958bafb885b17156819ae98846b716f5d0fdf46267",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -2233,24 +2251,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-17T07:50:03+00:00"
-    },
-    {
-      "id": "6566e0725302227c9bef6eeda3b9e973dda6b22bc9783e83918397a914cf58d4",
-      "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
-      "url": "https://www.zdnet.com/article/msi-cyborg-15-review/",
-      "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T07:25:49+00:00"
-    },
-    {
-      "id": "1f24d3d39683152455544d3a12ee118914a244cf20d3e5ee0a0634bd731428bb",
-      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
-      "url": "https://thenewstack.io/ai-agents-no-laws/",
-      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post &#8220;There are no laws, only suggestions&#8221;: What AI agents do with your instructions appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-16T13:00:00+00:00"
     }
   ]
 }

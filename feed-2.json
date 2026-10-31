@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-31T12:07:45.952909+00:00",
+  "updated": "2026-10-31T21:21:56.904169+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "53910454fc90735a17ec033f2b2ca5e258cf00fb0a932413877733f7aaab0516",
+      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
+      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
+      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-28T14:40:43+00:00"
+    },
+    {
+      "id": "2765a7a4b250fd5888045cbff4ec81bf97c7f8772f4e35db958a96d86d4ac8e2",
+      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+      "url": "https://thenewstack.io/claude-opus-5-5-vs-opus-5/",
+      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-26T13:00:00+00:00"
+    },
     {
       "id": "c504a7900daa1e2cf1b906ab4fc41d07edafd2664415230ae59bd3615cb2b4ef",
       "title": "Tech Time Warp: Lessons learned from the Yahoo breaches of the early 2010s",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-25T22:45:00+00:00"
-    },
-    {
-      "id": "675e21d3f9d326204d83070328edacc92ed12fdb44dd1c2d8e81939a9134a26f",
-      "title": "Garmin's new Fenix 9 Pro smartwatch is twice as bright as the previous gen - here's how they compare",
-      "url": "https://www.zdnet.com/article/garmin-fenix-9-vs-garmin-fenix-8/",
-      "summary": "Garmin's new flagship Fenix 9 epitomizes the premium rugged smartwatch - but how much of an upgrade is it from the Fenix 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T20:05:00+00:00"
-    },
-    {
-      "id": "1c2098524a32cb7947ff49a136bfc79ddf02ca2ad42131f836675d97c46d0552",
-      "title": "Happy 20th Birthday, Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
-      "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
-      "source": "AWS News Blog",
-      "category": "continuity",
-      "date": "2026-08-25T16:11:02+00:00"
     }
   ]
 }

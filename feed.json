@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-31T12:07:45.952909+00:00",
+  "updated": "2026-10-31T21:21:56.904169+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b0fadd8e76cc279b625a6bcb234c2f7a7c0ea2a01b15cd7de24bdb2fa82cc8d9",
+      "title": "The context problem: How Docusign built agents that understand the business behind contracts",
+      "url": "https://thenewstack.io/docusign-contract-ai-agents/",
+      "summary": "Ask a general-purpose language model to summarize a contract, and it will probably do a reasonable job. Ask it to The post The context problem: How Docusign built agents that understand the business behind contracts appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-10-31T16:13:35+00:00"
+    },
+    {
+      "id": "410ecc62e2468f907fd3d0854c62751e83d48ff8e8b096ee4d0f8e5d5dd0e72a",
+      "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+      "url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+      "summary": "OpenAI launched GPT-6.1 Terra on October 26, and included two direct comparisons with Opus 5.5 in its marketing materials. It The post GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-10-31T14:00:00+00:00"
+    },
     {
       "id": "b0d9b518e1b4ff65758e8a958bafb885b17156819ae98846b716f5d0fdf46267",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-28T16:04:38+00:00"
-    },
-    {
-      "id": "53910454fc90735a17ec033f2b2ca5e258cf00fb0a932413877733f7aaab0516",
-      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
-      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
-      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-09-28T14:40:43+00:00"
-    },
-    {
-      "id": "2765a7a4b250fd5888045cbff4ec81bf97c7f8772f4e35db958a96d86d4ac8e2",
-      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
-      "url": "https://thenewstack.io/claude-opus-5-5-vs-opus-5/",
-      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-26T13:00:00+00:00"
     }
   ]
 }
