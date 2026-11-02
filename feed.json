@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-01T21:56:13.715114+00:00",
+  "updated": "2026-11-02T15:31:13.658082+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "274af4cc08b97cbfdd67c8511c6ed597f7b25789514db5c28d770f42ef6e5ffe",
+      "title": "Tokenomics: Firms see surging AI costs compared to last year",
+      "url": "https://www.accountingtoday.com/news/tokenomics-firms-see-surging-ai-costs-compared-to-last-year",
+      "summary": "AI spending at accounting firms has risen dramatically compared to last year, a shift that is primarily–but not completely–explained by the move from subscription-based to consumption-based pricing by many providers.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-11-02T14:00:00+00:00"
+    },
     {
       "id": "b0fadd8e76cc279b625a6bcb234c2f7a7c0ea2a01b15cd7de24bdb2fa82cc8d9",
       "title": "The context problem: How Docusign built agents that understand the business behind contracts",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-09-28T16:14:54+00:00"
-    },
-    {
-      "id": "b26e2369138d7c2924eb938d11991fb86276b7dfa00acdddd1e64822c8751134",
-      "title": "GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent?",
-      "url": "https://thenewstack.io/gpt-6-sol-vs-opus-5-5/",
-      "summary": "OpenAI launched GPT-6 Sol on September 22, claiming it scores higher than Claude Opus 5 on business workflow tasks at The post GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-28T16:04:38+00:00"
     }
   ]
 }

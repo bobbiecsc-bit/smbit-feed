@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-01T21:56:13.715114+00:00",
+  "updated": "2026-11-02T15:31:13.658082+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b26e2369138d7c2924eb938d11991fb86276b7dfa00acdddd1e64822c8751134",
+      "title": "GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent?",
+      "url": "https://thenewstack.io/gpt-6-sol-vs-opus-5-5/",
+      "summary": "OpenAI launched GPT-6 Sol on September 22, claiming it scores higher than Claude Opus 5 on business workflow tasks at The post GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-28T16:04:38+00:00"
+    },
     {
       "id": "53910454fc90735a17ec033f2b2ca5e258cf00fb0a932413877733f7aaab0516",
       "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-26T11:00:46+00:00"
-    },
-    {
-      "id": "8c76a49318b2650e77ff14ea36fa16689ec632499aee5b1e990387b147a30f13",
-      "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
-      "url": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
-      "summary": "These are two different products, but consumers end up confused because of misinformation and poor marketing copy.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-25T22:45:00+00:00"
     }
   ]
 }

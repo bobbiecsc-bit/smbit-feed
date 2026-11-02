@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-01T21:56:13.715114+00:00",
+  "updated": "2026-11-02T15:31:13.658082+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "274af4cc08b97cbfdd67c8511c6ed597f7b25789514db5c28d770f42ef6e5ffe",
+      "title": "Tokenomics: Firms see surging AI costs compared to last year",
+      "url": "https://www.accountingtoday.com/news/tokenomics-firms-see-surging-ai-costs-compared-to-last-year",
+      "summary": "AI spending at accounting firms has risen dramatically compared to last year, a shift that is primarily–but not completely–explained by the move from subscription-based to consumption-based pricing by many providers.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-11-02T14:00:00+00:00"
+    },
     {
       "id": "b0fadd8e76cc279b625a6bcb234c2f7a7c0ea2a01b15cd7de24bdb2fa82cc8d9",
       "title": "The context problem: How Docusign built agents that understand the business behind contracts",
@@ -2242,15 +2251,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "id": "9d48a9497e2a4f2ebc9b6258d20f90fb231ede148233fd3ee96694c7abcddad9",
-      "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
-      "url": "https://thenewstack.io/microsoft-comic-chat-open-source/",
-      "summary": "Comic Sans has been mocked, memed, and muzzled from corporate communications since time immemorial, but most people won&#8217;t know that The post Microsoft just open-sourced the app that put Comic Sans on the map appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-17T07:50:03+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-01T21:56:13.715114+00:00",
+  "updated": "2026-11-02T15:31:13.658082+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8c76a49318b2650e77ff14ea36fa16689ec632499aee5b1e990387b147a30f13",
+      "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
+      "url": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
+      "summary": "These are two different products, but consumers end up confused because of misinformation and poor marketing copy.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-25T22:45:00+00:00"
+    },
     {
       "id": "675e21d3f9d326204d83070328edacc92ed12fdb44dd1c2d8e81939a9134a26f",
       "title": "Garmin's new Fenix 9 Pro smartwatch is twice as bright as the previous gen - here's how they compare",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-12T14:00:00+00:00"
-    },
-    {
-      "id": "0cf4faf9e2e344b5f3d80285f62e8213dd9a42ba72b52da153b5ea11bfa41e6f",
-      "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
-      "url": "https://www.zdnet.com/article/i-tried-operas-new-vertical-tabs/",
-      "summary": "If the lack of vertical tabs has kept you from adopting the Opera browser, you might want to take another look.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-11T13:09:23+00:00"
     }
   ]
 }
