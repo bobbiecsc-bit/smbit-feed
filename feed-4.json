@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-03T13:59:34.222276+00:00",
+  "updated": "2026-11-03T23:10:02.670295+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
+      "title": "Rubrik’s lessons from one month with Mythos Preview",
+      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
+      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-13T17:37:33+00:00"
+    },
+    {
+      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
+      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-13T15:30:00+00:00"
+    },
     {
       "id": "267b95a5d175a32513eafc5b1b1eefb7e381317daac27988147a69bcf4badf66",
       "title": "Intuit announces Intuit Intelligence Chat, other upgrades for Enterprise Suite and QBOA",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-29T18:25:00+00:00"
-    },
-    {
-      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
-      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
-      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
-      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-29T18:24:08+00:00"
-    },
-    {
-      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
-      "title": "The best smartwatches of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-smartwatch/",
-      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-29T18:20:00+00:00"
     }
   ]
 }

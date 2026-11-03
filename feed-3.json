@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-03T13:59:34.222276+00:00",
+  "updated": "2026-11-03T23:10:02.670295+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9f4ed443bfc09d4f50f12fc338a9555c60768389aa9bab0a59cd9428965cd50d",
+      "title": "Plaud's first AI earbuds have arrived - what they can do",
+      "url": "https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/",
+      "summary": "Can these new wearables deliver on the long-anticipated promises of AI earbuds?",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:42+00:00"
+    },
+    {
+      "id": "1da7ab2f27c4403c40508985e0f249e97842f62f3a073f6e1812ec0b99dee84b",
+      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
+      "url": "https://thenewstack.io/anthropic-files-api-costs/",
+      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic&#8217;s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-08-27T13:00:00+00:00"
+    },
     {
       "id": "7139f62e5c44a7d0224d88e8a6c29e6d884ac524ffa2f477dc7f3ecaba7fca6e",
       "title": "The best iPad Air cases of 2026: Expert tested",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-13T20:46:00+00:00"
-    },
-    {
-      "id": "6d9340c960e7a2978fdcce577d23bd084e23b5a8300d33f579d8632a07432e1e",
-      "title": "Rubrik’s lessons from one month with Mythos Preview",
-      "url": "https://thenewstack.io/rubrik-mythos-learnings/",
-      "summary": "After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-13T17:37:33+00:00"
-    },
-    {
-      "id": "5dc85bda22420a5e54231763b7516bb6714f933391cbb97cbf45497a7940619c",
-      "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
-      "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-13T15:30:00+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-03T13:59:34.222276+00:00",
+  "updated": "2026-11-03T23:10:02.670295+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "971afa3f9d027f3fa1398148803ab2eb7cda461b9fff7acd2930bf552957760f",
+      "title": "KSM grows managed tech services",
+      "url": "https://www.accountingtoday.com/news/ksm-grows-managed-tech-services",
+      "summary": "Top 100 Firm Katz, Sapper &amp; Miller merged in managed services provider Blackink IT.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-11-03T19:26:54+00:00"
+    },
+    {
+      "id": "673e37a1cc4f5542c602c27892d0656ccd1f03dda8184a16713d4c44284fa2bb",
+      "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
+      "url": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
+      "summary": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-03T17:26:01+00:00"
+    },
     {
       "id": "9c9dbbf444fd49382a47d7bce685571d29aaee12e369a549481dfc5bd8d1c449",
       "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-09-29T17:58:37+00:00"
-    },
-    {
-      "id": "98c8b8d038b12694bd7eb106b5f41c2b0ebc33327966ddd9f01572d7b1adfa06",
-      "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
-      "url": "https://thenewstack.io/claude-opus-5-5-vs-fable-5-1/",
-      "summary": "Anthropic released Claude Opus 5.5 on September 22, saying it performs at the level of Claude Fable 5.1 on most The post Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-29T15:00:00+00:00"
-    },
-    {
-      "id": "ff8f379d71ef16313797de68426e3376232d7135d3c396a076ba20d3db8d1fea",
-      "title": "2026 AI Guide for Tax Professionals",
-      "url": "https://www.accountingtoday.com/2026-ai-guide-for-tax-professionals",
-      "summary": "See how your corporate tax department can implement AI responsibly and effectively with new guidance from Bloomberg Tax.",
-      "source": "Accounting Today Tech",
-      "category": "continuity",
-      "date": "2026-09-29T14:47:42+00:00"
     }
   ]
 }

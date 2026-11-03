@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-03T13:59:34.222276+00:00",
+  "updated": "2026-11-03T23:10:02.670295+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "971afa3f9d027f3fa1398148803ab2eb7cda461b9fff7acd2930bf552957760f",
+      "title": "KSM grows managed tech services",
+      "url": "https://www.accountingtoday.com/news/ksm-grows-managed-tech-services",
+      "summary": "Top 100 Firm Katz, Sapper &amp; Miller merged in managed services provider Blackink IT.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-11-03T19:26:54+00:00"
+    },
+    {
+      "id": "673e37a1cc4f5542c602c27892d0656ccd1f03dda8184a16713d4c44284fa2bb",
+      "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
+      "url": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
+      "summary": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-03T17:26:01+00:00"
+    },
     {
       "id": "9c9dbbf444fd49382a47d7bce685571d29aaee12e369a549481dfc5bd8d1c449",
       "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-18T10:00:39+00:00"
-    },
-    {
-      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
-      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
-      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
-      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-18T09:30:41+00:00"
-    },
-    {
-      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
-      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
-      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
-      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T16:36:19+00:00"
     }
   ]
 }

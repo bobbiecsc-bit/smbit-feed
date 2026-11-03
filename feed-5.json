@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-03T13:59:34.222276+00:00",
+  "updated": "2026-11-03T23:10:02.670295+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "aadcdf5d57230b6d4e376ff135a20160239915845e176e10de67e927b6c731aa",
+      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+      "url": "https://thenewstack.io/opus-5-vs-fable-5/",
+      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-07-29T18:24:08+00:00"
+    },
+    {
+      "id": "9b2e93fef35a2f6afbae0612f756359115f55e382c80cb659be87c6e3520f4c7",
+      "title": "The best smartwatches of 2026: Expert tested and reviewed",
+      "url": "https://www.zdnet.com/article/best-smartwatch/",
+      "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-07-29T18:20:00+00:00"
+    },
     {
       "id": "e948f7df9cc983dfbdc00dc202df48fddc444a44d944bdb0423867707692140d",
       "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
@@ -436,24 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-18T10:00:39+00:00"
-    },
-    {
-      "id": "173732f05053736bcdd571c79cac634487bde4a3f2993966b84e92c79d09aa91",
-      "title": "I tested Nothing's new pink earbuds, and they look as good as they sound",
-      "url": "https://www.zdnet.com/article/nothing-ear-3a-review/",
-      "summary": "The Nothing Ear (3a) have surprised me for several reasons - the price is one of them.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-18T09:30:41+00:00"
-    },
-    {
-      "id": "06e9dff69190718afb6f53b01ab19ac5e518285975388799d5f14de043ee55e1",
-      "title": "Dell XPS 16 review: A sleek, high-end laptop perfect for creatives and professionals",
-      "url": "https://www.zdnet.com/article/dell-xps-16-review/",
-      "summary": "Dell's XPS 16 screams 'Premium laptop' thanks to its sleek design, OLED screen, and powerful hardware.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T16:36:19+00:00"
     }
   ]
 }
