@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-03T00:51:26.258164+00:00",
+  "updated": "2026-11-03T13:59:34.222276+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9c9dbbf444fd49382a47d7bce685571d29aaee12e369a549481dfc5bd8d1c449",
+      "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
+      "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
+      "summary": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-03T12:00:00+00:00"
+    },
     {
       "id": "704165ca0087df2fb745772d8905b9298b38bb23fa2c724f36c156ce4adfdd72",
       "title": "Developers are downgrading their AI on purpose — and it’s working",
@@ -31,9 +40,9 @@
     },
     {
       "id": "274af4cc08b97cbfdd67c8511c6ed597f7b25789514db5c28d770f42ef6e5ffe",
-      "title": "Tokenomics: Firms see surging AI costs compared to last year",
+      "title": "Tokenomics: Firms see surging AI costs",
       "url": "https://www.accountingtoday.com/news/tokenomics-firms-see-surging-ai-costs-compared-to-last-year",
-      "summary": "AI spending at accounting firms has risen dramatically compared to last year, a shift that is primarily–but not completely–explained by the move from subscription-based to consumption-based pricing by many providers.",
+      "summary": "AI spending at accounting firms has risen dramatically compared to last year, as providers move from subscription-based to consumption-based pricing.",
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-11-02T14:00:00+00:00"
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-17T16:36:19+00:00"
-    },
-    {
-      "id": "42614c0cfcf86756ee95e9c3bb47b3ca755cd3a4bfd74b6bf8dbd826e736801f",
-      "title": "Tech News: Blue J offers accounting professors free access",
-      "url": "https://www.accountingtoday.com/list/tech-news-blue-j-offers-accounting-professors-free-access",
-      "summary": "Blue J offers accounting professors free access; Canopy touts full tax automation with no handoffs; 4impactdata's 4ID Foresight surfaces risks and opportunities for firms; and other accounting tech news and updates.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-07-17T15:16:55+00:00"
     }
   ]
 }
