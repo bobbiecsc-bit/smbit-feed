@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-02T15:31:13.658082+00:00",
+  "updated": "2026-11-03T00:51:26.258164+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "704165ca0087df2fb745772d8905b9298b38bb23fa2c724f36c156ce4adfdd72",
+      "title": "Developers are downgrading their AI on purpose — and it’s working",
+      "url": "https://thenewstack.io/claude-code-developer-refusals/",
+      "summary": "Anthropic has confirmed that it added new restrictions to Claude Code to prevent users from recreating existing video games. But The post Developers are downgrading their AI on purpose — and it&#8217;s working appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-11-02T21:03:31+00:00"
+    },
+    {
+      "id": "09cd8da886b2e7109e81e46dcf9994d92cfe6e7476cb723c4b23deccceab605e",
+      "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+      "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+      "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-02T16:52:54+00:00"
+    },
+    {
+      "id": "b55f6603f123c3fb47fe94dc8a87e3f0dc8d96e6c4a981fa5498ed9f964beb38",
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-11-02T16:45:48+00:00"
+    },
     {
       "id": "274af4cc08b97cbfdd67c8511c6ed597f7b25789514db5c28d770f42ef6e5ffe",
       "title": "Tokenomics: Firms see surging AI costs compared to last year",
@@ -2224,33 +2251,6 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-07-17T15:16:55+00:00"
-    },
-    {
-      "id": "b24416e549844e5db12fb22a43eafc56fcdfb28aebaad580d9d600bcff1506b3",
-      "title": "I tested this backup power station during a real blackout - don't make my mistakes",
-      "url": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
-      "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-17T14:15:10+00:00"
-    },
-    {
-      "id": "37b65ba6ecbb7c05a973e698ecad30812828103f3f7d66a4285b84624063c281",
-      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-      "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
-      "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-17T13:03:00+00:00"
-    },
-    {
-      "id": "69b626580a1700e41199b220af9406cde0c98c6a5b5780a69b246f5bf0978234",
-      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
-      "url": "https://thenewstack.io/kubernetes-controllers-at-scale/",
-      "summary": "Kubernetes controllers are what make the platform&#8217;s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-17T12:00:00+00:00"
     }
   ]
 }

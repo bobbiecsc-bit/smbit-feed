@@ -1,10 +1,37 @@
 {
-  "updated": "2026-11-02T15:31:13.658082+00:00",
+  "updated": "2026-11-03T00:51:26.258164+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4c8e8fcd9ee64aa887d655d7f527683f13ba879979128dfa7bb15354afc570ad",
+      "title": "Think you need a better reranker? Check your retrieval first.",
+      "url": "https://thenewstack.io/search-retrieval-reranking-funnel/",
+      "summary": "You built a search system using the latest, greatest models, and maybe you were thrilled with the outcome. But what The post Think you need a better reranker? Check your retrieval first. appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "finance",
+      "date": "2026-09-28T17:01:45+00:00"
+    },
+    {
+      "id": "395f60ebe8bc5cfd3c2d65fdbc31c69041b02765049cfdf619f078629503e5fb",
+      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
+      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
+      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-09-28T16:15:17+00:00"
+    },
+    {
+      "id": "09d1d4b21b6cf8f2e3436214d6eb6b2437eb3751774c8df64b0f288799eaf4f7",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 S",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-09-28T16:14:54+00:00"
+    },
     {
       "id": "b26e2369138d7c2924eb938d11991fb86276b7dfa00acdddd1e64822c8751134",
       "title": "GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent?",
@@ -427,33 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-27T09:00:47+00:00"
-    },
-    {
-      "id": "d5be96e15cce5b930bae8e37597814d42bb443374071bbd223fb882ab91a2109",
-      "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
-      "url": "https://thenewstack.io/google-thomson-specialized-ai/",
-      "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-08-26T16:33:23+00:00"
-    },
-    {
-      "id": "e3a68d07b601fa0160a471b6134e2d413d95b1d93176c6663cb8a81a4d225145",
-      "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
-      "url": "https://www.zdnet.com/article/google-pixel-11-review/",
-      "summary": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-26T15:55:00+00:00"
-    },
-    {
-      "id": "f2a1bb7e1fa5cde8fb969ce93b2349b02f6b4f702d4d381505af0ca82fa718fd",
-      "title": "The best reading tablets of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-reading-tablet/",
-      "summary": "We rounded up the best reading tablets of the year that you can take with you anywhere.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-26T11:00:46+00:00"
     }
   ]
 }

@@ -1,10 +1,37 @@
 {
-  "updated": "2026-11-02T15:31:13.658082+00:00",
+  "updated": "2026-11-03T00:51:26.258164+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "704165ca0087df2fb745772d8905b9298b38bb23fa2c724f36c156ce4adfdd72",
+      "title": "Developers are downgrading their AI on purpose — and it’s working",
+      "url": "https://thenewstack.io/claude-code-developer-refusals/",
+      "summary": "Anthropic has confirmed that it added new restrictions to Claude Code to prevent users from recreating existing video games. But The post Developers are downgrading their AI on purpose — and it&#8217;s working appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "continuity",
+      "date": "2026-11-02T21:03:31+00:00"
+    },
+    {
+      "id": "09cd8da886b2e7109e81e46dcf9994d92cfe6e7476cb723c4b23deccceab605e",
+      "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+      "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+      "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-02T16:52:54+00:00"
+    },
+    {
+      "id": "b55f6603f123c3fb47fe94dc8a87e3f0dc8d96e6c4a981fa5498ed9f964beb38",
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+      "summary": "The agentic launches that stayed with me last week had nothing to do with how capable a model is. They were about reach. AWS Step Functions, which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite. ",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-11-02T16:45:48+00:00"
+    },
     {
       "id": "274af4cc08b97cbfdd67c8511c6ed597f7b25789514db5c28d770f42ef6e5ffe",
       "title": "Tokenomics: Firms see surging AI costs compared to last year",
@@ -427,33 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-29T12:00:00+00:00"
-    },
-    {
-      "id": "4c8e8fcd9ee64aa887d655d7f527683f13ba879979128dfa7bb15354afc570ad",
-      "title": "Think you need a better reranker? Check your retrieval first.",
-      "url": "https://thenewstack.io/search-retrieval-reranking-funnel/",
-      "summary": "You built a search system using the latest, greatest models, and maybe you were thrilled with the outcome. But what The post Think you need a better reranker? Check your retrieval first. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "finance",
-      "date": "2026-09-28T17:01:45+00:00"
-    },
-    {
-      "id": "395f60ebe8bc5cfd3c2d65fdbc31c69041b02765049cfdf619f078629503e5fb",
-      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
-      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
-      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-09-28T16:15:17+00:00"
-    },
-    {
-      "id": "09d1d4b21b6cf8f2e3436214d6eb6b2437eb3751774c8df64b0f288799eaf4f7",
-      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
-      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 S",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-09-28T16:14:54+00:00"
     }
   ]
 }
