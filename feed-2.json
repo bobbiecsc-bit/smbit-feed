@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-04T23:31:27.353136+00:00",
+  "updated": "2026-11-05T14:28:48.641892+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2968221e1119b6380fbed209c8dc6f2b28eb381667a3283bb056d064a5915f4a",
+      "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+      "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+      "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-09-29T17:58:37+00:00"
+    },
     {
       "id": "98c8b8d038b12694bd7eb106b5f41c2b0ebc33327966ddd9f01572d7b1adfa06",
       "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-27T14:44:00+00:00"
-    },
-    {
-      "id": "e94f9b29d3f640d1fa25d69b946c69e5535bf35e6891c1874554889adc0d169d",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "source": "Ars Technica",
-      "category": "continuity",
-      "date": "2026-08-27T14:00:13+00:00"
     }
   ]
 }

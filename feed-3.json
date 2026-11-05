@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-04T23:31:27.353136+00:00",
+  "updated": "2026-11-05T14:28:48.641892+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e94f9b29d3f640d1fa25d69b946c69e5535bf35e6891c1874554889adc0d169d",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "source": "Ars Technica",
+      "category": "continuity",
+      "date": "2026-08-27T14:00:13+00:00"
+    },
     {
       "id": "9f4ed443bfc09d4f50f12fc338a9555c60768389aa9bab0a59cd9428965cd50d",
       "title": "Plaud's first AI earbuds have arrived - what they can do",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-14T16:00:00+00:00"
-    },
-    {
-      "id": "99e53b30056d11cc097622e0674286e6b4d3a6b8a8137187961f93a14ba2d226",
-      "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
-      "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
-      "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-13T20:46:00+00:00"
     }
   ]
 }

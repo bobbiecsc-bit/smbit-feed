@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-04T23:31:27.353136+00:00",
+  "updated": "2026-11-05T14:28:48.641892+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8e3a18ec2250f4c467e677ec50b48d29d8877dc1c42ecad42c5b93516058942b",
+      "title": "SOC 2 is in our DNA: Why the 2027 Trust Services Criteria matter",
+      "url": "https://www.accountingtoday.com/opinion/soc-2-is-in-our-dna-why-the-2027-trust-services-criteria-matter",
+      "summary": "The AICPA has released its exposure draft of the proposed 2027 SOC 2 Trust Services Criteria. What should CPAs do to get ready for the possible changes?",
+      "source": "Accounting Today Tech",
+      "category": "policy",
+      "date": "2026-11-05T14:00:00+00:00"
+    },
     {
       "id": "971afa3f9d027f3fa1398148803ab2eb7cda461b9fff7acd2930bf552957760f",
       "title": "KSM grows managed tech services",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "infrastructure",
       "date": "2026-07-19T10:00:43+00:00"
-    },
-    {
-      "id": "b4df039b193a5d03c3c3d03250cac0e891f52640dcdc6664dc4e6f2698f8bb71",
-      "title": "The iPad mini's biggest update in 5 years is expected this fall - here's what we know",
-      "url": "https://www.zdnet.com/article/apple-ipad-mini-2026-redesign-oled-rumors/",
-      "summary": "The next iPad mini is rumored to feature an OLED panel and a more powerful processor. A new base iPad is also in the works.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-18T10:00:39+00:00"
     }
   ]
 }
