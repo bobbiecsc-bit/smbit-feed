@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-06T14:05:51.572606+00:00",
+  "updated": "2026-11-06T22:58:15.395730+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "73262d229df118c3bc89dd68cfc4a7f0fc8dacce09de02e9de29a97ec95e3672",
+      "title": "Tech Time Warp: Microsoft places a bounty on malware creators",
+      "url": "https://smartermsp.com/tech-time-warp-microsoft-places-a-bounty-on-malware-creators/",
+      "summary": "The year 2003 was rough in the cybersecurity world. As internet and email use grew, corporate and home users faced rising threats from malware like Blaster and SoBig, challenging Windows network administrators. Microsoft realized it needed a new approach to protect [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-11-06T17:15:16+00:00"
+    },
+    {
+      "id": "322d47b07f0390c5b6de485b068bc326571860785943b87eb6fe12b5c504367b",
+      "title": "Tech News: MindBridge announces MCP support",
+      "url": "https://www.accountingtoday.com/list/tech-news-mindbridge-announces-mcp-support",
+      "summary": "Plus, UBCC touts payroll services platform for firms, processors; Honey Badger debuts Risk Playbooks for workflow support; and other accounting tech news and updates.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-11-06T15:31:36+00:00"
+    },
     {
       "id": "8e3a18ec2250f4c467e677ec50b48d29d8877dc1c42ecad42c5b93516058942b",
       "title": "SOC 2 is in our DNA: Why the 2027 Trust Services Criteria matter",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-20T13:00:50+00:00"
-    },
-    {
-      "id": "6cd6cca6a27cc76b9d5e8dcb3c71524b63b76ad5449faeb313c7bdb3b9264b15",
-      "title": "Cybersecurity Threat Advisory: Forg365 targets M365 accounts",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-forg365-targets-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform, Forg365, is being distributed through Telegram, lowering the barrier to Microsoft 365 account compromise by automating AI-assisted phishing lures and exploiting device code and adversary-in-the-middle (AiTM) authentication flows. What is the threat? Forg",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-07-19T21:30:34+00:00"
-    },
-    {
-      "id": "6f48d5be82b351adcdebaf1528100a125b072ec25fa86aa0a45b955b7561b0db",
-      "title": "How a virtual LAN can better protect your home network - and the best way to get started",
-      "url": "https://www.zdnet.com/article/how-virtual-lan-secure-your-home-network/",
-      "summary": "You might think a basic LAN setup is secure enough, but there could be issues lurking that require device isolation to ensure your security.",
-      "source": "ZDNet Business",
-      "category": "infrastructure",
-      "date": "2026-07-19T10:00:43+00:00"
     }
   ]
 }
