@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-08T21:55:42.992480+00:00",
+  "updated": "2026-11-09T15:57:07.395563+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "820855fa84a0515be999396772865b1e89e0bb48e6f7714ed5e9c30132552454",
+      "title": "13.3 million people’s medical data exposed; companies pay $300,000",
+      "url": "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
+      "summary": "The New York AG reached a settlement with Perry Johnson & Associates and four related companies over a 2023 breach.",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-11-09T13:13:02+00:00"
+    },
     {
       "id": "73262d229df118c3bc89dd68cfc4a7f0fc8dacce09de02e9de29a97ec95e3672",
       "title": "Tech Time Warp: Microsoft places a bounty on malware creators",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-10-05T15:41:19+00:00"
-    },
-    {
-      "id": "ec72419acabf147eaca73e5e4feb8b8ed41ba0715b2e8ac0442a723ba006aae2",
-      "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
-      "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
-      "summary": "Welcome to another edition of Road to KubeCon, your source for everything Kubernetes and cloud-native as we count down the The post What Kubernetes’ &#8220;monolith&#8221; lesson means for AI agent harnesses appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-10-02T16:31:26+00:00"
     }
   ]
 }

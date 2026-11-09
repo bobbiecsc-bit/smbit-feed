@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-08T21:55:42.992480+00:00",
+  "updated": "2026-11-09T15:57:07.395563+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "820855fa84a0515be999396772865b1e89e0bb48e6f7714ed5e9c30132552454",
+      "title": "13.3 million people’s medical data exposed; companies pay $300,000",
+      "url": "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
+      "summary": "The New York AG reached a settlement with Perry Johnson & Associates and four related companies over a 2023 breach.",
+      "source": "Malwarebytes Labs",
+      "category": "cloud_saas",
+      "date": "2026-11-09T13:13:02+00:00"
+    },
     {
       "id": "73262d229df118c3bc89dd68cfc4a7f0fc8dacce09de02e9de29a97ec95e3672",
       "title": "Tech Time Warp: Microsoft places a bounty on malware creators",
@@ -2242,15 +2251,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-07-20T13:38:00+00:00"
-    },
-    {
-      "id": "f40e423e07fc1dbac6c9e66aacfa28b4bfab262704b2be15c6c0f4f4aaec9af2",
-      "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
-      "url": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-      "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T13:00:50+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-08T21:55:42.992480+00:00",
+  "updated": "2026-11-09T15:57:07.395563+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ec72419acabf147eaca73e5e4feb8b8ed41ba0715b2e8ac0442a723ba006aae2",
+      "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+      "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+      "summary": "Welcome to another edition of Road to KubeCon, your source for everything Kubernetes and cloud-native as we count down the The post What Kubernetes’ &#8220;monolith&#8221; lesson means for AI agent harnesses appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-10-02T16:31:26+00:00"
+    },
     {
       "id": "e4e4ce89e8758ded2a6304990037f757958de483d2455691f2c99fb66ba072b1",
       "title": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t)",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-08-28T19:42:00+00:00"
-    },
-    {
-      "id": "271482b91d9732b46980ec47fbe23e10eefda61422b1409ba15351f9b320bb41",
-      "title": "QBO API update could lead to strange formatting for the unprepared",
-      "url": "https://www.accountingtoday.com/news/qbo-api-update-could-lead-to-strange-formatting-for-the-unprepared",
-      "summary": "Starting Sept. 1, Intuit will be updating the QuickBooks Online Reports API, which could lead to strange presentation issues.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-08-28T17:49:24+00:00"
     }
   ]
 }
