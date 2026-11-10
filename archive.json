@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-10T14:43:47.455622+00:00",
+  "updated": "2026-11-10T23:07:11.497282+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a8e93029c3a9492571c2ec156af9e61187dd21c101eadb92c79c66f33986be45",
+      "title": "AI governance is the new compliance: Are MSPs ready?",
+      "url": "https://smartermsp.com/ai-governance-is-the-new-compliance-are-msps-ready/",
+      "summary": "MSPs have long had to navigate difficult conversations with clients, whether around regulatory requirements or sensitive cybersecurity matters. They hold the hands of corporate clients and help guide them across the busy and perilous thoroughfares of cybersecurity. One such thoroughfare [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-11-10T20:45:40+00:00"
+    },
+    {
+      "id": "2a567f0bc42693ead7618457a0ac92dffdd504300cc5f74b6dbbb3bc4c62f426",
+      "title": "Your FitBit Versa and Sense smartwatches will lose some features this month – what to know",
+      "url": "https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps/",
+      "summary": "Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-10T15:55:35+00:00"
+    },
     {
       "id": "e31430c58303049eb99be2b412938239913112bfe4aae38f8437d2ac6165c533",
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-20T17:42:00+00:00"
-    },
-    {
-      "id": "4e85878780e6e21092b67c921ac7cc5ecb7875f756d19410902d7d25400f170a",
-      "title": "The best rugged phones in 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-rugged-phone/",
-      "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:07:00+00:00"
-    },
-    {
-      "id": "ff016fbfbc8c22a35fee318a78d08c893e0e8328830d6be51bd51e21086f8634",
-      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-      "summary": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries acros",
-      "source": "AWS News Blog",
-      "category": "product_review",
-      "date": "2026-07-20T16:37:34+00:00"
     }
   ]
 }

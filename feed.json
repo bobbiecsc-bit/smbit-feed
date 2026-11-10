@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-10T14:43:47.455622+00:00",
+  "updated": "2026-11-10T23:07:11.497282+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a8e93029c3a9492571c2ec156af9e61187dd21c101eadb92c79c66f33986be45",
+      "title": "AI governance is the new compliance: Are MSPs ready?",
+      "url": "https://smartermsp.com/ai-governance-is-the-new-compliance-are-msps-ready/",
+      "summary": "MSPs have long had to navigate difficult conversations with clients, whether around regulatory requirements or sensitive cybersecurity matters. They hold the hands of corporate clients and help guide them across the busy and perilous thoroughfares of cybersecurity. One such thoroughfare [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "continuity",
+      "date": "2026-11-10T20:45:40+00:00"
+    },
+    {
+      "id": "2a567f0bc42693ead7618457a0ac92dffdd504300cc5f74b6dbbb3bc4c62f426",
+      "title": "Your FitBit Versa and Sense smartwatches will lose some features this month – what to know",
+      "url": "https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps/",
+      "summary": "Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-10T15:55:35+00:00"
+    },
     {
       "id": "e31430c58303049eb99be2b412938239913112bfe4aae38f8437d2ac6165c533",
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-10-07T14:17:13+00:00"
-    },
-    {
-      "id": "b4b22eb153d889aa74c331a9d3211e78a89efabe27a74022d5fae78f85c2385f",
-      "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
-      "url": "https://thenewstack.io/mistral-large-4-weights/",
-      "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-10-06T17:26:01+00:00"
-    },
-    {
-      "id": "b4d6fd0a364887ae2808f0f60fed6d25ffc2463e52969321803d110a3e587f2a",
-      "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
-      "url": "https://thenewstack.io/red-hat-guardrail-benchmark/",
-      "summary": "Guardrail selection has typically meant choosing between a purpose-built classifier and an LLM acting as a judge. Decision models such The post The AI safety check that runs on a laptop and nearly matched a 35B model appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-10-05T18:36:28+00:00"
     }
   ]
 }
