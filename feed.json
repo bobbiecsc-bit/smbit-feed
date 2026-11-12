@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-11T13:59:12.533476+00:00",
+  "updated": "2026-11-12T00:28:14.632829+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3a7e02ae3a3f3babc7808027098a481ed9b12c600ed59fe5925fed11784f5b37",
+      "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+      "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+      "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-11-11T20:30:00+00:00"
+    },
+    {
+      "id": "c81531783ff382ecadedafda08ffd756167c19fa835c6b226fe86b23c644864a",
+      "title": "AICPA proposal aims for SOC 2 reports people actually read",
+      "url": "https://www.accountingtoday.com/news/aicpa-proposal-aims-for-soc-2-reports-people-actually-read",
+      "summary": "The AICPA has proposed a new, leaner SOC 2 framework that accounts for changing technology, especially AI, with an eye toward shorter, more useful reports people actually read versus skim for exceptions.",
+      "source": "Accounting Today Tech",
+      "category": "policy",
+      "date": "2026-11-11T16:46:05+00:00"
+    },
     {
       "id": "a8e93029c3a9492571c2ec156af9e61187dd21c101eadb92c79c66f33986be45",
       "title": "AI governance is the new compliance: Are MSPs ready?",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "id": "3b4d79a0f93351dd63c3329c153cecf688ac1c74fa57c181819e8997bf6e07c5",
-      "title": "Advise clients on AI and SaaS spend: 2026 benchmarks from 70,000+ businesses",
-      "url": "https://www.accountingtoday.com/report/advise-clients-on-ai-and-saas-spend-2026-benchmarks-from-70-000-businesses",
-      "summary": "Firm leaders and advisors: see how AI and SaaS spend is shifting so you can guide clients with real data.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-10-07T16:19:40+00:00"
-    },
-    {
-      "id": "5d812f7db32162ab1f142f2f46440d640dc7e0309ed64a77a6762dd284b192b3",
-      "title": "GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost",
-      "url": "https://thenewstack.io/gpt-6-1-sol-vs-gpt-6-astra/",
-      "summary": "OpenAI launched GPT-6.1 Sol on September 29, just a week after it launched GPT-6 Sol. OpenAI marketed 6.1 as an The post GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-10-07T14:17:13+00:00"
     }
   ]
 }

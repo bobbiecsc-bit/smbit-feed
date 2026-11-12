@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-11T13:59:12.533476+00:00",
+  "updated": "2026-11-12T00:28:14.632829+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3a7e02ae3a3f3babc7808027098a481ed9b12c600ed59fe5925fed11784f5b37",
+      "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+      "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+      "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+      "source": "ZDNet Business",
+      "category": "continuity",
+      "date": "2026-11-11T20:30:00+00:00"
+    },
+    {
+      "id": "c81531783ff382ecadedafda08ffd756167c19fa835c6b226fe86b23c644864a",
+      "title": "AICPA proposal aims for SOC 2 reports people actually read",
+      "url": "https://www.accountingtoday.com/news/aicpa-proposal-aims-for-soc-2-reports-people-actually-read",
+      "summary": "The AICPA has proposed a new, leaner SOC 2 framework that accounts for changing technology, especially AI, with an eye toward shorter, more useful reports people actually read versus skim for exceptions.",
+      "source": "Accounting Today Tech",
+      "category": "policy",
+      "date": "2026-11-11T16:46:05+00:00"
+    },
     {
       "id": "a8e93029c3a9492571c2ec156af9e61187dd21c101eadb92c79c66f33986be45",
       "title": "AI governance is the new compliance: Are MSPs ready?",
@@ -2233,24 +2251,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-20T22:14:41+00:00"
-    },
-    {
-      "id": "4f3ad50a51b36d6117466f1d579af1c83ac077330eca09ae24e820d20191171f",
-      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
-      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
-      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-07-20T18:07:20+00:00"
-    },
-    {
-      "id": "b7674974bd5e72702e317d6ad972f48d1c98b282b158dfb6cc3d25519c7a39bc",
-      "title": "I tested a 4TB quantum-resistant USB drive - but you don't have to spend $3000 for this much security",
-      "url": "https://www.zdnet.com/article/apricorns-4tb-aegis-secure-key-3-review/",
-      "summary": "Apricorn's new 4TB Aegis Secure Key is the biggest-capacity hardware-encrypted flash drive on the market right now.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-20T17:42:00+00:00"
     }
   ]
 }
