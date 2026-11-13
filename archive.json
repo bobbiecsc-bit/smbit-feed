@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-13T14:25:42.349887+00:00",
+  "updated": "2026-11-13T23:27:00.889385+00:00",
   "total": 250,
   "articles": [
     {
+      "id": "514d047c22d00d003e6794156b4db2faf21fa42ff88561395fc03bee9beb3d7e",
+      "title": "Pioneers in Tech: Masatoshi Shima and the microprocessor",
+      "url": "https://smartermsp.com/pioneers-in-tech-masatoshi-shima-and-the-microprocessor/",
+      "summary": "Fifty-five years ago, Intel placed an ad in the Nov. 15, 1971, issue of Electronic News, announcing “a new era of integrated electronics.” The revolutionary product was a “microprogrammable computer on a chip” — the Intel 4004, the work of [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-11-13T17:31:58+00:00"
+    },
+    {
       "id": "de90ed4e87e3576eeddbc57bac1fbe446887b9d7cd9b19abb8c51c4c958dad76",
-      "title": "Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more",
+      "title": "Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more [updated]",
       "url": "https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more",
       "summary": "A worldwide Microsoft 365 outage is having a severe impact on companies that rely on services like Outlook, Sharepoint, and Teams.",
       "source": "Malwarebytes Labs",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T12:40:00+00:00"
-    },
-    {
-      "id": "1f19fe0acb795fc17e22a2018ab24918d545cb57156f05fad2caeec31619ba0e",
-      "title": "Best tablets for note-taking 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-note-taking-tablet/",
-      "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T10:01:03+00:00"
     }
   ]
 }
