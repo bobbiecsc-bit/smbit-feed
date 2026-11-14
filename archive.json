@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-14T13:21:40.879140+00:00",
+  "updated": "2026-11-14T22:14:43.896981+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d1e442c2dae031ea5ca2ff836880b50b2b72d5e1a9a3a3d9c9fd2d5a9c410b1c",
+      "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
+      "summary": "Anthropic’s Claude Fable 5.2 promises fewer refusals and lower token prices, but those changes played out very differently in our The post Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-14T17:00:00+00:00"
+    },
+    {
+      "id": "82b67e0fdfc2486d8d757fa40896d5b583ff845b70a24b07470b3020f5bf7820",
+      "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra/",
+      "summary": "Anthropic is positioning its new model, Claude Fable 5.2, for demanding coding and technical work. Anthropic launched Fable 5.2 on The post Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-14T14:00:00+00:00"
+    },
     {
       "id": "514d047c22d00d003e6794156b4db2faf21fa42ff88561395fc03bee9beb3d7e",
       "title": "Pioneers in Tech: Masatoshi Shima and the microprocessor",
@@ -2233,24 +2251,6 @@
       "source": "The New Stack",
       "category": "continuity",
       "date": "2026-07-21T17:05:16+00:00"
-    },
-    {
-      "id": "511659ebfdfd9a162a0fcb26b347fb37e1844ab387f0b2118c7d06075ad61ffc",
-      "title": "Block built a Slack for AI agents — and gave each one its own passport",
-      "url": "https://thenewstack.io/block-buzz-agent-workspace/",
-      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "id": "c4fb942681a97d0dba4549bb9e6ba82f6f3d41095ede2f73c72ce610f03bd326",
-      "title": "I tested iOS 26 Siri against iOS 27 Siri AI in my car - and it wasn't even close",
-      "url": "https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/",
-      "summary": "With the iOS 27 public beta on my iPhone, I challenged Siri AI to assist me in the car. Here's how it performed over regular Siri.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T12:40:00+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T13:21:40.879140+00:00",
+  "updated": "2026-11-14T22:14:43.896981+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b548a20e5654e81116605841fefc9824d97fe7e13ee4cd2faa6e2f0e1a02c4b",
+      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T13:00:00+00:00"
+    },
+    {
+      "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T11:50:35+00:00"
+    },
     {
       "id": "7a9fee0b87d5d4d2361c6ec5778e3abba9c892f213c69a142412476d93b28d04",
       "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
@@ -436,24 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-09-01T15:00:00+00:00"
-    },
-    {
-      "id": "658388d808e06b0c314ba9bcd6691c90d3ea07272d2abcfd96ecc2181310b305",
-      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
-      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
-      "source": "AWS News Blog",
-      "category": "cloud_saas",
-      "date": "2026-08-31T19:53:34+00:00"
-    },
-    {
-      "id": "0f3b34dd9347d095e21ae1010c89ac8bea832909ef70d1ead74cfee46a4cf107",
-      "title": "How an $80 accessory turned my tablet from mouse pad to productivity powerhouse",
-      "url": "https://www.zdnet.com/article/satechi-onthego-foldable-stand-hub/",
-      "summary": "I never realized how revolutionary a simple stand could be. And the Satechi OntheGo Foldable Stand Hub does so much more than hold my tablet.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-08-31T18:57:39+00:00"
     }
   ]
 }

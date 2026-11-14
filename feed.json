@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T13:21:40.879140+00:00",
+  "updated": "2026-11-14T22:14:43.896981+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1e442c2dae031ea5ca2ff836880b50b2b72d5e1a9a3a3d9c9fd2d5a9c410b1c",
+      "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
+      "summary": "Anthropic’s Claude Fable 5.2 promises fewer refusals and lower token prices, but those changes played out very differently in our The post Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-14T17:00:00+00:00"
+    },
+    {
+      "id": "82b67e0fdfc2486d8d757fa40896d5b583ff845b70a24b07470b3020f5bf7820",
+      "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra/",
+      "summary": "Anthropic is positioning its new model, Claude Fable 5.2, for demanding coding and technical work. Anthropic launched Fable 5.2 on The post Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-14T14:00:00+00:00"
+    },
     {
       "id": "514d047c22d00d003e6794156b4db2faf21fa42ff88561395fc03bee9beb3d7e",
       "title": "Pioneers in Tech: Masatoshi Shima and the microprocessor",
@@ -436,24 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "cloud_saas",
       "date": "2026-10-13T15:05:31+00:00"
-    },
-    {
-      "id": "2b548a20e5654e81116605841fefc9824d97fe7e13ee4cd2faa6e2f0e1a02c4b",
-      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
-      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
-      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-10-13T13:00:00+00:00"
-    },
-    {
-      "id": "37bcad0fc0d2acd593710c88f4b031db0ce0c5d0cbe33074e53f6cf0b0572404",
-      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
-      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
-      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-10-13T11:50:35+00:00"
     }
   ]
 }
