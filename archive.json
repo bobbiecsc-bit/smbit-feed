@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-15T13:49:09.555489+00:00",
+  "updated": "2026-11-15T22:42:38.974255+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "136432e2cf8ba2f66d36e4f910e66e257aa86e02f198f92cab49d97ac6e20368",
+      "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5/",
+      "summary": "Anthropic released Claude Fable 5.2 on November 9 and said it beats Claude Opus 5.5 in almost every capability the The post Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-15T15:00:00+00:00"
+    },
     {
       "id": "d1e442c2dae031ea5ca2ff836880b50b2b72d5e1a9a3a3d9c9fd2d5a9c410b1c",
       "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T17:57:57+00:00"
-    },
-    {
-      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
-      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
-      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-21T17:05:16+00:00"
     }
   ]
 }

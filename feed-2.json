@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-15T13:49:09.555489+00:00",
+  "updated": "2026-11-15T22:42:38.974255+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1324b2d0e2b4ed1d533b57a85342a9e212663565f4147d0db05985e00d6c4d5c",
+      "title": "AI didn't invent audit risk, so what actually changed?",
+      "url": "https://www.accountingtoday.com/opinion/ai-didnt-invent-audit-risk-so-what-actually-changed",
+      "summary": "Here are some lessons from investment auditing in the age of generative AI.",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:05:31+00:00"
+    },
     {
       "id": "2b548a20e5654e81116605841fefc9824d97fe7e13ee4cd2faa6e2f0e1a02c4b",
       "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "continuity",
       "date": "2026-09-01T15:02:24+00:00"
-    },
-    {
-      "id": "7e51716f6afe16b9b577ab8686434afa01cab75f5ce2f73279b0e4910508623d",
-      "title": "Vibe-coded apps are the new shadow IT",
-      "url": "https://thenewstack.io/vibe-coded-shadow-it/",
-      "summary": "Shadow IT used to be a SaaS problem. Someone on the marketing team signed up for a tool, connected it The post Vibe-coded apps are the new shadow IT appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-09-01T15:00:00+00:00"
     }
   ]
 }

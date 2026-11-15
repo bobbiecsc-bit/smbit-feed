@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-15T13:49:09.555489+00:00",
+  "updated": "2026-11-15T22:42:38.974255+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "136432e2cf8ba2f66d36e4f910e66e257aa86e02f198f92cab49d97ac6e20368",
+      "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+      "url": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5/",
+      "summary": "Anthropic released Claude Fable 5.2 on November 9 and said it beats Claude Opus 5.5 in almost every capability the The post Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-15T15:00:00+00:00"
+    },
     {
       "id": "d1e442c2dae031ea5ca2ff836880b50b2b72d5e1a9a3a3d9c9fd2d5a9c410b1c",
       "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-10-13T15:28:12+00:00"
-    },
-    {
-      "id": "1324b2d0e2b4ed1d533b57a85342a9e212663565f4147d0db05985e00d6c4d5c",
-      "title": "AI didn't invent audit risk, so what actually changed?",
-      "url": "https://www.accountingtoday.com/opinion/ai-didnt-invent-audit-risk-so-what-actually-changed",
-      "summary": "Here are some lessons from investment auditing in the age of generative AI.",
-      "source": "Accounting Today Tech",
-      "category": "cloud_saas",
-      "date": "2026-10-13T15:05:31+00:00"
     }
   ]
 }

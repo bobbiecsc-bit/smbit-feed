@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-15T13:49:09.555489+00:00",
+  "updated": "2026-11-15T22:42:38.974255+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7e51716f6afe16b9b577ab8686434afa01cab75f5ce2f73279b0e4910508623d",
+      "title": "Vibe-coded apps are the new shadow IT",
+      "url": "https://thenewstack.io/vibe-coded-shadow-it/",
+      "summary": "Shadow IT used to be a SaaS problem. Someone on the marketing team signed up for a tool, connected it The post Vibe-coded apps are the new shadow IT appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-09-01T15:00:00+00:00"
+    },
     {
       "id": "658388d808e06b0c314ba9bcd6691c90d3ea07272d2abcfd96ecc2181310b305",
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-19T11:06:15+00:00"
-    },
-    {
-      "id": "c4e00a646f7a4debd3f5a0c36d465ebe147cfa081f99a4e91e134fe355908db8",
-      "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
-      "url": "https://thenewstack.io/glm-5-3-anthropic-distillation/",
-      "summary": "Chinese frontier model outfit Z.ai released GLM-5.3 on Friday, a model hewn from the same codebase as its predecessor GLM-5.2, The post An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3 appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-19T08:00:00+00:00"
     }
   ]
 }

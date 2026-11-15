@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-15T13:49:09.555489+00:00",
+  "updated": "2026-11-15T22:42:38.974255+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8aef6b2eada72074bf096d742fc404dce89bdac2a7e5c96f7fda8e2d07711772",
+      "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
+      "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
+      "summary": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-03T18:50:00+00:00"
+    },
     {
       "id": "0121b1a18b1db8f8eb3c8c57b9ef3dafce0f156a5b605c43a4de923dbcef90b5",
       "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T17:57:57+00:00"
-    },
-    {
-      "id": "9a2e899dcd6fe3b7258b7f5061127329a0b233abbd4e38c0dba9476268b32d4e",
-      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-      "url": "https://thenewstack.io/microsoft-mistral-sovereign-ai/",
-      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn&#8217;t fully own — on purpose appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-07-21T17:05:16+00:00"
     }
   ]
 }
