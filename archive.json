@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-16T15:31:32.356227+00:00",
+  "updated": "2026-11-17T01:48:48.593654+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "87ed689aac93470a84a90e21f358eb4469027dd499e950806bfe4b818abac5e6",
+      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+      "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-11-16T17:55:46+00:00"
+    },
     {
       "id": "136432e2cf8ba2f66d36e4f910e66e257aa86e02f198f92cab49d97ac6e20368",
       "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T19:30:07+00:00"
-    },
-    {
-      "id": "1e799e437ca0f0b211e856f3cdbf944a0cde8bc834cb5e2ec09d665a949ff085",
-      "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
-      "url": "https://www.zdnet.com/article/how-spatial-audio-works-best-way-to-experience-it/",
-      "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T17:57:57+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-16T15:31:32.356227+00:00",
+  "updated": "2026-11-17T01:48:48.593654+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0a86ce08365a3837086327b802e2a38dd240c60554388de8200533ad3b017d42",
+      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+      "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-10-13T15:28:12+00:00"
+    },
     {
       "id": "1324b2d0e2b4ed1d533b57a85342a9e212663565f4147d0db05985e00d6c4d5c",
       "title": "AI didn't invent audit risk, so what actually changed?",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "product_review",
       "date": "2026-09-01T18:51:56+00:00"
-    },
-    {
-      "id": "09c7682b37b7ba731b42f63e5d15c9cb1757938ed42c6a78fc40067936873711",
-      "title": "Decluttering financial decision-making",
-      "url": "https://www.accountingtoday.com/opinion/decluttering-financial-decision-making-how-new-tools-and-processes-can-automate-the-process",
-      "summary": "Fragmented data and manual processes are CFO kryptonite. Unfortunately, some corporate headquarters seem to be sitting on kryptonite mines.",
-      "source": "Accounting Today Tech",
-      "category": "continuity",
-      "date": "2026-09-01T15:02:24+00:00"
     }
   ]
 }
