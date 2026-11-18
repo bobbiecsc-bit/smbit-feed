@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-17T15:51:35.795883+00:00",
+  "updated": "2026-11-18T00:52:12.329671+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "e649e7a718754c92851b8461b62ff018b19662719ea0d4550d93f07a7cc4417a",
+      "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
+      "url": "https://thenewstack.io/astra-hides-coding-failures/",
+      "summary": "OpenAI&#8217;s new GPT-6.2 Astra is nearly twice as likely as its predecessor to leave users unaware of problems that prevented The post OpenAI&#8217;s own tests show GPT-6.2 Astra is twice as likely to hide coding failures appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-11-17T19:59:04+00:00"
+    },
     {
       "id": "87ed689aac93470a84a90e21f358eb4469027dd499e950806bfe4b818abac5e6",
       "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-21T19:30:13+00:00"
-    },
-    {
-      "id": "87dec37b4905f429d834e51d6f9ee320edcd74e5e052f10e5674a9ae06fc0165",
-      "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
-      "url": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
-      "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommendations.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-21T19:30:07+00:00"
     }
   ]
 }
