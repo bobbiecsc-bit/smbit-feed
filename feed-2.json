@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-18T00:52:12.329671+00:00",
+  "updated": "2026-11-18T15:29:35.839852+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1804159a489f54c7d6ac60c64ffd4c93fa4fcfa1b9cac2dc92f124114a12d85b",
+      "title": "Sextortion “help” firm took $60 million from victims, FTC alleges",
+      "url": "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges",
+      "summary": "The FTC accuses Digital Forensics Corporation and affiliated companies of exploiting people seeking help with intimate-image blackmail.",
+      "source": "Malwarebytes Labs",
+      "category": "continuity",
+      "date": "2026-10-15T11:48:26+00:00"
+    },
     {
       "id": "bdd2ead3a6c434b3f216a85d6e318565fb3889555972b42a11c0fc62dee5b3d7",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "433b7ded7522f59e791bc11893e3c3d76c09ed77550c748abbfa99c9c205f69b",
-      "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
-      "url": "https://thenewstack.io/ai-agent-retrieval-infrastructure/",
-      "summary": "AI agents are multiplying as corporations adopt the technology in record numbers. Smarter underlying models, better tool use, and improved The post Want to scale AI agents without breaking anything? Retrieval engineering is the answer. appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "continuity",
-      "date": "2026-09-03T15:38:20+00:00"
     }
   ]
 }

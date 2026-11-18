@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-18T00:52:12.329671+00:00",
+  "updated": "2026-11-18T15:29:35.839852+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c5cfd29d13599cb05b3379da7c938843abf94015cc0a7be9153503330259b3aa",
+      "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+      "url": "https://thenewstack.io/scylladb-s3-tiny-telemetry/",
+      "summary": "At Red Canary, storing large amounts of small data is a big deal.&#160; Their Linux Endpoint Detection and Response (EDR) The post S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-18T15:00:00+00:00"
+    },
     {
       "id": "e649e7a718754c92851b8461b62ff018b19662719ea0d4550d93f07a7cc4417a",
       "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "id": "1804159a489f54c7d6ac60c64ffd4c93fa4fcfa1b9cac2dc92f124114a12d85b",
-      "title": "Sextortion “help” firm took $60 million from victims, FTC alleges",
-      "url": "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges",
-      "summary": "The FTC accuses Digital Forensics Corporation and affiliated companies of exploiting people seeking help with intimate-image blackmail.",
-      "source": "Malwarebytes Labs",
-      "category": "continuity",
-      "date": "2026-10-15T11:48:26+00:00"
     }
   ]
 }

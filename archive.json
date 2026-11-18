@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-18T00:52:12.329671+00:00",
+  "updated": "2026-11-18T15:29:35.839852+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c5cfd29d13599cb05b3379da7c938843abf94015cc0a7be9153503330259b3aa",
+      "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
+      "url": "https://thenewstack.io/scylladb-s3-tiny-telemetry/",
+      "summary": "At Red Canary, storing large amounts of small data is a big deal.&#160; Their Linux Endpoint Detection and Response (EDR) The post S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-18T15:00:00+00:00"
+    },
     {
       "id": "e649e7a718754c92851b8461b62ff018b19662719ea0d4550d93f07a7cc4417a",
       "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-21T22:30:40+00:00"
-    },
-    {
-      "id": "3a25c094764481c54ba0bd4175493b4626b45e24af2211f34e35fdc064bbfd10",
-      "title": "5 gaming accessories I refuse to play without",
-      "url": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
-      "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-21T19:30:13+00:00"
     }
   ]
 }
