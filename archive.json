@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-19T00:10:44.060402+00:00",
+  "updated": "2026-11-19T15:37:04.452881+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "94ad87c4140b30a2943c6e4eea5ee111dd11359811f1b925dd1300cd35c26cf9",
+      "title": "Cybersecurity Threat Advisory: Microsoft 365 outage phishing campaign",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-microsoft-365-outage-phishing-campaign/",
+      "summary": "On November 14, 2026, Microsoft Threat Intelligence reported a high-volume phishing campaign exploiting the Microsoft 365 service disruption that began on November 12. Although Microsoft found no evidence that the Exchange Online and Microsoft 365 outage was caused by malicious [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-11-19T14:19:11+00:00"
+    },
     {
       "id": "bbf35e2998c42d090c829254807b24cfa3c85b87477bdbb83ac6f3221299eba9",
       "title": "Qwen4-Max vs. Claude Opus 5.5: The cheaper model costs you somewhere else.",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "cloud_saas",
       "date": "2026-07-22T15:18:20+00:00"
-    },
-    {
-      "id": "a993d5169a43e44fae16a863fa97433012d90ccdae1e717c4378212f38cce920",
-      "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
-      "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T13:39:14+00:00"
     }
   ]
 }
