@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-19T15:37:04.452881+00:00",
+  "updated": "2026-11-20T00:31:53.498240+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "db4825eb612766db730fb71e83f333057bac0d38f36fa6d4d3227e3afe1dd7ea",
+      "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
+      "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+      "summary": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-11-19T17:12:31+00:00"
+    },
+    {
+      "id": "4a18968d1c40c52bebc76d39af98a079a599d45c1212cb11e5c43891602a51a5",
+      "title": "A “headless Slack”: Vercel’s new message board lets Claude Code and Codex agents work together",
+      "url": "https://thenewstack.io/vercel-board-agent-swarms/",
+      "summary": "For AI agents to work together effectively, they need a way to communicate and divvy up tasks &#8212; much as The post A “headless Slack”: Vercel’s new message board lets Claude Code and Codex agents work together appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-11-19T16:58:48+00:00"
+    },
     {
       "id": "94ad87c4140b30a2943c6e4eea5ee111dd11359811f1b925dd1300cd35c26cf9",
       "title": "Cybersecurity Threat Advisory: Microsoft 365 outage phishing campaign",
@@ -2233,24 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T16:15:00+00:00"
-    },
-    {
-      "id": "b34731ab145a697ddb3c8e249c7be06007c3243a56646ac6d08b983d06fb5d73",
-      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
-      "summary": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T15:43:12+00:00"
-    },
-    {
-      "id": "5accacf902af0267e1b8f57bead32e9b4d38bb7d6252699236269a1f003db3bd",
-      "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
-      "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
-      "summary": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
-      "source": "ZDNet Business",
-      "category": "cloud_saas",
-      "date": "2026-07-22T15:18:20+00:00"
     }
   ]
 }
