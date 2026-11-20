@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-20T15:16:53.345257+00:00",
+  "updated": "2026-11-20T23:54:52.662390+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2d6b858b609859bcadfbcbe0b4bef39bd83004402323300df643c5a1504d829c",
+      "title": "Meta's AI data center claims highlight a critical R&D credit issue",
+      "url": "https://www.accountingtoday.com/opinion/metas-ai-data-center-claims-highlight-a-critical-r-d-credit-issue",
+      "summary": "When does building a product or facility count as experimentation, and which associated costs qualify for the R&amp;D tax credit?",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-11-20T15:44:58+00:00"
+    },
     {
       "id": "db4825eb612766db730fb71e83f333057bac0d38f36fa6d4d3227e3afe1dd7ea",
       "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "product_review",
       "date": "2026-10-19T15:34:59+00:00"
-    },
-    {
-      "id": "f5b7be003c7999b42487ec5ae200b67a230cf88cf27c2cc4ac53bc155fa3075b",
-      "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-      "url": "https://thenewstack.io/gemini-argon-claude-opus/",
-      "summary": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-10-18T15:30:00+00:00"
     }
   ]
 }

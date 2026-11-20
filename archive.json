@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-20T15:16:53.345257+00:00",
+  "updated": "2026-11-20T23:54:52.662390+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2d6b858b609859bcadfbcbe0b4bef39bd83004402323300df643c5a1504d829c",
+      "title": "Meta's AI data center claims highlight a critical R&D credit issue",
+      "url": "https://www.accountingtoday.com/opinion/metas-ai-data-center-claims-highlight-a-critical-r-d-credit-issue",
+      "summary": "When does building a product or facility count as experimentation, and which associated costs qualify for the R&amp;D tax credit?",
+      "source": "Accounting Today Tech",
+      "category": "cloud_saas",
+      "date": "2026-11-20T15:44:58+00:00"
+    },
     {
       "id": "db4825eb612766db730fb71e83f333057bac0d38f36fa6d4d3227e3afe1dd7ea",
       "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T19:05:45+00:00"
-    },
-    {
-      "id": "d24918501f9c040c32ca31d0a17d9c6a7ec3e441f0783a729331205d89bef018",
-      "title": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
-      "url": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
-      "summary": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T16:15:00+00:00"
     }
   ]
 }
