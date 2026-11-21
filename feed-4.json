@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-21T14:30:19.122233+00:00",
+  "updated": "2026-11-21T23:00:07.907427+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b5d13308d456224354c675f6e6e1ac845d8b445dee13537281268db65ef731ad",
+      "title": "4 iPad accessories I swear by (including a cheaper Apple Pencil alternative)",
+      "url": "https://www.zdnet.com/article/4-ipad-accessories-i-swear-by-including-a-cheaper-apple-pencil-alternative/",
+      "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of my tablet.",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-20T11:00:55+00:00"
+    },
     {
       "id": "19aead908df340c4da96692a902b7546e9ce1f7fc5dc45be3b8db78f7eef0d39",
       "title": "The TCL QM8L proves it's worth the upgrade in our lab testing",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-06T13:00:00+00:00"
-    },
-    {
-      "id": "625dda3cd4d849d86bdff4df9ac4650c14a41b1ce20c348c1d1275634b334c87",
-      "title": "The best 75-inch TVs of 2026: Expert tested",
-      "url": "https://www.zdnet.com/article/best-75-inch-tv/",
-      "summary": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you find the right fit for your budget.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-06T09:00:49+00:00"
     }
   ]
 }

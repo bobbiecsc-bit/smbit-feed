@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-21T14:30:19.122233+00:00",
+  "updated": "2026-11-21T23:00:07.907427+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "625dda3cd4d849d86bdff4df9ac4650c14a41b1ce20c348c1d1275634b334c87",
+      "title": "The best 75-inch TVs of 2026: Expert tested",
+      "url": "https://www.zdnet.com/article/best-75-inch-tv/",
+      "summary": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you find the right fit for your budget.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T09:00:49+00:00"
+    },
     {
       "id": "9dafc226a737f7850d4cb5edc9a94670e4eb5904afc8d08be485c28051e9cceb",
       "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-22T20:22:00+00:00"
-    },
-    {
-      "id": "86e8b5c09522bee4bad00ff76ef1a277a947afeb08d4a145c2ce5be766de4ae3",
-      "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
-      "url": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
-      "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T19:05:45+00:00"
     }
   ]
 }
