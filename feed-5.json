@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-22T14:26:16.000814+00:00",
+  "updated": "2026-11-22T23:30:02.544341+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7b1d212720de767bc5a3a91afa645f95e9b2d76736959e763ebbd78a685834a9",
+      "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
+      "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/",
+      "summary": "The QuietComfort Headphones (2nd Gen) will debut with several audio and noise-canceling features once exclusive to its premium counterparts.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T13:00:00+00:00"
+    },
     {
       "id": "625dda3cd4d849d86bdff4df9ac4650c14a41b1ce20c348c1d1275634b334c87",
       "title": "The best 75-inch TVs of 2026: Expert tested",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:00:50+00:00"
-    },
-    {
-      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
-      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
-      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T20:22:00+00:00"
     }
   ]
 }

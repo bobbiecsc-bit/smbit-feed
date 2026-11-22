@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-22T14:26:16.000814+00:00",
+  "updated": "2026-11-22T23:30:02.544341+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
+      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
+      "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
+      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-09-10T14:00:00+00:00"
+    },
     {
       "id": "3f153032e7a594c3b3b2dda2d71a14b790bbec9b71b011c5186ab2cf4a403d47",
       "title": "5 biggest Apple announcements from the iPhone Duo event",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "cloud_saas",
       "date": "2026-08-20T16:50:07+00:00"
-    },
-    {
-      "id": "6498937e562dc63f4908df87294d23c65db08e17696b71379648680152c70fb7",
-      "title": "Roborock Q7 M5+ review: A capable budget robot vacuum that nails the fundamentals",
-      "url": "https://www.zdnet.com/article/roborock-q7-m5-review/",
-      "summary": "The Q7 M5+ is a strong value robot vacuum for households that want reliable mapping and an auto-empty dock without flagship pricing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-20T16:00:55+00:00"
     }
   ]
 }

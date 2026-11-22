@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-22T14:26:16.000814+00:00",
+  "updated": "2026-11-22T23:30:02.544341+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "676c2e12f6bf2a53c768b4bb5d7ee55e50758ed3ec71fff0090471c3f0a745bd",
+      "title": "Cybersecurity Threat Advisory: ConnectWise Cloud Backup compromise",
+      "url": "https://smartermsp.com/cybersecurity-threat-advisory-connectwise-cloud-backup-compromise/",
+      "summary": "ConnectWise Cloud Backup (formerly SkyKick) has confirmed unauthorized access to application credentials used by its backup platform. Attackers reportedly used the compromised credentials to access Microsoft 365 tenants where the application was installed. As a result, they may have gained [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "cloud_saas",
+      "date": "2026-10-19T17:07:20+00:00"
+    },
     {
       "id": "b33bad1bd24386b876c57d30aa0e865229fc684a94b28b443387ac8948f1f6f9",
       "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "product_review",
       "date": "2026-09-10T20:43:55+00:00"
-    },
-    {
-      "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
-      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
-      "url": "https://thenewstack.io/claude-fable-benchmark-budget/",
-      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-09-10T14:00:00+00:00"
     }
   ]
 }

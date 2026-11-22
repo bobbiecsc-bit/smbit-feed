@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-22T14:26:16.000814+00:00",
+  "updated": "2026-11-22T23:30:02.544341+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a58fa28f15732a8e54782e9e48838c925ba89b903b4343beb0f85e41ca3b9b1d",
+      "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+      "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+      "summary": "When I compared Anthropic’s Fable 5.2 vs. OpenAI’s GPT-6 Astra last week, Fable 5.2 was slightly more accurate (149 points The post GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-22T15:00:00+00:00"
+    },
     {
       "id": "732032894f31c751cb1c29dab5d603a0ca11912a503a19b82dea437b4129a8d4",
       "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
@@ -445,15 +454,6 @@
       "source": "Accounting Today Tech",
       "category": "policy",
       "date": "2026-10-19T21:16:22+00:00"
-    },
-    {
-      "id": "676c2e12f6bf2a53c768b4bb5d7ee55e50758ed3ec71fff0090471c3f0a745bd",
-      "title": "Cybersecurity Threat Advisory: ConnectWise Cloud Backup compromise",
-      "url": "https://smartermsp.com/cybersecurity-threat-advisory-connectwise-cloud-backup-compromise/",
-      "summary": "ConnectWise Cloud Backup (formerly SkyKick) has confirmed unauthorized access to application credentials used by its backup platform. Attackers reportedly used the compromised credentials to access Microsoft 365 tenants where the application was installed. As a result, they may have gained [&#8230;]",
-      "source": "Smarter MSP",
-      "category": "cloud_saas",
-      "date": "2026-10-19T17:07:20+00:00"
     }
   ]
 }

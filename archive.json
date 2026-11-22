@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-22T14:26:16.000814+00:00",
+  "updated": "2026-11-22T23:30:02.544341+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a58fa28f15732a8e54782e9e48838c925ba89b903b4343beb0f85e41ca3b9b1d",
+      "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+      "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+      "summary": "When I compared Anthropic’s Fable 5.2 vs. OpenAI’s GPT-6 Astra last week, Fable 5.2 was slightly more accurate (149 points The post GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "product_review",
+      "date": "2026-11-22T15:00:00+00:00"
+    },
     {
       "id": "732032894f31c751cb1c29dab5d603a0ca11912a503a19b82dea437b4129a8d4",
       "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:00:50+00:00"
-    },
-    {
-      "id": "28501a8a09db7bb23c369a2aed9e01c4f2eef37f05a22180710289c7cc022ce8",
-      "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
-      "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-22T20:22:00+00:00"
     }
   ]
 }
