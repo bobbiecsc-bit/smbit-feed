@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-24T03:55:12.636993+00:00",
+  "updated": "2026-11-24T17:27:12.009303+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "955aca5da66af43b2f3744c5d3753b1889c0f6fd3e03f3d1e0efc92c980f82de",
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-11-24T15:39:59+00:00"
+    },
     {
       "id": "a58fa28f15732a8e54782e9e48838c925ba89b903b4343beb0f85e41ca3b9b1d",
       "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
@@ -445,15 +454,6 @@
       "source": "The New Stack",
       "category": "finance",
       "date": "2026-10-20T20:44:17+00:00"
-    },
-    {
-      "id": "6478e5f5ec3e33824598d27bd4a40cacd8472b22c12389a9bb89c17c8bad45c9",
-      "title": "New AI assurance certification combines SOC 2, AIUC-1",
-      "url": "https://www.accountingtoday.com/news/new-ai-assurance-certification-combines-soc-2-aiuc-1",
-      "summary": "The AICPA and AIUC announced a joint assurance certification combining their examination processes into a single independent review of AI safety and effectiveness.",
-      "source": "Accounting Today Tech",
-      "category": "policy",
-      "date": "2026-10-19T21:16:22+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-24T03:55:12.636993+00:00",
+  "updated": "2026-11-24T17:27:12.009303+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3af3078ac29fc8865596fe0a1bc3fb709806f260e65938cd5017e4eedcb54ee7",
+      "title": "In age of AI, partners focus on relationships vs. productivity",
+      "url": "https://www.accountingtoday.com/news/in-age-of-ai-partners-expected-to-focus-on-relationships-versus-productivity",
+      "summary": "With AI taking on a growing share of routine tasks, accounting firms want more than just productivity from their partners.",
+      "source": "Accounting Today Tech",
+      "category": "product_review",
+      "date": "2026-09-10T20:43:55+00:00"
+    },
     {
       "id": "9a0464b128cfc8fa60c5ec3593d461a147b6d86873d1d364c13ffa78feaab4f6",
       "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-08-20T17:08:14+00:00"
-    },
-    {
-      "id": "14a6fc000d13a1a5219f30316b113d78a319eb69a965969c8d4632df9bfbd66d",
-      "title": "Slack has a new channel type — but only agents can create one",
-      "url": "https://thenewstack.io/slack-code-agent-channels/",
-      "summary": "Slack on Thursday launched Slack Code, a new kind of Slack channel that&#8217;s built for coding agents and the developers The post Slack has a new channel type &#8212; but only agents can create one appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "cloud_saas",
-      "date": "2026-08-20T16:50:07+00:00"
     }
   ]
 }

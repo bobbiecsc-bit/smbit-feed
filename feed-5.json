@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-24T03:55:12.636993+00:00",
+  "updated": "2026-11-24T17:27:12.009303+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f643c147f20656015954000697b3355c663f175b0fc43bad7ee2ce3d2928922a",
+      "title": "I've been using the Galaxy Z Fold 8 for two weeks - these two accessories perfect the experience",
+      "url": "https://www.zdnet.com/article/galaxy-z-fold-8-perfect-accessories/",
+      "summary": "With the Galaxy Z Fold 8 as my main driver, these two accessories are must-haves (and one isn't even made by Samsung).",
+      "source": "ZDNet Business",
+      "category": "cloud_saas",
+      "date": "2026-08-06T14:27:00+00:00"
+    },
     {
       "id": "7b1d212720de767bc5a3a91afa645f95e9b2d76736959e763ebbd78a685834a9",
       "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:05:47+00:00"
-    },
-    {
-      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
-      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
-      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:00:50+00:00"
     }
   ]
 }

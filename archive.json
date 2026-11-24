@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-24T03:55:12.636993+00:00",
+  "updated": "2026-11-24T17:27:12.009303+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "955aca5da66af43b2f3744c5d3753b1889c0f6fd3e03f3d1e0efc92c980f82de",
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "source": "AWS News Blog",
+      "category": "product_review",
+      "date": "2026-11-24T15:39:59+00:00"
+    },
     {
       "id": "a58fa28f15732a8e54782e9e48838c925ba89b903b4343beb0f85e41ca3b9b1d",
       "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:05:47+00:00"
-    },
-    {
-      "id": "324e6d6b4d36df614f80eac589398f07cb27d8ae5f08bf31ee9557a9f0f68ed5",
-      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
-      "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
-      "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:00:50+00:00"
     }
   ]
 }
