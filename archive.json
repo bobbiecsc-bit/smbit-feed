@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-25T17:03:14.399998+00:00",
+  "updated": "2026-11-26T01:44:05.583231+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7691b118c90610373bea67186d3203073b48c17ea35e750cc79c8d112b6ffaef",
+      "title": "Why Gen Z candidates reject job offers from MSPs",
+      "url": "https://smartermsp.com/why-gen-z-candidates-reject-job-offers-from-msps/",
+      "summary": "Key takeaways from this article Gartner reported that only 48 percent of job candidates accepted their most recent offer at the end of 2025, compared to 85 percent two years earlier. Gen Z candidates often consult partners, friends, and family [&#8230;]",
+      "source": "Smarter MSP",
+      "category": "product_review",
+      "date": "2026-11-25T18:21:11+00:00"
+    },
     {
       "id": "955aca5da66af43b2f3744c5d3753b1889c0f6fd3e03f3d1e0efc92c980f82de",
       "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
@@ -2242,15 +2251,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T11:06:06+00:00"
-    },
-    {
-      "id": "d4821c76edf8cfcbc9e5247331246d7feccf58143ad330a160569a5cb5433213",
-      "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
-      "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
-      "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:05:47+00:00"
     }
   ]
 }
