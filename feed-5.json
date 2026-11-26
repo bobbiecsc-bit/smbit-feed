@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-26T01:44:05.583231+00:00",
+  "updated": "2026-11-26T16:44:13.258043+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a0138d2e2b24a5ba3d67724bd40db93e0ae13cfdb61754c0f2dc967fed2341e1",
+      "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
+      "url": "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/",
+      "summary": "The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-08-06T17:45:00+00:00"
+    },
     {
       "id": "ae3e4c0abe4abccfd0340aa34105f3a98177569c3efb890dc642f01389d61627",
       "title": "6 must-have travel gadgets, according to industry experts",
@@ -445,15 +454,6 @@
       "source": "ZDNet Business",
       "category": "product_review",
       "date": "2026-07-23T16:07:00+00:00"
-    },
-    {
-      "id": "526878187d92924d221038c966b778671b6222d02477f7cb78eb21f707d5329a",
-      "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
-      "url": "https://www.zdnet.com/article/best-wifi-router/",
-      "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-07-23T11:06:06+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-26T01:44:05.583231+00:00",
+  "updated": "2026-11-26T16:44:13.258043+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f5e6080aa1804411c3e75ad6259e136af9b1d8c29bfae3a1b187a32a993673e4",
+      "title": "ZDNET’s best headphones of 2026: These two pairs left us impressed",
+      "url": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
+      "summary": "We tested dozens of Bluetooth headphones in 2026, but two stood out. Here’s our top picks.",
+      "source": "ZDNet Business",
+      "category": "product_review",
+      "date": "2026-11-26T11:00:00+00:00"
+    },
     {
       "id": "7691b118c90610373bea67186d3203073b48c17ea35e750cc79c8d112b6ffaef",
       "title": "Why Gen Z candidates reject job offers from MSPs",
@@ -445,15 +454,6 @@
       "source": "Smarter MSP",
       "category": "cloud_saas",
       "date": "2026-10-22T14:55:49+00:00"
-    },
-    {
-      "id": "ceb14f164057b511fa41a258de0538bb2ebc7fe0fa30387a4211c3648f903798",
-      "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
-      "url": "https://thenewstack.io/deepseek-flash-haiku-test/",
-      "summary": "DeepSeek released V4.1-Flash-1017 on October 17 as an update to its Flash model. Its change log says the update cuts The post DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price appeared first on The New Stack.",
-      "source": "The New Stack",
-      "category": "product_review",
-      "date": "2026-10-22T14:22:50+00:00"
     }
   ]
 }

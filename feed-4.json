@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-26T01:44:05.583231+00:00",
+  "updated": "2026-11-26T16:44:13.258043+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "552129a8e42eeafe632622c4dc2895b9da5cbed5042c80c727ec55eb7f5ebefe",
+      "title": "Slack makes it easier to install agents built with third-party tools",
+      "url": "https://thenewstack.io/add-to-slack-agents/",
+      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they&#8217;ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack.",
+      "source": "The New Stack",
+      "category": "cloud_saas",
+      "date": "2026-08-20T18:30:00+00:00"
+    },
     {
       "id": "62e082e32437c33953b2941e6fe6e1b651f493d4f7e3cf1bc89a1fe1c37e6d77",
       "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
@@ -445,15 +454,6 @@
       "source": "AWS News Blog",
       "category": "finance",
       "date": "2026-08-06T22:58:00+00:00"
-    },
-    {
-      "id": "a0138d2e2b24a5ba3d67724bd40db93e0ae13cfdb61754c0f2dc967fed2341e1",
-      "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
-      "url": "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/",
-      "summary": "The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.",
-      "source": "ZDNet Business",
-      "category": "product_review",
-      "date": "2026-08-06T17:45:00+00:00"
     }
   ]
 }
